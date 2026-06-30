@@ -113,7 +113,7 @@ const CHART_CONFIG = {
   },
   social_fabric: {
     label: "Social Fabric",
-    desc: "Trust, education outcomes, energy architecture, and government efficiency.",
+    desc: "Trust, civic participation, and education outcomes.",
     charts: [
       { key: "social_cohesion", id: "social_cohesion", type: "line",
         seriesSubset: ["Social Trust (% agree)", "Voter Turnout (Fed %)", "Volunteer Rate (%)", "Loneliness Index (%)", "Self-Reported Mental Health (%)"],
@@ -143,8 +143,13 @@ const CHART_CONFIG = {
       { key: "education", id: "education-match", type: "line",
         seriesSubset: ["% Grads Credential Match"],
         title: "Canada: Graduate Credential Match Rate (1990–2026) | %",
-        subtitle: "Share of graduates working in a field matching their credential." },
-
+        subtitle: "Share of graduates working in a field matching their credential." }
+    ]
+  },
+  fiscal_resources: {
+    label: "Fiscal & Resources",
+    desc: "Energy and resource revenue, equalization flows, and government spending efficiency.",
+    charts: [
       { key: "energy", id: "energy", type: "line", showRef: true,
         seriesSubset: ["Oil & Gas Revenue ($B)", "Fed Equalization Paid ($B)", "Alta Resource Revenue ($B)", "Crit. Mineral Export ($B)"],
         title: "Canada: Energy & Resource Revenue Flows (1990–2026) | $B",
