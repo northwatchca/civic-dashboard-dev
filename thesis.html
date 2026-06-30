@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Thesis — Canada in Crisis</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#1c1b19; --bg-alt:#232220; --text:#f3f0e8; --text-dim:#a8a39a;
+    --line:#3a3733; --accent:#c9a44c; --accent-dim:#8a7138;
+  }
+  *{box-sizing:border-box;}
+  body{background:var(--bg);color:var(--text);font-family:'Inter',-apple-system,sans-serif;margin:0;line-height:1.6;}
+  a{color:var(--text);}
+  .wrap{max-width:840px;margin:0 auto;padding:48px 24px 96px;}
+  .breadcrumb{font-size:13px;color:var(--text-dim);margin-bottom:24px;}
+  .breadcrumb a{color:var(--text-dim);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--accent);}
+  h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
+  .page-sub{color:var(--text-dim);font-size:15px;max-width:620px;margin-bottom:16px;}
+  .methodology-link{font-size:13px;margin-bottom:48px;}
+  .methodology-link a{color:var(--accent);text-decoration:none;}
+  .methodology-link a:hover{text-decoration:underline;}
+
+  .section-group{margin-bottom:40px;}
+  .section-group .group-label{
+    font-size:12px;text-transform:uppercase;letter-spacing:0.8px;
+    color:var(--accent);margin-bottom:12px;font-weight:600;
+  }
+
+  details{
+    background:var(--bg-alt);border:1px solid var(--line);
+    border-radius:10px;margin-bottom:10px;overflow:hidden;
+  }
+  details[open]{border-color:var(--accent-dim);}
+  summary{
+    list-style:none;cursor:pointer;padding:18px 22px;
+    display:flex;justify-content:space-between;align-items:center;gap:16px;
+    font-size:15px;font-weight:500;
+  }
+  summary::-webkit-details-marker{display:none;}
+  summary .num{color:var(--text-dim);font-weight:400;font-size:13px;min-width:22px;}
+  summary .title{flex:1;}
+  summary .chev{color:var(--text-dim);font-size:13px;transition:transform .15s;}
+  details[open] summary .chev{transform:rotate(90deg);}
+
+  .body{padding:0 22px 22px;}
+  .body p{font-size:14px;color:var(--text-dim);margin:0 0 12px;}
+  .body p:last-of-type{margin-bottom:0;}
+  .body strong{color:var(--text);font-weight:600;}
+  .stat-line{
+    font-size:13px;color:var(--accent);font-weight:600;
+    margin-bottom:14px;
+  }
+  .view-data{
+    display:inline-block;margin-top:14px;font-size:12px;
+    color:var(--accent-dim);text-decoration:none;border-top:1px solid var(--line);
+    padding-top:12px;width:100%;
+  }
+  .view-data:hover{color:var(--accent);}
+
+  .closing{
+    margin-top:48px;padding:28px 24px;background:var(--bg-alt);
+    border:1px solid var(--line);border-radius:10px;
+  }
+  .closing p{font-size:14px;color:var(--text-dim);margin:0 0 10px;}
+  .closing p:last-child{margin-bottom:0;}
+
+  .nav-back{display:inline-block;margin-top:40px;font-size:13px;color:var(--text-dim);text-decoration:none;}
+  .nav-back:hover{color:var(--accent);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="breadcrumb"><a href="index.html">Canada in Crisis</a> / Thesis</div>
+  <h1>The Thesis</h1>
+  <p class="page-sub">Twelve structural findings, each traced to the underlying data. Expand any section for the conclusion and source chart. For the analytical method behind these conclusions, see the methodology page.</p>
+  <p class="methodology-link"><a href="methodology.html">→ Read the full methodology</a></p>
+
+  <div class="section-group">
+    <div class="group-label">Output & Productivity</div>
+
+    <details>
+      <summary><span class="num">01</span><span class="title">Growth without prosperity</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Real GDP per capita has fallen since 2021 while total GDP continues to rise.</p>
+        <p>Total output and average individual living standards have decoupled. GDP growth since 2021 has been driven primarily by population increase rather than rising output per person — the economy is larger, but the average resident is not better off.</p>
+        <a class="view-data" href="data/economy.html#chart-living_standards">View data: Living Standards Divergence, 1961–2026 →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">02</span><span class="title">Productivity stagnation</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Canada ranks last in the G7 for labour productivity growth, 2000–2026.</p>
+        <p>Output per hour worked — the standard measure of economic efficiency — has grown slower in Canada than in any other G7 economy over the period. The gap to the United States has widened in every year measured.</p>
+        <a class="view-data" href="data/economy.html#chart-productivity_g7">View data: Productivity vs. G7 Peers →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">03</span><span class="title">Capital misallocation</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Real estate's share of GDP rose from 10.2% to 13.5% (1997–2026) as manufacturing fell from 15.8% to 9.8%.</p>
+        <p>Investment capital has shifted from productive industrial capacity into residential real estate over three decades. This reallocation correlates directly with the productivity gap above — capital deployed into housing does not generate the output gains that capital deployed into industry does.</p>
+        <a class="view-data" href="data/economy.html#chart-capital_allocation">View data: Structural GDP Shifts by Sector →</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="section-group">
+    <div class="group-label">Debt & Monetary Policy</div>
+
+    <details>
+      <summary><span class="num">04</span><span class="title">Household debt and housing cost</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Household debt-to-income reached 179.6%; the house price-to-income ratio rose from 3.3× to 11.8× (1996–2021).</p>
+        <p>These two series move together. As borrowing costs fell to near zero for an extended period, household debt and housing prices rose in tandem — debt financed the price increase, and the price increase required more debt to access.</p>
+        <a class="view-data" href="data/debt-fiscal.html#chart-household_debt">View data: Household Debt-to-Income Ratio →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">05</span><span class="title">The rate cycle that followed</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">The Bank of Canada held a negative real interest rate for 12 of the 13 years from 2009–2021, then raised the overnight rate from 0.25% to 5.0% in the fastest tightening cycle in 40 years.</p>
+        <p>Debt accumulated under near-zero borrowing costs repriced rapidly when rates rose. Real wages turned negative in the same window, compounding the effect on household balance sheets.</p>
+        <a class="view-data" href="data/debt-fiscal.html#chart-inflation_boc">View data: Inflation & BoC Overnight Rate →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">06</span><span class="title">Federal fiscal position</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Federal net debt-to-GDP sits near 42%, with no projected return to surplus under current policy settings.</p>
+        <p>The 2020 deficit of $327.7B was the largest in Canadian history. Annual debt servicing costs are now comparable in scale to the entire Canada Health Transfer — a fixed and growing claim on future budgets regardless of program priorities.</p>
+        <a class="view-data" href="data/debt-fiscal.html#chart-fed_debt_deficit">View data: Federal Debt & Deficit Trajectory →</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="section-group">
+    <div class="group-label">Demographics</div>
+
+    <details>
+      <summary><span class="num">07</span><span class="title">Population growth via non-permanent residency</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Non-permanent residents rose from 512,000 (2019) to a peak above 2.5 million (2023).</p>
+        <p>The bulk of recent population growth has come from temporary, not permanent, immigration categories. This expanded the consumer and labour base quickly but outpaced the housing and service capacity calibrated for a slower-growth population.</p>
+        <a class="view-data" href="data/demographics.html#chart-population">View data: Population Growth & Immigration Intake →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">08</span><span class="title">Fertility below replacement</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Total fertility rate is 1.35, against a replacement threshold of 2.1.</p>
+        <p>Immigrant fertility arrives above the national average but converges toward it within one generation — second-generation TFR sits at 1.42–1.62, close to the Canadian-born rate. Immigration offsets population decline numerically but does not reverse the underlying fertility trend.</p>
+        <a class="view-data" href="data/demographics.html#chart-fertility">View data: Fertility Rate & Demographic Structure →</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="section-group">
+    <div class="group-label">Labour & Distribution</div>
+
+    <details>
+      <summary><span class="num">09</span><span class="title">Labour force participation decline</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Participation rate fell from 67.6% (2008) to 64.1% (2026) while headline unemployment stayed near historical norms.</p>
+        <p>Unemployment alone understates labour market weakness. A falling participation rate means a growing share of the working-age population is not counted as unemployed because they are not seeking work — a separate phenomenon from joblessness.</p>
+        <a class="view-data" href="data/labour-inequality.html#chart-labour_market">View data: Labour Market Health →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">10</span><span class="title">Labour share of GDP vs. capital share</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Labour's share of GDP fell from 57.8% (1976) to 53.2% (2026) while capital's share rose correspondingly.</p>
+        <p>This is a direct measure of how growth is distributed between wages and returns to capital. Over the 50-year period tracked, a growing share of output has accrued to capital owners relative to workers.</p>
+        <a class="view-data" href="data/labour-inequality.html#chart-wealth_inequality">View data: Wealth Distribution & Income Inequality →</a>
+      </div>
+    </details>
+
+    <details>
+      <summary><span class="num">11</span><span class="title">Market concentration</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Banking (~90% of assets), telecom (~90% of revenue), and grocery (~80% of retail) are each held by 3–5 firms.</p>
+        <p>Several core consumer sectors operate as oligopolies or duopolies by standard concentration measures (HHI). Dividend and share buyback volumes have grown alongside profit margins over the same period tracked.</p>
+        <a class="view-data" href="data/labour-inequality.html#chart-corporate_concentration">View data: Corporate Concentration & Profit Extraction →</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="section-group">
+    <div class="group-label">Social Fabric & Institutions</div>
+
+    <details>
+      <summary><span class="num">12</span><span class="title">Trust, cohesion, and institutional output</span><span class="chev">›</span></summary>
+      <div class="body">
+        <p class="stat-line">Generalized social trust fell from 51.2% (1985) to 28.2% (2026); opioid deaths rose from 220/year to a peak above 7,500/year.</p>
+        <p>Non-economic indicators of social health have moved in the same direction as the economic indicators above over the same multi-decade window. Government efficiency measures show a comparable pattern: healthcare spending per capita has roughly tripled since 2000 while outcome rankings against peer nations have not improved.</p>
+        <a class="view-data" href="data/social-fabric.html#chart-social_cohesion">View data: Social Cohesion, Trust & Mental Health →</a>
+      </div>
+    </details>
+  </div>
+
+  <div class="closing">
+    <p><strong>How these connect.</strong> Each finding above is documented independently with its own source data. Taken together, they describe a consistent pattern across a 30–50 year window: output growth increasingly decoupled from per-capita living standards, capital reallocated from productive to speculative assets, debt accumulated under historically low rates and repriced at cost to households, population growth substituting for productivity growth, and social-fabric indicators deteriorating on the same timeline as the economic ones.</p>
+    <p>None of this is presented as a single cause with a single culprit. The data shows correlated structural trends. The methodology page explains how these trends were isolated from narrative explanation and tested for causal plausibility.</p>
+  </div>
+
+  <a class="nav-back" href="index.html">&larr; Back to home</a>
+</div>
+</body>
+</html>
