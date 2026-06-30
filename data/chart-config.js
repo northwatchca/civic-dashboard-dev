@@ -93,8 +93,22 @@ const CHART_CONFIG = {
         seriesSubset: ["Avg Weekly Earnings ($)"],
         title: "Canada: Average Weekly Earnings (2000–2026) | $",
         subtitle: "Nominal average weekly earnings." },
-      { key: "wealth_inequality", type: "line" },
-      { key: "corporate_concentration", type: "line" }
+      { key: "wealth_inequality", id: "wealth_inequality-gini", type: "line",
+        seriesSubset: ["Gini Coefficient"],
+        title: "Canada: Gini Coefficient (1976–2026)",
+        subtitle: "Income inequality index, 0 (perfect equality) to 1 (perfect inequality)." },
+      { key: "wealth_inequality", id: "wealth_inequality", type: "line",
+        seriesSubset: ["Top 1% Income Share (%)", "Top 10% Income Share (%)", "Bottom 50% Income Share (%)", "Labour Share of GDP (%)", "Capital Share of GDP (%)"],
+        title: "Canada: Income & Capital Distribution (1976–2026) | %",
+        subtitle: "Income shares and the labour-vs-capital split of GDP — all percentages, directly comparable." },
+      { key: "corporate_concentration", id: "corporate_concentration-rates", type: "line",
+        seriesSubset: ["Corporate Profit Margin (%)", "Effective Corp Tax Rate (%)", "Statutory Corp Tax Rate (%)", "Tax Gap (Stat−Eff, %)"],
+        title: "Canada: Corporate Profit Margins & Tax Rates (1990–2026) | %",
+        subtitle: "Profit margins, statutory and effective tax rates, and the gap between them — all percentages." },
+      { key: "corporate_concentration", id: "corporate_concentration", type: "line", showRef: true,
+        seriesSubset: ["Dividends & Buybacks ($B)", "Productive CapEx ($B)"],
+        title: "Canada: Dividends & Buybacks vs. Productive Investment (1990–2026) | $B",
+        subtitle: "Capital returned to shareholders vs. capital reinvested in productive capacity — same unit, directly comparable." }
     ]
   },
   social_fabric: {
