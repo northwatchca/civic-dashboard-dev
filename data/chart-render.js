@@ -53,15 +53,15 @@ function baseChartOptions(){
     plugins:{
       legend:{display:false},   // disabled — we use HTML legend
       tooltip:{
-        backgroundColor:"#2a2825",titleColor:"#f3f0e8",
-        bodyColor:"#f3f0e8",borderColor:"#3a3733",
+        backgroundColor:"#161514",titleColor:"#f0ede5",
+        bodyColor:"#f0ede5",borderColor:"#252320",
         borderWidth:1,padding:10},
       zoom:{
         pan:{enabled:true,mode:"x"},
         zoom:{wheel:{enabled:true},pinch:{enabled:true},mode:"x"}}},
     scales:{
-      x:{ticks:{color:"#a8a39a",font:{size:11}},grid:{color:"#2c2a27"}},
-      y:{ticks:{color:"#a8a39a",font:{size:11}},grid:{color:"#2c2a27"}}}};
+      x:{ticks:{color:"#706c66",font:{size:11}},grid:{color:"#1e1c1a"}},
+      y:{ticks:{color:"#706c66",font:{size:11}},grid:{color:"#1e1c1a"}}}};
 }
 
 /* ── HTML legend builder ─────────────────────────────────── */
