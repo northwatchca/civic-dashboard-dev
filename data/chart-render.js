@@ -1,3 +1,17 @@
+function buildRefTable(t){
+  const headRow = t.headers.map(h => `<th>${h}</th>`).join("");
+  const bodyRows = t.rows.map(r => `<tr>${r.map(c => `<td>${c}</td>`).join("")}</tr>`).join("");
+  return `
+    <div class="ref-table-wrap">
+      <p class="ref-table-caption">${t.caption}</p>
+      <table class="ref-table">
+        <thead><tr>${headRow}</tr></thead>
+        <tbody>${bodyRows}</tbody>
+      </table>
+    </div>
+  `;
+}
+
 function fmtHeader(h){
   return h.replace(/\s*\(/, '\n(').split('\n')[0].trim();
 }
@@ -92,6 +106,8 @@ function renderCategory(catKey){
       <h3>${d.title}</h3>
       <p class="sub">${d.subtitle || ""}</p>
       <div class="chart-box"><canvas id="chart-${c.key}"></canvas></div>
+      ${d.refTable ? buildRefTable(d.refTable) : ""}
+      ${d.note ? `<div class="ref-note">${d.note}</div>` : ""}
       <div class="src">${d.source || ""}</div>
     `;
     grid.appendChild(card);
