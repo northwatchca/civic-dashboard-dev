@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Social Fabric — Canada in Crisis</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="data-style.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="breadcrumb"><a href="../index.html">Canada in Crisis</a> / <a href="index.html">Data</a> / Social Fabric</div>
+  <h1 id="cat-title"></h1>
+  <p class="page-sub" id="cat-desc"></p>
+
+  <div id="chart-grid" class="chart-grid"></div>
+
+  <a class="nav-back" href="index.html">&larr; Back to Data</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
+<script src="data.js"></script>
+<script src="chart-config.js"></script>
+<script src="chart-render.js"></script>
+<script>renderCategory("social_fabric");</script>
+</body>
+</html>

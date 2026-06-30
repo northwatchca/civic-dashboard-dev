@@ -1,0 +1,56 @@
+:root{
+  --bg:#1c1b19;
+  --bg-alt:#232220;
+  --text:#f3f0e8;
+  --text-dim:#a8a39a;
+  --line:#3a3733;
+  --accent:#c9a44c;
+  --accent-dim:#8a7138;
+}
+*{box-sizing:border-box;}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:'Inter',-apple-system,sans-serif;
+  margin:0;
+  line-height:1.5;
+}
+.wrap{max-width:1100px;margin:0 auto;padding:48px 24px 96px;}
+a{color:var(--text);}
+.breadcrumb{font-size:13px;color:var(--text-dim);margin-bottom:24px;}
+.breadcrumb a{color:var(--text-dim);text-decoration:none;}
+.breadcrumb a:hover{color:var(--accent);}
+h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
+.page-sub{color:var(--text-dim);font-size:15px;max-width:640px;margin-bottom:48px;}
+
+/* category index cards */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;}
+.cat-card{
+  display:block;text-decoration:none;
+  background:var(--bg-alt);border:1px solid var(--line);
+  border-radius:10px;padding:24px;transition:border-color .15s;
+}
+.cat-card:hover{border-color:var(--accent-dim);}
+.cat-card h2{font-size:18px;margin:0 0 6px;color:var(--text);}
+.cat-card p{font-size:13px;color:var(--text-dim);margin:0 0 12px;}
+.cat-card .count{font-size:12px;color:var(--accent);}
+
+/* chart grid on category pages */
+.chart-grid{display:grid;grid-template-columns:1fr;gap:32px;margin-top:32px;}
+.chart-card{
+  background:var(--bg-alt);border:1px solid var(--line);
+  border-radius:10px;padding:24px;
+}
+.chart-card h3{font-size:17px;margin:0 0 4px;}
+.chart-card .sub{font-size:13px;color:var(--text-dim);margin:0 0 16px;}
+.chart-card .src{font-size:11px;color:var(--text-dim);margin-top:14px;border-top:1px solid var(--line);padding-top:10px;}
+.chart-box{position:relative;height:340px;}
+
+/* compare tool */
+.compare-controls{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:32px;}
+.compare-controls select{
+  background:var(--bg-alt);color:var(--text);border:1px solid var(--line);
+  border-radius:6px;padding:10px 14px;font-family:inherit;font-size:14px;min-width:260px;
+}
+.nav-back{display:inline-block;margin-top:40px;font-size:13px;color:var(--text-dim);text-decoration:none;}
+.nav-back:hover{color:var(--accent);}
