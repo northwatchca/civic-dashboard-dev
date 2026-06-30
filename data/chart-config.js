@@ -1,59 +1,173 @@
-// Maps each CANADA_DATA key to a category and chart-rendering config.
-// type: 'line' | 'bar' | 'horizontalBar'
 const CHART_CONFIG = {
   economy: {
     label: "Economy & Productivity",
     desc: "Output, sectoral composition, productivity relative to peers, and trade exposure.",
     charts: [
-      { key: "living_standards", type: "line" },
-      { key: "gdp_by_sector", type: "line" },
-      { key: "capital_allocation", type: "line" },
-      { key: "sector_snapshot", type: "horizontalBar" },
-      { key: "productivity_g7", type: "line" },
+      { key: "living_standards", type: "line",
+        explain: "This chart asks the most basic question about an economy: is each person actually getting better off? Total GDP almost always rises because the population grows. The real test is GDP per capita — total output divided by the number of people. When these two lines diverge — GDP rising while GDP per capita flattens or falls — it means growth is coming from adding more people, not from each person becoming more productive or prosperous. Since around 2021, per-capita GDP has been falling while total GDP keeps climbing.",
+        legendExplain: {
+          "Real GDP (Index, 1961=100)": "Total economic output for the whole country, adjusted for inflation. Set to 100 in 1961 as a starting point. This almost always goes up.",
+          "Real GDP Per Capita (Index, 1961=100)": "Economic output divided by the number of Canadians. This is the real measure of whether the average person is getting richer. When this falls while Total GDP rises, growth is population-driven — not prosperity-driven."
+        }
+      },
+      { key: "gdp_by_sector", type: "line",
+        explain: "This chart tracks which industries make up Canada's economy and how those shares have shifted since 1997. The critical trend: Real Estate has grown from 10% to nearly 14% of GDP — now the single largest sector in the country — while Manufacturing has fallen from 16% to under 10%. Canada has steadily moved capital from making things to owning and renting property.",
+        legendExplain: {
+          "Real Estate & Leasing (%)": "Buying, selling, renting, and managing property. Now Canada's single largest industry sector.",
+          "Manufacturing (%)": "Making physical goods — cars, machinery, food products, chemicals. Has been declining for 25+ years.",
+          "Mining & Oil/Gas (%)": "Extracting oil, natural gas, and metals. Volatile — rises and falls with global commodity prices.",
+          "Health Care (%)": "Hospitals, clinics, long-term care, and health services.",
+          "Construction (%)": "Building homes, offices, and infrastructure. Grew alongside the housing boom.",
+          "Public Admin (%)": "Running federal, provincial, and local governments.",
+          "Wholesale Trade (%)": "Distributing goods between businesses before they reach consumers.",
+          "Retail Trade (%)": "Stores and online sellers dealing directly with consumers.",
+          "Finance & Insurance (%)": "Banks, insurance companies, and investment firms.",
+          "Prof & Tech Services (%)": "Lawyers, accountants, engineers, software developers, and consultants."
+        }
+      },
+      { key: "capital_allocation", type: "line",
+        explain: "Focused on the five sectors that best show where investment money has moved over 30 years. The crossover around 2012 — when Real Estate surpassed Manufacturing — is the clearest signal of Canada's economic restructuring: capital moved from productive industry into property. Houses do not make workers more productive; factories and equipment do.",
+        legendExplain: {
+          "Real Estate, Rental & Leasing (%)": "Property buying, selling, and renting as a share of GDP. Rising every decade.",
+          "Manufacturing (%)": "Physical goods production as a share of GDP. Falling every decade.",
+          "Mining, Quarrying & Oil/Gas (%)": "Resource extraction. Volatile but significant.",
+          "Construction (%)": "Building activity. Grew alongside the real estate boom.",
+          "Finance & Insurance (%)": "Financial services. Relatively stable share."
+        }
+      },
+      { key: "sector_snapshot", type: "horizontalBar",
+        explain: "A single-year snapshot of every major industry in Canada ranked by their share of GDP. Real Estate at 13.5% is larger than Manufacturing (9.8%) and Technology combined. This is the 2026 scorecard of where Canada's economy actually lives — not where politicians say it should be.",
+        legendExplain: {
+          "Share of Total GDP (%)": "How much of Canada's total economic output that industry accounts for in 2026."
+        }
+      },
+      { key: "productivity_g7", type: "line",
+        explain: "How efficiently each G7 country turns labour hours into economic output, indexed to 2000 = 100. Canada ranks last in the G7 for productivity growth over this entire period. The widening gap between the Canadian and US lines is the root cause of stagnant real wages: if workers produce less per hour, there is less wealth to distribute. Low productivity cannot be fixed by immigration or deficit spending — it requires investment in equipment, technology, and skills.",
+        legendExplain: {
+          "Canada": "Canada's GDP per hour worked, indexed to 2000 = 100. Last in the G7.",
+          "USA": "US GDP per hour worked. The widening gap between the US and Canada lines is the productivity crisis.",
+          "Germany": "Germany's GDP per hour worked. Germany retained manufacturing and leads European productivity.",
+          "UK": "UK GDP per hour worked.",
+          "France": "France's GDP per hour worked.",
+          "Japan": "Japan's GDP per hour worked.",
+          "Italy": "Italy's GDP per hour worked."
+        }
+      },
       { key: "trade", id: "trade", type: "line",
         seriesSubset: ["Exports (% of GDP)", "Imports (% of GDP)", "US Share of Exports (%)"],
         title: "Canada: Trade as % of GDP & US Export Concentration (2000–2026) | %",
-        subtitle: "Exports, imports, and the share of exports going to the US — all percentages. ~75% of goods exports go to one country." },
+        subtitle: "Exports, imports, and the share of exports going to the US — all percentages. ~75% of goods exports go to one country.",
+        explain: "Canada sends roughly 75–85% of its goods exports to one country: the United States. This chart makes that dependency visible. The 'US Share of Exports' line shows how concentrated Canada's trade really is. When the US imposes tariffs, enters a recession, or changes trade policy, Canada has no short-term alternative at scale. This is not trade diversification — it is economic co-dependence.",
+        legendExplain: {
+          "Exports (% of GDP)": "The value of everything Canada sells abroad, as a percentage of the total economy.",
+          "Imports (% of GDP)": "The value of everything Canada buys from abroad, as a percentage of the total economy.",
+          "US Share of Exports (%)": "What percentage of Canada's total exports go specifically to the United States. The higher this number, the more Canada's export economy depends on a single foreign buyer."
+        }
+      },
       { key: "trade", id: "trade-balance", type: "line",
         seriesSubset: ["Current Account Balance ($B)"],
         title: "Canada: Current Account Balance (2000–2026) | $B",
-        subtitle: "Persistent deficit means Canada finances current consumption by borrowing from or selling assets to foreigners." },
+        subtitle: "Persistent deficit means Canada finances current consumption by borrowing from or selling assets to foreigners.",
+        explain: "A current account deficit means a country spends more than it earns internationally — and finances the gap by borrowing from foreigners or selling off domestic assets. Canada has run a persistent deficit for most of this period. This is not automatically catastrophic, but it means part of Canada's consumption is funded by foreign capital, not its own production.",
+        legendExplain: {
+          "Current Account Balance ($B)": "The difference between what Canada earns from abroad and what it pays abroad. Negative (below zero) means Canada is spending more than it earns internationally, financing the difference through foreign borrowing or asset sales. In billions of dollars."
+        }
+      },
       { key: "trade", id: "trade-fx", type: "line",
         seriesSubset: ["CAD/USD Exchange Rate"],
         title: "Canada: CAD/USD Exchange Rate (2000–2026)",
-        subtitle: "Canadian dollar value relative to the US dollar." }
+        subtitle: "Canadian dollar value relative to the US dollar.",
+        explain: "The Canadian dollar's value against the US dollar. A weaker Canadian dollar makes Canadian exports cheaper for American buyers (good for exporters) but makes imports more expensive for Canadians — which matters because most of Canada's imported goods and equipment are priced in US dollars.",
+        legendExplain: {
+          "CAD/USD Exchange Rate": "How many US dollars one Canadian dollar buys. Above 1.00 = the loonie is worth more than the US dollar. Below 1.00 = it takes more than one Canadian dollar to buy one US dollar. Canada has traded below par (under 1.00) for most of this period."
+        }
+      }
     ]
   },
+
   debt_fiscal: {
     label: "Debt & Fiscal",
     desc: "Household and sovereign debt, housing costs, monetary policy, federal spending.",
     charts: [
-      { key: "household_debt", type: "line" },
+      { key: "household_debt", type: "line",
+        explain: "This measures how much debt Canadian households carry relative to their annual income. A ratio of 100% means households owe exactly one full year's income. Canada's ratio reached 179.6% — nearly two full years of income owed, before a single bill is paid. This is one of the highest ratios in the developed world and leaves households extremely vulnerable to interest rate increases or job loss.",
+        legendExplain: {
+          "Household Debt-to- Disposable Income (%)": "Total household debt (mortgages, car loans, credit cards, lines of credit) divided by after-tax annual income. 179.6% means Canadians owe $1.80 for every $1.00 they earn per year."
+        }
+      },
       { key: "fed_debt_deficit", id: "fed_debt_deficit", type: "line",
         seriesSubset: ["Fed Net Debt (% of GDP)"],
         title: "Canada: Federal Net Debt (1970–2026) | % of GDP",
-        subtitle: "Federal net debt as a share of GDP. The 1995 fiscal crisis (peak ~67%) and the 2020 COVID shock are the two defining inflection points." },
+        subtitle: "Federal net debt as a share of GDP. The 1995 fiscal crisis (peak ~67%) and the 2020 COVID shock are the two defining inflection points.",
+        explain: "Federal debt as a share of the total economy. The 1995 peak (~67%) brought Canada close to requiring IMF intervention — the Chrétien-Martin austerity cuts were the emergency response. The 2020 COVID shock blew the deficit wider than at any point in Canadian history. The current trajectory shows no published plan returning to surplus under any major party platform.",
+        legendExplain: {
+          "Fed Net Debt (% of GDP)": "The federal government's total debt minus its financial assets, expressed as a percentage of GDP. A rising number means the government is borrowing faster than the economy grows."
+        }
+      },
       { key: "fed_debt_deficit", id: "fed_debt_deficit-balance", type: "line",
         seriesSubset: ["Annual Surplus/ Deficit ($B)"],
         title: "Canada: Annual Federal Surplus / Deficit (1970–2026) | $B",
-        subtitle: "Annual budgetary balance, nominal dollars. The 2020 deficit of -$327.7B is the largest in Canadian history." },
+        subtitle: "Annual budgetary balance, nominal dollars. The 2020 deficit of -$327.7B is the largest in Canadian history.",
+        explain: "Each point shows whether the federal government took in more than it spent (surplus, positive) or spent more than it collected (deficit, negative) in that year. Running deficits in good economic times — as Canada has done since 2015 — means there is no room to manoeuvre when an actual crisis hits. The 2020 COVID deficit of -$327.7 billion is the largest in Canadian history by a wide margin.",
+        legendExplain: {
+          "Annual Surplus/ Deficit ($B)": "Positive numbers mean the government collected more than it spent that year. Negative numbers mean it borrowed the difference. In billions of dollars."
+        }
+      },
       { key: "housing", id: "housing", type: "line",
         seriesSubset: ["House Price Index (2005=100)"],
         title: "Canada: House Price Index (1990–2026) | 2005 = 100",
-        subtitle: "National composite house price index, indexed to 2005." },
+        subtitle: "National composite house price index, indexed to 2005.",
+        explain: "Canada's national house price index, with 2005 set as the baseline of 100. A value of 400 means homes cost four times what they cost in 2005. The steepness of the rise since 2015 — and especially since 2020 — reflects the collision of ultra-low interest rates, surging immigration-driven demand, and restricted housing supply in major cities.",
+        legendExplain: {
+          "House Price Index (2005=100)": "The average price of a Canadian home relative to 2005 prices. 100 = same price as 2005. 400 = four times more expensive than in 2005."
+        }
+      },
       { key: "housing", id: "housing-dollars", type: "line",
         seriesSubset: ["Median Household Income ($000s)", "Avg Home Price ($000s)"],
         title: "Canada: Median Income vs. Average Home Price (1990–2026) | $000s",
-        subtitle: "Same unit ($000s), directly comparable — the growing gap between the two lines is the affordability crisis." },
+        subtitle: "Same unit ($000s), directly comparable — the growing gap between the two lines is the affordability crisis.",
+        explain: "The clearest way to see the affordability crisis: median household income versus average home price, in the same dollar units on the same chart. In the early 1990s the lines were close. They have been diverging ever since. A family's annual income has roughly doubled since 1990; the average home price has multiplied by five to ten times depending on the city.",
+        legendExplain: {
+          "Median Household Income ($000s)": "The income of the household exactly in the middle of all Canadian households — half earn more, half earn less. In thousands of dollars.",
+          "Avg Home Price ($000s)": "The national average sale price of a Canadian home. In thousands of dollars. Compare directly to the income line above to see the affordability gap."
+        }
+      },
       { key: "housing", id: "housing-ratio", type: "line",
         seriesSubset: ["Price-to- Income Ratio"],
         title: "Canada: House Price-to-Income Ratio (1990–2026)",
-        subtitle: "Average home price divided by median household income. Rose from 3.3× (1996) to 11.8× (2021)." },
-      { key: "inflation_boc", type: "line" },
-      { key: "dept_funding", type: "horizontalBar" },
-      { key: "dept_spending_hist", type: "line" }
+        subtitle: "Average home price divided by median household income. Rose from 3.3× (1996) to 11.8× (2021).",
+        explain: "The most direct measure of housing affordability: average home price divided by median household income. A ratio of 3–4× was historically the rule of thumb for an affordable market. Canada peaked at 11.8× in 2021 — meaning the average home cost nearly 12 full years of the median household's gross income. This is not a housing shortage in the traditional sense; it is a structural consequence of 12 years of near-zero interest rates directing capital into real estate.",
+        legendExplain: {
+          "Price-to- Income Ratio": "How many full years of median household income it would cost to buy the average home, at that year's prices. The old rule of thumb was 3–4×. Above 5× is generally considered unaffordable. Canada hit 11.8× in 2021."
+        }
+      },
+      { key: "inflation_boc", type: "line",
+        explain: "From 2009 to 2021, the Bank of Canada held interest rates near zero — making borrowing effectively free for 12 consecutive years. This directly caused the household debt and housing price explosions shown in other charts. Then in 2022, rates rose from 0.25% to 5.0% in the fastest tightening cycle in 40 years. Every variable-rate mortgage and line of credit repriced almost overnight. Canadians who borrowed heavily when rates were near zero are now paying the bill.",
+        legendExplain: {
+          "CPI Inflation (%)": "Consumer Price Index — the official measure of how fast everyday prices are rising. The Bank of Canada targets 2%. Above that, purchasing power is eroding.",
+          "BoC Overnight Rate (%)": "The Bank of Canada's key interest rate. Banks use this as their baseline cost of borrowing, which flows through to mortgages, lines of credit, and savings accounts.",
+          "Real Interest Rate (%)": "Interest rate minus inflation. When negative, borrowing is effectively free in real terms — which mechanically incentivises debt accumulation."
+        }
+      },
+      { key: "dept_funding", type: "horizontalBar",
+        explain: "What the federal government allocates to each major department. National Defence is by far the largest operational department. But this chart covers only about $143 billion of a $500+ billion federal budget — the rest flows through the Department of Finance as transfer payments (healthcare to provinces, equalization, debt servicing) that do not appear here at all.",
+        legendExplain: {
+          "Funding (CAD Billions)": "The budgetary authority allocated to each department in the 2026–27 Main Estimates — the amount they are authorised to spend."
+        }
+      },
+      { key: "dept_spending_hist", type: "line",
+        explain: "How the five largest departments with consistent historical records have grown since 2000. Key context: Health Canada's line looks small because the real federal healthcare money ($54B+ Canada Health Transfer) flows directly to provinces through the Department of Finance, not through Health Canada. The ESDC spike in 2020 is COVID emergency transfers (CERB, wage subsidies) — a one-time event, not a permanent level.",
+        legendExplain: {
+          "National Defence ($B)": "DND spending. Rising sharply as Canada moves toward the NATO 2% of GDP target.",
+          "Health Canada ($B)": "Looks small because the $54B+ Canada Health Transfer goes to provinces through Finance, not this department.",
+          "ESDC ($B)": "Employment and Social Development Canada. The 2020 spike is COVID emergency spending — CERB and wage subsidies.",
+          "Indigenous Services ($B)": "Jumps in 2017 because INAC was split into two departments — not a real spending increase.",
+          "Global Affairs ($B)": "Foreign affairs, international trade, and development assistance."
+        }
+      }
     ]
   },
+
   demographics: {
     label: "Demographics",
     desc: "Population growth, fertility, and provincial divergence.",
@@ -61,26 +175,70 @@ const CHART_CONFIG = {
       { key: "population", id: "population", type: "line",
         seriesSubset: ["Pop Growth (000s)", "Permanent Residents (000s)", "Non-Permanent Residents (000s)"],
         title: "Canada: Population Growth & Immigration Flows (1990–2026) | Thousands",
-        subtitle: "Annual net population growth, permanent resident admissions, and non-permanent residents (NPR) — same unit (000s). The post-2022 NPR surge explains most of the per-capita GDP divergence shown elsewhere." },
+        subtitle: "Annual net population growth, permanent resident admissions, and non-permanent residents (NPR) — same unit (000s). The post-2022 NPR surge explains most of the per-capita GDP divergence shown elsewhere.",
+        explain: "Three measures of how Canada's population is growing, all in the same unit (thousands of people per year). The most important line is Non-Permanent Residents — international students and temporary foreign workers. This number exploded after 2022, reaching levels that overwhelmed housing, healthcare, and transit infrastructure in major cities. This population surge is the direct mechanism behind Canada's falling GDP per capita: the economy grew, but the population grew faster.",
+        legendExplain: {
+          "Pop Growth (000s)": "Total net increase in Canada's population each year — births minus deaths, plus net migration. In thousands of people.",
+          "Permanent Residents (000s)": "People granted permanent residency each year. On the path to citizenship.",
+          "Non-Permanent Residents (000s)": "International students, temporary foreign workers, and asylum claimants present in Canada without permanent status. Surged dramatically after 2022."
+        }
+      },
       { key: "population", id: "population-total", type: "line",
         seriesSubset: ["Total Population (Millions)"],
         title: "Canada: Total Population (1990–2026) | Millions",
-        subtitle: "Total resident population." },
+        subtitle: "Total resident population.",
+        explain: "Canada's total population since 1990. The steepening slope after 2022 is visible — Canada is now growing faster than at any point in recorded history, driven almost entirely by non-permanent resident intake. This rapid growth is the input variable behind the housing demand surge, infrastructure stress, and per-capita GDP decline documented elsewhere on this site.",
+        legendExplain: {
+          "Total Population (Millions)": "The number of people living in Canada, including citizens, permanent residents, and non-permanent residents."
+        }
+      },
       { key: "population", id: "population-rate", type: "line",
         seriesSubset: ["Pop Growth Rate (%)", "Immigration Share of Growth (%)"],
         title: "Canada: Population Growth Rate & Immigration's Share of Growth (1990–2026) | %",
-        subtitle: "Annual population growth rate and immigration's share of total growth — both percentages." },
+        subtitle: "Annual population growth rate and immigration's share of total growth — both percentages.",
+        explain: "How fast Canada's population is growing each year, and how much of that growth comes from immigration versus natural increase (more births than deaths). Immigration's share of growth has risen above 95% — meaning Canada's population growth is almost entirely dependent on people arriving from abroad, not on Canadians having children.",
+        legendExplain: {
+          "Pop Growth Rate (%)": "Annual percentage increase in total population.",
+          "Immigration Share of Growth (%)": "What percentage of population growth comes from immigration rather than natural increase. Near 100% means Canada's births barely exceed deaths — the country grows only because people move here."
+        }
+      },
       { key: "fertility", id: "fertility", type: "line",
         seriesSubset: ["Total Fertility Rate (TFR)", "Replacement Threshold", "Immigrant TFR", "Canadian-Born TFR", "2nd-Gen TFR Convergence"],
         title: "Canada: Fertility Rate (1960–2026) | Births per Woman",
-        subtitle: "TFR vs. the 2.1 replacement threshold, split by immigrant, Canadian-born, and second-generation cohorts." },
+        subtitle: "TFR vs. the 2.1 replacement threshold, split by immigrant, Canadian-born, and second-generation cohorts.",
+        explain: "The Total Fertility Rate (TFR) is the average number of children a woman is expected to have. The replacement level — needed to maintain stable population without immigration — is 2.1. Canada's TFR peaked above 3 during the baby boom and has fallen every decade since. The three-line comparison is the critical finding: first-generation immigrants arrive with higher fertility (~2.4), but their children — second generation — converge almost exactly to the Canadian-born rate (~1.4). This is why immigration cannot permanently solve the fertility problem: the effect lasts one generation, then disappears.",
+        legendExplain: {
+          "Total Fertility Rate (TFR)": "Average number of children born per woman over her lifetime. The national average across all demographics.",
+          "Replacement Threshold": "The 2.1 line. Above this, the population replaces itself naturally without immigration. Canada has been below this line since the early 1970s.",
+          "Immigrant TFR": "Fertility rate of first-generation immigrants. Higher than the Canadian average when they arrive.",
+          "Canadian-Born TFR": "Fertility rate of people born in Canada. Well below replacement for decades.",
+          "2nd-Gen TFR Convergence": "Fertility rate of the children of immigrants. Converges toward the Canadian-born rate within one generation — which is why immigration is not a long-term demographic fix."
+        }
+      },
       { key: "fertility", id: "fertility-dependency", type: "line",
         seriesSubset: ["Age Dependency Ratio (%)"],
         title: "Canada: Age Dependency Ratio (1960–2026) | %",
-        subtitle: "Ratio of dependents (children + seniors) to working-age population." },
-      { key: "provincial", type: "horizontalBar" }
+        subtitle: "Ratio of dependents (children + seniors) to working-age population.",
+        explain: "The age dependency ratio measures how many retirees and children there are relative to working-age Canadians. As baby boomers retire and fertility stays low, this ratio rises — fewer workers must support more dependents. This is the fiscal time bomb under the Canada Pension Plan (CPP) and Old Age Security (OAS): the system was designed when there were many workers per retiree, not the ratio we are heading toward.",
+        legendExplain: {
+          "Age Dependency Ratio (%)": "The number of dependents (children under 15 + seniors over 65) per 100 working-age people (ages 15–64). Rising ratio means the working population is shrinking relative to the people they support through taxes and transfers."
+        }
+      },
+      { key: "provincial", type: "horizontalBar",
+        explain: "Canada is not one economy — it is ten very different economies sharing a federal system. Alberta's GDP per capita ($88,000) is more than double New Brunswick's ($43,000). Ontario — supposedly the economic engine — carries $412 billion in provincial debt and is losing population to Alberta. BC's average home price ($1.128M) is three times Saskatchewan's ($352K). National averages hide all of this variation.",
+        legendExplain: {
+          "GDP/Capita 2026 ($000s)": "Economic output per person in that province. In thousands of dollars.",
+          "Unemp Rate (%)": "Percentage of the labour force actively looking for work but unable to find it.",
+          "Avg Home Price ($000s)": "Average sale price of a home in that province. In thousands of dollars.",
+          "Prov Net Debt ($B)": "Provincial government total debt minus financial assets. Negative = the province has more assets than debt. In billions.",
+          "Debt/GDP (%)": "Provincial debt as a share of that province's economy.",
+          "TFR 2024": "Average number of children born per woman in that province.",
+          "Pop Growth Rate (%)": "How fast the province's population is growing per year."
+        }
+      }
     ]
   },
+
   labour_inequality: {
     label: "Labour & Inequality",
     desc: "Employment, wages, wealth distribution, and corporate concentration.",
@@ -88,29 +246,71 @@ const CHART_CONFIG = {
       { key: "labour_market", id: "labour_market", type: "line",
         seriesSubset: ["Unemployment Rate (%)", "Labour Force Participation (%)", "Real Wage Growth (% YoY)", "Youth Unemp. Rate (%)"],
         title: "Canada: Labour Market Rates (2000–2026) | %",
-        subtitle: "Unemployment, participation, real wage growth, and youth unemployment — all percentages. Participation falling while unemployment looks stable is the key signal." },
+        subtitle: "Unemployment, participation, real wage growth, and youth unemployment — all percentages. Participation falling while unemployment looks stable is the key signal.",
+        explain: "Four measures of labour market health, all shown as percentages. The headline unemployment rate looks stable — but the participation rate (how many working-age people are actually in the workforce at all) has been quietly falling. When people stop looking for work, they drop out of unemployment statistics even though they are still not employed. A falling participation rate alongside stable unemployment means the labour market is weaker than the headline number suggests.",
+        legendExplain: {
+          "Unemployment Rate (%)": "Percentage of people who want a job, are actively looking, and cannot find one. Does NOT count people who have stopped looking.",
+          "Labour Force Participation (%)": "Percentage of working-age Canadians who are either employed or actively looking for work. When this falls, people are leaving the workforce entirely — a sign of hidden weakness the unemployment number does not capture.",
+          "Real Wage Growth (% YoY)": "How much wages actually grew after subtracting inflation. Negative means workers got a raise on paper but could buy less than the year before — a real pay cut.",
+          "Youth Unemp. Rate (%)": "Unemployment rate for Canadians aged 15–24. Consistently higher than the adult rate. A rising youth unemployment rate means the economy is failing to absorb new workers."
+        }
+      },
       { key: "labour_market", id: "labour_market-earnings", type: "line",
         seriesSubset: ["Avg Weekly Earnings ($)"],
         title: "Canada: Average Weekly Earnings (2000–2026) | $",
-        subtitle: "Nominal average weekly earnings." },
+        subtitle: "Nominal average weekly earnings.",
+        explain: "The average Canadian's weekly paycheque over time, in nominal (not inflation-adjusted) dollars. The line trends upward — but so does inflation. To know whether workers are actually better off, compare this to the real wage growth line in the chart above. The gap between nominal earnings growth and real purchasing power is where workers' standard of living disappears.",
+        legendExplain: {
+          "Avg Weekly Earnings ($)": "Average weekly gross pay across all Canadian industries and job types. In current (nominal) dollars — not adjusted for inflation. A rising line here does not mean workers are better off if inflation is rising faster."
+        }
+      },
       { key: "wealth_inequality", id: "wealth_inequality-gini", type: "line",
         seriesSubset: ["Gini Coefficient"],
         title: "Canada: Gini Coefficient (1976–2026)",
-        subtitle: "Income inequality index, 0 (perfect equality) to 1 (perfect inequality)." },
+        subtitle: "Income inequality index, 0 (perfect equality) to 1 (perfect inequality).",
+        explain: "The Gini coefficient is the standard international measure of income inequality. Zero means everyone earns exactly the same. One means one person earns everything and everyone else earns nothing. Canada has moved steadily toward greater inequality since the 1970s. This matters for assessing economic growth: a rising Gini means growth is disproportionately captured by higher earners while median incomes stagnate.",
+        legendExplain: {
+          "Gini Coefficient": "A number between 0 and 1. 0 = perfect equality. 1 = perfect inequality (one person has everything). Most developed countries sit between 0.25 and 0.45. A rising Gini = widening gap between rich and everyone else."
+        }
+      },
       { key: "wealth_inequality", id: "wealth_inequality", type: "line",
         seriesSubset: ["Top 1% Income Share (%)", "Top 10% Income Share (%)", "Bottom 50% Income Share (%)", "Labour Share of GDP (%)", "Capital Share of GDP (%)"],
         title: "Canada: Income & Capital Distribution (1976–2026) | %",
-        subtitle: "Income shares and the labour-vs-capital split of GDP — all percentages, directly comparable." },
+        subtitle: "Income shares and the labour-vs-capital split of GDP — all percentages, directly comparable.",
+        explain: "This chart shows directly who receives the gains from economic growth. Labour's share of GDP — the portion paid as wages and salaries — has been falling since the 1980s while capital's share (profits, dividends, rents) has risen. Simultaneously, the top 1% income share has grown. This is the empirical fingerprint of the mechanism this site documents: the economy grows, but the gains are captured by capital owners rather than distributed to workers.",
+        legendExplain: {
+          "Top 1% Income Share (%)": "How much of all Canadian income goes to the richest 1% of earners.",
+          "Top 10% Income Share (%)": "How much of all Canadian income goes to the richest 10% of earners.",
+          "Bottom 50% Income Share (%)": "How much of all Canadian income goes to the bottom half of all earners combined.",
+          "Labour Share of GDP (%)": "The percentage of total economic output paid out as wages and salaries. Falling labour share means workers are getting a smaller piece of a growing economy.",
+          "Capital Share of GDP (%)": "The percentage of total economic output flowing to capital owners — as profits, dividends, rents, and interest. Rising capital share means asset owners capture more of economic growth."
+        }
+      },
       { key: "corporate_concentration", id: "corporate_concentration-rates", type: "line",
         seriesSubset: ["Corporate Profit Margin (%)", "Effective Corp Tax Rate (%)", "Statutory Corp Tax Rate (%)", "Tax Gap (Stat−Eff, %)"],
         title: "Canada: Corporate Profit Margins & Tax Rates (1990–2026) | %",
-        subtitle: "Profit margins, statutory and effective tax rates, and the gap between them — all percentages." },
+        subtitle: "Profit margins, statutory and effective tax rates, and the gap between them — all percentages.",
+        explain: "Corporate profit margins have risen while the effective tax rate — what corporations actually pay after deductions — has fallen well below the official statutory rate. The gap between the two tax lines is legal tax avoidance: money owed at the published rate that is not actually paid. More profit, taxed at a lower effective rate, means more corporate earnings flowing to shareholders and less flowing to public services.",
+        legendExplain: {
+          "Corporate Profit Margin (%)": "Average profit as a percentage of revenue across major Canadian corporations. Rising margin means corporations keep more of each dollar of sales.",
+          "Effective Corp Tax Rate (%)": "What corporations actually pay in taxes as a percentage of profits, after all legal deductions and strategies.",
+          "Statutory Corp Tax Rate (%)": "The official published tax rate, before any deductions or strategies.",
+          "Tax Gap (Stat−Eff, %)": "The difference between the official rate and what is actually paid. This is the legal tax avoidance gap — real money not collected."
+        }
+      },
       { key: "corporate_concentration", id: "corporate_concentration", type: "line", showRef: true,
         seriesSubset: ["Dividends & Buybacks ($B)", "Productive CapEx ($B)"],
         title: "Canada: Dividends & Buybacks vs. Productive Investment (1990–2026) | $B",
-        subtitle: "Capital returned to shareholders vs. capital reinvested in productive capacity — same unit, directly comparable." }
+        subtitle: "Capital returned to shareholders vs. capital reinvested in productive capacity — same unit, directly comparable.",
+        explain: "Two competing uses of corporate profits: return money to shareholders (dividends and share buybacks) or reinvest in productive capacity (equipment, R&D, factories). When dividends and buybacks exceed productive investment, corporations are choosing to enrich current shareholders rather than build capacity that would create jobs and raise productivity. This trend is a direct cause of Canada's productivity stagnation — capital that should be building productive assets is instead flowing to shareholders.",
+        legendExplain: {
+          "Dividends & Buybacks ($B)": "Money paid to shareholders through dividends (cash payments) and buybacks (company repurchases its own stock to drive up the share price). In billions.",
+          "Productive CapEx ($B)": "Capital expenditure on productive physical assets: machinery, equipment, research and development, factories. Investment that builds future productive capacity. In billions."
+        }
+      }
     ]
   },
+
   social_fabric: {
     label: "Social Fabric",
     desc: "Trust, civic participation, and education outcomes.",
@@ -118,34 +318,74 @@ const CHART_CONFIG = {
       { key: "social_cohesion", id: "social_cohesion", type: "line",
         seriesSubset: ["Social Trust (% agree)", "Voter Turnout (Fed %)", "Volunteer Rate (%)", "Loneliness Index (%)", "Self-Reported Mental Health (%)"],
         title: "Canada: Social Trust & Civic Participation (1985–2026) | %",
-        subtitle: "Social trust, voter turnout, volunteering, loneliness, and self-reported mental health — all percentages, directly comparable." },
+        subtitle: "Social trust, voter turnout, volunteering, loneliness, and self-reported mental health — all percentages, directly comparable.",
+        explain: "Five measures of social connection and civic health, all shown as percentages. Social trust — the simple belief that most people can be trusted — has nearly halved since the 1980s. Voter turnout has trended down. Volunteer rates have fallen. Loneliness and poor mental health have both risen sharply. These are not economic statistics; they are measurements of social fabric. They are all moving in the wrong direction simultaneously — and on the same timeline as the economic deterioration shown elsewhere.",
+        legendExplain: {
+          "Social Trust (% agree)": "Percentage of Canadians who agree with the statement 'most people can be trusted.' High-trust societies have lower transaction costs, better institutions, and more cooperative communities.",
+          "Voter Turnout (Fed %)": "Percentage of eligible voters who cast a ballot in federal elections.",
+          "Volunteer Rate (%)": "Percentage of Canadians who volunteered with a formal organisation in the past year.",
+          "Loneliness Index (%)": "Percentage of Canadians reporting they frequently feel lonely.",
+          "Self-Reported Mental Health (%)": "Percentage of Canadians rating their own mental health as 'excellent' or 'very good.' Declining."
+        }
+      },
       { key: "social_cohesion", id: "social_cohesion-opioid", type: "line",
         seriesSubset: ["Opioid Deaths (Annual)"],
         title: "Canada: Opioid Deaths (1985–2026) | Annual Count",
-        subtitle: "Annual opioid-related deaths, raw count." },
-
+        subtitle: "Annual opioid-related deaths, raw count.",
+        explain: "Annual opioid-related deaths in Canada. This number rose from roughly 200 per year in the late 1980s to over 7,500 by the mid-2020s — a 34-fold increase. The opioid crisis is concentrated in communities experiencing economic displacement and deindustrialisation. It is a mortality measure of civilisational stress — and does not appear in any GDP or unemployment statistic.",
+        legendExplain: {
+          "Opioid Deaths (Annual)": "Number of Canadians who died from opioid overdose that year — including prescription opioids, heroin, fentanyl, and related drugs. Raw count, not per capita."
+        }
+      },
       { key: "education", id: "education-tuition", type: "line",
         seriesSubset: ["Avg Annual Tuition ($)"],
         title: "Canada: Average Annual Tuition (1990–2026) | $",
-        subtitle: "Nominal average undergraduate tuition." },
+        subtitle: "Nominal average undergraduate tuition.",
+        explain: "The average cost of one year of undergraduate university tuition in Canada. Tuition has risen roughly five times faster than inflation since 1990. This forces students into large debt loads before they earn a single dollar — and shapes career decisions away from fields that pay less but provide social value (teaching, social work, skilled trades).",
+        legendExplain: {
+          "Avg Annual Tuition ($)": "Average undergraduate tuition charged by Canadian universities for one academic year. In nominal (not inflation-adjusted) dollars. Does not include housing, food, books, or student fees."
+        }
+      },
       { key: "education", id: "education-debt", type: "line",
         seriesSubset: ["Avg Student Debt at Grad ($)"],
         title: "Canada: Average Student Debt at Graduation (1990–2026) | $",
-        subtitle: "Nominal average debt held at graduation." },
+        subtitle: "Nominal average debt held at graduation.",
+        explain: "The average debt students carry at graduation — crossing $56,000 by 2026 before earning a single paycheque. This debt delays home ownership, delays starting a family, and constrains career choices for a decade or more after graduation. It is a direct downstream consequence of the tuition inflation shown in the chart above.",
+        legendExplain: {
+          "Avg Student Debt at Grad ($)": "Average amount owed by a Canadian post-secondary graduate at the time of graduation, before making any repayments. In nominal dollars."
+        }
+      },
       { key: "education", id: "education-enrollment", type: "line",
         seriesSubset: ["Undergrad Enrollment (000s)", "Trades/Appren. Enrollment (000s)"],
         title: "Canada: Undergraduate vs. Trades Enrollment (1990–2026) | Thousands",
-        subtitle: "Same unit, directly comparable — the diverging trend lines are the structural underinvestment in trades." },
+        subtitle: "Same unit, directly comparable — the diverging trend lines are the structural underinvestment in trades.",
+        explain: "University enrollment has risen steadily while trades and apprenticeship enrollment has fallen. Canada is producing more credential-holders and fewer electricians, plumbers, welders, and machinists — despite the latter being in critical shortage. This mismatch is both an economic productivity problem (fewer skilled workers) and a social one (credential inflation forces everyone into university debt regardless of what the labour market actually needs).",
+        legendExplain: {
+          "Undergrad Enrollment (000s)": "Number of students enrolled in undergraduate university programs. In thousands. Rising.",
+          "Trades/Appren. Enrollment (000s)": "Number of people registered in apprenticeship and trades training programs. In thousands. Falling while university enrollment rises."
+        }
+      },
       { key: "education", id: "education-pisa", type: "line",
         seriesSubset: ["PISA Math Score"],
         title: "Canada: PISA Math Score (2000–2024)",
-        subtitle: "OECD PISA international math literacy score." },
+        subtitle: "OECD PISA international math literacy score.",
+        explain: "Canada's score on the international PISA math test, administered every three years by the OECD to 15-year-olds in 80+ countries. Canada once scored near the top. The score has declined every test cycle since 2000. This is not a funding problem — education spending has risen substantially. It is an outcomes problem — and it will show up as a productivity deficit in 10–15 years.",
+        legendExplain: {
+          "PISA Math Score": "Canada's average score on the OECD's international mathematics assessment. Scores are comparable across countries and over time. Tested every three years — years without a test show no data point."
+        }
+      },
       { key: "education", id: "education-match", type: "line",
         seriesSubset: ["% Grads Credential Match"],
         title: "Canada: Graduate Credential Match Rate (1990–2026) | %",
-        subtitle: "Share of graduates working in a field matching their credential." }
+        subtitle: "Share of graduates working in a field matching their credential.",
+        explain: "The percentage of university graduates working in a field that actually requires their degree. Now below 54% — nearly half of graduates are working in jobs that don't require their credential. This is credential inflation: degrees are demanded for more positions while the actual skills gap goes unfilled elsewhere in the economy.",
+        legendExplain: {
+          "% Grads Credential Match": "Share of university graduates employed in occupations where their credential is actually required or directly applicable to their work."
+        }
+      }
     ]
   },
+
   fiscal_resources: {
     label: "Fiscal & Resources",
     desc: "Energy and resource revenue, equalization flows, and government spending efficiency.",
@@ -153,36 +393,79 @@ const CHART_CONFIG = {
       { key: "energy", id: "energy", type: "line", showRef: true,
         seriesSubset: ["Oil & Gas Revenue ($B)", "Fed Equalization Paid ($B)", "Alta Resource Revenue ($B)", "Crit. Mineral Export ($B)"],
         title: "Canada: Energy & Resource Revenue Flows (1990–2026) | $B",
-        subtitle: "Same unit ($B), directly comparable — oil & gas revenue, federal equalization, Alberta resource revenue, and critical mineral exports." },
+        subtitle: "Same unit ($B), directly comparable — oil & gas revenue, federal equalization, Alberta resource revenue, and critical mineral exports.",
+        explain: "Canada's resource economy in four lines. Oil and gas revenue is real but highly volatile — it follows global commodity price cycles, not government policy. Federal equalization payments redistribute this wealth from resource-rich provinces (mainly Alberta) to lower-revenue provinces. Alberta's resource revenue alone funds a large share of the national transfer system — while Alberta itself receives nothing back in equalization payments.",
+        legendExplain: {
+          "Oil & Gas Revenue ($B)": "Total government revenue from oil and natural gas — taxes, royalties, and levies. Highly volatile, follows global oil price cycles.",
+          "Fed Equalization Paid ($B)": "Federal equalization transfers to have-not provinces. Funded by all taxpayers including Alberta, which receives none of it.",
+          "Alta Resource Revenue ($B)": "Alberta provincial government revenue from resource royalties specifically. The engine of Alberta's fiscal surplus and the source funding national equalization.",
+          "Crit. Mineral Export ($B)": "Exports of critical minerals (lithium, cobalt, nickel, rare earths) — materials essential to battery technology and the energy transition. Growing fast from a small base."
+        }
+      },
       { key: "energy", id: "energy-wti", type: "line",
         seriesSubset: ["WTI Oil Price (USD/bbl)"],
         title: "Canada: WTI Oil Price (1990–2026) | USD/bbl",
-        subtitle: "West Texas Intermediate crude price — the commodity cycle driving resource revenue volatility above." },
+        subtitle: "West Texas Intermediate crude price — the commodity cycle driving resource revenue volatility above.",
+        explain: "The price of West Texas Intermediate crude oil in US dollars per barrel. This single number drives Alberta's fiscal position, Canada's current account balance, and federal equalization capacity. When oil is above $80, Alberta runs surpluses and equalization flows freely. When it crashes (2015, 2020), Alberta's budget collapses and equalization capacity tightens. A significant portion of Canada's fiscal health is determined by a price set in global markets that Ottawa cannot control.",
+        legendExplain: {
+          "WTI Oil Price (USD/bbl)": "The international benchmark price for crude oil, in US dollars per barrel. Canada's oil sands production trades at a discount to WTI, but WTI movements drive the same directional changes."
+        }
+      },
       { key: "energy", id: "energy-lng", type: "line",
         seriesSubset: ["LNG Exports (BCF/yr)"],
         title: "Canada: LNG Exports (1990–2026) | BCF/yr",
-        subtitle: "Liquefied natural gas exports, billion cubic feet per year." },
-
+        subtitle: "Liquefied natural gas exports, billion cubic feet per year.",
+        explain: "Canada's liquefied natural gas exports measured in billions of cubic feet per year. Canada has some of the world's largest natural gas reserves, and LNG export capacity is growing (LNG Canada's first phase recently came online). This represents a significant diversification opportunity — selling to Asian markets rather than solely to the US — but growth has been constrained by decades of pipeline and regulatory delay.",
+        legendExplain: {
+          "LNG Exports (BCF/yr)": "Canada's total liquefied natural gas exports. BCF = Billion Cubic Feet. A higher number means more natural gas sold abroad."
+        }
+      },
       { key: "govt_efficiency", id: "govt_efficiency-health$", type: "line", showRef: true,
         seriesSubset: ["Health Spend per Capita ($)"],
         title: "Canada: Health Spending per Capita (2000–2026) | $",
-        subtitle: "Nominal healthcare spend per capita." },
+        subtitle: "Nominal healthcare spend per capita.",
+        explain: "How much Canada spends per person on healthcare each year. Spending has nearly tripled since 2000. Compare this chart to the life expectancy and health value score charts below: dramatically more spending has produced only marginal improvement in outcomes. Canada now spends more per capita than Germany, France, and Japan — and ranks 6th of 7 in the G7 on health outcomes.",
+        legendExplain: {
+          "Health Spend per Capita ($)": "Total health spending (public + private) divided by population. The per-person annual cost of the healthcare system."
+        }
+      },
       { key: "govt_efficiency", id: "govt_efficiency-infra$", type: "line",
         seriesSubset: ["Infra Spend ($B)"],
         title: "Canada: Infrastructure Spending (2000–2026) | $B",
-        subtitle: "Nominal aggregate infrastructure spend." },
+        subtitle: "Nominal aggregate infrastructure spend.",
+        explain: "Total public infrastructure spending per year — rising steadily. But compare this to the infrastructure quality index chart below: quality has fallen every year despite rising spend. More money is producing worse infrastructure. This gap between inputs (spending) and outputs (quality) is the signature of a government efficiency problem.",
+        legendExplain: {
+          "Infra Spend ($B)": "Combined federal and provincial public infrastructure investment per year. In billions of dollars."
+        }
+      },
       { key: "govt_efficiency", id: "govt_efficiency-value", type: "line",
         seriesSubset: ["Health Value Score ($/yr)"],
         title: "Canada: Health Value Score (2000–2026) | $ per Life-Year",
-        subtitle: "Cost per life-year of health spending — falling is good, it means more value per dollar." },
+        subtitle: "Cost per life-year of health spending — falling is bad here, it means less value per dollar.",
+        explain: "A measure of what each dollar of healthcare spending actually buys in terms of population health outcomes. A falling line means each additional dollar is producing less improvement. This is declining efficiency: spending is rising faster than outcomes are improving. The system costs more and delivers proportionally less each year.",
+        legendExplain: {
+          "Health Value Score ($/yr)": "A derived measure of cost-effectiveness — how much health outcome improvement each dollar of spending produces. Falling = declining efficiency. The system is getting more expensive without getting proportionally better."
+        }
+      },
       { key: "govt_efficiency", id: "govt_efficiency-life", type: "line",
         seriesSubset: ["Life Expect. (Years)"],
         title: "Canada: Life Expectancy (2000–2026) | Years",
-        subtitle: "Average life expectancy at birth." },
+        subtitle: "Average life expectancy at birth.",
+        explain: "Average life expectancy at birth in Canada. Has risen modestly since 2000 but has essentially plateaued — and briefly declined during COVID. The near-flatness of this line while healthcare spending has nearly tripled is the core evidence of diminishing returns from additional health investment.",
+        legendExplain: {
+          "Life Expect. (Years)": "Average number of years a newborn Canadian is expected to live, based on current mortality rates."
+        }
+      },
       { key: "govt_efficiency", id: "govt_efficiency", type: "line",
         seriesSubset: ["Infra Quality Index (0-100)", "Pub Sector Productivity Idx"],
         title: "Canada: Infrastructure Quality & Public Sector Productivity (2000–2026) | Index 0–100",
-        subtitle: "Same 0–100 index scale, directly comparable. Both declining despite rising spend on the charts above." }
+        subtitle: "Same 0–100 index scale, directly comparable. Both declining despite rising spend on the charts above.",
+        explain: "Two government performance metrics on the same scale, both anchored at 100 in 2000. Infrastructure quality has fallen to 62.4 — Canadian infrastructure is measurably worse than 25 years ago despite spending more than double. Public sector productivity has fallen to 86.2 — the public sector produces less output per employee than in 2000. The government is spending more and delivering less on both dimensions simultaneously.",
+        legendExplain: {
+          "Infra Quality Index (0-100)": "A composite measure of Canadian infrastructure quality and condition. 100 = 2000 baseline. Falling index means deteriorating quality despite rising spending.",
+          "Pub Sector Productivity Idx": "Output per government employee relative to 2000 = 100. Falling means the public sector is getting less done per worker over time."
+        }
+      }
     ]
   }
 };
