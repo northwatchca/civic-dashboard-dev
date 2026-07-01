@@ -260,6 +260,13 @@ function renderCategory(catKey){
     const legendExplain=c.legendExplain||{};
     const modalIdx=_modalCharts.length;
 
+    if(c.sectionHeader){
+      const section=document.createElement("div");
+      section.className="chart-section-header";
+      section.innerHTML=`<h3>${c.sectionHeader}</h3>${c.sectionSubhead?`<p>${c.sectionSubhead}</p>`:""}`;
+      grid.appendChild(section);
+    }
+
     const allNames=c.seriesSubset||Object.keys(d.series);
     const shownSeries=allNames.filter(s=>d.series[s]&&isChartableSeries(d.series[s]));
 

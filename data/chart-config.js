@@ -97,6 +97,18 @@ const CHART_CONFIG = {
     label: "Debt & Fiscal",
     desc: "Household and sovereign debt, housing costs, monetary policy, federal spending, and government spending efficiency.",
     charts: [
+      { key: "budget_balance_history", id: "budget_balance_history", type: "line",
+        sectionHeader: "Federal & Provincial Budget History",
+        sectionSubhead: "Budget balance as % of GDP — Federal, Ontario, Quebec, Alberta. 1983-84 to 2024-25.",
+        explain: "Budgetary balance — the gap between what a government takes in and what it spends — expressed as a percentage of the size of its economy (GDP). This normalizes for inflation and economic growth over four decades, making 1985 and 2025 directly comparable. Positive values are surpluses; negative values are deficits. Shown for the federal government plus the three largest provincial economies: Ontario, Quebec, and Alberta.",
+        verdict: "MIXED — The federal government has run a deficit in 34 of the last 42 fiscal years, with the 2020-21 COVID shock (-14.8% of GDP) the largest on record. Provincial patterns diverge sharply: Alberta swings between large resource-driven surpluses and deficits; Ontario and Quebec have run more persistent, smaller deficits.",
+        legendExplain: {
+          "Federal (% of GDP)": "The federal government's annual budgetary surplus or deficit, as a percentage of national GDP.",
+          "Ontario (% of GDP)": "Ontario's annual budgetary surplus or deficit, as a percentage of Ontario's GDP. Not directly comparable to other provinces due to accounting differences.",
+          "Quebec (% of GDP)": "Quebec's annual budgetary surplus or deficit, as a percentage of Quebec's GDP. Not directly comparable to other provinces due to accounting differences.",
+          "Alberta (% of GDP)": "Alberta's annual budgetary surplus or deficit, as a percentage of Alberta's GDP. Heavily influenced by resource royalty revenue, which swings with commodity prices."
+        }
+      },
       { key: "household_debt", type: "line",
         explain: "This measures how much debt Canadian households carry relative to their annual income. A ratio of 100% means households owe exactly one full year's income. Canada's ratio reached 179.6% — nearly two full years of income owed, before a single bill is paid. This is one of the highest ratios in the developed world and leaves households extremely vulnerable to interest rate increases or job loss.",
         verdict: "BAD — At 179.6%, Canadians carry one of the heaviest household debt loads in the developed world. A single job loss or rate increase can push households into financial crisis.",
