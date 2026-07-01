@@ -156,6 +156,35 @@ function closeInfoModal(){
   document.getElementById("info-modal-overlay").classList.remove("active");
 }
 
+/* ── share chart ──────────────────────────────────────────── */
+function shareChart(canvasId, btnEl){
+  const url=location.origin+location.pathname+"?chart="+encodeURIComponent(canvasId);
+  const done=()=>{
+    if(!btnEl)return;
+    const orig=btnEl.textContent;
+    btnEl.textContent="Copied";
+    btnEl.classList.add("share-btn-copied");
+    setTimeout(()=>{btnEl.textContent=orig;btnEl.classList.remove("share-btn-copied");},1500);
+  };
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(url).then(done).catch(()=>{prompt("Copy this link:",url);});
+  }else{
+    prompt("Copy this link:",url);
+  }
+}
+
+function openSharedChart(){
+  const params=new URLSearchParams(location.search);
+  const target=params.get("chart");
+  if(!target)return;
+  const card=document.getElementById(`card-${target}`);
+  if(!card)return;
+  toggleCard(card,true);
+  card.scrollIntoView({behavior:"smooth",block:"center"});
+  card.classList.add("share-highlight");
+  setTimeout(()=>card.classList.remove("share-highlight"),2200);
+}
+
 /* ── collapse/expand all ─────────────────────────────────── */
 function expandAll(){
   document.querySelectorAll(".chart-card.collapsed").forEach(card=>{
@@ -224,6 +253,7 @@ function renderCategory(catKey){
 
     const card=document.createElement("div");
     card.className="chart-card collapsed";
+    card.id=`card-${canvasId}`;
 
     const legendHtml=c.type==="horizontalBar"?"":buildHtmlLegend(shownSeries,legendExplain);
     const showRef=c.showRef===true||(!c.seriesSubset&&c.showRef!==false);
@@ -237,6 +267,7 @@ function renderCategory(catKey){
           <p class="sub">${subtitle||""}</p>
         </div>
         <div class="chart-header-actions">
+          <button class="share-btn" onclick="event.stopPropagation();shareChart('${canvasId}', this)" title="Copy link to this chart">Share</button>
           <button class="info-btn" onclick="event.stopPropagation();openInfoModal(${modalIdx})">What does this mean?</button>
           <span class="toggle-arrow">▼</span>
         </div>
@@ -263,4 +294,6 @@ function renderCategory(catKey){
         options:opts});
     };
   });
+
+  openSharedChart();
 }
