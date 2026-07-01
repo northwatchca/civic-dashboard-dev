@@ -6,7 +6,7 @@
 <title>Provincial Map — Northwatch</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="data-style.css?v=10">
+<link rel="stylesheet" href="data-style.css?v=11">
 <style>
 .map-controls{display:flex;align-items:center;gap:14px;margin-bottom:28px;flex-wrap:wrap;}
 .map-controls label{font-size:13px;color:var(--text-dim);}
@@ -53,16 +53,7 @@
 .stat-item .s-label-active{font-weight:700;color:var(--text);}
 .active-dot{font-size:7px;color:var(--accent);vertical-align:middle;}
 .stat-item .s-val{font-size:20px;font-weight:600;color:var(--text);margin-top:3px;}
-/* Reusable hover-tooltip component — same pattern as .verdict-tooltip, usable site-wide */
-.info-tip{position:relative;cursor:help;border-bottom:1px dotted var(--line);}
-.info-tip-bubble{
-  display:none;position:absolute;left:0;top:calc(100% + 8px);
-  background:#111110;color:#f0ede5;font-size:12.5px;line-height:1.55;
-  border-radius:8px;padding:10px 12px;width:220px;z-index:10001;
-  box-shadow:0 4px 20px rgba(0,0,0,0.25);text-transform:none;
-  font-weight:400;letter-spacing:normal;
-}
-.info-tip:hover .info-tip-bubble{display:block;}
+/* .info-tip / .info-tip-bubble moved to shared data-style.css — used site-wide now */
 .click-hint{font-size:12px;color:var(--text-dim);margin-bottom:16px;}
 .map-loading{text-align:center;padding:60px;color:var(--text-dim);font-size:14px;}
 </style>

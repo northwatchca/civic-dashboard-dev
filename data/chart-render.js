@@ -70,8 +70,11 @@ function buildHtmlLegend(seriesNames,legendExplain){
   const items=seriesNames.map((name,i)=>{
     const color=PALETTE[i%PALETTE.length];
     const tip=(legendExplain&&legendExplain[name])||"";
-    return `<span class="legend-item"${tip?` title="${tip.replace(/"/g,"&quot;")}"`:""}>`+
-      `<span class="legend-dot" style="background:${color}"></span>${name}</span>`;
+    const label=tip
+      ?`<span class="info-tip">${name}<span class="info-tip-bubble">${tip.replace(/</g,"&lt;")}</span></span>`
+      :name;
+    return `<span class="legend-item">`+
+      `<span class="legend-dot" style="background:${color}"></span>${label}</span>`;
   });
   return`<div class="html-legend">${items.join("")}</div>`;
 }

@@ -163,3 +163,14 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
 .info-modal-item .dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;margin-top:3px;}
 .info-modal-item strong{color:var(--text);}
 .info-modal-item span{color:var(--text-dim);}
+
+/* Reusable hover-tooltip component — same pattern as .verdict-tooltip, used site-wide */
+.info-tip{position:relative;cursor:help;border-bottom:1px dotted var(--line);}
+.info-tip-bubble{
+  display:none;position:absolute;left:0;top:calc(100% + 8px);
+  background:#111110;color:#f0ede5;font-size:12.5px;line-height:1.55;
+  border-radius:8px;padding:10px 12px;width:220px;z-index:10001;
+  box-shadow:0 4px 20px rgba(0,0,0,0.25);text-transform:none;
+  font-weight:400;letter-spacing:normal;
+}
+.info-tip:hover .info-tip-bubble{display:block;}
