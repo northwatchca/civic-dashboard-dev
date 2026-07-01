@@ -9,6 +9,7 @@
     { href: r + 'timeline.html',         label: 'Timeline' },
     { href: r + 'thesis.html',           label: 'Thesis' },
     { href: r + 'methodology.html',      label: 'Methodology' },
+    { href: r + 'changelog.html',        label: 'Changelog' },
     { href: r + 'index.html#about',      label: 'About' },
     { href: r + 'index.html#take-action',label: 'Take Action' },
   ];

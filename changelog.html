@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Changelog — Northwatch</title>
+<meta name="description" content="A dated record of data corrections, revisions, and site changes on Northwatch — including source, magnitude, and reasoning for every correction.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Changelog — Northwatch">
+<meta property="og:description" content="A dated record of data corrections, revisions, and site changes on Northwatch — including source, magnitude, and reasoning for every correction.">
+<meta property="og:url" content="https://northwatchca.github.io/civic-dashboard-dev/changelog.html">
+<meta property="og:site_name" content="Northwatch">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Changelog — Northwatch">
+<meta name="twitter:description" content="A dated record of data corrections, revisions, and site changes on Northwatch — including source, magnitude, and reasoning for every correction.">
+<link rel="canonical" href="https://northwatchca.github.io/civic-dashboard-dev/changelog.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f7f5f1;--bg-card:#fff;--border:#e2dfd8;
+  --text:#111110;--text-dim:#706c66;--accent:#c82d29;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{overflow-x:hidden;}
+body{background:var(--bg);font-family:'Inter',-apple-system,sans-serif;color:var(--text);overflow-x:hidden;}
+.wrap{max-width:760px;margin:0 auto;padding:52px 24px 96px;}
+.page-eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:1.2px;color:var(--accent);font-weight:600;margin-bottom:16px;}
+h1{font-size:clamp(26px,4vw,36px);font-weight:600;margin-bottom:12px;line-height:1.2;}
+.page-sub{font-size:15px;color:var(--text-dim);line-height:1.6;max-width:600px;margin-bottom:16px;}
+.page-note{
+  font-size:13px;color:var(--text-dim);line-height:1.6;max-width:600px;margin-bottom:40px;
+  background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:14px 16px;
+}
+
+/* filter bar */
+.filter-bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:40px;}
+.filter-btn{
+  background:none;border:1px solid var(--border);border-radius:20px;
+  padding:6px 14px;font-size:12px;font-family:inherit;cursor:pointer;
+  color:var(--text-dim);transition:all .15s;
+}
+.filter-btn:hover{border-color:var(--accent);color:var(--accent);}
+.filter-btn.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+
+/* log */
+.log{position:relative;padding-left:32px;}
+.log::before{
+  content:'';position:absolute;left:7px;top:8px;bottom:0;
+  width:2px;background:var(--border);
+}
+.log-entry{position:relative;margin-bottom:28px;}
+.log-entry.hidden{display:none;}
+.log-dot{
+  position:absolute;left:-29px;top:6px;
+  width:14px;height:14px;border-radius:50%;
+  border:2px solid #fff;flex-shrink:0;
+}
+.dot-correction{background:var(--accent);}
+.dot-addition{background:#4a6741;}
+
+.log-card{
+  background:var(--bg-card);border:1px solid var(--border);
+  border-radius:10px;padding:18px 20px;
+  transition:border-color .15s;
+}
+.log-card:hover{border-color:#ccc;}
+.log-top{display:flex;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap;}
+.log-date{font-size:13px;font-weight:700;color:var(--text);}
+.log-session{font-size:12px;color:var(--text-dim);}
+.log-tag{
+  font-size:10.5px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;
+  padding:2px 8px;border-radius:3px;color:#fff;
+}
+.tag-correction{background:var(--accent);}
+.tag-addition{background:#4a6741;}
+.log-title{font-size:15px;font-weight:600;margin-bottom:8px;line-height:1.35;}
+.log-body{font-size:13.5px;color:var(--text-dim);line-height:1.65;}
+.log-diff{
+  margin-top:12px;padding:10px 14px;background:var(--bg);
+  border-left:2px solid var(--accent);border-radius:0 4px 4px 0;
+  font-size:12.5px;color:var(--text);line-height:1.7;
+}
+.log-diff strong{color:var(--accent);font-size:10px;text-transform:uppercase;letter-spacing:0.5px;display:block;margin-bottom:4px;}
+.log-diff .was{color:var(--text-dim);text-decoration:line-through;}
+.log-diff .now{color:var(--text);font-weight:600;}
+.log-chart-link{display:inline-block;margin-top:10px;font-size:12.5px;color:var(--accent);text-decoration:none;}
+.log-chart-link:hover{text-decoration:underline;}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <p class="page-eyebrow">Northwatch</p>
+  <h1>Changelog</h1>
+  <p class="page-sub">Every correction to a published figure or claim, and every material change to how data is presented, logged with what changed and why. This is the record we're accountable to.</p>
+  <p class="page-note">Corrections are logged here regardless of direction — whether a fix made a trend look better or worse than previously stated. Per-chart "data verified current as of" timestamps (visible under each chart) track routine data refreshes; this page tracks factual and methodological corrections plus significant site changes.</p>
+
+  <div class="filter-bar">
+    <button class="filter-btn active" data-cat="all">All</button>
+    <button class="filter-btn" data-cat="correction">Corrections</button>
+    <button class="filter-btn" data-cat="addition">Additions</button>
+  </div>
+
+  <div class="log" id="log"></div>
+</div>
+
+<script>
+const ENTRIES = [
+  {
+    date: "2026-07-01",
+    session: "Session 12",
+    cat: "addition",
+    title: "Downloadable CSV added to every chart card",
+    body: "Every chart on the data pages now has a CSV download button next to Share, exporting the exact series shown on that chart (same filtering logic as the rendered chart — no hidden or excluded series).",
+  },
+  {
+    date: "2026-07-01",
+    session: "Session 12",
+    cat: "addition",
+    title: "Per-chart \"last updated\" timestamps added",
+    body: "Each chart card now displays the date its underlying data was last verified current, next to the source citation. A change-detection script now auto-stamps this date whenever a dataset's values are edited, so it can't silently go stale."
+  },
+  {
+    date: "2026-07-01",
+    session: "Session 10",
+    cat: "correction",
+    title: "Federal/Provincial Budget Balance — deficit-year count corrected",
+    body: "While building the Cited Threshold badge system, the underlying figures for the Federal & Provincial Budget Balance chart were re-checked against the source data.",
+    diff: { was: "Claimed the federal government ran a deficit in 34 of the last 42 fiscal years.", now: "Actual count from the data: 29 of the last 42 fiscal years." },
+    chart: { href: "data/debt-fiscal.html#chart-budget_balance_history", label: "View chart →" }
+  },
+  {
+    date: "2026-07-01",
+    session: "Session 10",
+    cat: "correction",
+    title: "Education — tuition-vs-inflation multiple corrected",
+    body: "An inflation-adjustment audit across the site found this chart's verdict overstated how far tuition had outpaced inflation since 1990.",
+    diff: { was: "Claimed tuition rose \u201croughly five times faster than inflation.\u201d", now: "Nominal tuition grew ~5.2\u00d7 since 1990, but in real (inflation-adjusted) terms it grew ~2.5\u00d7 against ~2.1\u00d7 general inflation \u2014 tuition did outpace inflation, but by a modest margin, not five times." },
+    chart: { href: "data/social-fabric.html#chart-education-tuition", label: "View chart →" }
+  },
+];
+
+function renderLog(filter){
+  const log = document.getElementById("log");
+  const sorted = [...ENTRIES].sort((a,b)=> b.date.localeCompare(a.date) || (a.cat==="correction"?-1:1));
+  log.innerHTML = sorted.map(e => {
+    const hidden = filter !== "all" && e.cat !== filter ? "hidden" : "";
+    const tagLabel = e.cat.charAt(0).toUpperCase() + e.cat.slice(1);
+    const diffHtml = e.diff ? `<div class="log-diff">
+        <strong>What changed</strong>
+        <span class="was">${e.diff.was}</span><br>
+        <span class="now">${e.diff.now}</span>
+      </div>` : "";
+    const chartHtml = e.chart ? `<a class="log-chart-link" href="${e.chart.href}">${e.chart.label}</a>` : "";
+    return `<div class="log-entry ${hidden}" data-cat="${e.cat}">
+      <div class="log-dot dot-${e.cat}"></div>
+      <div class="log-card">
+        <div class="log-top">
+          <span class="log-date">${e.date}</span>
+          <span class="log-session">${e.session}</span>
+          <span class="log-tag tag-${e.cat}">${tagLabel}</span>
+        </div>
+        <div class="log-title">${e.title}</div>
+        <div class="log-body">${e.body}</div>
+        ${diffHtml}
+        ${chartHtml}
+      </div>
+    </div>`;
+  }).join("");
+}
+
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", function(){
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    this.classList.add("active");
+    renderLog(this.dataset.cat);
+  });
+});
+
+renderLog("all");
+</script>
+
+<script src="nav.js?v=3"></script>
+</body>
+</html>
