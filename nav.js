@@ -48,6 +48,7 @@
       font-size:15px;font-weight:700;letter-spacing:0.02em;
       color:#111110;text-decoration:none;text-transform:uppercase;
       letter-spacing:0.08em;flex-shrink:0;
+      padding:18px 0;display:inline-block;
     }
     .site-nav-brand:hover{color:#c82d29;}
     .site-nav-links{
@@ -61,6 +62,7 @@
       font-size:12.5px;color:#706c66;text-decoration:none;
       text-transform:uppercase;letter-spacing:0.06em;font-weight:500;
       transition:color .15s;flex-shrink:0;
+      padding:18px 2px;display:inline-block;
     }
     .site-nav-links a:hover,.site-nav-links a.active{color:#c82d29;}
     .site-nav-links a.active{font-weight:600;}

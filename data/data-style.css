@@ -215,9 +215,9 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
 .info-modal-verdict.v-bad{border-left-color:#8B3A2A;background:rgba(139,58,42,0.09);}
 .info-modal-verdict.v-bad .verdict-tag{color:#8B3A2A;}
 .info-modal-verdict.v-mixed{border-left-color:#9C7840;background:rgba(156,120,64,0.09);}
-.info-modal-verdict.v-mixed .verdict-tag{color:#9C7840;}
+.info-modal-verdict.v-mixed .verdict-tag{color:#906e3b;}
 .info-modal-verdict.v-context{border-left-color:#7a7670;background:rgba(122,118,112,0.09);}
-.info-modal-verdict.v-context .verdict-tag{color:#7a7670;}
+.info-modal-verdict.v-context .verdict-tag{color:#76726d;}
 /* cited-threshold block — a sourced external benchmark, distinct from the internal BAD/MIXED/CONTEXT verdict */
 .info-modal-threshold{
   border-left:5px solid #4a4744;border-radius:6px;
