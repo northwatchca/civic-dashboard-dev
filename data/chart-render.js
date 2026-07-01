@@ -149,11 +149,29 @@ function openInfoModalData(m){
   }else{
     legendEl.style.display="none";
   }
+  lockBodyScroll();
   document.getElementById("info-modal-overlay").classList.add("active");
+}
+
+let _scrollLockY=0;
+function lockBodyScroll(){
+  _scrollLockY=window.scrollY||window.pageYOffset||0;
+  document.body.style.position="fixed";
+  document.body.style.top=(-_scrollLockY)+"px";
+  document.body.style.left="0";
+  document.body.style.right="0";
+}
+function unlockBodyScroll(){
+  document.body.style.position="";
+  document.body.style.top="";
+  document.body.style.left="";
+  document.body.style.right="";
+  window.scrollTo(0,_scrollLockY);
 }
 
 function closeInfoModal(){
   document.getElementById("info-modal-overlay").classList.remove("active");
+  unlockBodyScroll();
 }
 
 /* ── share chart ──────────────────────────────────────────── */
