@@ -114,8 +114,11 @@ function renderSlot(o, ids, chartRef, sharedLabels){
   // CSV export -> reuses chart-render.js's global downloadChartCSV via its export map
   const allNames = c.seriesSubset || Object.keys(d.series);
   const shownSeries = allNames.filter(s=>d.series[s] && isChartableSeries(d.series[s]));
-  _csvExportMap[canvasId] = { dataKey: c.key, seriesNames: shownSeries, xLabel: d.xLabel || "", title: c.title || d.title };
+  _csvExportMap[canvasId] = { dataKey: c.key, seriesNames: shownSeries, xLabel: d.xLabel || "", title: c.title || d.title, subtitle: c.subtitle || d.subtitle || "" };
   document.getElementById(ids.csv).onclick = ()=> downloadChartCSV(canvasId);
+
+  // Image export -> reuses chart-render.js's global downloadChartImage via the same export map
+  document.getElementById(ids.img).onclick = ()=> downloadChartImage(canvasId);
 
   // Cited Threshold badge
   const badgeEl = document.getElementById(ids.badge);
@@ -146,8 +149,8 @@ document.addEventListener("DOMContentLoaded", () => {
   populateSelect(selB, options, 1);
 
   const refA = {}, refB = {};
-  const idsA = { title:"title-a", sub:"sub-a", src:"src-a", canvas:"chart-a", share:"share-a", info:"info-a", csv:"csv-a", badge:"badge-a" };
-  const idsB = { title:"title-b", sub:"sub-b", src:"src-b", canvas:"chart-b", share:"share-b", info:"info-b", csv:"csv-b", badge:"badge-b" };
+  const idsA = { title:"title-a", sub:"sub-a", src:"src-a", canvas:"chart-a", share:"share-a", info:"info-a", csv:"csv-a", img:"img-a", badge:"badge-a" };
+  const idsB = { title:"title-b", sub:"sub-b", src:"src-b", canvas:"chart-b", share:"share-b", info:"info-b", csv:"csv-b", img:"img-b", badge:"badge-b" };
   const syncStatusEl = document.getElementById("sync-status");
 
   function update(){
