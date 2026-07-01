@@ -23,7 +23,7 @@
   const navHTML = `
     <nav class="site-nav" id="site-nav">
       <div class="site-nav-inner">
-        <a class="site-nav-brand" href="${r}index.html">The Red Watch</a>
+        <a class="site-nav-brand" href="${r}index.html">Northwatch</a>
         <div class="site-nav-links">
           ${links.map(l=>`<a href="${l.href}"${isActive(l.href)?' class="active"':''}>${l.label}</a>`).join('')}
         </div>

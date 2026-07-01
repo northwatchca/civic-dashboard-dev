@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════
-   RED WATCH INDEX — Formula Engine
+   NORTHWATCH INDEX — Formula Engine
    Five pillars, each normalized 0-100, then weighted.
    Each metric: (current - critical) / (healthy - critical) × 100
    Clamped 0-100.
@@ -112,7 +112,7 @@ function renderRWI(){
   el.innerHTML = `
     <div class="rwi-wrap">
       <div class="rwi-header">
-        <span class="rwi-eyebrow">THE RED WATCH INDEX</span>
+        <span class="rwi-eyebrow">THE NORTHWATCH INDEX</span>
         <span class="rwi-quarter">Q2 2026</span>
       </div>
       <div class="rwi-score-row">
