@@ -6,7 +6,7 @@
 <title>Provincial Map — Northwatch</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="data-style.css?v=5">
+<link rel="stylesheet" href="data-style.css?v=6">
 <style>
 .map-controls{display:flex;align-items:center;gap:14px;margin-bottom:28px;flex-wrap:wrap;}
 .map-controls label{font-size:13px;color:var(--text-dim);}
@@ -120,7 +120,7 @@ const PROV_DATA = {
   "Nova Scotia":        { code:"NS", gdp:44.1, unemp:7.8, house:398,  debt:16.2,  debtgdp:28.8, tfr:1.38, popgrowth:1.4 },
   "Prince Edward Island":{ code:"PE",gdp:42.1, unemp:7.2, house:348,  debt:2.8,   debtgdp:18.8, tfr:1.41, popgrowth:2.8 },
   "Newfoundland and Labrador":{ code:"NL", gdp:52.1, unemp:9.8, house:298, debt:14.8, debtgdp:30.4, tfr:1.32, popgrowth:0.2 },
-  "Yukon":              { code:"YT", noData:true },
+  "Yukon Territory":    { code:"YT", noData:true },
   "Northwest Territories":{ code:"NT", noData:true },
   "Nunavut":            { code:"NU", noData:true },
 };
@@ -176,16 +176,14 @@ function buildMap(mKey){
   const vals=provCodes.map(p=>p[mKey]);
   const min=Math.min(...vals), max=Math.max(...vals);
 
-  // Clip to 72°N to exclude far Arctic islands and zoom into populated Canada
-  const bounds = {
-    type:"Feature",
-    geometry:{
-      type:"Polygon",
-      coordinates:[[[-142,41],[-52,41],[-52,72],[-142,72],[-142,41]]]
-    }
-  };
+  // Tuned by fitting the projection to the 10 province geometries directly
+  // (not a synthetic bounding polygon — projecting a bbox polygon distorts
+  // its own bounds in Mercator, which is why fitExtent-on-a-box failed
+  // before). Territories intentionally extend above the viewBox top and get
+  // clipped — expected, since they're rendered noData/gray anyway.
   const projection=d3.geoMercator()
-    .fitExtent([[20,20],[940,575]],bounds);
+    .scale(611)
+    .translate([1501,977]);
 
   const path=d3.geoPath().projection(projection);
 
