@@ -26,12 +26,19 @@ function allChartOptions(){
 }
 
 function populateSelect(sel, options, defaultIdx){
+  let currentGroup=null, groupEl=null;
   options.forEach((o, i)=>{
+    if(o.catLabel !== currentGroup){
+      currentGroup = o.catLabel;
+      groupEl = document.createElement("optgroup");
+      groupEl.label = o.catLabel;
+      sel.appendChild(groupEl);
+    }
     const opt = document.createElement("option");
     opt.value = i;
-    opt.textContent = `[${o.catLabel}] ${o.label}`;
+    opt.textContent = o.label;
     if(i === defaultIdx) opt.selected = true;
-    sel.appendChild(opt);
+    groupEl.appendChild(opt);
   });
 }
 
