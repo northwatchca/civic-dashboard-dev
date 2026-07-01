@@ -53,7 +53,8 @@
         307.3,
         301.1
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "household_debt": {
     "title": "Canada: Private Credit Risk Timeline | Household Debt-to-Disposable Income Ratio (1990–2026)",
@@ -116,7 +117,8 @@
           "179.6%"
         ]
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "capital_allocation": {
     "title": "Canada: Structural GDP Shifts by Major Sector (1997–2026) | % of Total GDP",
@@ -178,7 +180,8 @@
         5,
         5
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "sector_snapshot": {
     "title": "Canada: Capital Allocation Profile | GDP Contribution by Sector (2026 Snapshot)",
@@ -216,7 +219,8 @@
         4.2,
         3
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "dept_funding": {
     "title": "Canada: Federal Department Funding | 2026–27 Main Estimates (CAD Billions)",
@@ -284,7 +288,8 @@
         "Government of Canada Main Estimates 2026-27",
         "Note: Dept of Finance (~$110B+ in transfers & debt servicing) excluded from this table"
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "fiscal_context": {
     "title": "Canada: Fiscal Architecture — What the Department Figures Don't Show",
@@ -313,7 +318,8 @@
         "EI, OAS/GIS, Canada Child Benefit, direct program spending outside departments",
         "Full consolidated federal expenditure envelope"
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "gdp_by_sector": {
     "title": "Canada: GDP Share by Industry Sector — Annual Time Series (1997–2026) | % of Total GDP",
@@ -769,7 +775,8 @@
         3,
         3
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "dept_spending_hist": {
     "title": "Canada: Federal Department Spending Trends — Key Departments (2000–2026) | CAD Billions",
@@ -979,8 +986,38 @@
         90.5,
         96.8,
         103.49999999999999
+      ],
+      "TOTAL 5 Depts — Real (2024 CAD $B)": [
+        41.5,
+        43.1,
+        44.9,
+        46.5,
+        49.5,
+        52.9,
+        54.7,
+        56.9,
+        60.5,
+        65.6,
+        65,
+        65.2,
+        63.2,
+        61.7,
+        60,
+        61,
+        62.3,
+        68.3,
+        73.1,
+        76.2,
+        88.7,
+        84.9,
+        80.7,
+        82,
+        90.5,
+        96.2,
+        100.6
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "fed_debt_deficit": {
     "title": "Canada: Federal Debt & Deficit Trajectory (1970–2026)",
@@ -1179,8 +1216,57 @@
         null,
         null,
         "Structural deficit — no return to surplus projected"
+      ],
+      "Annual Surplus/ Deficit — Real (2024 CAD $B)": [
+        -2.4,
+        -8.1,
+        3.1,
+        -19.6,
+        -36,
+        -40.9,
+        -57.5,
+        -86,
+        -68.1,
+        -50.8,
+        -62.6,
+        -73.7,
+        -78.7,
+        -70.2,
+        -59,
+        -16.1,
+        6.2,
+        5.5,
+        5,
+        15.3,
+        14.6,
+        8.4,
+        4.5,
+        14,
+        8.1,
+        14.1,
+        20.5,
+        0.8,
+        -78.1,
+        -46.1,
+        -33.1,
+        -24.3,
+        -18.3,
+        0.5,
+        -1.7,
+        -13.8,
+        -21.9,
+        -18,
+        -16.9,
+        -384.8,
+        -129.2,
+        -95.9,
+        -36.1,
+        -39.8,
+        -46.5,
+        -45.9
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "productivity_g7": {
     "title": "Canada: Labour Productivity vs. G7 Peers (2000–2026) | GDP per Hour Worked, Index 2000=100",
@@ -1420,7 +1506,8 @@
         123.9,
         124.7
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "housing": {
     "title": "Canada: Housing Affordability Crisis | House Price Index vs. Median Income (1990–2026)",
@@ -1631,8 +1718,77 @@
         null,
         null,
         "Still 3× the 1990 ratio"
+      ],
+      "Median Household Income — Real (2024 CAD $000s)": [
+        88.5,
+        80,
+        79.7,
+        78.1,
+        78.9,
+        79.3,
+        79.1,
+        78.8,
+        79,
+        79.9,
+        81.3,
+        82.2,
+        82.5,
+        83.3,
+        81.5,
+        82.6,
+        82.1,
+        81.9,
+        82.6,
+        82.9,
+        82.8,
+        83.2,
+        83.8,
+        84.5,
+        85.2,
+        86,
+        84.9,
+        81.3,
+        79.8,
+        80.1,
+        81.5,
+        81.2
+      ],
+      "Avg Home Price — Real (2024 CAD $000s)": [
+        297.6,
+        248.9,
+        234.5,
+        220.6,
+        225.5,
+        232.7,
+        235.2,
+        249.3,
+        262.9,
+        288.9,
+        281.1,
+        296.2,
+        324.7,
+        329.8,
+        316.2,
+        360.4,
+        381.1,
+        397.8,
+        409.9,
+        421.5,
+        440.9,
+        474.8,
+        508,
+        490.7,
+        494.3,
+        530.8,
+        651.9,
+        624.2,
+        550.7,
+        548,
+        561.6,
+        562
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "population": {
     "title": "Canada: Population Growth & Immigration Intake (1990–2026)",
@@ -1913,7 +2069,8 @@
         "Reduction policy",
         "Targets further reduced"
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "labour_market": {
     "title": "Canada: Labour Market Health (2000–2026) | Employment, Participation & Wages",
@@ -2124,7 +2281,8 @@
         null,
         "Participation at multi-decade low"
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "inflation_boc": {
     "title": "Canada: Inflation & Bank of Canada Overnight Rate (2000–2026)",
@@ -2277,7 +2435,8 @@
         null,
         null
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "trade": {
     "title": "Canada: Trade Dependency & Current Account Balance (2000–2026)",
@@ -2487,8 +2646,38 @@
         "Tariff risk emerging",
         "US tariff shock impact",
         "Structural current account deficit"
+      ],
+      "Current Account Balance — Real (2024 CAD $B)": [
+        33,
+        26.8,
+        23.3,
+        12.7,
+        34.3,
+        27.4,
+        24.8,
+        14.1,
+        0.6,
+        -4.2,
+        -12.2,
+        -15.2,
+        -22.2,
+        -18.6,
+        -14.3,
+        -20.7,
+        -17.5,
+        -19.5,
+        -21.8,
+        -16,
+        -16.7,
+        2,
+        -5.3,
+        -8.5,
+        -14.5,
+        -16.1,
+        -18
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "wealth_inequality": {
     "title": "Canada: Wealth Distribution & Income Inequality (1976–2026)",
@@ -2692,7 +2881,8 @@
         46.2,
         46.8
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "fertility": {
     "title": "Canada: Fertility Rate & Demographic Structure (1960–2026)",
@@ -2952,7 +3142,8 @@
         1.45,
         1.42
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "corporate_concentration": {
     "title": "Canada: Corporate Concentration & Profit Extraction (1990–2026)",
@@ -3106,6 +3297,48 @@
         158.4,
         152.1,
         148.5
+      ],
+      "Dividends & Buybacks — Real (2024 CAD $B)": [
+        37.4,
+        29.5,
+        37.2,
+        43.6,
+        50,
+        64.4,
+        47.9,
+        64.7,
+        86.1,
+        86.3,
+        75.7,
+        95.7,
+        113.7,
+        115.4,
+        127.6,
+        92.1,
+        151.5,
+        138.2,
+        131.1
+      ],
+      "Productive CapEx — Real (2024 CAD $B)": [
+        168.5,
+        136.3,
+        158.6,
+        164.9,
+        173.4,
+        189.7,
+        153.4,
+        181.6,
+        204.1,
+        200.3,
+        171.9,
+        182.7,
+        190.7,
+        178.9,
+        182.3,
+        139.1,
+        168.4,
+        152.1,
+        144.4
       ]
     },
     "refTable": {
@@ -3168,7 +3401,8 @@
           "Regulatory; capital intensity"
         ]
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "social_cohesion": {
     "title": "Canada: Social Cohesion, Trust & Mental Health Indicators (1985–2026)",
@@ -3379,7 +3613,8 @@
         58.2,
         57.4
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "education": {
     "title": "Canada: Education System — Cost vs. Output (1990–2026)",
@@ -3575,8 +3810,63 @@
         55.4,
         54.8,
         53.5
+      ],
+      "Avg Annual Tuition — Real (2024 CAD $)": [
+        3004.7,
+        3266.2,
+        3782.8,
+        4673.2,
+        5487.2,
+        5618.4,
+        6028,
+        6299.8,
+        6410.8,
+        6484.9,
+        6691.2,
+        6945.3,
+        7094.7,
+        7376.5,
+        7656.9,
+        7866.5,
+        7983.7,
+        8244.6,
+        8082.2,
+        7726.4,
+        7601,
+        7266.8,
+        7235.9,
+        7215,
+        7370.1
+      ],
+      "Avg Student Debt at Grad — Real (2024 CAD $)": [
+        22986.6,
+        25654.6,
+        29646.6,
+        32914.7,
+        37885.1,
+        41817.4,
+        42138.4,
+        43511.5,
+        44408.3,
+        44509.8,
+        45811.1,
+        47922.9,
+        49433.7,
+        50489.7,
+        53324.9,
+        54891.4,
+        56122.7,
+        57270.7,
+        57003.6,
+        54953.8,
+        53603.6,
+        51146.3,
+        51385.4,
+        52400,
+        54643.9
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "energy": {
     "title": "Canada: Energy & Resource Architecture (1990–2026)",
@@ -3765,6 +4055,84 @@
         11.2,
         12.8,
         15.4
+      ],
+      "Oil & Gas Revenue — Real (2024 CAD $B)": [
+        37.4,
+        32.2,
+        32.8,
+        34.7,
+        27.8,
+        41.3,
+        34.1,
+        44.3,
+        56.6,
+        67.9,
+        49.4,
+        59.2,
+        66.9,
+        36.1,
+        28.6,
+        35,
+        42,
+        36.9,
+        21.7,
+        36.8,
+        61.9,
+        43.8,
+        38.5,
+        35.2
+      ],
+      "Alta Resource Revenue — Real (2024 CAD $B)": [
+        12.7,
+        11.1,
+        11.4,
+        12.3,
+        9.2,
+        15.3,
+        12.5,
+        17.2,
+        23.3,
+        30.2,
+        20.4,
+        24.3,
+        28.4,
+        12.5,
+        6,
+        10.1,
+        15.1,
+        12.8,
+        2.8,
+        13.7,
+        30.2,
+        17.2,
+        14.2,
+        12.2
+      ],
+      "Fed Equalization Paid — Real (2024 CAD $B)": [
+        16.6,
+        16.8,
+        15.4,
+        16.5,
+        17.3,
+        18.2,
+        16.9,
+        17.2,
+        16.9,
+        19.2,
+        19.9,
+        20.4,
+        21.6,
+        21.9,
+        22.5,
+        22.6,
+        22.9,
+        23.8,
+        24.5,
+        24.9,
+        24.9,
+        24.3,
+        24.2,
+        24.4
       ]
     },
     "refTable": {
@@ -3859,7 +4227,8 @@
           "0.5"
         ]
       ]
-    }
+    },
+    "lastUpdated": "2026-07-01"
   },
   "provincial": {
     "title": "Canada: Provincial Economic Divergence (2000–2026)",
@@ -4040,7 +4409,8 @@
         ]
       ]
     },
-    "note": "Alberta GDP per capita ($88K) is 2× that of New Brunswick ($43K). Ontario — the supposed economic engine — has $412B in net provincial debt (38.8% of prov GDP) and is losing population to Alberta and Atlantic Canada simultaneously. BC average home price ($1.128M) vs. Saskatchewan ($352K) are not the same housing market. National averages mask all of this."
+    "note": "Alberta GDP per capita ($88K) is 2× that of New Brunswick ($43K). Ontario — the supposed economic engine — has $412B in net provincial debt (38.8% of prov GDP) and is losing population to Alberta and Atlantic Canada simultaneously. BC average home price ($1.128M) vs. Saskatchewan ($352K) are not the same housing market. National averages mask all of this.",
+    "lastUpdated": "2026-07-01"
   },
   "govt_efficiency": {
     "title": "Canada: Government Spending Efficiency (2000–2026)",
@@ -4173,6 +4543,42 @@
         88.1,
         87.4,
         86.2
+      ],
+      "Health Spend per Capita — Real (2024 CAD $)": [
+        4365.5,
+        4603.1,
+        4863.4,
+        5264.5,
+        5748.2,
+        6183.4,
+        6180.4,
+        6201.1,
+        6323.8,
+        6474.6,
+        7256.7,
+        8533.4,
+        7707,
+        7689.4,
+        7724,
+        7899.1
+      ],
+      "Infra Spend — Real (2024 CAD $B)": [
+        37.3,
+        36.7,
+        37.2,
+        41.9,
+        46.2,
+        53,
+        53.1,
+        54.1,
+        57.4,
+        59.3,
+        61.5,
+        66.8,
+        66.4,
+        67.8,
+        68.8,
+        70.4
       ]
     },
     "refTable": {
@@ -4244,6 +4650,236 @@
         ]
       ]
     },
-    "note": "Canada spends $7,724 per capita on healthcare — more than Germany, France, and Japan — yet produces longer wait times and ranks 6th of 7 in value. Infrastructure quality index has fallen every year since 2000 despite rising spend. Public sector productivity has declined 14% since 2000."
+    "note": "Canada spends $7,724 per capita on healthcare — more than Germany, France, and Japan — yet produces longer wait times and ranks 6th of 7 in value. Infrastructure quality index has fallen every year since 2000 despite rising spend. Public sector productivity has declined 14% since 2000.",
+    "lastUpdated": "2026-07-01"
+  },
+  "budget_balance_history": {
+    "title": "Canada: Federal & Provincial Budget Balances (1983–84–2024–25) | % of GDP",
+    "subtitle": "Budgetary balance (surplus/deficit) as a percentage of GDP. Federal government plus the three largest provinces by GDP (Ontario, Quebec, Alberta). Positive = surplus, negative = deficit.",
+    "source": "Source: Department of Finance Canada, Fiscal Reference Tables (November 2025); RBC Economics compiled provincial series (public accounts basis, November 2025). Figures not strictly comparable across provinces due to accounting differences.",
+    "xLabel": "Fiscal Year",
+    "x": [
+      "1983-84",
+      "1984-85",
+      "1985-86",
+      "1986-87",
+      "1987-88",
+      "1988-89",
+      "1989-90",
+      "1990-91",
+      "1991-92",
+      "1992-93",
+      "1993-94",
+      "1994-95",
+      "1995-96",
+      "1996-97",
+      "1997-98",
+      "1998-99",
+      "1999-00",
+      "2000-01",
+      "2001-02",
+      "2002-03",
+      "2003-04",
+      "2004-05",
+      "2005-06",
+      "2006-07",
+      "2007-08",
+      "2008-09",
+      "2009-10",
+      "2010-11",
+      "2011-12",
+      "2012-13",
+      "2013-14",
+      "2014-15",
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "series": {
+      "Federal (% of GDP)": [
+        -7.7,
+        -8,
+        -6.7,
+        -5.7,
+        -5.1,
+        -4.5,
+        -4.3,
+        -4.9,
+        -4.6,
+        -5.4,
+        -5.2,
+        -4.6,
+        -3.6,
+        -1,
+        0.3,
+        0.6,
+        1.4,
+        1.8,
+        0.7,
+        0.6,
+        0.7,
+        0.1,
+        0.9,
+        0.9,
+        0.6,
+        -0.5,
+        -3.6,
+        -2.1,
+        -1.6,
+        -1.2,
+        -0.4,
+        0,
+        0,
+        -0.9,
+        -0.9,
+        -0.6,
+        -1.7,
+        -14.8,
+        -3.6,
+        -1.2,
+        -2.1,
+        -1.2
+      ],
+      "Ontario (% of GDP)": [
+        -2,
+        -1.5,
+        -1.3,
+        -1.2,
+        -1.1,
+        -0.6,
+        0,
+        -1.1,
+        -3.8,
+        -4.2,
+        -3.7,
+        -3.2,
+        -2.6,
+        -2,
+        -1.1,
+        -0.5,
+        0.2,
+        0.4,
+        0,
+        0.1,
+        -1.4,
+        -0.4,
+        0,
+        0.3,
+        0,
+        -0.5,
+        -3.2,
+        -2.7,
+        -2.3,
+        -1.6,
+        -1.7,
+        -1.5,
+        -0.7,
+        -0.3,
+        -0.4,
+        -0.9,
+        -1,
+        -1.9,
+        0.2,
+        -0.6,
+        -0.1,
+        -0.1
+      ],
+      "Quebec (% of GDP)": [
+        -2.3,
+        -3.7,
+        -3.1,
+        -2.5,
+        -1.8,
+        -1.2,
+        -1.2,
+        -1.9,
+        -2.7,
+        -3.1,
+        -3,
+        -3.3,
+        -2.2,
+        -1.7,
+        -1.1,
+        0.1,
+        0,
+        0.6,
+        -0.4,
+        -0.3,
+        -0.1,
+        -0.2,
+        0,
+        0.7,
+        0.5,
+        -0.4,
+        -0.9,
+        -0.7,
+        -0.7,
+        -0.9,
+        -0.6,
+        -0.2,
+        0.8,
+        1,
+        0.7,
+        1.8,
+        0.4,
+        -1,
+        0.5,
+        -0.6,
+        -1,
+        -0.8
+      ],
+      "Alberta (% of GDP)": [
+        0.2,
+        1.9,
+        -1.1,
+        -6.8,
+        -2.2,
+        -3.1,
+        -3.1,
+        -2.4,
+        -3.5,
+        -4.3,
+        -2,
+        0.7,
+        1.2,
+        2.8,
+        2.5,
+        1.1,
+        2.4,
+        4.5,
+        0.7,
+        1.3,
+        2.3,
+        2.7,
+        3.9,
+        3.6,
+        0.9,
+        -0.3,
+        -0.2,
+        -0.8,
+        0,
+        -1,
+        -0.1,
+        0.3,
+        -2,
+        -3.5,
+        -2.4,
+        -1.9,
+        -3.5,
+        -5.6,
+        1,
+        2.5,
+        1,
+        1.8
+      ]
+    },
+    "lastUpdated": "2026-07-01"
   }
 }

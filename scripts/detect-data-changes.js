@@ -10,6 +10,10 @@
  *   node scripts/detect-data-changes.js
  *     -> diffs data.js against scripts/.snapshots/baseline.json
  *     -> writes a draft feed file to scripts/output/feed-draft-<date>.js
+ *     -> AUTO-STAMPS lastUpdated (today's date) on every dataset with a
+ *        detected change, directly in data.js. This is the mechanism that
+ *        keeps per-chart "last updated" timestamps honest — no manual
+ *        reminder needed, run this after any data.js edit.
  *     -> does NOT touch index.html or the baseline — you copy in what you want
  *
  *   node scripts/detect-data-changes.js --update-snapshot
@@ -138,6 +142,18 @@ function main() {
     console.log("No changes detected since last snapshot. Nothing to draft.");
     return;
   }
+
+  // Auto-stamp lastUpdated on every dataset with a detected change.
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const touchedKeys = [...new Set(changes.map(c => c.key))];
+  for (const key of touchedKeys) {
+    if (current[key]) current[key].lastUpdated = todayStr;
+  }
+  const rawOut = "const CANADA_DATA = " + JSON.stringify(current) + ";\n";
+  fs.writeFileSync(DATA_JS, rawOut);
+  console.log(`lastUpdated stamped to ${todayStr} for ${touchedKeys.length} dataset(s): ${touchedKeys.join(", ")}`);
+  console.log("(Remember to bump the data.js cache-bust version param in the HTML pages.)");
+  console.log("");
 
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
