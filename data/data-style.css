@@ -55,10 +55,17 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
 
 /* compare tool */
 .compare-controls{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:32px;}
+.compare-select-group{display:flex;flex-direction:column;gap:6px;}
+.compare-select-group label{
+  font-size:11px;font-weight:600;letter-spacing:0.6px;text-transform:uppercase;
+  color:var(--text-dim);
+}
 .compare-controls select{
   background:var(--bg-alt);color:var(--text);border:1px solid var(--line);
   border-radius:6px;padding:10px 14px;font-family:inherit;font-size:14px;min-width:260px;
 }
+.chart-header.no-toggle{cursor:default;}
+.chart-header.no-toggle:hover{background:none;}
 .nav-back{display:inline-block;margin-top:40px;font-size:13px;color:var(--text-dim);text-decoration:none;}
 .nav-back:hover{color:var(--accent);}
 

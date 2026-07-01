@@ -109,7 +109,10 @@ function initModal(){
 }
 
 function openInfoModal(idx){
-  const m=_modalCharts[idx];
+  openInfoModalData(_modalCharts[idx]);
+}
+
+function openInfoModalData(m){
   document.getElementById("info-modal-title").textContent=m.title;
   document.getElementById("info-modal-body").textContent=m.explain||"No additional explanation available.";
 

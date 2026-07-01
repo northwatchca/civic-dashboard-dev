@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="data-style.css?v=9">
+<link rel="stylesheet" href="data-style.css?v=10">
 </head>
 <body>
 <div class="wrap">
@@ -15,22 +15,48 @@
   <p class="page-sub">Pick any two indicators. Years are synced on a shared x-axis where ranges overlap.</p>
 
   <div class="compare-controls">
-    <select id="sel-a"></select>
-    <select id="sel-b"></select>
+    <div class="compare-select-group">
+      <label for="sel-a">Chart 1</label>
+      <select id="sel-a"></select>
+    </div>
+    <div class="compare-select-group">
+      <label for="sel-b">Chart 2</label>
+      <select id="sel-b"></select>
+    </div>
   </div>
 
   <div class="chart-card">
-    <h3 id="title-a"></h3>
-    <p class="sub" id="sub-a"></p>
-    <div class="chart-box"><canvas id="chart-a"></canvas></div>
-    <div class="src" id="src-a"></div>
+    <div class="chart-header no-toggle">
+      <div class="chart-header-text">
+        <h3 id="title-a"></h3>
+        <p class="sub" id="sub-a"></p>
+      </div>
+      <div class="chart-header-actions">
+        <button class="share-btn" id="share-a" title="Copy link to this chart">Share</button>
+        <button class="info-btn" id="info-a">What does this mean?</button>
+      </div>
+    </div>
+    <div class="chart-body" style="display:block;">
+      <div class="chart-box"><canvas id="chart-a"></canvas></div>
+      <div class="src" id="src-a"></div>
+    </div>
   </div>
 
   <div class="chart-card" style="margin-top:24px;">
-    <h3 id="title-b"></h3>
-    <p class="sub" id="sub-b"></p>
-    <div class="chart-box"><canvas id="chart-b"></canvas></div>
-    <div class="src" id="src-b"></div>
+    <div class="chart-header no-toggle">
+      <div class="chart-header-text">
+        <h3 id="title-b"></h3>
+        <p class="sub" id="sub-b"></p>
+      </div>
+      <div class="chart-header-actions">
+        <button class="share-btn" id="share-b" title="Copy link to this chart">Share</button>
+        <button class="info-btn" id="info-b">What does this mean?</button>
+      </div>
+    </div>
+    <div class="chart-body" style="display:block;">
+      <div class="chart-box"><canvas id="chart-b"></canvas></div>
+      <div class="src" id="src-b"></div>
+    </div>
   </div>
 
   <a class="nav-back" href="index.html">&larr; Back to Data</a>
@@ -40,8 +66,8 @@
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
 <script src="data.js?v=5"></script>
 <script src="chart-config.js?v=7"></script>
-<script src="chart-render.js?v=9"></script>
-<script src="compare.js?v=2"></script>
+<script src="chart-render.js?v=10"></script>
+<script src="compare.js?v=3"></script>
 <script src="../nav.js"></script>
 </body>
 </html>
