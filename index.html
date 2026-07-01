@@ -194,6 +194,27 @@
     margin-top: 4px;
   }
 
+  /* ── About ── */
+  .about-section{padding:0 32px 64px;max-width:760px;margin:0 auto;}
+  .about-wrap{background:#fff;border:1px solid var(--border);border-radius:12px;padding:36px;}
+  .about-eyebrow{font-size:11px;font-weight:600;letter-spacing:1.2px;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:20px;}
+  .about-body p{font-size:14.5px;color:var(--text-mid);line-height:1.75;margin-bottom:16px;}
+  .about-body p:last-child{margin-bottom:0;}
+
+  /* ── Take Action ── */
+  .action-section{padding:0 32px 96px;max-width:760px;margin:0 auto;}
+  .action-wrap{background:#fff;border:1px solid var(--border);border-radius:12px;padding:36px;}
+  .action-eyebrow{font-size:11px;font-weight:600;letter-spacing:1.2px;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:12px;}
+  .action-wrap h2{font-size:20px;font-weight:600;margin-bottom:10px;}
+  .action-desc{font-size:14px;color:var(--text-muted);line-height:1.6;margin-bottom:24px;}
+  .action-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+  .action-card{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:18px;}
+  .action-card-title{font-size:13.5px;font-weight:600;margin-bottom:6px;color:var(--text-bright);}
+  .action-card-desc{font-size:12.5px;color:var(--text-muted);line-height:1.5;}
+  .action-card-desc a{color:var(--accent);text-decoration:none;}
+  .action-card-desc a:hover{text-decoration:underline;}
+  @media(max-width:640px){.action-grid{grid-template-columns:1fr;}}
+
   /* ── What Changed Feed ── */
   .feed-section{padding:0 32px 64px;max-width:760px;margin:0 auto;}
   .feed-wrap{background:#fff;border:1px solid var(--border);border-radius:12px;padding:32px;}
@@ -441,6 +462,45 @@
     <a href="#take-action" class="nav-card">
       <div class="label">Take Action</div>
     </a>
+  </div>
+</section>
+
+<section class="about-section" id="about">
+  <div class="about-wrap">
+    <span class="about-eyebrow">About Northwatch</span>
+    <div class="about-body">
+      <p>Northwatch is an independent civic data resource focused on one question: what is actually happening to Canada, and why?</p>
+      <p>The country produces an enormous amount of public data — on debt, demographics, productivity, housing, social trust. That data rarely reaches ordinary Canadians in a form that's honest, accessible, and free of partisan framing. Northwatch exists to close that gap.</p>
+      <p>This is not a left-wing project or a right-wing project. It's a structural one. The mechanisms driving Canada's decline don't belong to any party — they predate most of them. Understanding those mechanisms is the first step toward doing anything about them.</p>
+      <p>The data on this site is sourced entirely from public institutions — Statistics Canada, the Bank of Canada, the Parliamentary Budget Officer, the OECD. Nothing is invented. Everything is traceable. If you find an error, contact us.</p>
+      <p>Northwatch is independent. It accepts no advertising and is affiliated with no political party, government body, or corporate interest.</p>
+    </div>
+  </div>
+</section>
+
+<section class="action-section" id="take-action">
+  <div class="action-wrap">
+    <span class="action-eyebrow">Take Action</span>
+    <h2>Clarity is only useful if it spreads</h2>
+    <p class="action-desc">The most powerful thing you can do with this data is share it. A citizen who understands the mechanism of a problem is harder to manipulate than one who only feels it.</p>
+    <div class="action-grid">
+      <div class="action-card">
+        <div class="action-card-title">Share the site</div>
+        <div class="action-card-desc">Send thenorthwatch.ca to someone who's asking the right questions but doesn't have the data yet.</div>
+      </div>
+      <div class="action-card">
+        <div class="action-card-title">Follow on X</div>
+        <div class="action-card-desc">Regular data updates, threshold alerts, and policy analysis at <a href="https://x.com/NorthwatchCA" target="_blank">@NorthwatchCA</a>.</div>
+      </div>
+      <div class="action-card">
+        <div class="action-card-title">Watch on YouTube</div>
+        <div class="action-card-desc">Video essays on the structural mechanisms behind the data. Subscribe at <a href="https://youtube.com/@NorthwatchCA" target="_blank">@NorthwatchCA</a>.</div>
+      </div>
+      <div class="action-card">
+        <div class="action-card-title">Challenge the data</div>
+        <div class="action-card-desc">Found an error or a missing dataset? Every claim on this site is traceable. Hold us to it.</div>
+      </div>
+    </div>
   </div>
 </section>
 
