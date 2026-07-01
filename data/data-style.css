@@ -150,6 +150,15 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;}
 }
 .csv-btn:hover{border-color:var(--accent);color:var(--accent);}
 
+/* "image download" button */
+.img-btn{
+  background:none;border:1px solid var(--line);color:var(--text-dim);
+  border-radius:16px;height:28px;padding:0 12px;font-size:12px;font-weight:600;
+  cursor:pointer;display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;transition:border-color .15s,color .15s;white-space:nowrap;
+}
+.img-btn:hover{border-color:var(--accent);color:var(--accent);}
+
 /* deep-link highlight flash */
 @keyframes shareHighlight{
   0%{box-shadow:0 0 0 3px rgba(200,45,41,0.35);}

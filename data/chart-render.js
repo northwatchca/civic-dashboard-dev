@@ -299,6 +299,106 @@ function downloadChartCSV(canvasId){
   URL.revokeObjectURL(url);
 }
 
+/* ── chart-as-image export ───────────────────────────────── */
+function wrapCanvasText(ctx,text,maxWidth,maxLines){
+  const words=text.split(" ");
+  const lines=[];
+  let line="";
+  for(const word of words){
+    const test=line?line+" "+word:word;
+    if(ctx.measureText(test).width>maxWidth&&line){
+      lines.push(line);
+      line=word;
+      if(lines.length===maxLines-1){
+        // last allowed line — fill remainder and truncate with ellipsis if needed
+        let rest=[line,...words.slice(words.indexOf(word)+1)].join(" ");
+        while(ctx.measureText(rest+"…").width>maxWidth&&rest.length>1){
+          rest=rest.slice(0,-1);
+        }
+        lines.push(rest.length<line.length?rest+"…":rest);
+        return lines;
+      }
+    }else{
+      line=test;
+    }
+  }
+  if(line)lines.push(line);
+  return lines;
+}
+
+function downloadChartImage(canvasId){
+  const srcCanvas=document.getElementById(`chart-${canvasId}`);
+  if(!srcCanvas)return;
+  const meta=_csvExportMap[canvasId]||{};
+  const title=meta.title||canvasId;
+  const subtitle=meta.subtitle||"";
+
+  const pad=40;
+  const w=srcCanvas.width;
+  const h=srcCanvas.height;
+
+  // measure title/subtitle to size header dynamically
+  const measureCtx=document.createElement("canvas").getContext("2d");
+  measureCtx.font="bold 22px Inter, sans-serif";
+  const titleLines=wrapCanvasText(measureCtx,title,w,2);
+  const titleLineHeight=28;
+  const subtitleHeight=subtitle?20:0;
+
+  const topPad=28;
+  const headerH=topPad+titleLines.length*titleLineHeight+subtitleHeight+16;
+  const footerH=44;
+
+  const out=document.createElement("canvas");
+  out.width=w+pad*2;
+  out.height=headerH+h+footerH;
+  const ctx=out.getContext("2d");
+
+  // background
+  ctx.fillStyle="#f7f5f1";
+  ctx.fillRect(0,0,out.width,out.height);
+
+  // accent bar
+  ctx.fillStyle="#c82d29";
+  ctx.fillRect(0,0,out.width,5);
+
+  // title
+  ctx.fillStyle="#111110";
+  ctx.font="bold 22px Inter, sans-serif";
+  ctx.textBaseline="top";
+  titleLines.forEach((line,i)=>ctx.fillText(line,pad,topPad+i*titleLineHeight));
+
+  // subtitle
+  if(subtitle){
+    ctx.fillStyle="#7a7670";
+    ctx.font="14px Inter, sans-serif";
+    ctx.fillText(subtitle,pad,topPad+titleLines.length*titleLineHeight+2);
+  }
+
+  // chart
+  ctx.drawImage(srcCanvas,pad,headerH,w,h);
+
+  // footer divider + attribution
+  ctx.strokeStyle="rgba(17,17,16,0.15)";
+  ctx.beginPath();
+  ctx.moveTo(pad,headerH+h+16);
+  ctx.lineTo(out.width-pad,headerH+h+16);
+  ctx.stroke();
+
+  ctx.fillStyle="#7a7670";
+  ctx.font="13px Inter, sans-serif";
+  ctx.textBaseline="top";
+  ctx.fillText("thenorthwatch.ca",pad,headerH+h+24);
+
+  const url=out.toDataURL("image/png");
+  const a=document.createElement("a");
+  const safeName=(title||canvasId).toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");
+  a.href=url;
+  a.download=`northwatch-${safeName||canvasId}.png`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
 /* ── collapse/expand all ─────────────────────────────────── */
 function expandAll(){
   document.querySelectorAll(".chart-card.collapsed").forEach(card=>{
@@ -372,7 +472,7 @@ function renderCategory(catKey){
 
     _modalCharts.push({title,explain,verdict,legendItems,citedThreshold:c.citedThreshold||"",relatedCharts:c.relatedCharts||[]});
 
-    _csvExportMap[canvasId]={dataKey:c.key,seriesNames:shownSeries,xLabel:d.xLabel||"",title};
+    _csvExportMap[canvasId]={dataKey:c.key,seriesNames:shownSeries,xLabel:d.xLabel||"",title,subtitle:subtitle||""};
 
     const card=document.createElement("div");
     card.className="chart-card collapsed";
@@ -393,6 +493,7 @@ function renderCategory(catKey){
         <div class="chart-header-actions">
           <button class="share-btn" onclick="event.stopPropagation();shareChart('${canvasId}', this)" title="Copy link to this chart">Share</button>
           <button class="csv-btn" onclick="event.stopPropagation();downloadChartCSV('${canvasId}')" title="Download this chart's data as CSV">CSV</button>
+          <button class="img-btn" onclick="event.stopPropagation();downloadChartImage('${canvasId}')" title="Download this chart as a branded PNG image">Image</button>
           <button class="info-btn" onclick="event.stopPropagation();openInfoModal(${modalIdx})">What does this mean?</button>
           <span class="toggle-arrow">▼</span>
         </div>
