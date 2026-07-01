@@ -129,6 +129,7 @@ function openInfoModal(idx){
     if(catUpper.indexOf("BAD")!==-1){cls="v-bad";label="Bad";}
     else if(catUpper.indexOf("MIXED")!==-1){cls="v-mixed";label=catUpper.indexOf("POSITIVE")!==-1?"Mixed / Positive":"Mixed";}
     else if(catUpper.indexOf("CONTEXT")!==-1){cls="v-context";label="Context";}
+    label="Chart Analysis: "+label;
     verdictBox.className="info-modal-verdict "+cls;
     tagEl.textContent=label;
     textEl.textContent=text;
