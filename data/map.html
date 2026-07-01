@@ -181,11 +181,10 @@ function buildMap(mKey){
   const min=Math.min(...vals), max=Math.max(...vals);
 
   const projection=d3.geoMercator()
-    .fitExtent([[20,20],[940,540]],geoData);
+    .fitExtent([[20,20],[940,520]],geoData);
 
   const path=d3.geoPath().projection(projection);
 
-  // Add noise texture filter
   const defs=svg.append("defs");
   const filter=defs.append("filter").attr("id","grain").attr("x","0%").attr("y","0%").attr("width","100%").attr("height","100%");
   filter.append("feTurbulence").attr("type","fractalNoise").attr("baseFrequency","0.65").attr("numOctaves","3").attr("stitchTiles","stitch").attr("result","noise");
@@ -195,7 +194,7 @@ function buildMap(mKey){
 
   const g=svg.append("g").attr("filter","url(#grain)");
 
-  // Draw US states first (background, neutral)
+  // US states — background context only, no interaction
   if(usData){
     g.selectAll(".us-state")
       .data(usData.features)
@@ -203,9 +202,9 @@ function buildMap(mKey){
       .append("path")
       .attr("class","us-state")
       .attr("d",path)
-      .attr("fill","#d8d4cc")
+      .attr("fill","#ccc9c0")
       .attr("stroke","#f7f5f1")
-      .attr("stroke-width","0.5")
+      .attr("stroke-width","0.4")
       .style("pointer-events","none");
   }
 
