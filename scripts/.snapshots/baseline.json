@@ -5024,5 +5024,72 @@
       ]
     },
     "lastUpdated": "2026-07-02"
+  },
+  "tax_filers_by_bracket": {
+    "title": "Tax Filers by Federal Income Bracket (2024 Tax Year) | % of Filers",
+    "subtitle": "Share of all Canadian tax filers whose taxable income falls in each federal bracket. 63.9% of filers never leave the lowest bracket.",
+    "source": "Source: Canada Revenue Agency, Individual Tax Statistics by Tax Bracket, 2026 Edition (2024 tax year), Table 1.",
+    "xLabel": "Federal Tax Bracket",
+    "x": [
+      "Up to $55,867",
+      "$55,867–$111,733",
+      "$111,733–$173,205",
+      "$173,205–$246,752",
+      "Over $246,752"
+    ],
+    "series": {
+      "Share of Tax Filers (%)": [
+        63.86,
+        26.5,
+        6.28,
+        1.84,
+        1.52
+      ]
+    },
+    "lastUpdated": "2026-07-02"
+  },
+  "corporate_tax_revenue_trend": {
+    "title": "Federal Corporate Income Tax Revenue, Selected Years (2000–25) | $B",
+    "subtitle": "Nominal dollars, selected fiscal years with confirmed published figures — not a continuous annual series.",
+    "source": "Source: House of Commons Standing Committee on Finance (2007), citing Statistics Canada CANSIM 385-0002; Office of the Parliamentary Budget Officer, \"Composition of Corporate Income Tax Revenue, 2018 to 2022\" (2024); Department of Finance Canada, Annual Financial Report of the Government of Canada FY2024-25.",
+    "xLabel": "Fiscal Year",
+    "x": [
+      "2000-01",
+      "2006-07",
+      "2019-20",
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "series": {
+      "Corporate Income Tax Revenue ($B)": [
+        28.6,
+        38,
+        50.1,
+        93.9,
+        82.2,
+        97
+      ]
+    },
+    "lastUpdated": "2026-07-02"
+  },
+  "avg_federal_tax_per_filer": {
+    "title": "Average Net Federal Tax Paid Per Filer (2013, 2016, 2024) | $",
+    "subtitle": "Total net federal income tax collected divided by total tax filers. Federal tax only — excludes provincial income tax, CPP/QPP, and EI.",
+    "source": "Source: Canada Revenue Agency, Individual Tax Statistics by Tax Bracket — Table 1 (filer counts) and Table 3 (net federal tax), 2013, 2016, and 2024 tax years. Calculated: total net federal tax ÷ total filers.",
+    "xLabel": "Tax Year",
+    "x": [
+      2013,
+      2016,
+      2024
+    ],
+    "series": {
+      "Average Net Federal Tax per Filer ($)": [
+        4682,
+        4893,
+        7046
+      ]
+    },
+    "lastUpdated": "2026-07-02"
   }
 }

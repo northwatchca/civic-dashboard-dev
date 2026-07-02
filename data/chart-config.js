@@ -607,6 +607,27 @@ const CHART_CONFIG = {
         legendExplain: {
           "Effective Tax Rate, All Filers (%)": "Total federal and provincial/territorial income tax plus CPP/QPP and EI contributions, divided by total income, averaged across all Canadian tax filers."
         }
+      },
+      { key: "tax_filers_by_bracket", id: "tax_filers_by_bracket", type: "horizontalBar", relatedCharts: ["tax_top_marginal", "avg_federal_tax_per_filer", "effective_tax_rate_trend"],
+        explain: "What proportion of Canadians actually fall into which federal tax bracket. 63.9% of filers never leave the lowest bracket ($55,867 or less); only 1.5% reach the top bracket ($246,752 or more). This is the population distribution behind every rate discussion on this page.",
+        verdict: "CONTEXT — Bracket population, not tax burden. A filer in the lowest bracket pays 14% on income in that bracket only, not their whole income — see the Effective Tax Rate chart for what filers actually pay on average.",
+        legendExplain: {
+          "Share of Tax Filers (%)": "Percentage of all Canadian tax filers whose taxable income places them in that federal bracket, 2024 tax year."
+        }
+      },
+      { key: "corporate_tax_revenue_trend", id: "corporate_tax_revenue_trend", type: "line", relatedCharts: ["federal_revenue_by_source", "tax_to_gdp_oecd", "avg_federal_tax_per_filer"],
+        explain: "Federal corporate income tax revenue at six confirmed points since 2000. Revenue roughly tripled from 2000-01 to 2024-25 in nominal dollars, with the sharpest jump following the pandemic as corporate profits surged. Data points reflect years with independently published figures — the gaps between them are not annual data and should not be read as a smooth trend.",
+        verdict: "CONTEXT — Six confirmed data points across 25 years, not a continuous series. Corporate tax revenue depends heavily on corporate profitability, which is cyclical.",
+        legendExplain: {
+          "Corporate Income Tax Revenue ($B)": "Federal corporate income tax revenue collected that fiscal year, in nominal (not inflation-adjusted) dollars."
+        }
+      },
+      { key: "avg_federal_tax_per_filer", id: "avg_federal_tax_per_filer", type: "line", relatedCharts: ["tax_filers_by_bracket", "effective_tax_rate_trend", "corporate_tax_revenue_trend"],
+        explain: "Total net federal income tax collected divided by total tax filers, at three points CRA has published matching filer-count and tax-collected data for. This is federal tax only — it excludes provincial income tax, CPP/QPP, and EI, so it understates a filer's total tax bill.",
+        verdict: "CONTEXT — Federal income tax only. For total tax burden including provincial tax and payroll contributions, see the Effective Tax Rate chart.",
+        legendExplain: {
+          "Average Net Federal Tax per Filer ($)": "Total federal income tax collected from all filers, divided by the number of filers, for that tax year."
+        }
       }
     ]
   }
