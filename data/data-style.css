@@ -97,13 +97,13 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;line-height:1.05;margin:0 0 8p
 .chart-header{
   display:flex;align-items:flex-start;justify-content:space-between;gap:12px;
   padding:20px 24px 16px;cursor:pointer;user-select:none;
-  transition:background .15s;
+  transition:background .15s;flex-wrap:wrap;
 }
 @media (hover:hover) and (pointer:fine){.chart-header:hover{background:#f2efe9;}}
-.chart-header-text{flex:1;min-width:0;}
+.chart-header-text{flex:1;min-width:180px;}
 .chart-header-text h3{margin:0 0 4px;font-size:17px;}
 .chart-header-text .sub{margin:0;font-size:13px;color:var(--text-dim);}
-.chart-header-actions{display:flex;align-items:center;gap:10px;flex-shrink:0;margin-top:2px;}
+.chart-header-actions{display:flex;align-items:center;gap:10px;flex-shrink:0;margin-top:2px;flex-wrap:wrap;}
 .toggle-arrow{font-size:11px;color:var(--text-dim);transition:transform .2s;}
 
 @media (max-width:480px){
