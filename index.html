@@ -4,15 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Northwatch — A Canadian Civic Data Resource</title>
-<meta name="description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 44+ charts, sourced from Statistics Canada and government data.">
+<meta name="description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 51 metrics across seven categories, sourced from Statistics Canada and government data.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Northwatch — A Canadian Civic Data Resource">
-<meta property="og:description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 44+ charts, sourced from Statistics Canada and government data.">
+<meta property="og:description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 51 metrics across seven categories, sourced from Statistics Canada and government data.">
 <meta property="og:url" content="https://northwatchca.github.io/civic-dashboard-dev/">
 <meta property="og:site_name" content="Northwatch">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Northwatch — A Canadian Civic Data Resource">
-<meta name="twitter:description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 44+ charts, sourced from Statistics Canada and government data.">
+<meta name="twitter:description" content="A neutral, citable data resource tracking Canada's structural economic, fiscal, demographic, and social trends. 51 metrics across seven categories, sourced from Statistics Canada and government data.">
 <link rel="canonical" href="https://northwatchca.github.io/civic-dashboard-dev/">
 <link rel="alternate" type="application/rss+xml" title="Northwatch — What Changed" href="rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,10 +43,19 @@
 
   .hero {
     padding: 72px 32px 56px;
-    max-width: 620px;
+    max-width: 900px;
     margin: 0 auto;
-    text-align: center;
   }
+
+  .hero-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    text-align: left;
+  }
+
+  .hero-text { flex: 1; min-width: 0; }
 
   .hero .eyebrow {
     color: var(--text-muted);
@@ -70,14 +79,11 @@
     line-height: 1.6;
     margin-bottom: 32px;
     max-width: 460px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .hero .buttons {
     display: flex;
     gap: 12px;
-    justify-content: center;
   }
 
   .btn-primary {
@@ -91,16 +97,57 @@
     cursor: pointer;
   }
 
-  .btn-secondary {
-    background: transparent;
-    color: var(--text-bright);
-    border: 0.5px solid #ccc8c0;
-    padding: 12px 24px;
-    border-radius: 6px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
+  .hero-badge {
+    flex-shrink: 0;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 26px;
+    text-align: center;
+    min-width: 150px;
   }
+
+  .hero-badge .hb-eyebrow {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+  }
+
+  .hero-badge .hb-score {
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .hero-badge .hb-denom {
+    font-size: 13px;
+    color: var(--text-muted);
+    font-weight: 400;
+  }
+
+  .hero-badge .hb-verdict {
+    display: inline-block;
+    color: #fff;
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    padding: 3px 9px;
+    border-radius: 4px;
+    margin: 8px 0 4px;
+  }
+
+  .hero-badge a {
+    display: block;
+    font-size: 11px;
+    color: var(--text-muted);
+    text-decoration: underline;
+    margin-top: 6px;
+  }
+  .hero-badge a:hover { color: var(--text-bright); }
 
   .stats {
     padding: 0 32px 64px;
@@ -329,9 +376,12 @@
   .rwi-footer a:hover { text-decoration: none; }
 
   @media (max-width: 640px) {
-    .hero .buttons { flex-direction: column; gap: 14px; }
-    .btn-primary, .btn-secondary { width: 100%; padding: 14px 24px; }
+    .hero-inner { flex-direction: column; text-align: center; gap: 24px; }
+    .hero p { margin-left: auto; margin-right: auto; }
+    .hero .buttons { flex-direction: column; gap: 14px; justify-content: center; }
+    .btn-primary { width: 100%; padding: 14px 24px; }
     .hero .buttons a { width: 100%; display: block; }
+    .hero-badge { width: 100%; }
     .stats-grid, .nav-cards-grid { grid-template-columns: repeat(2, 1fr); }
     .hero h1 { font-size: 26px; }
     .rwi-pillars { grid-template-columns: repeat(2, 1fr); }
@@ -345,18 +395,37 @@
 
 <main>
 <section class="hero">
-  <p class="eyebrow">A civic data resource</p>
-  <h1>The country runs the numbers. We just read them out loud.</h1>
-  <p>Twenty-five datasets tracing the structural decline of a G7 nation — debt, demographics, productivity, trust. Public data, no spin, traced to its causes.</p>
-  <div class="buttons">
-    <a href="data/index.html"><button class="btn-primary">Explore the data</button></a>
-    <a href="thesis.html"><button class="btn-secondary">Read the thesis</button></a>
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="eyebrow">A civic data resource</p>
+      <h1>Every claim traceable. Every source public.</h1>
+      <p>51 publicly sourced metrics. Debt, demographics, productivity, trust — honest analysis, no spin.</p>
+      <div class="buttons">
+        <a href="data/index.html"><button class="btn-primary">Explore the data</button></a>
+      </div>
+    </div>
+    <div class="hero-badge" id="hero-badge"></div>
   </div>
 </section>
 
 <section class="rwi-section" id="rwi-section"></section>
 <script src="northwatch-index.js"></script>
-<script>renderRWI();</script>
+<script>
+renderRWI();
+(function renderHeroBadge(){
+  const el = document.getElementById("hero-badge");
+  if(!el) return;
+  const { total } = RWI;
+  const color = getRWIColor(total);
+  const verdict = getRWILabel(total);
+  el.innerHTML = `
+    <div class="hb-eyebrow">Northwatch Index</div>
+    <span class="hb-score" style="color:${color}">${total}</span><span class="hb-denom">/100</span>
+    <div class="hb-verdict" style="background:${color}">${verdict}</div>
+    <a href="#rwi-section">Full breakdown ↓</a>
+  `;
+})();
+</script>
 
 <section class="stats">
   <div class="stats-grid">
@@ -501,7 +570,7 @@ const FEED = [
     date: "2026-07-01",
     tag: "feature",
     title: "Site launched — Northwatch is live",
-    note: "Policy timeline, Northwatch Index, six chart categories, and 44 datasets now publicly accessible."
+    note: "Policy timeline, Northwatch Index, seven chart categories, and 51 metrics now publicly accessible."
   },
   {
     direction: "new",
