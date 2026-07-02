@@ -24,7 +24,7 @@ a{color:var(--text);}
 .breadcrumb{font-size:13px;color:var(--text-dim);margin-bottom:24px;}
 .breadcrumb a{color:var(--text-dim);text-decoration:none;}
 .breadcrumb a:hover{color:var(--accent);}
-h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;border-left:2px solid #c11f1f;padding-left:18px;}
+h1{font-size:clamp(28px,4vw,42px);font-weight:600;line-height:1.05;margin:0 0 8px;border-left:2px solid #c11f1f;padding-left:18px;}
 .page-sub{color:var(--text-dim);font-size:15px;max-width:640px;margin-bottom:48px;}
 
 /* category index cards */
@@ -43,7 +43,7 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;margin:0 0 8px;border-left:2px
 .chart-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:32px;}
 .chart-section-header{margin:12px 0 -4px;padding-top:24px;border-top:2px solid var(--line,#e2dfd8);}
 .chart-section-header:first-child{margin-top:0;padding-top:0;border-top:none;}
-.chart-section-header h3{font-size:16px;font-weight:700;color:var(--text,#111110);margin:0 0 4px;text-transform:uppercase;letter-spacing:0.04em;border-left:1.5px solid #c11f1f;padding-left:12px;}
+.chart-section-header h3{font-size:16px;font-weight:700;line-height:1.05;color:var(--text,#111110);margin:0 0 4px;text-transform:uppercase;letter-spacing:0.04em;border-left:1.5px solid #c11f1f;padding-left:12px;}
 .chart-section-header p{font-size:13px;color:var(--text-dim,#706c66);margin:0;}
 
 /* reference tables (small static data attached to a chart) */
