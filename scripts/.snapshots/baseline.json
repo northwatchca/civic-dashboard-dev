@@ -1,6 +1,6 @@
 {
   "living_standards": {
-    "title": "Canada: Living Standards Divergence | Real GDP vs. Real GDP Per Capita (1961–2026)",
+    "title": "Living Standards Divergence | Real GDP vs. Real GDP Per Capita (1961–2026)",
     "subtitle": "Index base 1961 = 100. Total GDP grows with population; Per Capita GDP reveals whether individual living standards are actually rising.",
     "source": "Source: Statistics Canada, Table 36-10-0104-01 (GDP, expenditure-based) & Table 17-10-0005-01 (population). Blue values = user-editable inputs.",
     "xLabel": "Year",
@@ -57,7 +57,7 @@
     "lastUpdated": "2026-07-01"
   },
   "household_debt": {
-    "title": "Canada: Private Credit Risk Timeline | Household Debt-to-Disposable Income Ratio (1990–2026)",
+    "title": "Private Credit Risk Timeline | Household Debt-to-Disposable Income Ratio (1990–2026)",
     "subtitle": "Ratio = Total Credit Market Debt ÷ Gross Disposable Income × 100. A ratio above 100% means households owe more than they earn annually.",
     "source": "Source: Statistics Canada, Table 38-10-0235-01 (National Balance Sheet Accounts). Blue values = user-editable inputs.",
     "xLabel": "Year",
@@ -121,7 +121,7 @@
     "lastUpdated": "2026-07-01"
   },
   "capital_allocation": {
-    "title": "Canada: Structural GDP Shifts by Major Sector (1997–2026) | % of Total GDP",
+    "title": "Structural GDP Shifts by Major Sector (1997–2026) | % of Total GDP",
     "subtitle": "NAICS-based industry classification. Tracks capital concentration over 30 years — Real Estate rising, Manufacturing declining = capital decoupling from productive assets.",
     "source": "Source: Statistics Canada, Table 36-10-0401-01 (GDP by industry, NAICS). Blue values = user-editable inputs.",
     "xLabel": "Year",
@@ -184,7 +184,7 @@
     "lastUpdated": "2026-07-01"
   },
   "sector_snapshot": {
-    "title": "Canada: Capital Allocation Profile | GDP Contribution by Sector (2026 Snapshot)",
+    "title": "Capital Allocation Profile | GDP Contribution by Sector (2026 Snapshot)",
     "subtitle": "Percentage share of total GDP by industry sector. Real Estate alone (13.5%) exceeds Manufacturing + Technology + Finance combined.",
     "source": "Source: Statistics Canada, Table 36-10-0401-01. Blue values = user-editable inputs.",
     "xLabel": "Industry Sector",
@@ -223,7 +223,7 @@
     "lastUpdated": "2026-07-01"
   },
   "dept_funding": {
-    "title": "Canada: Federal Department Funding | 2026–27 Main Estimates (CAD Billions)",
+    "title": "Federal Department Funding | 2026–27 Main Estimates (CAD Billions)",
     "subtitle": "Budgetary authorities (voted + statutory) per department. Excludes Department of Finance flow-throughs (Health Transfer, Equalization, Debt Servicing ~$110B+).",
     "source": "Source: Government of Canada Main Estimates 2026-27, Treasury Board Secretariat. Blue values = user-editable inputs. Black = formula.",
     "xLabel": "Federal Department",
@@ -292,7 +292,7 @@
     "lastUpdated": "2026-07-01"
   },
   "fiscal_context": {
-    "title": "Canada: Fiscal Architecture — What the Department Figures Don't Show",
+    "title": "Fiscal Architecture — What the Department Figures Don't Show",
     "subtitle": "The 20-department table covers ~$143B. Total federal spending is ~$500B+. The gap is explained by the flows below.",
     "source": "Flow-Through / Transfer",
     "xLabel": "Canada Health Transfer (CHT)",
@@ -322,7 +322,7 @@
     "lastUpdated": "2026-07-01"
   },
   "gdp_by_sector": {
-    "title": "Canada: GDP Share by Industry Sector — Annual Time Series (1997–2026) | % of Total GDP",
+    "title": "GDP Share by Industry Sector — Annual Time Series (1997–2026) | % of Total GDP",
     "subtitle": "NAICS-based classification introduced 1997 — earliest date with consistent cross-sector comparability. 13 major sectors tracked annually. Values = % of total GDP at basic prices, current dollars.",
     "source": "Source: Statistics Canada, Table 36-10-0401-01 (GDP at basic prices by industry, NAICS). Blue values = user-editable inputs.",
     "xLabel": "Year",
@@ -779,7 +779,7 @@
     "lastUpdated": "2026-07-01"
   },
   "dept_spending_hist": {
-    "title": "Canada: Federal Department Spending Trends — Key Departments (2000–2026) | CAD Billions",
+    "title": "Federal Department Spending Trends — Key Departments (2000–2026) | CAD Billions",
     "subtitle": "5 departments with longest continuous data comparability. Pre-2000 comparisons are unreliable due to major restructurings (HRDC→ESDC split 2004; INAC→ISC+CIRNAC split 2017). Nominal CAD billions.",
     "source": "Sources: Public Accounts of Canada (Receiver General), Treasury Board Main Estimates 2000–2026. Blue values = user-editable inputs.",
     "xLabel": "Fiscal Year",
@@ -1020,7 +1020,7 @@
     "lastUpdated": "2026-07-01"
   },
   "fed_debt_deficit": {
-    "title": "Canada: Federal Debt & Deficit Trajectory (1970–2026)",
+    "title": "Federal Debt & Deficit Trajectory (1970–2026)",
     "subtitle": "Federal net debt as % of GDP and annual budgetary balance. The 1995 fiscal crisis and 2020 COVID shock are the two defining structural inflection points.",
     "source": "Sources: Dept of Finance Canada — Fiscal Reference Tables; Statistics Canada Table 36-10-0104-01; Parliamentary Budget Officer. Blue = editable inputs.",
     "xLabel": "Year",
@@ -1269,7 +1269,7 @@
     "lastUpdated": "2026-07-01"
   },
   "productivity_g7": {
-    "title": "Canada: Labour Productivity vs. G7 Peers (2000–2026) | GDP per Hour Worked, Index 2000=100",
+    "title": "Labour Productivity vs. G7 Peers (2000–2026) | GDP per Hour Worked, Index 2000=100",
     "subtitle": "Measures real output per hour worked — the truest gauge of economic efficiency. Canada ranks last in the G7 for productivity growth over this period.",
     "source": "Sources: OECD Productivity Statistics; Conference Board of Canada; Statistics Canada Table 36-10-0208-01. Blue = editable inputs.",
     "xLabel": "Year",
@@ -1510,7 +1510,7 @@
     "lastUpdated": "2026-07-01"
   },
   "housing": {
-    "title": "Canada: Housing Affordability Crisis | House Price Index vs. Median Income (1990–2026)",
+    "title": "Housing Affordability Crisis | House Price Index vs. Median Income (1990–2026)",
     "subtitle": "National composite house price index (2005=100) alongside median household income and price-to-income ratio. Connects household debt (Sheet 2) to capital allocation (Sheet A) — real estate wealth concentration made visible.",
     "source": "Sources: Teranet-National Bank House Price Index; Statistics Canada Table 11-10-0190-01 (household income); CREA national average. Blue = editable inputs.",
     "xLabel": "Year",
@@ -1791,7 +1791,7 @@
     "lastUpdated": "2026-07-01"
   },
   "population": {
-    "title": "Canada: Population Growth & Immigration Intake (1990–2026)",
+    "title": "Population Growth & Immigration Intake (1990–2026)",
     "subtitle": "Annual population growth, permanent resident admissions, and non-permanent residents (NPR). Contextualises the GDP/per-capita divergence in Sheet 1 — growth is demographic, not productivity-driven.",
     "source": "Sources: Statistics Canada Tables 17-10-0008-01, 17-10-0040-01; IRCC Annual Report; OECD International Migration Database. Blue = editable inputs.",
     "xLabel": "Year",
@@ -2073,7 +2073,7 @@
     "lastUpdated": "2026-07-01"
   },
   "labour_market": {
-    "title": "Canada: Labour Market Health (2000–2026) | Employment, Participation & Wages",
+    "title": "Labour Market Health (2000–2026) | Employment, Participation & Wages",
     "subtitle": "Unemployment rate, labour force participation rate, and real wage growth. Low unemployment can mask declining participation and stagnant real purchasing power.",
     "source": "Sources: Statistics Canada Tables 14-10-0017-01, 14-10-0027-01, 18-10-0005-01 (CPI); Labour Force Survey. Blue = editable inputs.",
     "xLabel": "Year",
@@ -2285,7 +2285,7 @@
     "lastUpdated": "2026-07-01"
   },
   "inflation_boc": {
-    "title": "Canada: Inflation & Bank of Canada Overnight Rate (2000–2026)",
+    "title": "Inflation & Bank of Canada Overnight Rate (2000–2026)",
     "subtitle": "CPI inflation vs. BoC policy rate. The 2022-24 rate hike cycle (0.25%→5.0%) was the fastest tightening in 40 years — directly impacting 179% household debt-to-income ratio shown in Sheet 2.",
     "source": "Sources: Bank of Canada, Statistics Canada Table 18-10-0004-01 (CPI). Blue = editable inputs.",
     "xLabel": "Year",
@@ -2439,7 +2439,7 @@
     "lastUpdated": "2026-07-01"
   },
   "trade": {
-    "title": "Canada: Trade Dependency & Current Account Balance (2000–2026)",
+    "title": "Trade Dependency & Current Account Balance (2000–2026)",
     "subtitle": "Exports/imports as % of GDP, US trade concentration, and current account balance. Canada's ~75% export dependency on the US is a single-point-of-failure in the national economic architecture.",
     "source": "Sources: Statistics Canada Table 36-10-0015-01; Bank of Canada; Global Affairs Canada trade data. Blue = editable inputs.",
     "xLabel": "Year",
@@ -2680,7 +2680,7 @@
     "lastUpdated": "2026-07-01"
   },
   "wealth_inequality": {
-    "title": "Canada: Wealth Distribution & Income Inequality (1976–2026)",
+    "title": "Wealth Distribution & Income Inequality (1976–2026)",
     "subtitle": "Gini coefficient, top-decile income share, labour vs. capital share of GDP. Tests whether growth is broadly shared or captured by a narrow ownership class.",
     "source": "Sources: Statistics Canada Tables 11-10-0055-01, 36-10-0104-01; World Inequality Database; OECD Income Distribution Database. Blue = editable inputs.",
     "xLabel": "Year",
@@ -2885,7 +2885,7 @@
     "lastUpdated": "2026-07-01"
   },
   "fertility": {
-    "title": "Canada: Fertility Rate & Demographic Structure (1960–2026)",
+    "title": "Fertility Rate & Demographic Structure (1960–2026)",
     "subtitle": "Total Fertility Rate (TFR), age dependency ratio, and immigrant vs. native-born fertility convergence. Immigration cannot structurally replace endogenous fertility — second-generation convergence closes the argument.",
     "source": "Sources: Statistics Canada Tables 13-10-0418-01, 17-10-0005-01; OECD Family Database; World Bank fertility data. Blue = editable inputs.",
     "xLabel": "Year",
@@ -3146,7 +3146,7 @@
     "lastUpdated": "2026-07-01"
   },
   "corporate_concentration": {
-    "title": "Canada: Corporate Concentration & Profit Extraction (1990–2026)",
+    "title": "Corporate Concentration & Profit Extraction (1990–2026)",
     "subtitle": "Market concentration in key oligopolistic sectors, corporate profit margins, effective tax rates, and dividend/buyback volumes vs. productive reinvestment. Direct empirical test of elite capture thesis.",
     "source": "Sources: Statistics Canada Tables 33-10-0006-01, 36-10-0104-01; Competition Bureau Canada; CMHC; CRTC; Office of the Superintendent of Financial Institutions. Blue = editable inputs.",
     "xLabel": "Year",
@@ -3405,7 +3405,7 @@
     "lastUpdated": "2026-07-01"
   },
   "social_cohesion": {
-    "title": "Canada: Social Cohesion, Trust & Mental Health Indicators (1985–2026)",
+    "title": "Social Cohesion, Trust & Mental Health Indicators (1985–2026)",
     "subtitle": "Social trust, civic participation, mental health, opioid deaths, and loneliness metrics. These are the civilizational health indicators that GDP cannot capture — and they are all deteriorating.",
     "source": "Sources: Environics Institute Social Values Survey; Statistics Canada GSS Tables 45-10-0007-01, 43-10-0007-01; Public Health Agency of Canada (opioid); Angus Reid Institute. Blue = editable inputs.",
     "xLabel": "Year",
@@ -3617,7 +3617,7 @@
     "lastUpdated": "2026-07-01"
   },
   "education": {
-    "title": "Canada: Education System — Cost vs. Output (1990–2026)",
+    "title": "Education System — Cost vs. Output (1990–2026)",
     "subtitle": "Post-secondary tuition, student debt, credential inflation, PISA scores, and trades vs. degree enrollment. The education system produces credentialled debt-holders, not skilled workers.",
     "source": "Sources: Statistics Canada Tables 37-10-0045-01, 11-10-0190-01; PISA (OECD); Canada Student Loans Program; Apprenticeship in Canada data. Blue = editable inputs.",
     "xLabel": "Year",
@@ -3869,7 +3869,7 @@
     "lastUpdated": "2026-07-01"
   },
   "energy": {
-    "title": "Canada: Energy & Resource Architecture (1990–2026)",
+    "title": "Energy & Resource Architecture (1990–2026)",
     "subtitle": "Oil & gas revenue flows, equalization transfer map, commodity price sensitivity, and critical mineral positioning. Resource wealth is real but unevenly distributed and cyclically volatile.",
     "source": "Sources: Natural Resources Canada; Statistics Canada Table 36-10-0450-01; Dept of Finance Equalization; Canada Energy Regulator. Blue = editable inputs.",
     "xLabel": "Year",
@@ -4231,7 +4231,7 @@
     "lastUpdated": "2026-07-01"
   },
   "provincial": {
-    "title": "Canada: Provincial Economic Divergence (2000–2026)",
+    "title": "Provincial Economic Divergence (2000–2026)",
     "subtitle": "GDP per capita, unemployment, housing cost, debt, and fertility by province. 'Canada' as a single unit masks enormous internal variation — these are not the same economy.",
     "source": "Sources: Statistics Canada Tables 36-10-0222-01, 14-10-0090-01, 13-10-0418-01; CMHC Housing Market Data. Blue = editable inputs.",
     "xLabel": "Province",
@@ -4413,7 +4413,7 @@
     "lastUpdated": "2026-07-01"
   },
   "govt_efficiency": {
-    "title": "Canada: Government Spending Efficiency (2000–2026)",
+    "title": "Government Spending Efficiency (2000–2026)",
     "subtitle": "Healthcare outcomes per dollar, infrastructure quality vs. spend, public sector productivity, and program delivery efficiency. Measures whether the problem is how much government spends or how well.",
     "source": "Sources: CIHI National Health Expenditure Trends; Fraser Institute; Infrastructure Canada; Statistics Canada Table 36-10-0488-01. Blue = editable inputs.",
     "xLabel": "Year",
@@ -4654,7 +4654,7 @@
     "lastUpdated": "2026-07-01"
   },
   "budget_balance_history": {
-    "title": "Canada: Federal & Provincial Budget Balances (1983–84–2024–25) | % of GDP",
+    "title": "Federal & Provincial Budget Balances (1983–84–2024–25) | % of GDP",
     "subtitle": "Budgetary balance (surplus/deficit) as a percentage of GDP. Federal government plus the three largest provinces by GDP (Ontario, Quebec, Alberta). Positive = surplus, negative = deficit.",
     "source": "Source: Department of Finance Canada, Fiscal Reference Tables (November 2025); RBC Economics compiled provincial series (public accounts basis, November 2025). Figures not strictly comparable across provinces due to accounting differences.",
     "xLabel": "Fiscal Year",
@@ -4881,5 +4881,148 @@
       ]
     },
     "lastUpdated": "2026-07-01"
+  },
+  "federal_revenue_by_source": {
+    "title": "Federal Revenue by Source (2024–25) | % of Total Revenue",
+    "subtitle": "Where every dollar of federal revenue actually comes from. Personal income tax alone funds nearly half of federal spending.",
+    "source": "Source: Department of Finance Canada, Annual Financial Report of the Government of Canada, Fiscal Year 2024–25.",
+    "xLabel": "Revenue Source",
+    "x": [
+      "Personal Income Tax",
+      "Corporate Income Tax",
+      "GST",
+      "EI Premiums",
+      "Other Revenues",
+      "Other Taxes & Duties",
+      "Pollution Pricing Proceeds",
+      "Non-Resident Income Tax"
+    ],
+    "series": {
+      "Share of Total Federal Revenue (%)": [
+        45.9,
+        19,
+        10.3,
+        6.2,
+        9.5,
+        3.8,
+        2.7,
+        2.6
+      ]
+    },
+    "lastUpdated": "2026-07-02"
+  },
+  "tax_top_marginal": {
+    "title": "Top Combined Federal + Provincial Marginal Tax Rate by Province/Territory (2025) | %",
+    "subtitle": "The tax rate paid on the next dollar earned above each jurisdiction's top income bracket. Combines federal and provincial/territorial rates including surtaxes.",
+    "source": "Source: Canada Revenue Agency and provincial/territorial tax authorities, compiled by TaxTips.ca, rates as of July 23, 2025.",
+    "xLabel": "Province / Territory",
+    "x": [
+      "Newfoundland & Labrador",
+      "Nova Scotia",
+      "Ontario",
+      "British Columbia",
+      "Quebec",
+      "New Brunswick",
+      "Prince Edward Island",
+      "Manitoba",
+      "Alberta",
+      "Yukon",
+      "Saskatchewan",
+      "Northwest Territories",
+      "Nunavut"
+    ],
+    "series": {
+      "Top Combined Marginal Tax Rate (%)": [
+        54.8,
+        54,
+        53.5,
+        53.5,
+        53.3,
+        52.5,
+        52,
+        50.4,
+        48,
+        48,
+        47.5,
+        47.1,
+        44.5
+      ]
+    },
+    "lastUpdated": "2026-07-02"
+  },
+  "tax_to_gdp_oecd": {
+    "title": "Total Tax Revenue as % of GDP — Canada vs. OECD Average (2000–2023)",
+    "subtitle": "All taxes collected by all levels of government — federal, provincial, local, and social security contributions — as a share of GDP.",
+    "source": "Source: OECD, Revenue Statistics 2024 & 2025. Values between published reference years are interpolated.",
+    "xLabel": "Year",
+    "x": [
+      2000,
+      2003,
+      2006,
+      2009,
+      2012,
+      2015,
+      2018,
+      2021,
+      2023
+    ],
+    "series": {
+      "Canada (%)": [
+        34.7,
+        33.5,
+        33,
+        31.9,
+        31,
+        32.2,
+        33,
+        34.8,
+        34.8
+      ],
+      "OECD Average (%)": [
+        32.9,
+        33.4,
+        33.7,
+        32.4,
+        33.3,
+        33.6,
+        34.3,
+        34.5,
+        33.9
+      ]
+    },
+    "lastUpdated": "2026-07-02"
+  },
+  "effective_tax_rate_trend": {
+    "title": "Average Effective Tax Rate, All Canadian Tax Filers (1992–2019) | %",
+    "subtitle": "Federal + provincial/territorial income tax plus CPP/QPP and EI contributions, as a share of total income. Averaged across all tax filers, not the rate on the last dollar earned.",
+    "source": "Source: Statistics Canada, Table 11-10-0054-01 (Longitudinal Administrative Databank), via The Daily, \"Effective tax rates and high income Canadians.\"",
+    "xLabel": "Year",
+    "x": [
+      1992,
+      1995,
+      1998,
+      2001,
+      2005,
+      2009,
+      2013,
+      2016,
+      2017,
+      2019
+    ],
+    "series": {
+      "Effective Tax Rate, All Filers (%)": [
+        13.5,
+        12.9,
+        12.4,
+        11.9,
+        11.6,
+        11.3,
+        11.5,
+        11.8,
+        11.7,
+        11.9
+      ]
+    },
+    "lastUpdated": "2026-07-02"
   }
 }

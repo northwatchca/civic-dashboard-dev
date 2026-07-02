@@ -90,7 +90,8 @@ const CATEGORY_PAGES={
   demographics:"demographics.html",
   labour_inequality:"labour-inequality.html",
   social_fabric:"social-fabric.html",
-  resources:"resources.html"
+  resources:"resources.html",
+  taxes:"taxes.html"
 };
 
 function resolveChartRef(id){

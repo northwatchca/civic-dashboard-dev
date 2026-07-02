@@ -12,6 +12,7 @@
   <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/labour-inequality.html</loc><priority>0.8</priority></url>
   <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/social-fabric.html</loc><priority>0.8</priority></url>
   <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/resources.html</loc><priority>0.8</priority></url>
+  <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/taxes.html</loc><priority>0.8</priority></url>
   <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/compare.html</loc><priority>0.6</priority></url>
   <url><loc>https://northwatchca.github.io/civic-dashboard-dev/data/map.html</loc><priority>0.7</priority></url>
 </urlset>

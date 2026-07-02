@@ -573,6 +573,42 @@ const CHART_CONFIG = {
         }
       }
     ]
+  },
+
+  taxes: {
+    label: "Taxes",
+    desc: "Personal and corporate tax burden, effective vs. marginal rates, and federal revenue composition.",
+    charts: [
+      { key: "federal_revenue_by_source", id: "federal_revenue_by_source", type: "horizontalBar", relatedCharts: ["budget_balance_history", "fed_debt_deficit", "dept_funding"],
+        explain: "Personal income tax alone funds nearly half of everything the federal government spends — more than corporate tax, GST, and EI premiums combined. This chart breaks down where every dollar of federal revenue actually originated in fiscal year 2024–25.",
+        verdict: "CONTEXT — This is a composition snapshot, not a judgment on tax policy. A personal-income-tax-led revenue mix is standard among G7 economies, not unique to Canada.",
+        legendExplain: {
+          "Share of Total Federal Revenue (%)": "What percentage of total federal government revenue that category accounted for in fiscal year 2024–25. 'Other Revenues' includes Crown corporation income and program/service revenue; 'Other Taxes & Duties' includes energy taxes, customs duties, and excise taxes."
+        }
+      },
+      { key: "tax_top_marginal", id: "tax_top_marginal", type: "horizontalBar", relatedCharts: ["effective_tax_rate_trend", "provincial", "federal_revenue_by_source"],
+        explain: "The rate paid on the next dollar earned once a filer's income crosses into the top bracket in each province or territory — combined federal and provincial/territorial rates, including applicable surtaxes. Only two jurisdictions, Alberta and Yukon, keep their top combined rate under 50%.",
+        verdict: "CONTEXT — Top marginal rates apply only to income earned above each jurisdiction's top bracket threshold, not to a filer's entire income. The average tax rate actually paid is substantially lower — see the Effective Tax Rate chart.",
+        legendExplain: {
+          "Top Combined Marginal Tax Rate (%)": "Federal plus provincial/territorial income tax rate applied to each additional dollar earned above that jurisdiction's top tax bracket threshold, including surtaxes where applicable."
+        }
+      },
+      { key: "tax_to_gdp_oecd", id: "tax_to_gdp_oecd", type: "line", relatedCharts: ["effective_tax_rate_trend", "fed_debt_deficit", "budget_balance_history"],
+        explain: "Total tax revenue collected by all levels of government — federal, provincial, and local, including social-security-style contributions like CPP and EI — as a share of the total economy. This is the OECD's standard measure for comparing overall tax burden across countries. Canada has tracked close to the OECD average for two decades, dipping during the 2009 financial crisis and again around 2011–2012 before recovering to slightly above average by 2021.",
+        verdict: "CONTEXT — Canada's overall tax burden, measured this way, sits close to the OECD average — neither a high-tax nor a low-tax outlier among peer economies.",
+        legendExplain: {
+          "Canada (%)": "Total tax revenue collected by all levels of Canadian government, as a percentage of GDP.",
+          "OECD Average (%)": "The unweighted average tax-to-GDP ratio across all OECD member countries."
+        }
+      },
+      { key: "effective_tax_rate_trend", id: "effective_tax_rate_trend", type: "line", relatedCharts: ["tax_top_marginal", "tax_to_gdp_oecd", "federal_revenue_by_source"],
+        explain: "The average share of income Canadians actually pay across federal and provincial income tax plus CPP/QPP and EI contributions — not the marginal rate on the last dollar earned, but the real average rate paid across all tax filers. This fell from 13.5% in 1992 to a low of 11.3% in 2009–2010 as federal tax cuts phased in, then edged back up toward 12% through the late 2010s.",
+        verdict: "CONTEXT — At roughly 11–12% of income, the average effective tax rate is far below the marginal rates shown in the Top Marginal Tax Rate chart. Marginal and effective rates measure different things and are frequently conflated in public debate.",
+        legendExplain: {
+          "Effective Tax Rate, All Filers (%)": "Total federal and provincial/territorial income tax plus CPP/QPP and EI contributions, divided by total income, averaged across all Canadian tax filers."
+        }
+      }
+    ]
   }
 };
 
