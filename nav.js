@@ -60,7 +60,7 @@
     }
     #site-nav-brand-leaf > svg{display:block;height:100%;width:auto;}
     #site-nav-brand-star{
-      position:absolute;top:-22%;right:2%;width:16%;height:16%;
+      position:absolute;top:1%;left:59%;width:44%;height:21.5%;
       color:#c11f1f;
     }
     #site-nav-brand-star svg{display:block;width:100%;height:100%;}
