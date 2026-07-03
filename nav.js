@@ -10,8 +10,16 @@
     { href: r + 'thesis.html',           label: 'Thesis' },
     { href: r + 'methodology.html',      label: 'Methodology' },
     { href: r + 'changelog.html',        label: 'Changelog' },
-    { href: r + 'index.html#about',      label: 'About' },
+    { href: r + 'about.html',            label: 'About' },
     { href: r + 'index.html#take-action',label: 'Take Action' },
+  ];
+
+  const footerLinks = [
+    { href: r + 'about.html',       label: 'About' },
+    { href: r + 'contact.html',     label: 'Contact' },
+    { href: r + 'press.html',       label: 'Press' },
+    { href: r + 'methodology.html', label: 'Methodology' },
+    { href: r + 'changelog.html',   label: 'Changelog' },
   ];
 
   // Active link detection
@@ -92,6 +100,38 @@
     root.outerHTML = navHTML;
   } else {
     document.body.insertAdjacentHTML('afterbegin', navHTML);
+  }
+
+  // ── Shared footer (About / Contact / Press / Methodology / Changelog) ──
+  if (!document.getElementById('site-footer')) {
+    const footerHTML = `
+      <footer class="site-footer" id="site-footer">
+        <div class="site-footer-inner">
+          <div class="site-footer-links">
+            ${footerLinks.map(l=>`<a href="${l.href}">${l.label}</a>`).join('')}
+          </div>
+          <div class="site-footer-meta">
+            &copy; ${new Date().getFullYear()} Northwatch &middot; Independent, non-partisan, ad-free &middot;
+            <a href="https://x.com/NorthwatchCA" target="_blank">@NorthwatchCA</a>
+          </div>
+        </div>
+      </footer>`;
+    const footerStyle = document.createElement('style');
+    footerStyle.textContent = `
+      .site-footer{border-top:1px solid #e2dfd8;margin-top:64px;background:#fff;}
+      .site-footer-inner{max-width:1100px;margin:0 auto;padding:28px 24px;}
+      .site-footer-links{display:flex;flex-wrap:wrap;gap:18px;margin-bottom:12px;}
+      .site-footer-links a{
+        font-size:12.5px;color:#706c66;text-decoration:none;
+        text-transform:uppercase;letter-spacing:0.06em;font-weight:500;
+      }
+      .site-footer-links a:hover{color:#c11f1f;}
+      .site-footer-meta{font-size:12px;color:#9e9a94;}
+      .site-footer-meta a{color:#9e9a94;text-decoration:underline;}
+      .site-footer-meta a:hover{color:#c11f1f;}
+    `;
+    document.head.appendChild(footerStyle);
+    document.body.insertAdjacentHTML('beforeend', footerHTML);
   }
 
   // Leaf sizing/gap is pure CSS (em-based, see #site-nav-brand-leaf) —
