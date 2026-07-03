@@ -117,7 +117,8 @@
 
     let leafRect = leaf.getBoundingClientRect();
     const naturalGap = leafRect.left - hRect.right;
-    const EXTRA_GAP_PX = 3;
+    const wordFontSize = parseFloat(getComputedStyle(word).fontSize);
+    const EXTRA_GAP_PX = wordFontSize * (3 / 22.5);
     leaf.style.marginLeft = (-naturalGap + EXTRA_GAP_PX) + 'px';
 
     leafRect = leaf.getBoundingClientRect();
@@ -130,5 +131,9 @@
   } else {
     setTimeout(alignBrandLeaf, 300);
   }
-  window.addEventListener('resize', alignBrandLeaf);
+  let resizeTimer;
+  window.addEventListener('resize', function(){
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(alignBrandLeaf, 50);
+  });
 })();
