@@ -55,8 +55,8 @@
     }
     .site-nav-brand:hover #site-nav-brand-word{color:#c11f1f;}
     #site-nav-brand-leaf{
-      display:inline-block;height:0.67em;width:auto;
-      color:#c11f1f;margin-left:0;position:relative;
+      display:inline-block;height:1.111em;width:auto;
+      color:#c11f1f;margin-left:0.1333em;position:relative;
     }
     #site-nav-brand-leaf > svg{display:block;height:100%;width:auto;}
     #site-nav-brand-star{
@@ -94,46 +94,6 @@
     document.body.insertAdjacentHTML('afterbegin', navHTML);
   }
 
-  // Flush the maple-leaf mark against the final H's ink edge (gap=0,
-  // measured empirically against real Source Serif 4 rendering — see
-  // Session 15/16 handoff for why letter-spacing math alone doesn't work).
-  function alignBrandLeaf(){
-    const word = document.getElementById('site-nav-brand-word');
-    const leaf = document.getElementById('site-nav-brand-leaf');
-    if (!word || !leaf || !word.firstChild) return;
-    const text = word.firstChild;
-    const len = text.textContent.length;
-    if (!len) return;
-    const range = document.createRange();
-    range.setStart(text, len - 1);
-    range.setEnd(text, len);
-    const hRect = range.getBoundingClientRect();
-    if (!hRect.width && !hRect.height) return;
-
-    // Match leaf height to H's exact ink height (cap-height), then flush
-    // horizontally to H's ink-right edge, then align top to H's ink-top.
-    leaf.style.height = hRect.height + 'px';
-    leaf.style.transform = 'none';
-
-    let leafRect = leaf.getBoundingClientRect();
-    const naturalGap = leafRect.left - hRect.right;
-    const wordFontSize = parseFloat(getComputedStyle(word).fontSize);
-    const EXTRA_GAP_PX = wordFontSize * (3 / 22.5);
-    leaf.style.marginLeft = (-naturalGap + EXTRA_GAP_PX) + 'px';
-
-    leafRect = leaf.getBoundingClientRect();
-    const topDelta = hRect.top - leafRect.top;
-    leaf.style.transform = 'translateY(' + topDelta + 'px)';
-  }
-
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(alignBrandLeaf);
-  } else {
-    setTimeout(alignBrandLeaf, 300);
-  }
-  let resizeTimer;
-  window.addEventListener('resize', function(){
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(alignBrandLeaf, 50);
-  });
+  // Leaf sizing/gap is pure CSS (em-based, see #site-nav-brand-leaf) —
+  // no JS measurement, so it can't drift on resize. See Session 19 handoff.
 })();
