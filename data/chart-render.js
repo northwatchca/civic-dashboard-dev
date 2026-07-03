@@ -68,6 +68,43 @@ function baseChartOptions(){
       y:{ticks:{color:"#9e9a94",font:{size:11}},grid:{color:"#eeece8"}}}};
 }
 
+/* ── accessibility helpers ────────────────────────────────── */
+function escapeAttr(s){
+  return String(s).replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;");
+}
+function escapeHtml(s){
+  return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
+function buildChartAriaLabel(title,d,shownSeries,verdict){
+  const x=d.x||[];
+  const range=x.length?`${x[0]}–${x[x.length-1]}`:"";
+  let latestBit="";
+  if(shownSeries.length){
+    const s=d.series[shownSeries[0]]||[];
+    for(let i=s.length-1;i>=0;i--){
+      if(typeof s[i]==="number"){
+        latestBit=`, latest value ${s[i]}${x[i]?` (${x[i]})`:""}`;
+        break;
+      }
+    }
+  }
+  const tag=verdict?verdict.split("—")[0].trim():"";
+  return `${title} chart${range?`, ${range}`:""}${latestBit}${tag?`, verdict: ${tag}`:""}.`;
+}
+function buildAccessibleTable(title,xLabel,x,seriesNames,series){
+  const headRow=`<th scope="col">${escapeHtml(xLabel||"")}</th>`+
+    seriesNames.map(n=>`<th scope="col">${escapeHtml(n)}</th>`).join("");
+  const bodyRows=x.map((xv,i)=>{
+    const cells=seriesNames.map(n=>{
+      const v=(series[n]||[])[i];
+      return `<td>${v===undefined||v===null?"":escapeHtml(v)}</td>`;
+    }).join("");
+    return `<tr><th scope="row">${escapeHtml(xv)}</th>${cells}</tr>`;
+  }).join("");
+  return `<table class="sr-only"><caption>${escapeHtml(title)} — full data table</caption>
+    <thead><tr>${headRow}</tr></thead><tbody>${bodyRows}</tbody></table>`;
+}
+
 /* ── HTML legend builder ─────────────────────────────────── */
 function buildHtmlLegend(seriesNames,legendExplain){
   if(!seriesNames||!seriesNames.length)return"";
@@ -485,6 +522,9 @@ function renderCategory(catKey){
     const noteHtml=(showRef&&d.note)?`<div class="ref-note">${d.note}</div>`:"";
     const thresholdBadgeHtml=c.citedThreshold?`<span class="cited-badge" title="This chart has a real, citable external threshold — see 'What does this mean?'">Cited Threshold</span>`:"";
 
+    const ariaLabel=buildChartAriaLabel(title,d,shownSeries,verdict);
+    const srTableHtml=buildAccessibleTable(title,d.xLabel||"",d.x||[],shownSeries,d.series);
+
     card.innerHTML=`
       <div class="chart-header" onclick="toggleCard(this.closest('.chart-card'))">
         <div class="chart-header-text">
@@ -501,7 +541,8 @@ function renderCategory(catKey){
       </div>
       <div class="chart-body">
         ${legendHtml}
-        <div class="chart-box"><canvas id="chart-${canvasId}"></canvas></div>
+        <div class="chart-box"><canvas id="chart-${canvasId}" role="img" aria-label="${escapeAttr(ariaLabel)}"></canvas></div>
+        ${srTableHtml}
         ${refHtml}${noteHtml}
         <div class="src">${d.source||""}${d.lastUpdated?` <span class="last-updated">· Data verified current as of ${formatLastUpdated(d.lastUpdated)}</span>`:""}</div>
       </div>`;

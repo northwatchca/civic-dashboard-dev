@@ -102,11 +102,18 @@ function renderSlot(o, ids, chartRef, sharedLabels){
   }
 
   if(chartRef.chart) chartRef.chart.destroy();
-  chartRef.chart = new Chart(document.getElementById(ids.canvas).getContext("2d"), {
+  const canvasEl = document.getElementById(ids.canvas);
+  chartRef.chart = new Chart(canvasEl.getContext("2d"), {
     type: built.chartType,
     data: { labels, datasets },
     options: opts
   });
+
+  // Accessibility: aria-label summary + visually-hidden full data table
+  const shownForAria = (c.seriesSubset || Object.keys(d.series)).filter(s=>d.series[s] && isChartableSeries(d.series[s]));
+  canvasEl.setAttribute("aria-label", escapeAttr(buildChartAriaLabel(c.title || d.title, d, shownForAria, c.verdict || "")));
+  const srTableEl = document.getElementById(ids.srTable);
+  if(srTableEl) srTableEl.innerHTML = buildAccessibleTable(c.title || d.title, d.xLabel || "", d.x || [], shownForAria, d.series);
 
   // Share button -> links back to the canonical chart page for this indicator
   const shareBtn = document.getElementById(ids.share);
@@ -150,8 +157,8 @@ document.addEventListener("DOMContentLoaded", () => {
   populateSelect(selB, options, 1);
 
   const refA = {}, refB = {};
-  const idsA = { title:"title-a", sub:"sub-a", src:"src-a", canvas:"chart-a", share:"share-a", info:"info-a", csv:"csv-a", img:"img-a", badge:"badge-a" };
-  const idsB = { title:"title-b", sub:"sub-b", src:"src-b", canvas:"chart-b", share:"share-b", info:"info-b", csv:"csv-b", img:"img-b", badge:"badge-b" };
+  const idsA = { title:"title-a", sub:"sub-a", src:"src-a", canvas:"chart-a", share:"share-a", info:"info-a", csv:"csv-a", img:"img-a", badge:"badge-a", srTable:"sr-table-a" };
+  const idsB = { title:"title-b", sub:"sub-b", src:"src-b", canvas:"chart-b", share:"share-b", info:"info-b", csv:"csv-b", img:"img-b", badge:"badge-b", srTable:"sr-table-b" };
   const syncStatusEl = document.getElementById("sync-status");
 
   function update(){
