@@ -117,7 +117,7 @@
 
     let leafRect = leaf.getBoundingClientRect();
     const naturalGap = leafRect.left - hRect.right;
-    const EXTRA_GAP_PX = 1.5;
+    const EXTRA_GAP_PX = 3;
     leaf.style.marginLeft = (-naturalGap + EXTRA_GAP_PX) + 'px';
 
     leafRect = leaf.getBoundingClientRect();
