@@ -120,13 +120,13 @@
     footerStyle.textContent = `
       .site-footer{border-top:1px solid #e2dfd8;margin-top:64px;background:#fff;}
       .site-footer-inner{max-width:1100px;margin:0 auto;padding:28px 24px;}
-      .site-footer-links{display:flex;flex-wrap:wrap;gap:18px;margin-bottom:12px;}
+      .site-footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:18px;margin-bottom:12px;text-align:center;}
       .site-footer-links a{
         font-size:12.5px;color:#706c66;text-decoration:none;
         text-transform:uppercase;letter-spacing:0.06em;font-weight:500;
       }
       .site-footer-links a:hover{color:#c11f1f;}
-      .site-footer-meta{font-size:12px;color:#9e9a94;}
+      .site-footer-meta{font-size:12px;color:#9e9a94;text-align:center;}
       .site-footer-meta a{color:#9e9a94;text-decoration:underline;}
       .site-footer-meta a:hover{color:#c11f1f;}
     `;
