@@ -22,11 +22,17 @@
     { href: r + 'changelog.html',   label: 'Changelog' },
   ];
 
-  // Active link detection
-  const cur = path.split('/').pop() || 'index.html';
+  // Active link detection — compare full root-relative path, not just basename
+  // (root index.html and data/index.html share a basename and were colliding)
+  const curFull = inData ? 'data/' + (path.split('/').pop() || 'index.html')
+                         : (path.split('/').pop() || 'index.html');
+  const curHash = window.location.hash || '';
   function isActive(href){
-    const h = href.split('/').pop().split('#')[0] || 'index.html';
-    return h === cur;
+    const withoutRoot = href.startsWith(r) ? href.slice(r.length) : href;
+    const [hrefPath, hrefHash] = withoutRoot.split('#');
+    if (hrefPath === 'data/index.html' && inData) return true;
+    if (hrefPath !== curFull) return false;
+    return hrefHash ? curHash === '#' + hrefHash : curHash === '';
   }
 
   const navHTML = `
