@@ -119,7 +119,7 @@
     const footerStyle = document.createElement('style');
     footerStyle.textContent = `
       .site-footer{border-top:1px solid #e2dfd8;margin-top:64px;background:#fff;}
-      .site-footer-inner{max-width:700px;margin:0 auto;padding:28px 24px;}
+      .site-footer-inner{max-width:1100px;margin:0 auto;padding:28px 24px;}
       .site-footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:18px;margin-bottom:12px;text-align:center;}
       .site-footer-links a{
         font-size:12.5px;color:#706c66;text-decoration:none;
