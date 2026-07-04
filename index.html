@@ -35,13 +35,24 @@
   html { overflow-x: visible; }
 
   body {
-    background-color: var(--bg);
-    background-image: radial-gradient(circle, #c7c3bc 1px, transparent 1.6px);
-    background-size: 22px 22px;
+    background: var(--bg);
     font-family: 'Inter', -apple-system, sans-serif;
     color: var(--text-bright);
     overflow-x: hidden;
+    position: relative;
   }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background-image: radial-gradient(circle, #b9b4ab 1px, transparent 1.6px);
+    background-size: 22px 22px;
+    -webkit-mask-image: linear-gradient(to right, black 0%, transparent 22%, transparent 78%, black 100%);
+    mask-image: linear-gradient(to right, black 0%, transparent 22%, transparent 78%, black 100%);
+  }
+  body > * { position: relative; z-index: 1; }
 
   .hero {
     padding: 72px 32px 56px;
