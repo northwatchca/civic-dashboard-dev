@@ -59,6 +59,22 @@
 
   .nav-back{display:inline-block;margin-top:40px;font-size:13px;color:var(--text-dim);text-decoration:none;}
   .nav-back:hover{color:var(--accent);}
+
+  .rwi-fb-wrap{border:1px solid var(--line);border-radius:10px;background:var(--bg-alt);padding:24px 26px;margin-bottom:40px;}
+  .rwi-fb-total{display:flex;align-items:baseline;gap:14px;margin-bottom:4px;}
+  .rwi-fb-total .num{font-size:40px;font-weight:700;font-family:'Source Serif 4',serif;}
+  .rwi-fb-total .denom{font-size:16px;color:var(--text-dim);}
+  .rwi-fb-total .badge{margin-left:auto;font-size:12px;font-weight:600;color:#fff;padding:4px 10px;border-radius:5px;text-transform:uppercase;letter-spacing:0.5px;}
+  .rwi-fb-quarter{font-size:12px;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.6px;margin-bottom:20px;}
+  .rwi-fb-pillar{border-top:1px solid var(--line);padding:16px 0;}
+  .rwi-fb-pillar:first-of-type{border-top:none;}
+  .rwi-fb-pillar-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+  .rwi-fb-pillar-head .pname{font-weight:600;font-size:15px;}
+  .rwi-fb-pillar-head .pweight{font-size:12px;color:var(--text-dim);}
+  .rwi-fb-pillar-head .pscore{margin-left:auto;font-weight:700;font-size:16px;font-family:'Source Serif 4',serif;}
+  .rwi-fb-metric{display:flex;justify-content:space-between;font-size:13px;color:var(--text-dim);padding:4px 0 4px 4px;}
+  .rwi-fb-metric .mscore{font-weight:600;}
+  .rwi-fb-note{font-size:12.5px;color:var(--text-dim);margin-top:18px;padding-top:14px;border-top:1px solid var(--line);}
 </style>
 </head>
 <body>
@@ -67,6 +83,10 @@
   <div class="breadcrumb"><a href="index.html">Northwatch</a> / <a href="thesis.html">Thesis</a> / Methodology</div>
   <h1>Methodology</h1>
   <p class="page-sub">A four-phase filter used to move from raw data to the conclusions presented in the Thesis section. The goal is to separate stated justifications for an outcome from the structural conditions that produced it, and to avoid treating correlation as proof.</p>
+
+  <h2 class="section-h">Northwatch Index — Full Breakdown</h2>
+  <p class="lineage">The composite score referenced sitewide, broken down to the pillar and metric level. Values below are pulled live from the same scoring engine used on the homepage — nothing here is hardcoded.</p>
+  <div id="rwi-full-breakdown"></div>
 
   <div class="phase">
     <div class="label">Phase 1</div>
@@ -110,6 +130,37 @@
 
   <a class="nav-back" href="thesis.html">&larr; Back to Thesis</a>
 </div>
+<script src="northwatch-index.js"></script>
 <script src="nav.js?v=23"></script>
+<script>
+(function renderMethodologyRWI(){
+  const el = document.getElementById("rwi-full-breakdown");
+  if(!el || typeof RWI === "undefined") return;
+  const { total, pillars } = RWI;
+  const color = getRWIColor(total);
+  const verdict = getRWILabel(total);
+  el.innerHTML = `
+    <div class="rwi-fb-wrap">
+      <div class="rwi-fb-quarter">The Northwatch Index — Q2 2026</div>
+      <div class="rwi-fb-total">
+        <span class="num" style="color:${color}">${total}</span>
+        <span class="denom">/100</span>
+        <span class="badge" style="background:${color}">${verdict}</span>
+      </div>
+      ${pillars.map(p => {
+        const c = getRWIColor(p.score);
+        return `<div class="rwi-fb-pillar">
+          <div class="rwi-fb-pillar-head">
+            <span class="pname">${p.label}</span>
+            <span class="pweight">${Math.round(p.weight*100)}% weight</span>
+            <span class="pscore" style="color:${c}">${p.score}</span>
+          </div>
+          ${p.metrics.map(m => `<div class="rwi-fb-metric"><span>${m.name}</span><span class="mscore">${Math.round(m.score)}</span></div>`).join("")}
+        </div>`;
+      }).join("")}
+      <p class="rwi-fb-note">Each metric normalized 0–100 against a defined healthy ceiling and critical floor. Pillar scores are unweighted averages of their metrics. Final score is a weighted average of all five pillars (weights shown above).</p>
+    </div>`;
+})();
+</script>
 </body>
 </html>
