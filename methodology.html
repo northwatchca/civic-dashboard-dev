@@ -85,53 +85,53 @@
 <div class="wrap">
   <div class="breadcrumb"><a href="index.html">Northwatch</a> / <a href="thesis.html">Thesis</a> / Methodology</div>
   <h1>Methodology</h1>
-  <p class="page-sub">A four-phase filter used to move from raw data to the conclusions presented in the Thesis section. The goal is to separate stated justifications for an outcome from the structural conditions that produced it, and to avoid treating correlation as proof.</p>
+  <p class="page-sub">A four-step check used before any claim makes it onto the Thesis page. The goal: tell the difference between the real reasons something happened and the excuses people give for it, and never treat "these two things happened at the same time" as proof one caused the other.</p>
 
   <h2 class="section-h">Northwatch Index — Full Breakdown</h2>
-  <p class="lineage">The composite score referenced sitewide, broken down to the pillar and metric level. Values below are pulled live from the same scoring engine used on the homepage — nothing here is hardcoded.</p>
+  <p class="lineage">The overall score you see across the site, broken down piece by piece. The numbers below are calculated live by the same code that runs the homepage — nothing here is typed in by hand.</p>
   <div id="rwi-full-breakdown"></div>
 
   <h2 class="section-h">The Four-Phase Filter</h2>
-  <p class="lineage">The process each question runs through before it's treated as analysis rather than opinion.</p>
+  <p class="lineage">The four checks every question has to pass before we treat it as real analysis instead of just an opinion.</p>
 
   <div class="phase">
     <div class="label">Phase 1</div>
-    <h2>Input Filter</h2>
-    <p>A question is only analyzed if it can be reduced to a measurable mechanism — hardware constraints, mathematics, or a falsifiable structural relationship. Questions that depend on unverifiable claims about individual or collective intent are set aside, because there is no operational data that can confirm or disconfirm them.</p>
-    <div class="example">Rejected: "Is policy X morally good?" — not falsifiable.<br>Accepted: "What happens to household debt-to-income when the policy rate is held below the inflation rate for an extended period?" — measurable and falsifiable.</div>
+    <h2>Can this even be checked?</h2>
+    <p>We only look at questions that can be tested against real numbers — things like physical limits, math, or a cause-and-effect relationship that could be proven wrong if the data didn't support it. We skip questions that are really just about people's opinions or intentions, because there's no way to prove those right or wrong with data.</p>
+    <div class="example">Skipped: "Is policy X morally good?" — that's an opinion, not something you can test.<br>Kept: "What happens to household debt when interest rates are held below inflation for years?" — that's testable against real numbers.</div>
   </div>
 
   <div class="phase">
     <div class="label">Phase 2</div>
-    <h2>System Boundary Mapping</h2>
-    <p>The system under examination is isolated from its background environment. Inputs, processing mechanisms, outputs, and feedback loops are mapped explicitly, and a falsifiability condition is stated in advance: a specific empirical result that would disprove the working hypothesis. If no such condition can be named, the analysis is treated as incomplete rather than presented as conclusion.</p>
+    <h2>Draw a clear line around the problem</h2>
+    <p>Before we analyze anything, we spell out exactly what's being looked at: what goes in, what comes out, and what feeds back into the system. We also say upfront what result would prove us wrong. If we can't say what would prove us wrong, we don't treat it as a finished conclusion — we call it incomplete instead.</p>
   </div>
 
   <div class="phase">
     <div class="label">Phase 3</div>
-    <h2>Structural Causality Parsing</h2>
-    <p>Stated justifications for a policy or outcome are set aside in favour of the underlying constraints that produced it — fiscal architecture, demographic structure, resource limits. Where possible, the relationship between variables is mapped as a directed path (A mechanically affects B) rather than asserted as a general association.</p>
+    <h2>Look for the real cause, not the excuse</h2>
+    <p>We set aside the official reasons given for a policy or outcome and instead look at the actual conditions that caused it — things like government finances, population makeup, or physical resource limits. Where we can, we show it as a direct chain: A causes B — instead of just saying "these two things are connected" without explaining how.</p>
   </div>
 
   <div class="phase">
     <div class="label">Phase 4</div>
-    <h2>Probabilistic Simulation</h2>
-    <p>Complex systems are non-linear, so outcomes are treated as probabilities conditioned on the available data, not certainties. A baseline expectation is established from historical data, the relevant structural change is introduced, and the resulting trajectory is described in terms of likelihood rather than inevitability.</p>
+    <h2>Talk in odds, not certainties</h2>
+    <p>The real world doesn't move in straight lines, so we describe outcomes as likely or unlikely based on the data we have — not as guaranteed. We start from what's happened historically, add in the change we're studying, and describe what's probably coming next, without claiming to know the future for certain.</p>
   </div>
 
-  <h2 class="section-h">Why this approach?</h2>
-  <p class="lineage">Most public commentary on national decline relies on anecdote or partisan framing. This methodology is an attempt to constrain the analysis to what the data actually supports: documented metrics, multi-decade time series, and structural relationships that can be checked against the source tables in the Data section. Conclusions presented in the Thesis section are intended to be revisable — if new data contradicts a stated finding, the finding changes. Every such correction is logged in the <a href="changelog.html">Changelog</a>.</p>
+  <h2 class="section-h">Why we do it this way</h2>
+  <p class="lineage">Most public discussion about Canada's problems is based on gut feeling or political spin. We're trying to stick to only what the data actually shows: real numbers tracked over decades, and cause-and-effect relationships you can check yourself against the source tables in the Data section. If new data proves a finding on the Thesis page wrong, we change it — every correction like that gets logged in the <a href="changelog.html">Changelog</a>.</p>
 
-  <h2 class="section-h">Metric Selection</h2>
-  <p class="lineage">The 51 metrics tracked in the Data section were chosen because they are standard indicators used by national statistical agencies and international bodies (Statistics Canada, OECD, IMF, Bank of Canada) to assess a country's economic and social health — not because they were expected to show any particular trend. That most currently point toward stress rather than improvement is a finding produced by applying this methodology to the data, not a criterion used to select the data.</p>
+  <h2 class="section-h">How we picked the metrics</h2>
+  <p class="lineage">The 51 numbers tracked in the Data section are standard measurements that official agencies (Statistics Canada, OECD, IMF, Bank of Canada) already use to check a country's economic and social health. We didn't pick them because we expected them to show bad news — we picked them because they're the normal things experts check. The fact that most currently point toward stress is something the data showed us, not something we went looking for.</p>
 
-  <h2 class="section-h">Reference framework</h2>
-  <p class="lineage"><strong>Karl Popper</strong> — falsifiability as the test for whether a claim counts as analysis rather than narrative.</p>
-  <p class="lineage"><strong>Judea Pearl</strong> — distinguishing correlation from structural, mechanical causality.</p>
-  <p class="lineage"><strong>Thomas Bayes</strong> — updating the probability of an outcome as new data becomes available, rather than treating any single data point as final.</p>
+  <h2 class="section-h">Where these ideas come from</h2>
+  <p class="lineage"><strong>Karl Popper</strong> — a claim only counts as real analysis if there's some way to prove it wrong.</p>
+  <p class="lineage"><strong>Judea Pearl</strong> — telling the difference between "these two things happen together" and "one thing actually causes the other."</p>
+  <p class="lineage"><strong>Thomas Bayes</strong> — updating your best guess as new information comes in, instead of locking in on one data point forever.</p>
 
   <div class="note">
-    <p>This page describes method, not conclusions. For the findings produced by applying this framework to Canadian economic and demographic data, see the <a href="thesis.html">Thesis section</a>. For the underlying source data, see the <a href="data/index.html">Data section</a>.</p>
+    <p>This page explains how we work, not what we found. For the actual findings from applying this to Canadian data, see the <a href="thesis.html">Thesis section</a>. For the raw numbers, see the <a href="data/index.html">Data section</a>.</p>
   </div>
 
   <a class="nav-back" href="thesis.html">&larr; Back to Thesis</a>
