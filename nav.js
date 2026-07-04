@@ -52,7 +52,7 @@
     .site-nav-inner{
       max-width:1100px;margin:0 auto;padding:0 24px;
       display:flex;align-items:center;justify-content:space-between;
-      height:52px;
+      height:52px;position:relative;
     }
     .site-nav-brand{
       font-family:'Source Serif 4',serif;
@@ -64,7 +64,7 @@
     .site-nav-brand:hover #site-nav-brand-word{color:#c11f1f;}
     #site-nav-brand-leaf{
       display:inline-block;height:1.111em;width:auto;
-      color:#c11f1f;margin-left:0.1333em;margin-top:0.26em;position:relative;
+      color:#c11f1f;margin-left:0.1333em;margin-top:-0.11em;position:relative;
     }
     #site-nav-brand-leaf > svg{display:block;height:100%;width:auto;}
     #site-nav-brand-star{
@@ -91,6 +91,11 @@
       .site-nav-links{gap:16px;margin-left:16px;}
       .site-nav-links a{font-size:11px;}
       .site-nav-brand{font-size:19.5px;}
+      .site-nav-inner::after{
+        content:'';position:absolute;right:0;top:0;bottom:0;width:26px;
+        background:linear-gradient(to right, rgba(255,255,255,0), #fff 85%);
+        pointer-events:none;
+      }
     }
   `;
 
