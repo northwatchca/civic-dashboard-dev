@@ -64,13 +64,14 @@
       font-family:'Source Serif 4',serif;
       font-size:22.5px;font-weight:700;letter-spacing:0.02em;
       color:#111110;text-decoration:none;text-transform:none;
-      flex-shrink:0;
+      flex-shrink:0;line-height:1;
       padding:18px 0;display:inline-flex;align-items:flex-start;
     }
+    #site-nav-brand-word{line-height:1;display:inline-block;}
     .site-nav-brand:hover #site-nav-brand-word{color:#c11f1f;}
     #site-nav-brand-leaf{
       display:inline-block;height:1.333em;width:auto;
-      color:#c11f1f;margin-left:0.01em;margin-top:0em;position:relative;
+      color:#c11f1f;margin-left:0.01em;margin-top:-0.31em;position:relative;
     }
     #site-nav-brand-leaf > svg{display:block;height:100%;width:auto;}
     #site-nav-brand-star{
