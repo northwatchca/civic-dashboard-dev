@@ -18,7 +18,7 @@ body{
   touch-action:manipulation;
   overflow-x:hidden;
 }
-html{overflow-x:hidden;}
+html{overflow-x:visible;}
 .wrap{max-width:1100px;margin:0 auto;padding:48px 24px 96px;}
 a{color:var(--text);}
 .breadcrumb{font-size:13px;color:var(--text-dim);margin-bottom:24px;}
