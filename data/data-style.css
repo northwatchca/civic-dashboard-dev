@@ -3,7 +3,7 @@
   --bg-alt:#ffffff;
   --text:#111110;
   --text-dim:#706c66;
-  --line:#e2dfd8;
+  --line:#e5e5e5;
   --accent:#c11f1f;
   --accent-dim:#671414;
 }
@@ -41,7 +41,7 @@ h1{font-size:clamp(28px,4vw,42px);font-weight:600;line-height:1.05;margin:0 0 8p
 
 /* chart grid on category pages */
 .chart-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:32px;}
-.chart-section-header{margin:12px 0 -4px;padding-top:24px;border-top:2px solid var(--line,#e2dfd8);}
+.chart-section-header{margin:12px 0 -4px;padding-top:24px;border-top:2px solid var(--line,#e5e5e5);}
 .chart-section-header:first-child{margin-top:0;padding-top:0;border-top:none;}
 .chart-section-header h3{font-size:22px;font-weight:700;line-height:1.05;color:var(--text,#111110);margin:0 0 4px;text-transform:uppercase;letter-spacing:0.04em;border-left:1.5px solid #c11f1f;padding-left:12px;}
 .chart-section-header p{font-size:13px;color:var(--text-dim,#706c66);margin:0;}
