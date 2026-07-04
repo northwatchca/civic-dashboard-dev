@@ -64,7 +64,7 @@
     .site-nav-brand:hover #site-nav-brand-word{color:#c11f1f;}
     #site-nav-brand-leaf{
       display:inline-block;height:1.333em;width:auto;
-      color:#c11f1f;margin-left:0.01em;margin-top:-0.233em;position:relative;
+      color:#c11f1f;margin-left:0.01em;margin-top:0em;position:relative;
     }
     #site-nav-brand-leaf > svg{display:block;height:100%;width:auto;}
     #site-nav-brand-star{
