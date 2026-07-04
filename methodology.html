@@ -66,6 +66,9 @@
   .rwi-fb-total .denom{font-size:16px;color:var(--text-dim);}
   .rwi-fb-total .badge{margin-left:auto;font-size:12px;font-weight:600;color:#fff;padding:4px 10px;border-radius:5px;text-transform:uppercase;letter-spacing:0.5px;}
   .rwi-fb-quarter{font-size:12px;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.6px;margin-bottom:20px;}
+  .rwi-fb-legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--text-dim);margin:14px 0;}
+  .rwi-fb-legend .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;}
+  .rwi-fb-explain{font-size:13px;color:var(--text-dim);margin:0 0 20px;padding-bottom:16px;border-bottom:1px solid var(--line);}
   .rwi-fb-pillar{border-top:1px solid var(--line);padding:16px 0;}
   .rwi-fb-pillar:first-of-type{border-top:none;}
   .rwi-fb-pillar-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
@@ -147,15 +150,21 @@
         <span class="denom">/100</span>
         <span class="badge" style="background:${color}">${verdict}</span>
       </div>
+      <div class="rwi-fb-legend">
+        <span><span class="dot" style="background:#c11f1f"></span>0–33 Critical</span>
+        <span><span class="dot" style="background:#a36a2d"></span>34–55 Stressed</span>
+        <span><span class="dot" style="background:#548249"></span>56–100 Stable</span>
+      </div>
+      <p class="rwi-fb-explain">Every number below is a score out of 100 (higher = healthier). "Weight" is how much that category counts toward the total score above — all five weights add up to 100%.</p>
       ${pillars.map(p => {
         const c = getRWIColor(p.score);
         return `<div class="rwi-fb-pillar">
           <div class="rwi-fb-pillar-head">
             <span class="pname">${p.label}</span>
             <span class="pweight">${Math.round(p.weight*100)}% weight</span>
-            <span class="pscore" style="color:${c}">${p.score}</span>
+            <span class="pscore" style="color:${c}">${p.score}/100</span>
           </div>
-          ${p.metrics.map(m => `<div class="rwi-fb-metric"><span>${m.name}</span><span class="mscore">${Math.round(m.score)}</span></div>`).join("")}
+          ${p.metrics.map(m => `<div class="rwi-fb-metric"><span>${m.name}</span><span class="mscore">${Math.round(m.score)}/100</span></div>`).join("")}
         </div>`;
       }).join("")}
       <p class="rwi-fb-note">Each metric normalized 0–100 against a defined healthy ceiling and critical floor. Pillar scores are unweighted averages of their metrics. Final score is a weighted average of all five pillars (weights shown above).</p>
