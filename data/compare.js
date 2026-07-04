@@ -142,7 +142,10 @@ function renderSlot(o, ids, chartRef, sharedLabels){
     explain: c.explain || "",
     verdict: c.verdict || "",
     citedThreshold: c.citedThreshold || "",
-    legendItems
+    legendItems,
+    canvasId,
+    source: d.source || "",
+    lastUpdated: d.lastUpdated || ""
   };
   document.getElementById(ids.info).onclick = ()=> openInfoModalData(modalData);
 }

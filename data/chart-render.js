@@ -169,6 +169,16 @@ function initModal(){
     </div>
     <div class="info-modal-legend" id="info-modal-legend" style="display:none"></div>
     <div class="info-modal-related" id="info-modal-related" style="display:none"></div>
+    <div class="info-modal-citation" id="info-modal-citation" style="display:none">
+      <p class="info-modal-citation-label">Cite this chart</p>
+      <div class="citation-format-tabs" id="citation-format-tabs">
+        <button class="citation-format-tab active" data-format="apa" onclick="setCitationFormat('apa')">APA</button>
+        <button class="citation-format-tab" data-format="mla" onclick="setCitationFormat('mla')">MLA</button>
+        <button class="citation-format-tab" data-format="chicago" onclick="setCitationFormat('chicago')">Chicago</button>
+      </div>
+      <p class="info-modal-citation-text" id="info-modal-citation-text"></p>
+      <button class="info-modal-citation-copy" id="info-modal-citation-copy" onclick="copyCitation(this)">Copy citation</button>
+    </div>
   </div>`;
   el.addEventListener("click",function(e){if(e.target===el)closeInfoModal();});
   document.body.appendChild(el);
@@ -245,8 +255,80 @@ function openInfoModalData(m){
     relatedEl.style.display="none";
   }
 
+  // citation box — built from the chart's own title/source/lastUpdated, nothing hardcoded
+  const citeBox=document.getElementById("info-modal-citation");
+  const citeText=document.getElementById("info-modal-citation-text");
+  if(m.canvasId){
+    _currentCitationMeta=m;
+    _currentCitationFormat="apa";
+    document.querySelectorAll(".citation-format-tab").forEach(t=>t.classList.toggle("active",t.dataset.format==="apa"));
+    const citation=buildCitation(m,"apa");
+    citeText.textContent=citation;
+    citeBox.dataset.citation=citation;
+    const copyBtn=document.getElementById("info-modal-citation-copy");
+    copyBtn.textContent="Copy citation";
+    copyBtn.classList.remove("copied");
+    citeBox.style.display="";
+  }else{
+    citeBox.style.display="none";
+  }
+
   lockBodyScroll();
   document.getElementById("info-modal-overlay").classList.add("active");
+}
+
+let _currentCitationMeta=null;
+let _currentCitationFormat="apa";
+
+function setCitationFormat(format){
+  if(!_currentCitationMeta)return;
+  _currentCitationFormat=format;
+  document.querySelectorAll(".citation-format-tab").forEach(t=>t.classList.toggle("active",t.dataset.format===format));
+  const citation=buildCitation(_currentCitationMeta,format);
+  const citeBox=document.getElementById("info-modal-citation");
+  document.getElementById("info-modal-citation-text").textContent=citation;
+  citeBox.dataset.citation=citation;
+  const copyBtn=document.getElementById("info-modal-citation-copy");
+  copyBtn.textContent="Copy citation";
+  copyBtn.classList.remove("copied");
+}
+
+function buildCitation(m,format){
+  format=format||"apa";
+  const now=new Date();
+  const year=now.getFullYear();
+  const url=location.origin+location.pathname+"?chart="+encodeURIComponent(m.canvasId);
+  const source=m.source?m.source.replace(/^Source:\s*/,"").replace(/\.\s*Blue values.*$/,"").trim():"";
+  const sourceClean=source.replace(/[.\s]+$/,"");
+
+  if(format==="mla"){
+    const accessDate=now.toLocaleDateString("en-CA",{day:"numeric",month:"short",year:"numeric"});
+    return `"${m.title}." Northwatch, ${year}${sourceClean?`, ${sourceClean}`:""}, ${url}. Accessed ${accessDate}.`;
+  }
+  if(format==="chicago"){
+    const accessDate=now.toLocaleDateString("en-CA",{month:"long",day:"numeric",year:"numeric"});
+    return `Northwatch. "${m.title}." ${year}${sourceClean?`. ${sourceClean}`:""}. Accessed ${accessDate}. ${url}.`;
+  }
+  // default: APA
+  const accessDate=now.toLocaleDateString("en-CA",{year:"numeric",month:"long",day:"numeric"});
+  const sourcePart=sourceClean?` ${sourceClean}.`:"";
+  return `Northwatch. (${year}). ${m.title}.${sourcePart} Retrieved ${accessDate}, from ${url}`;
+}
+
+function copyCitation(btnEl){
+  const box=document.getElementById("info-modal-citation");
+  const text=box.dataset.citation||"";
+  const done=()=>{
+    const orig=btnEl.textContent;
+    btnEl.textContent="Copied";
+    btnEl.classList.add("copied");
+    setTimeout(()=>{btnEl.textContent=orig;btnEl.classList.remove("copied");},1500);
+  };
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>{prompt("Copy this citation:",text);});
+  }else{
+    prompt("Copy this citation:",text);
+  }
 }
 
 let _scrollLockY=0;
@@ -508,7 +590,7 @@ function renderCategory(catKey){
       name,color:PALETTE[i%PALETTE.length],
       explain:legendExplain[name]||""}));
 
-    _modalCharts.push({title,explain,verdict,legendItems,citedThreshold:c.citedThreshold||"",relatedCharts:c.relatedCharts||[]});
+    _modalCharts.push({title,explain,verdict,legendItems,citedThreshold:c.citedThreshold||"",relatedCharts:c.relatedCharts||[],canvasId,source:d.source||"",lastUpdated:d.lastUpdated||""});
 
     _csvExportMap[canvasId]={dataKey:c.key,seriesNames:shownSeries,xLabel:d.xLabel||"",title,subtitle:subtitle||""};
 
