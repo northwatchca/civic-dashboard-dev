@@ -99,6 +99,24 @@
     }
   `;
 
+  // ── Sitewide dot texture (edge-density gradient) ──
+  if (!document.getElementById('site-dot-texture')) {
+    const dotStyle = document.createElement('style');
+    dotStyle.textContent = `
+      #site-dot-texture{
+        position:fixed;inset:0;z-index:-1;pointer-events:none;
+        background-image:radial-gradient(circle, #b9b4ab 0.05vw, transparent 0.08vw);
+        background-size:1vw 1vw;
+        -webkit-mask-image:linear-gradient(to right, black 0%, transparent 22%, transparent 78%, black 100%);
+        mask-image:linear-gradient(to right, black 0%, transparent 22%, transparent 78%, black 100%);
+      }
+    `;
+    document.head.appendChild(dotStyle);
+    const dotEl = document.createElement('div');
+    dotEl.id = 'site-dot-texture';
+    document.body.insertAdjacentElement('afterbegin', dotEl);
+  }
+
   document.head.appendChild(style);
   const root = document.getElementById('site-nav-root');
   if (root) {
