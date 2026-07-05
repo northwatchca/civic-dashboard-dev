@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:34:16.946Z",
+  "updated": "2026-07-05T16:36:22.250Z",
   "items": [
     {
       "title": "LNG Canada Phase Two Draws Closer",
@@ -120,50 +120,6 @@
       "pubDate": "2026-06-15T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    }
-  ],
-  "_debug": [
-    {
-      "key": "economy",
-      "httpStatus": 200,
-      "bodyLength": 133417,
-      "itemsFound": 3
-    },
-    {
-      "key": "debt-fiscal",
-      "httpStatus": 200,
-      "bodyLength": 131501,
-      "itemsFound": 3
-    },
-    {
-      "key": "demographics",
-      "httpStatus": 200,
-      "bodyLength": 133881,
-      "itemsFound": 3
-    },
-    {
-      "key": "labour-inequality",
-      "httpStatus": 200,
-      "bodyLength": 124002,
-      "itemsFound": 3
-    },
-    {
-      "key": "social-fabric",
-      "httpStatus": 200,
-      "bodyLength": 73627,
-      "itemsFound": 3
-    },
-    {
-      "key": "resources",
-      "httpStatus": 200,
-      "bodyLength": 133409,
-      "itemsFound": 3
-    },
-    {
-      "key": "taxes",
-      "httpStatus": 200,
-      "bodyLength": 128259,
-      "itemsFound": 3
     }
   ]
 }
