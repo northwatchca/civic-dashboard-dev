@@ -86,24 +86,31 @@ function parseItems(xml) {
   return items;
 }
 
-async function fetchCategory(cat) {
+async function fetchCategory(cat, debugLog) {
   const q = encodeURIComponent(buildQuery(cat.keywords));
   const url = `https://news.google.com/rss/search?q=${q}&hl=en-CA&gl=CA&ceid=CA:en`;
   const res = await fetch(url, {
     headers: { "User-Agent": "Mozilla/5.0 (compatible; NorthwatchBot/1.0; +https://thenorthwatch.ca)" },
   });
-  if (!res.ok) throw new Error(`${cat.key} fetch failed: HTTP ${res.status}`);
   const xml = await res.text();
-  return parseItems(xml)
-    .slice(0, MAX_PER_CATEGORY)
-    .map(it => ({ ...it, category: cat.key, categoryLabel: cat.label }));
+  const items = parseItems(xml).slice(0, MAX_PER_CATEGORY);
+  debugLog.push({
+    key: cat.key,
+    httpStatus: res.status,
+    bodyLength: xml.length,
+    itemsFound: items.length,
+    bodySample: items.length === 0 ? xml.slice(0, 400) : undefined,
+  });
+  if (!res.ok) throw new Error(`${cat.key} fetch failed: HTTP ${res.status}`);
+  return items.map(it => ({ ...it, category: cat.key, categoryLabel: cat.label }));
 }
 
 async function main() {
   const results = [];
+  const debugLog = [];
   for (const cat of CATEGORIES) {
     try {
-      results.push(...(await fetchCategory(cat)));
+      results.push(...(await fetchCategory(cat, debugLog)));
     } catch (err) {
       console.error(`Skipping ${cat.key}: ${err.message}`);
     }
@@ -112,7 +119,7 @@ async function main() {
   results.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   const trimmed = results.slice(0, MAX_TOTAL);
 
-  const output = { updated: new Date().toISOString(), items: trimmed };
+  const output = { updated: new Date().toISOString(), items: trimmed, _debug: debugLog };
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2) + "\n");
   console.log(`Wrote ${trimmed.length} headlines to ${OUTPUT_PATH}`);
 }
