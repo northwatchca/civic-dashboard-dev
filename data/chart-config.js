@@ -12,8 +12,8 @@ const CHART_CONFIG = {
         }
       },
       { key: "gdp_by_sector", type: "line", relatedCharts: ["capital_allocation", "sector_snapshot", "productivity_g7"],
-        explain: "This chart tracks which industries make up Canada's economy and how those shares have shifted since 1997. The critical trend: Real Estate has grown from 10% to nearly 14% of GDP — now the single largest sector in the country — while Manufacturing has fallen from 16% to under 10%. Canada has steadily moved capital from making things to owning and renting property.",
-        verdict: "BAD — Real Estate, which produces no goods of equivalent value, is now Canada's single largest industry sector. Manufacturing, which creates real productive wealth, has been declining for over 25 years.",
+        explain: "This chart tracks which industries make up Canada's economy and how those shares have shifted since 1997. Real Estate has grown from 10% to nearly 14% of GDP — now the largest sector in the country by this measure — while Manufacturing has fallen from 16% to under 10%.",
+        verdict: "CONTEXT — Real Estate is now Canada's largest industry sector by GDP share, overtaking Manufacturing, which has declined for over 25 years.",
         legendExplain: {
           "Real Estate & Leasing (%)": "Buying, selling, renting, and managing property. Now Canada's single largest industry sector.",
           "Manufacturing (%)": "Making physical goods — cars, machinery, food products, chemicals. Has been declining for 25+ years.",
@@ -28,8 +28,8 @@ const CHART_CONFIG = {
         }
       },
       { key: "capital_allocation", type: "line", relatedCharts: ["productivity_g7", "corporate_concentration", "sector_snapshot"],
-        explain: "Focused on the five sectors that best show where investment money has moved over 30 years. The crossover around 2012 — when Real Estate surpassed Manufacturing — is the clearest signal of Canada's economic restructuring: capital moved from productive industry into property. Houses do not make workers more productive; factories and equipment do.",
-        verdict: "BAD — Investment dollars that should go into factories and technology are flowing into property instead. This directly suppresses worker productivity and future wage growth.",
+        explain: "Focused on the five sectors that best show where investment money has moved over 30 years. Real Estate surpassed Manufacturing as a share of GDP around 2012.",
+        verdict: "CONTEXT — Real Estate's GDP share has overtaken Manufacturing since 2012, a structural shift in where Canadian economic activity is concentrated.",
         legendExplain: {
           "Real Estate, Rental & Leasing (%)": "Property buying, selling, and renting as a share of GDP. Rising every decade.",
           "Manufacturing (%)": "Physical goods production as a share of GDP. Falling every decade.",
@@ -39,15 +39,15 @@ const CHART_CONFIG = {
         }
       },
       { key: "sector_snapshot", type: "horizontalBar", relatedCharts: ["gdp_by_sector", "capital_allocation"],
-        explain: "A single-year snapshot of every major industry in Canada ranked by their share of GDP. Real Estate at 13.5% is larger than Manufacturing (9.8%) and Technology combined. This is the 2026 scorecard of where Canada's economy actually lives — not where politicians say it should be.",
-        verdict: "BAD — Real Estate is larger than Manufacturing. A healthy, productive economy invests in making things. Canada has been moving the opposite direction for decades.",
+        explain: "A single-year snapshot of every major industry in Canada ranked by their share of GDP. Real Estate at 13.5% is larger than Manufacturing (9.8%) and Technology combined.",
+        verdict: "CONTEXT — Real Estate is Canada's largest single sector by GDP share, ahead of Manufacturing.",
         legendExplain: {
           "Share of Total GDP (%)": "How much of Canada's total economic output that industry accounts for in 2026."
         }
       },
       { key: "productivity_g7", type: "line", relatedCharts: ["capital_allocation", "corporate_concentration", "living_standards"],
-        explain: "How efficiently each G7 country turns labour hours into economic output, indexed to 2000 = 100. Canada ranks last in the G7 for productivity growth over this entire period. The widening gap between the Canadian and US lines is the root cause of stagnant real wages: if workers produce less per hour, there is less wealth to distribute. Low productivity cannot be fixed by immigration or deficit spending — it requires investment in equipment, technology, and skills.",
-        verdict: "BAD — Canada ranks dead last among G7 nations in productivity growth. When workers produce less per hour, there is less wealth to distribute as wages — the root cause of stagnant living standards.",
+        explain: "How efficiently each G7 country turns labour hours into economic output, indexed to 2000 = 100. Canada ranks last in the G7 for productivity growth over this entire period. The widening gap between the Canadian and US lines is closely tied to stagnant real wages: if workers produce less per hour, there is less wealth to distribute.",
+        verdict: "BAD — Canada ranks dead last among G7 nations in productivity growth. When workers produce less per hour, there is less wealth to distribute as wages — a major driver of stagnant living standards.",
         legendExplain: {
           "Canada": "Canada's GDP per hour worked, indexed to 2000 = 100. Last in the G7.",
           "USA": "US GDP per hour worked. The widening gap between the US and Canada lines is the productivity crisis.",
@@ -123,7 +123,7 @@ const CHART_CONFIG = {
         seriesSubset: ["Fed Net Debt (% of GDP)"],
         title: "Federal Net Debt (1970–2026) | % of GDP",
         subtitle: "Federal net debt as a share of GDP. The 1995 fiscal crisis (peak ~67%) and the 2020 COVID shock are the two defining inflection points.",
-        explain: "Federal debt as a share of the total economy. The 1995 peak (~67%) brought Canada close to requiring IMF intervention — the Chrétien-Martin austerity cuts were the emergency response. The 2020 COVID shock blew the deficit wider than at any point in Canadian history. The current trajectory shows no published plan returning to surplus under any major party platform.",
+        explain: "Federal debt as a share of the total economy. The 1995 peak (~67%) brought Canada close to requiring IMF intervention — the Chrétien-Martin austerity cuts were the emergency response. The 2020 COVID shock blew the deficit wider than at any point in Canadian history.",
         verdict: "BAD — Federal debt is rising with no credible plan to reverse it. The higher the debt, the more money consumed by interest payments instead of public services.",
         citedThreshold: "The Maastricht Treaty convergence criteria (EU, 1992) set 60% of GDP as the reference ceiling for general government debt. This is a political convergence threshold set for EU monetary union eligibility, not a figure derived from economic theory — but it is the most widely cited international debt benchmark. Canada's federal net debt alone (not including provincial debt) has exceeded this threshold since 2020.",
         legendExplain: {
@@ -145,7 +145,7 @@ const CHART_CONFIG = {
         seriesSubset: ["House Price Index (2005=100)"],
         title: "House Price Index (1990–2026) | 2005 = 100",
         subtitle: "National composite house price index, indexed to 2005.",
-        explain: "Canada's national house price index, with 2005 set as the baseline of 100. A value of 400 means homes cost four times what they cost in 2005. The steepness of the rise since 2015 — and especially since 2020 — reflects the collision of ultra-low interest rates, surging immigration-driven demand, and restricted housing supply in major cities.",
+        explain: "Canada's national house price index, with 2005 set as the baseline of 100. A value of 400 means homes cost four times what they cost in 2005. The steepness of the rise since 2015 — and especially since 2020 — coincides with a period of low interest rates, strong population growth, and constrained housing supply in major cities.",
         verdict: "BAD — Homes are dramatically more expensive relative to incomes than any previous generation experienced. What was once a normal middle-class purchase now requires extraordinary wealth or debt.",
         legendExplain: {
           "House Price Index (2005=100)": "The average price of a Canadian home relative to 2005 prices. 100 = same price as 2005. 400 = four times more expensive than in 2005."
@@ -335,7 +335,7 @@ const CHART_CONFIG = {
         }
       },
       { key: "provincial", type: "horizontalBar", relatedCharts: ["population", "energy"],
-        explain: "Canada is not one economy — it is ten very different economies sharing a federal system. Alberta's GDP per capita ($88,000) is more than double New Brunswick's ($43,000). Ontario — supposedly the economic engine — carries $412 billion in provincial debt and is losing population to Alberta. BC's average home price ($1.128M) is three times Saskatchewan's ($352K). National averages hide all of this variation.",
+        explain: "Canada is not one economy — it is ten very different economies sharing a federal system. Alberta's GDP per capita ($88,000) is more than double New Brunswick's ($43,000). Ontario carries $412 billion in provincial debt and is losing population to Alberta. BC's average home price ($1.128M) is three times Saskatchewan's ($352K). National averages hide all of this variation.",
         verdict: "CONTEXT — Alberta's GDP per capita is more than double New Brunswick's. National averages hide these structural imbalances within Confederation. This is a map of how unequal Canada's regional economies are.",
         legendExplain: {
           "GDP/Capita 2026 ($000s)": "Economic output per person in that province. In thousands of dollars.",
@@ -392,7 +392,7 @@ const CHART_CONFIG = {
         title: "Income & Capital Distribution (1976–2026) | %",
         subtitle: "Income shares and the labour-vs-capital split of GDP — all percentages, directly comparable.",
         explain: "This chart shows directly who receives the gains from economic growth. Labour's share of GDP — the portion paid as wages and salaries — has been falling since the 1980s while capital's share (profits, dividends, rents) has risen. Simultaneously, the top 1% income share has grown. This is the empirical fingerprint of the mechanism this site documents: the economy grows, but the gains are captured by capital owners rather than distributed to workers.",
-        verdict: "BAD — Labour’s share of GDP is falling while capital’s share rises. Workers receive less of what the economy produces; asset owners receive more. This is the direct empirical fingerprint of the mechanism this site documents.",
+        verdict: "BAD — Labour’s share of GDP is falling while capital’s share rises. Workers receive less of what the economy produces; asset owners receive more.",
         legendExplain: {
           "Top 1% Income Share (%)": "How much of all Canadian income goes to the richest 1% of earners.",
           "Top 10% Income Share (%)": "How much of all Canadian income goes to the richest 10% of earners.",
@@ -406,7 +406,7 @@ const CHART_CONFIG = {
         title: "Corporate Profit Margins & Tax Rates (1990–2026) | %",
         subtitle: "Profit margins, statutory and effective tax rates, and the gap between them — all percentages.",
         explain: "Corporate profit margins have risen while the effective tax rate — what corporations actually pay after deductions — has fallen well below the official statutory rate. The gap between the two tax lines is legal tax avoidance: money owed at the published rate that is not actually paid. More profit, taxed at a lower effective rate, means more corporate earnings flowing to shareholders and less flowing to public services.",
-        verdict: "BAD — Rising profit margins combined with a falling effective tax rate means corporations keep more, pay less in taxes, and leave less for public services and worker wages.",
+        verdict: "BAD — Rising profit margins combined with a falling effective tax rate means corporations pay a smaller share of profit in tax than the statutory rate implies.",
         legendExplain: {
           "Corporate Profit Margin (%)": "Average profit as a percentage of revenue across major Canadian corporations. Rising margin means corporations keep more of each dollar of sales.",
           "Effective Corp Tax Rate (%)": "What corporations actually pay in taxes as a percentage of profits, after all legal deductions and strategies.",
@@ -419,7 +419,7 @@ const CHART_CONFIG = {
         title: "Dividends & Buybacks vs. Productive Investment (1990–2026) | $B",
         subtitle: "Nominal dollars, same unit — directly comparable to each other within a given year. See below for the inflation-adjusted trend over time.",
         explain: "Two competing uses of corporate profits: return money to shareholders (dividends and share buybacks) or reinvest in productive capacity (equipment, R&D, factories). When dividends and buybacks exceed productive investment, corporations are choosing to enrich current shareholders rather than build capacity that would create jobs and raise productivity. Because both lines are in the same year's dollars, the year-by-year comparison between them is valid without adjusting for inflation — but the multi-decade growth of each line individually is overstated in nominal terms.",
-        verdict: "BAD — When dividends and buybacks exceed productive investment, corporations are enriching current shareholders instead of building the productive capacity that creates future jobs and productivity growth.",
+        verdict: "MIXED — Dividends and buybacks have grown faster than productive capital investment. Whether this reflects underinvestment or efficient capital allocation is a matter of ongoing economic debate.",
         legendExplain: {
           "Dividends & Buybacks ($B)": "Money paid to shareholders through dividends (cash payments) and buybacks (company repurchases its own stock to drive up the share price), in the dollars of each year (nominal).",
           "Productive CapEx ($B)": "Capital expenditure on productive physical assets: machinery, equipment, research and development, factories, in the dollars of each year (nominal)."
@@ -430,7 +430,7 @@ const CHART_CONFIG = {
         title: "Dividends & Buybacks vs. Productive Investment, Real Terms (1990–2026) | 2024 CAD $B",
         subtitle: "Both series restated in constant 2024 dollars, removing the effect of inflation.",
         explain: "The same shareholder-payout vs. productive-investment comparison as above, restated in constant 2024 dollars. This isolates genuine growth in each category from the effect of 34 years of accumulated inflation. Productive investment has grown only modestly in real terms since 1990, while shareholder payouts have grown considerably faster — the gap that matters for productivity is real, not a nominal-dollar illusion.",
-        verdict: "BAD — Even after removing inflation, shareholder payouts have grown faster than productive investment. The capital misallocation shown above is not an artifact of rising prices.",
+        verdict: "MIXED — Even after removing inflation, shareholder payouts have grown faster than productive investment. The pattern holds regardless of inflation.",
         legendExplain: {
           "Dividends & Buybacks — Real (2024 CAD $B)": "Dividends and buybacks restated in constant 2024 dollars, removing the effect of inflation.",
           "Productive CapEx — Real (2024 CAD $B)": "Productive capital expenditure restated in constant 2024 dollars, removing the effect of inflation."
@@ -447,8 +447,8 @@ const CHART_CONFIG = {
         seriesSubset: ["Social Trust (% agree)", "Voter Turnout (Fed %)", "Volunteer Rate (%)", "Loneliness Index (%)", "Self-Reported Mental Health (%)"],
         title: "Social Trust & Civic Participation (1985–2026) | %",
         subtitle: "Social trust, voter turnout, volunteering, loneliness, and self-reported mental health — all percentages, directly comparable.",
-        explain: "Five measures of social connection and civic health, all shown as percentages. Social trust — the simple belief that most people can be trusted — has nearly halved since the 1980s. Voter turnout has trended down. Volunteer rates have fallen. Loneliness and poor mental health have both risen sharply. These are not economic statistics; they are measurements of social fabric. They are all moving in the wrong direction simultaneously — and on the same timeline as the economic deterioration shown elsewhere.",
-        verdict: "BAD — Social trust, voter turnout, and volunteering are all declining. Loneliness and poor mental health are rising. All five indicators move in the wrong direction simultaneously — on the same timeline as Canada’s economic deterioration.",
+        explain: "Five measures of social connection and civic health, all shown as percentages. Social trust — the simple belief that most people can be trusted — has nearly halved since the 1980s. Voter turnout has trended down. Volunteer rates have fallen. Loneliness and poor mental health have both risen sharply. These are not economic statistics; they are measurements of social fabric. They are all moving in the wrong direction simultaneously.",
+        verdict: "BAD — Social trust, voter turnout, and volunteering are all declining. Loneliness and poor mental health are rising. All five indicators move in the wrong direction simultaneously.",
         legendExplain: {
           "Social Trust (% agree)": "Percentage of Canadians who agree with the statement 'most people can be trusted.' High-trust societies have lower transaction costs, better institutions, and more cooperative communities.",
           "Voter Turnout (Fed %)": "Percentage of eligible voters who cast a ballot in federal elections.",
@@ -461,8 +461,8 @@ const CHART_CONFIG = {
         seriesSubset: ["Opioid Deaths (Annual)"],
         title: "Opioid Deaths (1985–2026) | Annual Count",
         subtitle: "Annual opioid-related deaths, raw count.",
-        explain: "Annual opioid-related deaths in Canada. This number rose from roughly 200 per year in the late 1980s to over 7,500 by the mid-2020s — a 34-fold increase. The opioid crisis is concentrated in communities experiencing economic displacement and deindustrialisation. It is a mortality measure of civilisational stress — and does not appear in any GDP or unemployment statistic.",
-        verdict: "BAD — Over 7,500 opioid deaths per year is a 34-fold increase from 1985. This is a mortality measure of civilizational stress — concentrated in communities hit by deindustrialisation — that never appears in GDP or unemployment data.",
+        explain: "Annual opioid-related deaths in Canada. This number rose from roughly 200 per year in the late 1980s to over 7,500 by the mid-2020s — a 34-fold increase. This mortality trend does not appear in any GDP or unemployment statistic.",
+        verdict: "BAD — Over 7,500 opioid deaths per year is a 34-fold increase from 1985. This mortality trend never appears in GDP or unemployment data.",
         legendExplain: {
           "Opioid Deaths (Annual)": "Number of Canadians who died from opioid overdose that year — including prescription opioids, heroin, fentanyl, and related drugs. Raw count, not per capita."
         }
@@ -504,8 +504,8 @@ const CHART_CONFIG = {
         seriesSubset: ["PISA Math Score"],
         title: "PISA Math Score (2000–2024)",
         subtitle: "OECD PISA international math literacy score.",
-        explain: "Canada's score on the international PISA math test, administered every three years by the OECD to 15-year-olds in 80+ countries. Canada once scored near the top. The score has declined every test cycle since 2000. This is not a funding problem — education spending has risen substantially. It is an outcomes problem — and it will show up as a productivity deficit in 10–15 years.",
-        verdict: "BAD — Declining math scores mean future workers will be less capable, compounding Canada's existing productivity problem 10–15 years from now. The system spends more and delivers worse outcomes.",
+        explain: "Canada's score on the international PISA math test, administered every three years by the OECD to 15-year-olds in 80+ countries. Canada once scored near the top. The score has declined every test cycle since 2000. Education spending has risen substantially over the same period, alongside the declining scores.",
+        verdict: "BAD — Canada's PISA math score has declined every test cycle since 2000, despite rising education spending over the same period.",
         legendExplain: {
           "PISA Math Score": "Canada's average score on the OECD's international mathematics assessment. Scores are comparable across countries and over time. Tested every three years — years without a test show no data point."
         }
@@ -567,7 +567,7 @@ const CHART_CONFIG = {
         title: "LNG Exports (1990–2026) | BCF/yr",
         subtitle: "Liquefied natural gas exports, billion cubic feet per year.",
         explain: "Canada's liquefied natural gas exports measured in billions of cubic feet per year. Canada has some of the world's largest natural gas reserves, and LNG export capacity is growing (LNG Canada's first phase recently came online). This represents a significant diversification opportunity — selling to Asian markets rather than solely to the US — but growth has been constrained by decades of pipeline and regulatory delay.",
-        verdict: "MIXED / POSITIVE — Growing LNG exports represent genuine diversification away from exclusive US dependency. From a low base, but the trend is positive if regulatory and pipeline capacity expands.",
+        verdict: "MIXED — Growing LNG exports represent diversification away from reliance on US export markets, from a low base.",
         legendExplain: {
           "LNG Exports (BCF/yr)": "Canada's total liquefied natural gas exports. BCF = Billion Cubic Feet. A higher number means more natural gas sold abroad."
         }
