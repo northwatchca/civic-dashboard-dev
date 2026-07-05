@@ -1,0 +1,36 @@
+name: Update news feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch headlines
+        run: node scripts/fetch-news.js
+
+      - name: Commit if changed
+        run: |
+          git config user.email "northwatch@thenorthwatch.ca"
+          git config user.name "Northwatch Bot"
+          if ! git diff --quiet news-feed.json; then
+            git add news-feed.json
+            git commit -m "Update news feed [automated]"
+            git push
+          else
+            echo "No changes to news feed"
+          fi

@@ -28,6 +28,7 @@
     --text-mid: #3a3632;
     --text-muted: #706c66;
     --text-dim: #706c66;
+    --accent: #c11f1f;
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -294,6 +295,33 @@
   @media(max-width:640px){
     .feed-item{flex-direction:column;gap:8px;}
   }
+  /* ── Recent Headlines Feed ── */
+  .headlines-section{padding:0 32px 40px;max-width:760px;margin:0 auto;}
+  .headlines-wrap{background:#fff;border:1px solid var(--border);border-radius:12px;padding:32px;}
+  .headlines-header{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px;gap:12px;flex-wrap:wrap;}
+  .headlines-header h2{font-size:20px;font-weight:600;line-height:1.05;border-left:1.5px solid #c11f1f;padding-left:12px;}
+  .headlines-updated{font-size:12px;color:var(--text-muted);}
+  .headlines-list{display:flex;flex-direction:column;}
+  .headline-item{
+    display:flex;align-items:flex-start;gap:10px;
+    padding:14px 0;border-bottom:1px solid var(--border);
+    text-decoration:none;color:inherit;
+  }
+  .headline-item:last-child{border-bottom:none;}
+  .headline-content{flex:1;min-width:0;}
+  .headline-cat{
+    display:inline-block;font-size:10px;font-weight:600;text-transform:uppercase;
+    letter-spacing:0.4px;color:#4a4744;background:#eeece4;
+    padding:2px 7px;border-radius:3px;margin-bottom:6px;
+  }
+  .headline-title{font-size:13.5px;font-weight:600;color:var(--text-bright);margin-bottom:3px;line-height:1.4;}
+  .headline-meta{font-size:12px;color:var(--text-muted);}
+  .headline-arrow{flex-shrink:0;color:#b0ac9d;font-size:14px;margin-top:2px;}
+  .headlines-empty{font-size:13.5px;color:var(--text-muted);font-style:italic;text-align:center;padding:20px 0;}
+  @media(max-width:640px){
+    .headline-item{gap:8px;}
+  }
+
   .subscribe-section{padding:0 32px 64px;max-width:760px;margin:0 auto;}
   .subscribe-wrap{
     background:#fff;border:1px solid var(--border);border-radius:12px;padding:36px;
@@ -382,6 +410,18 @@
   `;
 })();
 </script>
+
+<section class="headlines-section">
+  <div class="headlines-wrap">
+    <div class="headlines-header">
+      <h2>Recent headlines</h2>
+      <span class="headlines-updated" id="headlines-updated">Updated hourly</span>
+    </div>
+    <div class="headlines-list" id="headlines-list">
+      <p class="headlines-empty">Loading headlines&hellip;</p>
+    </div>
+  </div>
+</section>
 
 <section class="stats">
   <div class="stats-grid">
@@ -584,6 +624,50 @@ function renderFeed(){
     </div>`).join("");
 }
 renderFeed();
+
+function renderHeadlines(){
+  const list = document.getElementById("headlines-list");
+  const updatedEl = document.getElementById("headlines-updated");
+  if(!list) return;
+
+  function escapeHtml(str){
+    return String(str).replace(/[&<>"']/g, c => ({
+      "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+    }[c]));
+  }
+
+  function timeAgo(iso){
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const hrs = Math.floor(diffMs / 3600000);
+    if(hrs < 1) return "just now";
+    if(hrs < 24) return hrs + "h ago";
+    return Math.floor(hrs / 24) + "d ago";
+  }
+
+  fetch("news-feed.json", { cache: "no-store" })
+    .then(r => { if(!r.ok) throw new Error("no feed yet"); return r.json(); })
+    .then(data => {
+      const items = data.items || [];
+      if(!items.length){
+        list.innerHTML = `<p class="headlines-empty">No headlines yet — check back soon.</p>`;
+        return;
+      }
+      if(updatedEl && data.updated) updatedEl.textContent = "Updated " + timeAgo(data.updated);
+      list.innerHTML = items.map(it => `
+        <a class="headline-item" href="${escapeHtml(it.link)}" target="_blank" rel="noopener">
+          <div class="headline-content">
+            <span class="headline-cat">${escapeHtml(it.categoryLabel)}</span>
+            <div class="headline-title">${escapeHtml(it.title)}</div>
+            <div class="headline-meta">${escapeHtml(it.outlet)} &middot; ${timeAgo(it.pubDate)}</div>
+          </div>
+          <span class="headline-arrow">&#8599;</span>
+        </a>`).join("");
+    })
+    .catch(() => {
+      list.innerHTML = `<p class="headlines-empty">No headlines yet — check back soon.</p>`;
+    });
+}
+renderHeadlines();
 </script>
 <script src="nav.js?v=23"></script>
 </body>
