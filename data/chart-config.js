@@ -270,8 +270,8 @@ const CHART_CONFIG = {
         }
       },
       { key: "dept_outcomes_defence", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist"],
-        sectionHeader: "Department & Program Outcomes vs. Spend",
-        sectionSubhead: "Pairing each department's funding (above) with its own published performance indicators — not spend-per-outcome ratios, since departments report different things and don't share a common unit.",
+        sectionHeader: "Department & Program Outcomes vs. Spending",
+        sectionSubhead: "Covers the 5 most-funded federal departments plus a Canada Health Transfer deep-dive. Pairing each department's funding (above) with its own published performance indicators — not spend-per-outcome ratios, since departments report different things and don't share a common unit.",
         explain: "The Department of National Defence's own readiness indicator: the percentage of CAF force elements ready for operations against an established target of at least 90%. Readiness fell from 71% (2021-22) to 61% (2022-23), then recovered partially to 67% (2023-24) — still well short of target in all three years. A separate, stricter 'concurrent operations' indicator introduced in 2022-23 is not shown here.",
         verdict: "MIXED — CAF readiness has never met its 90% target in the three years reported, though it partially recovered in 2023-24 after a sharp 2022-23 drop. DND itself attributes the shortfall to equipment and personnel shortages.",
         legendExplain: {
