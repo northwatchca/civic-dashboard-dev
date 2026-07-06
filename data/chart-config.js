@@ -191,7 +191,7 @@ const CHART_CONFIG = {
           "Funding (CAD Billions)": "The budgetary authority allocated to each department in the 2026–27 Main Estimates — the amount they are authorised to spend."
         }
       },
-      { key: "dept_spending_hist", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist-total-real", "govt_efficiency", "dept_outcomes_defence", "dept_outcomes_cht_transfer"],
+      { key: "dept_spending_hist", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist-total-real", "govt_efficiency"],
         seriesSubset: ["National Defence ($B)", "Health Canada ($B)", "Employment & Social Dev ($B)", "Indigenous Services* ($B)", "Global Affairs ($B)"],
         subtitle: "Nominal dollars (as reported each year) — not adjusted for inflation. See the Total spending chart below for a real-dollar comparison.",
         explain: "How the five largest departments with consistent historical records have grown since 2000, in nominal dollars. Key context: Health Canada's line looks small because the real federal healthcare money ($54B+ Canada Health Transfer) flows directly to provinces through the Department of Finance, not through Health Canada. The ESDC spike in 2020 is COVID emergency transfers (CERB, wage subsidies) — a one-time event, not a permanent level. These figures are not adjusted for inflation; a meaningful share of the nominal growth since 2000 reflects rising prices rather than expanded programs.",
@@ -267,79 +267,6 @@ const CHART_CONFIG = {
         legendExplain: {
           "Infra Quality Index (0-100)": "A composite measure of Canadian infrastructure quality and condition. 100 = 2000 baseline. Falling index means deteriorating quality despite rising spending.",
           "Pub Sector Productivity Idx": "Output per government employee relative to 2000 = 100. Falling means the public sector is getting less done per worker over time."
-        }
-      },
-      { key: "dept_outcomes_defence", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist"],
-        sectionHeader: "Department & Program Outcomes vs. Spending",
-        sectionSubhead: "Covers the 5 most-funded federal departments plus a Canada Health Transfer deep-dive. Pairing each department's funding (above) with its own published performance indicators — not spend-per-outcome ratios, since departments report different things and don't share a common unit.",
-        explain: "The Department of National Defence's own readiness indicator: the percentage of CAF force elements ready for operations against an established target of at least 90%. Readiness fell from 71% (2021-22) to 61% (2022-23), then recovered partially to 67% (2023-24) — still well short of target in all three years. A separate, stricter 'concurrent operations' indicator introduced in 2022-23 is not shown here.",
-        verdict: "MIXED — CAF readiness has never met its 90% target in the three years reported, though it partially recovered in 2023-24 after a sharp 2022-23 drop. DND itself attributes the shortfall to equipment and personnel shortages.",
-        legendExplain: {
-          "% Force Elements Ready for Operations": "DND's own measure of what share of Canadian Armed Forces elements are ready to deploy, against an internal target of at least 90%."
-        }
-      },
-      { key: "dept_outcomes_isc_water", type: "line", relatedCharts: ["dept_outcomes_isc_life", "dept_outcomes_isc_education", "dept_spending_hist"],
-        explain: "The number of long-term drinking water advisories in effect on reserve, tracked against a baseline of 105 established in November 2015. The count fell sharply to a low of 28 by January 2024, but has since risen to 38–40 by 2025–2026 as new advisories were added faster than existing ones were resolved. This is not a simple steady decline — progress reversed direction in the last two years shown.",
-        verdict: "MIXED — Long-term drinking water advisories fell from 105 to a low of 28 (2015–2024), then rose back to roughly 40 by 2026 as new advisories outpaced the rate of resolution.",
-        legendExplain: {
-          "Long-Term Drinking Water Advisories (#)": "Advisories in effect for more than a year on federally funded public water systems on First Nations reserves. New advisories are added to the list as systems are assessed, even as others are lifted."
-        }
-      },
-      { key: "dept_outcomes_isc_life", type: "horizontalBar", relatedCharts: ["dept_outcomes_isc_water", "dept_outcomes_isc_education"],
-        explain: "Life expectancy at birth for First Nations people compared to the non-Indigenous population, by sex. This is the most recent nationally comparable estimate available — Statistics Canada has not published a directly comparable national update since 2011, which is itself worth noting when assessing progress.",
-        verdict: "BAD — First Nations life expectancy was 6–10 years lower than the non-Indigenous population as of the most recent comparable estimate (2011). No more recent comparable national figure has been published.",
-        legendExplain: {
-          "Life Expectancy (Years)": "Average number of years a newborn is expected to live, based on 2011 mortality rates — the most recent year with a nationally comparable First Nations estimate."
-        }
-      },
-      { key: "dept_outcomes_isc_education", type: "line", relatedCharts: ["dept_outcomes_isc_water", "dept_outcomes_isc_life"],
-        explain: "The share of 18-24 year-olds who have completed high school, comparing on-reserve First Nations youth to the non-Indigenous population, across the two most recent Census years. The gap has narrowed — from about 46 points in 2016 to about 36 points in 2021 — but remains very large: fewer than half of on-reserve youth in this age group had completed high school as of 2016, rising to just over half by 2021.",
-        verdict: "MIXED — On-reserve high school completion rose from 41.9% to 53.3% between 2016 and 2021, narrowing the gap with the non-Indigenous rate (87.7% to 89.6%), but a roughly 36-point gap remains.",
-        legendExplain: {
-          "On-Reserve First Nations (%)": "Percentage of 18–24 year-olds living on reserve who have completed high school, per the Census.",
-          "Non-Indigenous (%)": "Percentage of 18–24 year-old non-Indigenous Canadians who have completed high school, per the Census."
-        }
-      },
-      { key: "dept_outcomes_esdc_poverty", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist"],
-        explain: "Canada's Official Poverty Rate under the Market Basket Measure — the legislated poverty line ESDC is responsible for under Opportunity for All. The rate fell steadily from 14.5% (2015) to a low of 6.4% (2020), driven substantially by temporary COVID-19 income supports, then rose for three consecutive years to 10.2% (2023).",
-        verdict: "MIXED — Down substantially from 2015 (14.5% → 10.2%), but rising every year since the pandemic-era low of 6.4% in 2020, and progress toward the legislated 2030 target has stalled.",
-        citedThreshold: "Opportunity for All (2018) set legislated targets of a 20% reduction in poverty by 2020 and a 50% reduction by 2030, both measured against the 2015 baseline of 14.5%. The 2020 rate (6.4%) briefly exceeded the 2030 target early, but the rate has since risen for three straight years and progress toward 2030 has stalled.",
-        legendExplain: {
-          "Official Poverty Rate (%)": "Percentage of the population below Canada's Official Poverty Line (Market Basket Measure, 2018 base)."
-        }
-      },
-      { key: "dept_outcomes_gac_oda", type: "line", relatedCharts: ["dept_funding", "dept_spending_hist"],
-        explain: "Official Development Assistance as a share of Gross National Income — the standard international measure of foreign aid effort. This is an input/effort ratio, not a measure of aid effectiveness or outcomes, but it is the best standardized comparative figure available for this department.",
-        verdict: "CONTEXT — Canada's ODA share rose from 0.28% (2015) to 0.37% (2022) before dipping to 0.34% (2024). It remains well below the internationally cited 0.7% target.",
-        citedThreshold: "The United Nations target for developed countries, first set in 1970 and reaffirmed repeatedly since, is 0.7% of GNI in official development assistance. Canada has never met this target; its 2024 figure of 0.34% is less than half.",
-        legendExplain: {
-          "ODA (% of GNI)": "Official Development Assistance (foreign aid) as a percentage of Gross National Income, per OECD DAC reporting."
-        }
-      },
-      { key: "dept_outcomes_cht_transfer", type: "line", relatedCharts: ["dept_outcomes_cht_access", "dept_outcomes_cht_surgery", "dept_spending_hist"],
-        sectionHeader: "Canada Health Transfer Deep-Dive",
-        sectionSubhead: "Health Canada's own departmental budget doesn't fund hospital wait times or family doctor access — that money flows to provinces through the Canada Health Transfer instead. These charts pair CHT funding with the outcomes it's intended to support.",
-        explain: "The Canada Health Transfer is the federal cash transfer to provinces and territories for healthcare delivery. It has more than doubled in nominal dollars since 2008-09, from $22.6B to a projected $54.7B in 2025-26, including a guaranteed minimum 5% annual growth rate from 2023-24 to 2027-28. These figures are not adjusted for inflation.",
-        verdict: "CONTEXT — The transfer has grown substantially in nominal terms. See the access and wait-time charts below for whether outcomes have kept pace.",
-        legendExplain: {
-          "CHT Annual Transfer ($B)": "The federal cash transfer to provinces and territories for healthcare, in the dollars of each year (nominal) — not adjusted for inflation."
-        }
-      },
-      { key: "dept_outcomes_cht_access", type: "line", relatedCharts: ["dept_outcomes_cht_transfer", "dept_outcomes_cht_surgery"],
-        explain: "The share of Canadians who report having a regular healthcare provider (family doctor or equivalent). This declined modestly from an 85% average over 2017-22 to 82.8% in 2023, edging up slightly to 83% in 2024 — over a period when CHT funding continued to grow.",
-        verdict: "MIXED — Access has declined modestly from the 2017-22 average and has been roughly flat since, despite rising CHT funding over the same period.",
-        legendExplain: {
-          "% with Regular Health Care Provider": "Percentage of Canadians aged 12+ who report having a regular family doctor or healthcare provider, per CCHS/CIS survey data."
-        }
-      },
-      { key: "dept_outcomes_cht_surgery", type: "line", relatedCharts: ["dept_outcomes_cht_transfer", "dept_outcomes_cht_access"],
-        explain: "The share of hip replacement, knee replacement, and cataract surgeries performed within CIHI's clinically recommended benchmark wait time. Hip and knee replacement both declined from 2019 to 2023-24. Cataract surgery dropped sharply in 2020 due to pandemic disruption but has since recovered to its 2019 level.",
-        verdict: "BAD — The share of hip and knee replacements performed within benchmark has fallen since 2019 despite rising CHT funding. Cataract surgery recovered from its 2020 pandemic low back to 2019 levels.",
-        citedThreshold: "CIHI's clinically recommended benchmark wait times are 182 days for hip and knee replacement and 112 days (16 weeks) for cataract surgery. These are the maximum wait times considered clinically appropriate, not aspirational targets.",
-        legendExplain: {
-          "Hip Replacement Within Benchmark (%)": "Percentage of hip replacement surgeries performed within CIHI's 182-day benchmark wait time.",
-          "Knee Replacement Within Benchmark (%)": "Percentage of knee replacement surgeries performed within CIHI's 182-day benchmark wait time.",
-          "Cataract Surgery Within Benchmark (%)": "Percentage of cataract surgeries performed within CIHI's 112-day (16-week) benchmark wait time."
         }
       }
     ]
