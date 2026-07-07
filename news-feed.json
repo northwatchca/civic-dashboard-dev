@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T19:17:09.622Z",
+  "updated": "2026-07-07T23:31:27.906Z",
   "items": [
     {
       "title": "What to expect from July's Bank of Canada interest rate update",
@@ -10,6 +10,14 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "B.C. Court Asked to Throw Out Approval of $12-Billion Natural Gas Pipeline",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVk51ZHN6RXJDcFBEdl8yWmp2cTRjdFppRDFzSFctUjBkcXh2V1FZeEZqM2RhYUZrcjg0cU1RUVU2ajNmMmwzWWNvZkwwa0FPWTRkWFFfVXJ4a2c3N1BWMmVOZ0lsVDE3YnlGX2IxVVN5bEdPWHFDdHdFYnAxU2ZWc1ZrdG05VnhQbVJJdWRRRUhYOUo4bjY2Vjh1VjIyd1RQMnl3Zw?oc=5",
+      "pubDate": "2026-07-07T17:26:13.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Northern municipal leaders endorse cross-Canada pipeline corridor",
       "outlet": "TimminsToday.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3NlbE1vZFdZOTFhNXRVNkN2Q3RtUU9DVVNMcGFXbDVOM0NUaUhmRzE0X3lXOWtBeEt4T0Q3aUlLQ1BBYU9xR2Z1YTM5aUdocnNqRTc5eXNPVHc0TmRlbXlNbEFnMTcwcnZ6RUl4RloxZFVIUzlDakd0Ql82cE5OWmI5QlZWWXlyS241aGozWjJXc3J2cnl1V3ZrcW02ajlpSUpIMTBxNmdsNGYzT0h5d3hlc3I?oc=5",
@@ -18,20 +26,36 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Some Canadians are getting a bonus government payment this week — Here's who qualifies",
-      "outlet": "MTL Blog",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CTkN3ZW53d1g5cFBWT2MtWDF0MHlfU0gxT1lmNjRLeEhGV1d3R3Y2cVZyLXhZWjVOQTFEZS1VTm9VMWRpSFVTQWtWNHdKdFlTaDNjTmtsX0RweVF1M3B3OXpjTlc2dw?oc=5",
-      "pubDate": "2026-07-07T15:54:51.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Alberta's pipeline deal could allow Canadian oil to reach new countries. But will they want it?",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWk0dE0wNndGOFJrVzJwN1Ezbl9xYkNkSU9WbVNZLVNJWUpQY0pUV3d3UzFPZ2xXQUtsd3dyZUxEUUMwM2tPY2tFVGFkc2hyekduLVVoZTAzU1VIWW1pcDdXN1NIemlIRjNqdnFvSC1QZ2doOWd1YTNRWFR3VUFTbg?oc=5",
       "pubDate": "2026-07-07T15:36:15.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada’s exports were up for the 4th straight month, says StatCan",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zOHFrUGJESW9MbEFxME91S1pCSkN1Sy1sMVp2dnNLTC1YS2dlcnVLeTgwc3o1NXc4MlRYSklXREpJWnFVLTRPVlBGSnA0d3drVGhmcW9oMjVZSzBpaURfMno3LThhMWdRaG8zS3Q0OTNGYVE?oc=5",
+      "pubDate": "2026-07-07T15:24:19.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s trade surplus highest since 2022 as war fuels exports",
+      "outlet": "Canadian Mortgage Trends",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFpobEhSRVZqQnd4UXo5dWlpSTFMMlp2RUNGSkJtMVJBZTAyZ2xLMUFUSXJCblFMTUN1VWlLeUs3WUNqOW42RmlzVkJrSERoSFVZUG01cDVGRDhuWmtUb3NPNHhHTWU3Zi05bUJKdWdwdE5VcWdsRHdCMVExLVowdDA1dThpYW9TUE9ZNG9JMEY1N2gtSExBTFV1TDhrTjNfWmdvb1VDa3RacTNwX3c?oc=5",
+      "pubDate": "2026-07-07T14:11:25.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada's trade surplus hits four-year high in May, led by jump in exports to U.S.",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjFQM21yYzRVLTRuTHJkbHhZcUc3RGo5TnBMeXo4RWd6NlloQ0hpZnZZRGxGN2cwLVBDMWx3N3NfY29ZalVvY2FsWVJOTjNKRGF6US16WHZ1djRYekxtSjZiZm03TWROUkNmUXJNOFJsQmxJU2dLVnNLXzNqTHRXbERn?oc=5",
+      "pubDate": "2026-07-07T13:57:11.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "New head of the CRA has her work cut out for her",
@@ -50,20 +74,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Nancy Healey reappointed as EI commissioner for employers",
-      "outlet": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajBCRmFUM2hWQnlJNDlCdGp5NVh5U0hyN1JUUzRhcmtUVzBYSnEzaGF0YTZfODA3QjU3R2x0NDQ2djRYODh2WjBMMnJ1YzR1OXVmaWtDb0Exa2xfR0JlNVY2TE9qR05UcDFRLWN0aXA1Nm1SZTFxNHNuVXJjbERtdHc3dExtbWt1UGVwdmZTMVZtTlZ5TjV4M3ViNzVOWFJSYTNHOEZUTlZRb1dReGRrb3o2Nzk2TG9NM19JUF9ndHNHYXFGUjhr?oc=5",
-      "pubDate": "2026-07-07T06:45:51.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Alberta and Ontario propose a pipeline to carry western Canada’s oil to the east",
-      "outlet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1BoUFVJaUlJVzg5QUFhdElxT003S09UNUdqa3l2VGdXajdieno5ZFFhcUVxSnV0eGN2NXdiWlN3NjNua0JsSDllT0Z4aDQ0NnM2aERVdFVKcUxkWWROOHVDVnV6enFHS29FUGJqbTJ0RWZ1c3UxTkNnUnNsb0kyallQMjJMU1dOWVR3b1JBMGpTeVlTaUZ6YldZQWNyWjFi?oc=5",
-      "pubDate": "2026-07-07T02:59:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "Immigration ministers discuss sustainable immigration levels",
+      "outlet": "WestCentralOnline",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjdtenRRbTl6aGdfbnBvdzBxWGVUTkxBRVNpOWxMME5XRjFSaE9TaG9QVjkxMFpfX0didWc3RG9xTXdNY2k1ZGhQdXd4UUhTN295YjVKWDd0d2dUcTJCNUNCSHFfNVJSNHFJYllkUHdieFJpOUtGN2dlak5KVE5Kc0M2TmVqWHlKbzVRTkplT0kzTG80NnN1MDhfZTA0ZlRndURWcWFn?oc=5",
+      "pubDate": "2026-07-06T22:02:40.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "Government of Canada reappoints Commissioner for Employers to the Canada Employment Insurance Commission (CEIC)",
@@ -74,7 +90,7 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada’s economy likely started Q2 on a stronger footing",
+      "title": "Labour market and business sentiment in focus as Canada’s economy stabilizes",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
       "pubDate": "2026-07-03T07:00:00.000Z",
@@ -82,12 +98,20 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "GDP is a key gauge, but only one piece in understanding Canada’s economic reality",
-      "outlet": "The Hill Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWtha3dGamxUNmtPU2FDWGFDODE1dnY1QWpLRFI3WUprbDNwandYOElRZ25ybnZxR1haRS11UF9leFV2Ym5HWDdzVkxOdUlIRWEwYWRrTk9nSU5rS1dhNFE4QnlpXzVGd3E3a1hQMmYxMG9rY0lvTG1WWWFYYklVV2M3YWw4T1FYVnNualZHd3J3bm5XRHQyTEtVeUEyRjgzdFA5aThLS0Z4QVBBM2FlaHlvaHktVlJpVlN5NkhUZTFlZw?oc=5",
-      "pubDate": "2026-06-25T14:00:53.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Labour market and business sentiment in focus as Canada’s economy stabilizes",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
+      "pubDate": "2026-07-03T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "PEI Population Report Quarterly",
+      "outlet": "Government of Prince Edward Island",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkdBSWhnTmVDRVlQdzh1SkF2dzlUbXk4YXJxN1duQXd5X0ZtTEJVajU4MjEwRlItUVpxX25OZnN1cjJjTVloRUhVUGpqc0RicktzNzB0NnJfN1JEZVFMREFOZ3ZWR28wQVBzamRZWVFFNUM1aUM3N2tDVllJMWg4cnE3bVE5SlZxeTlnSC13V0dEMzJjazdMZFJpalZSeUg1SmM1b0NDVGY0UQ?oc=5",
+      "pubDate": "2026-06-17T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, May 2026",
@@ -96,30 +120,6 @@
       "pubDate": "2026-06-15T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Economic and Fiscal Outlook – June 2026",
-      "outlet": "Parliamentary Budget Officer",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUh4WXNPemxtZ2o1Z0lEendxSVpmWWZ3WDhTV0pHTmdBR2xkeEN2bWhxcVlTNmRFeDdCQ1RqTmpqUVdWV2lhdmZHVkJQVnJRTzlPbU14MEozNWs2WF9kU0xsX1hvQXlPZFh3RGx0MnJ0V1ZXVGphMDM1Z0lMeVdRMDRqRU9pamh6OVNacXhGY1ItV0dsVEprWldRWFp4X0JmWjNSM08wNnZBYVJiSS03RUp6N3MtWDJ3eWk5OXZOZHJpWUJBZTI3T2lmRWJWWGFP?oc=5",
-      "pubDate": "2026-06-04T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "CDCP, population growth delaying P.E.I. dental hygiene appointments, with some booked into 2027",
-      "outlet": "Oral Health Group",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYy0wOFRUZmRvRmdPeDN3UFVoZkw1TmpFekh0bzFUNVdXNVhaZ1hXamJPeHhjb1plNXk4bFdZaFNQSmpibUR1akppSnlzSHh6VnUyUWpsQkdXaHo2WEQ2S1RJRHlWXzdpWGNiR2RDNmRLbnp5NHlvY2dDS2wtT0FPVDdWbXdncUk2dnJjZWhhSTMtekw3QW83WmlSN2prVGw3TGo3ZHJ5WmVEbnN6NTNDdGdXbGtLS21hOHhpeEctQjFyV3BJTTJweEFlSm5xbDVLUktzelpZM1F2dE9GRTBTc3R1bkloZXdUQXhfRmpqeG1PX05ZcUtUNkdR?oc=5",
-      "pubDate": "2026-05-26T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "The quiet collapse of Canadian bystander culture",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjFJb252YlRFTk9SLVFFTVRuVUEwVTRicDVzaVdiS1BzbHZtNmtqZ1pzbWdOQlBwX3FKMFVJLWI1bTZKTDNJdXM0TlhlNWlBRkxhV1lzWEtqVmhfaXhSZXFfX3VKMGFINzhDNGR1NmNkOWExS0Z3V3N3c3pPS3ltU3lSWG4?oc=5",
-      "pubDate": "2026-05-11T07:00:00.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
     }
   ]
 }
