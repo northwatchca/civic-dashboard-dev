@@ -81,37 +81,37 @@
   <p class="page-sub">51 indicators across seven categories, sourced from Statistics Canada, the Bank of Canada, the PBO, and OECD. Each category links to its own chart set. Use the comparison tool to overlay any two series.</p>
 
   <div class="cat-grid">
-    <a class="cat-card" href="economy.html">
+    <a class="cat-card" href="economy.html" data-cat="economy">
       <h2>Economy & Productivity</h2>
       <p>GDP composition, sector shifts, productivity vs. G7 peers, trade exposure.</p>
       <span class="count">8 charts</span>
     </a>
-    <a class="cat-card" href="debt-fiscal.html">
+    <a class="cat-card" href="debt-fiscal.html" data-cat="debt_fiscal">
       <h2>Debt & Fiscal</h2>
       <p>Household debt, federal debt/deficit, housing costs, interest rates, spending, government spending efficiency.</p>
       <span class="count">16 charts</span>
     </a>
-    <a class="cat-card" href="demographics.html">
+    <a class="cat-card" href="demographics.html" data-cat="demographics">
       <h2>Demographics</h2>
       <p>Population growth, immigration, fertility, provincial divergence.</p>
       <span class="count">6 charts</span>
     </a>
-    <a class="cat-card" href="labour-inequality.html">
+    <a class="cat-card" href="labour-inequality.html" data-cat="labour_inequality">
       <h2>Labour & Inequality</h2>
       <p>Employment, wages, wealth distribution, corporate concentration.</p>
       <span class="count">7 charts</span>
     </a>
-    <a class="cat-card" href="social-fabric.html">
+    <a class="cat-card" href="social-fabric.html" data-cat="social_fabric">
       <h2>Social Fabric</h2>
       <p>Trust, civic participation, education outcomes.</p>
       <span class="count">7 charts</span>
     </a>
-    <a class="cat-card" href="resources.html">
+    <a class="cat-card" href="resources.html" data-cat="resources">
       <h2>Resources</h2>
       <p>Energy and resource revenue, commodity exposure, equalization flows.</p>
       <span class="count">4 charts</span>
     </a>
-    <a class="cat-card" href="taxes.html">
+    <a class="cat-card" href="taxes.html" data-cat="taxes">
       <h2>Taxes</h2>
       <p>Personal and corporate tax burden, effective vs. marginal rates, federal revenue composition.</p>
       <span class="count">7 charts</span>
@@ -129,5 +129,18 @@
   </div>
 </div>
 <script src="../nav.js?v=23"></script>
+<script src="chart-config.js?v=17"></script>
+<script>
+(function autoCountCharts(){
+  if (typeof CHART_CONFIG === "undefined") return;
+  document.querySelectorAll(".cat-card[data-cat]").forEach(function(card){
+    var key = card.getAttribute("data-cat");
+    var cfg = CHART_CONFIG[key];
+    if (!cfg || !cfg.charts) return;
+    var countEl = card.querySelector(".count");
+    if (countEl) countEl.textContent = cfg.charts.length + " charts";
+  });
+})();
+</script>
 </body>
 </html>
