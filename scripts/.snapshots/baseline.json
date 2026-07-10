@@ -291,39 +291,9 @@
     },
     "lastUpdated": "2026-07-01"
   },
-  "fiscal_context": {
-    "title": "Fiscal Architecture — What the Department Figures Don't Show",
-    "subtitle": "The 20-department table covers ~$143B. Total federal spending is ~$500B+. The gap is explained by the flows below.",
-    "source": "Flow-Through / Transfer",
-    "xLabel": "Canada Health Transfer (CHT)",
-    "x": [
-      "Canada Social Transfer (CST)",
-      "Equalization Payments",
-      "Public Debt Charges",
-      "Other Federal Transfers & Programs",
-      "TOTAL FEDERAL SPENDING (approx.)"
-    ],
-    "series": {
-      "~$54B": [
-        "~$16B",
-        "~$25B",
-        "~$54B",
-        "~$100B+",
-        "~$500B+"
-      ],
-      "Federal cash to provinces for healthcare; does not appear in Health Canada's budget": [
-        "Transfers to provinces for post-secondary, social assistance, child care",
-        "Constitutional transfers to 'have-not' provinces to equalise public services",
-        "Interest on federal debt — largest single line item in the entire budget",
-        "EI, OAS/GIS, Canada Child Benefit, direct program spending outside departments",
-        "Full consolidated federal expenditure envelope"
-      ]
-    },
-    "lastUpdated": "2026-07-01"
-  },
   "gdp_by_sector": {
     "title": "GDP Share by Industry Sector — Annual Time Series (1997–2026) | % of Total GDP",
-    "subtitle": "NAICS-based classification introduced 1997 — earliest date with consistent cross-sector comparability. 13 major sectors tracked annually. Values = % of total GDP at basic prices, current dollars.",
+    "subtitle": "NAICS-based classification introduced 1997 — earliest date with consistent cross-sector comparability. 13 major sectors tracked annually. Values = % of total GDP at basic prices, current dollars. Real Estate rising, Manufacturing declining.",
     "source": "Source: Statistics Canada, Table 36-10-0401-01 (GDP at basic prices by industry, NAICS). Blue values = user-editable inputs.",
     "xLabel": "Year",
     "x": [
@@ -2887,7 +2857,7 @@
   "fertility": {
     "title": "Fertility Rate & Demographic Structure (1960–2026)",
     "subtitle": "Total Fertility Rate (TFR), age dependency ratio, and immigrant vs. native-born fertility convergence. Immigration cannot structurally replace endogenous fertility — second-generation convergence closes the argument.",
-    "source": "Sources: Statistics Canada Tables 13-10-0418-01, 17-10-0005-01; OECD Family Database; World Bank fertility data. Blue = editable inputs.",
+    "source": "Sources: Statistics Canada Tables 13-10-0418-01, 17-10-0005-01; OECD Family Database; World Bank fertility data. Blue = editable inputs. Second-generation convergence data available only from 2016 onward.",
     "xLabel": "Year",
     "x": [
       1960,
@@ -3147,7 +3117,7 @@
   },
   "corporate_concentration": {
     "title": "Corporate Concentration & Profit Extraction (1990–2026)",
-    "subtitle": "Market concentration in key oligopolistic sectors, corporate profit margins, effective tax rates, and dividend/buyback volumes vs. productive reinvestment. Direct empirical test of elite capture thesis.",
+    "subtitle": "Market concentration in key sectors, corporate profit margins, effective tax rates, and dividend/buyback volumes vs. productive reinvestment.",
     "source": "Sources: Statistics Canada Tables 33-10-0006-01, 36-10-0104-01; Competition Bureau Canada; CMHC; CRTC; Office of the Superintendent of Financial Institutions. Blue = editable inputs.",
     "xLabel": "Year",
     "x": [
@@ -3406,8 +3376,8 @@
   },
   "social_cohesion": {
     "title": "Social Cohesion, Trust & Mental Health Indicators (1985–2026)",
-    "subtitle": "Social trust, civic participation, mental health, opioid deaths, and loneliness metrics. These are the civilizational health indicators that GDP cannot capture — and they are all deteriorating.",
-    "source": "Sources: Environics Institute Social Values Survey; Statistics Canada GSS Tables 45-10-0007-01, 43-10-0007-01; Public Health Agency of Canada (opioid); Angus Reid Institute. Blue = editable inputs.",
+    "subtitle": "Social trust, civic participation, mental health, opioid deaths, and loneliness metrics.",
+    "source": "Sources: Environics Institute Social Values Survey; Statistics Canada GSS Tables 45-10-0007-01, 43-10-0007-01; Public Health Agency of Canada (opioid); Angus Reid Institute. Blue = editable inputs. Social Trust values interpolated between Environics survey waves.",
     "xLabel": "Year",
     "x": [
       1985,
