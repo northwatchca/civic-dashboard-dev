@@ -1,11 +1,27 @@
 {
-  "updated": "2026-07-11T10:44:57.321Z",
+  "updated": "2026-07-11T14:37:47.099Z",
   "items": [
+    {
+      "title": "Sohi: Why Canada’s next pipeline should follow the southern route",
+      "outlet": "Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUZqTVloS0xoNDB5UWZQM05PbU4wNkxIN25oSmU1T3VWTWdZTy14WFVKcFQ0Ymk1cFR6RjZSTU55QjFhN2J5aHY3TTh5Ykl2cUhTekFaTjNuei1UYkhpWEdOaUx6YUhFS2xsazhRUGRFRDZpOGZSUW8wQ2JYR1pLYkNETEtqTGM2STJBTlp1ZTd5NWY4ZHVvaTdYc3JRUQ?oc=5",
+      "pubDate": "2026-07-11T12:05:44.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Smith: A better approach to help Canada's minimum-wage earners",
       "outlet": "London Free Press",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjU2R3NPWXZRSTU4VXFmX01FVTk0eHg5ZFV3RjMzSlNxbU56eGh1WTYwTWI0VTc0bVZ4X3lqdWxPbXRQNDlHMzZCYUxjUzNwX29rSVZTbUpkRTJhY0NxaVFvREpwUUdkOWFJcWx5LTJfZ1IzaXJETTBfdkFwZHRlcFVBRTQ2RlpBcUJkVzl2bTFoaFhjRHRIREFPZVljNjFY?oc=5",
       "pubDate": "2026-07-11T04:08:50.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Kelowna's unemployment rate tops major Canadian cities despite June job gains",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWNSa3BoRXZTNFlSUlozSjRUZndEMWZJQlpGTm9WZ0RhSVI4aGlsdF9ENk96VVIxUWk5aXBXSm9LZ2FYanljcTUzU1dUYnJMZEc5ZVRYQkVwc2lWWEwwV2R2VVRhYXhNQUpEM1N2ejFRU3RELW9BZTQ0d1RiTmRjXzNuS3VRekZ1R2c?oc=5",
+      "pubDate": "2026-07-10T23:25:03.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -42,22 +58,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Government of Canada to announce investments to help Surrey businesses boost productivity and reach new markets",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdG5Ca3VDcmJ3T2sxaXRfOF9NaEpYcWFqT3NwYmxNMEMzb1h4RVVSRU9vanBHTnZHZE1MYlUzUEIxa2s0XzRObmRoeTh5bGpiaU9sYzFhOHluSjVHbF9sMEtJanAyVUFadEZpbV8zcVNVRktjcF9CTzNWdlhnazdKX2pWbEhEWWZCcGFxaTFnaFktY0VVQV82S3F6dGEyc3k1aTJDb0d3N0xGOUNJQUVna1NER0hrXzhLY3ZTb1k0VXZ1dk1IY0Y5dF94RWZWcW8tYS1yWXZUMzZpTUVCbno3SFRoeTgzTDYtM0pMQUJ5blk0WE5UNEVUZUZ4NVpINGNSTHJuT2pNOG1PUGloOHVMbQ?oc=5",
-      "pubDate": "2026-07-10T17:04:25.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canada's unemployment rate ticks down to 6.5%",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWkNqV05LUDFGZTRsZXRYY0FTSl9qa3pocVV3SXctcEtIRTVSOFJqSEdWMm53eGJoOEF1NzJ0LW5Qcng1UXlGNk5sa3h5YWxVNTRtb1dUcWZCXzhwZzk2eExlWG5USExLVXMxQ1F4TFZGd00xNWVkajRzZ2F5ajQ?oc=5",
-      "pubDate": "2026-07-10T15:45:44.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SamQ2WUhwLTUzZjJ2NVRKMGtCdmpfZnhXWW9qcjUyb3RWT3p2cWdhWTFDaG9CZnpEQUJHOUx0dTNOUmp5QU8yeFVXRy04eGw3aC1tb2hoVGtvSDNKbjZwQnBDR21iVHZydEQ2aktFcno4ZzhuV3J5S2psbw?oc=5",
@@ -90,12 +90,12 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Federal Court orders CRA to redo tax-relief decision against LG Electronics",
-      "outlet": "Wealth Professional",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTlkb3ExTWVXUXJOc1NHaG9jaTkzUmVMblpSQXJoVTZxamQxM2xZNnp0YkRXeHJvNmttRjd2TUkwZWN2ZTFjY1psYkVDOFZObDZ1eU16TEpTcDBjNkpCbFhSWUI0Z1dsVUxRcVFJSV9MQkVZejlBbGhPbWs0X3ExU1QwR1NSbkE0YlBqOTVNNGJKWUhSVE5vYU50N2FhXzJLMnVmQlpSQllzZE10V2xtc2pyQW5yTy1TWVhMMzRsbkhVQUd5RDd5cW9LQ1RRZkt6?oc=5",
-      "pubDate": "2026-07-09T19:13:25.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "title": "Four in 10 Canadian manufacturers eye U.S. production move",
+      "outlet": "KPMG",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHZoS1c4cTVTV0c0YmFYSVRWRVFGZi1Wdjh5SU5yNWQ0S1o5TUhVcFNRMDI0UEtfMVg2Ym9zM2ctNnJOX3BXT2hma1p1aFBMVDM1Z3B1S0lvYl9zSzdrclVnQWI1bTRzSGY4QzYweWdLUkxjaWUzOHdTWXhkeW5jUVhNMGtJeUpQaWVDQV8wUzk?oc=5",
+      "pubDate": "2026-07-07T17:53:59.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s exports were up for the 4th straight month, says StatCan",
@@ -114,12 +114,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Ontario Unveils Proposed Route for Northern Shield Energy Corridor",
-      "outlet": "Ontario Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1puTmRkaEo5M2RkQXlKQVVZZHJWeTNKbFhQbEFMSUdUZ1k5UTBsRVVJLUhCZEc1R3Q5bVBpbDB3ekFiYnFZTFplRDZGSE5NeGdHeE9oRW05TkpTSEh0eHN0TlI5dk53dGNpOEw0bWVMdG1yMTJ1WmNtUGtvdG02cFlPNnFCRHdXRE15MnUydTM5bHctZUk1WHFjSkdwWGVFX2xKcU9Md2V6R1RjbkE?oc=5",
-      "pubDate": "2026-07-06T15:22:59.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "Canada’s declining fertility rate: Q&A with expert Bruce Newbold",
+      "outlet": "McMaster News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDlfSGp0WHJSMnhkNTVQZS1hTUh3Rk1aTmxvT1VQZDI2R011WFlmam1mTlJacGg3MmZEVXBLN1JTa1NpNWJYQkV4cTh5OTJKTVdfbEFYTC1JODdVMUhMZl9jZmlvZlp4SVZwcVFRbFRaaU0zQk9BZFNYX1BaRFhaY050d1NramJyUzkyS2w1NDQ?oc=5",
+      "pubDate": "2026-06-01T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
