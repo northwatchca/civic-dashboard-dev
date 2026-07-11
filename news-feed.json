@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-11T06:26:08.346Z",
+  "updated": "2026-07-11T10:44:57.321Z",
   "items": [
+    {
+      "title": "Smith: A better approach to help Canada's minimum-wage earners",
+      "outlet": "London Free Press",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjU2R3NPWXZRSTU4VXFmX01FVTk0eHg5ZFV3RjMzSlNxbU56eGh1WTYwTWI0VTc0bVZ4X3lqdWxPbXRQNDlHMzZCYUxjUzNwX29rSVZTbUpkRTJhY0NxaVFvREpwUUdkOWFJcWx5LTJfZ1IzaXJETTBfdkFwZHRlcFVBRTQ2RlpBcUJkVzl2bTFoaFhjRHRIREFPZVljNjFY?oc=5",
+      "pubDate": "2026-07-11T04:08:50.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
       "outlet": "EnergyNow.com",
@@ -16,14 +24,6 @@
       "pubDate": "2026-07-10T21:52:24.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada’s GDP growth ‘not sufficient’: FCC economist",
-      "outlet": "Alberta Farmer Express",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUtQWUY0YnFLYVoyNXpUMEdGN283X0ZweTVLc1ZrTXNhSjZPV1AwbWoyZXJLWEhyUVhQY1k1WVA1QlJQYWktN3RVTng2OVpzVHRER2dPVW5DM1VpYkdyaFNEMFdpcDhndEtYaEdHNmVTS1dRU1hleXFiQ3oyaGQzRjZ5RmtQZVllSTB5ZDJ5XzJNUQ?oc=5",
-      "pubDate": "2026-07-10T18:47:10.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Steady as she goes for fixed mortgage rates",
@@ -66,20 +66,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Map 1 Unemployment rate by province and territory, June 2026",
-      "outlet": "Statistics Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQi0xTkJQd0NuZTVuT3h0RmNRek44MEU4MUpZRlVMcnRiTldpVUkwOUNCMU1sV1hZeUkxS2JiR3NQeUotb201NFlEbEV5X0hSUllkT2J5X3QzaW5vbzFiRTZtTzJZUFJWdllzWWVWd0lvRFVtSGlpdDRB?oc=5",
-      "pubDate": "2026-07-10T14:15:51.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada’s unemployment rate edged lower in June",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpOdXEwRzNjcUt1bkJlVXM4VGVFLV9yZkFReXg0Unh3azQxeHdqbDgzczJBUlhDRXJrWmJHS3JxWUxIMW9jbkFWVG1wR0UyUnBRZmhjTkw4dGE3R0taZ2xsWmtick03Q1N3N1hJN01LSXhGMlFUdmdmaXphZWFObUFnaUE0UmRQalZMNG9PZVVZXzJhTGVXRWdNTjBoTjN0THBQc3RnOURZeTYwVmZv?oc=5",
       "pubDate": "2026-07-10T13:57:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "42% of Canadian manufacturing companies have moved to the U.S. or are considering it, and Ottawa is running out of time to stop them",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXlCWllOa2dlUUhkdG5CNjFnVGJ2Qk5YU01BejJSN2lERkk0Y2ptV1ppVFB2R3hiVjNLTDB1SlBZQk1zOGpNT3Z0X3FvY3VmdjBtMVdGemlmUkFhQzdTYVZEaUdfTGpvVzZjNDZLNVUxTm5EazM5VnpxY004REVReHhMUlQ5TGozRnd5UkhrWk5CNTh3bGN6bHM4LUZpU1pwaEZLeXNpWm43QWNVeFlzMTdMV2szWG5kNjRuSDdTbTVxamh6RVVkcnRmbWFtODhGMHNJ?oc=5",
+      "pubDate": "2026-07-10T07:00:48.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Conservative Party had $85M in revenue but ended 2025 with a $14M deficit",
