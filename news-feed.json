@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-12T07:33:59.579Z",
+  "updated": "2026-07-12T11:44:25.514Z",
   "items": [
+    {
+      "title": "Bryan Brulotte: Canada can't afford another unbuilt pipeline",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0tHYWI1Tmh1ZGk4WHU5RjI4UWhVRUl2VWFEREg1MkF2NFZ3dXNQQXVYNUgtY0VsMXg5SExSN1B6YmhDLU54M1F4YXNXOG5tajRKVFllQWxnWGF2TEd3UmVkQVhkSHctbnBoamFyeVlyYzh2RUJVYTVkU0FUUEtPd3R1ZDRWQmlzSDV2M2RUcjZ6SHZZMVE?oc=5",
+      "pubDate": "2026-07-12T10:04:23.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "B.C. Court Asked to Throw Out Approval of $12-Billion Natural Gas Pipeline",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVk51ZHN6RXJDcFBEdl8yWmp2cTRjdFppRDFzSFctUjBkcXh2V1FZeEZqM2RhYUZrcjg0cU1RUVU2ajNmMmwzWWNvZkwwa0FPWTRkWFFfVXJ4a2c3N1BWMmVOZ0lsVDE3YnlGX2IxVVN5bEdPWHFDdHdFYnAxU2ZWc1ZrdG05VnhQbVJJdWRRRUhYOUo4bjY2Vjh1VjIyd1RQMnl3Zw?oc=5",
+      "pubDate": "2026-07-12T09:31:07.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Carney talks about Canada's 'energy sovereignty.' But what does that really mean?",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm44OTlBYUt4TGFxRmxua2NLWU5KWW5kRlZUR3A0WHQwS2p0U05Vc1JqVHdOd0NiTXZQaWtZckwwaWg4bDczaEhBZ2ZMS21EdzlMcUhUc2xWLTBrZTdGT0hrMF83MlBhejY2U2tJWXhPZzlxbmVobjlQeVdCUzRBMDlzN09oRmc?oc=5",
+      "pubDate": "2026-07-12T08:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Canada looks to increase forest products exports to Philippines",
       "outlet": "Pulp and Paper Canada",
@@ -8,22 +32,6 @@
       "pubDate": "2026-07-12T04:36:43.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-07-11T06:42:51.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Steady as she goes for fixed mortgage rates",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0F3OHU2LUlSOFBGSWU1WEh1eVVYN1dneG5NR3pWM3RqS1E0bXpPeFlSUHRnZnJ3LVd0NTNkSnktYjJhT2pHSkV0c3Fhb1FVNS13T2l0enREd05XWmpxRnZXRkdqaFhBaldBQ3RiV0lJVkVUM2pWbDBzTDlHQlYyeXRYRjZnei14eHdWNU1RVElPZHRQY3YtU1ZScGxLTnc0RTZzNTRFSQ?oc=5",
-      "pubDate": "2026-07-10T18:31:03.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canada’s bail debate suffers from a data deficit: Troy Riddell for Inside Policy",
@@ -82,22 +90,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Quebec To Prioritize Permanent Residents And Established Workers For Subsidized Daycare Spaces",
-      "outlet": "immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMy1YNTVzNWtERkZQcVJvZ3hYZlhZVFRfWXJLV2RuYTBOZlJ1VEF5RExzYV9wNmlkZ0g1QlBDRjNhSkV1ZDYxWmNQMXlDSjdTQjJRN3dreDlFMllPbVUxa0s0ZWxvS3dFc096c1pSeFRadUR0dU5sWHhScnUtamcySW9hLWZ0dHRDZHplUXQxUFJqY3lKVjc3UVdMeFJiNm5YYVN3S1dGeTNELUJzV0tWNnZDUUZvQ1NPVkE?oc=5",
-      "pubDate": "2026-07-09T19:18:22.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Plans for more pipelines to export Canadian oil — and emissions — as planet keeps getting hotter",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmJ2RjZLQkFaM3pqOHdmZlFCbkF2NEthY002LU5rcFEwb0JuSWJXRFo2ZVNkWW53SFYwSmxVR3drdnVLNVAyUmZydXAzZ1Bvak9oQkdGRi10TFd6YmZJcUluc3V0OExCemxiSmE3VkhjY0F2c0V0OGU0UXRIUTFhcWdZX3NCdzdoSEE?oc=5",
-      "pubDate": "2026-07-09T08:00:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Canada’s exports were up for the 4th straight month, says StatCan",
       "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zOHFrUGJESW9MbEFxME91S1pCSkN1Sy1sMVp2dnNLTC1YS2dlcnVLeTgwc3o1NXc4MlRYSklXREpJWnFVLTRPVlBGSnA0d3drVGhmcW9oMjVZSzBpaURfMno3LThhMWdRaG8zS3Q0OTNGYVE?oc=5",
@@ -114,12 +106,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Ontario Unveils Proposed Route for Northern Shield Energy Corridor",
-      "outlet": "ontario.ca",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1puTmRkaEo5M2RkQXlKQVVZZHJWeTNKbFhQbEFMSUdUZ1k5UTBsRVVJLUhCZEc1R3Q5bVBpbDB3ekFiYnFZTFplRDZGSE5NeGdHeE9oRW05TkpTSEh0eHN0TlI5dk53dGNpOEw0bWVMdG1yMTJ1WmNtUGtvdG02cFlPNnFCRHdXRE15MnUydTM5bHctZUk1WHFjSkdwWGVFX2xKcU9Md2V6R1RjbkE?oc=5",
-      "pubDate": "2026-07-06T15:22:59.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "Economic and Fiscal Outlook – June 2026",
+      "outlet": "Parliamentary Budget Officer",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUh4WXNPemxtZ2o1Z0lEendxSVpmWWZ3WDhTV0pHTmdBR2xkeEN2bWhxcVlTNmRFeDdCQ1RqTmpqUVdWV2lhdmZHVkJQVnJRTzlPbU14MEozNWs2WF9kU0xsX1hvQXlPZFh3RGx0MnJ0V1ZXVGphMDM1Z0lMeVdRMDRqRU9pamh6OVNacXhGY1ItV0dsVEprWldRWFp4X0JmWjNSM08wNnZBYVJiSS03RUp6N3MtWDJ3eWk5OXZOZHJpWUJBZTI3T2lmRWJWWGFP?oc=5",
+      "pubDate": "2026-06-04T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada’s declining fertility rate: Q&A with expert Bruce Newbold",
+      "outlet": "McMaster News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDlfSGp0WHJSMnhkNTVQZS1hTUh3Rk1aTmxvT1VQZDI2R011WFlmam1mTlJacGg3MmZEVXBLN1JTa1NpNWJYQkV4cTh5OTJKTVdfbEFYTC1JODdVMUhMZl9jZmlvZlp4SVZwcVFRbFRaaU0zQk9BZFNYX1BaRFhaY050d1NramJyUzkyS2w1NDQ?oc=5",
+      "pubDate": "2026-06-01T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
