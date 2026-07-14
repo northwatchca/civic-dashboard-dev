@@ -1,11 +1,67 @@
 {
-  "updated": "2026-07-14T16:44:47.446Z",
+  "updated": "2026-07-14T20:42:01.880Z",
   "items": [
     {
-      "title": "Bank of Canada expected to hold key interest rate at 2.25% amid rising tensions in the Middle East",
-      "outlet": "St. Catharines Standard",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNm5qLVRoTGJnOGpvekdETFJaemNOYmZ0eEtxZHh1MGpSRVRUS1FlZVViakhpX3ZaVUs4eHluV0s0N2tIbVQ1Q3A4eXR1XzJQSGJraEZjZzh5Y2I0Nnd2WUNvSG0wYUp0MzRLODRoSEFUTXZ3ZE1xOXJVUVBtcmFKbjh2Q0FwRnc5eW45emItRGRuSHJEUTkxZkNXX29LZjhrS2RPWk9mb251cFlEUjZ5MXNybjJoRmNiNUQwaTJWcWpMeUMzZHRtNXpaZS1tcGk4eVZ0UTAwclgyY04tMk5zbTl3MVhsRGJFR0ZWZ2U4M0NZaWNONnlIM2poQTkwR2gtYmRZOVFjWGNqQQ?oc=5",
-      "pubDate": "2026-07-14T12:45:11.000Z",
+      "title": "The CRA is sitting on over $1.8 billion in uncashed cheques and some of it might be yours",
+      "outlet": "MTL Blog",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQmRuZFB1eG10Sk9SZmRXdVgtM0NTM2EwQzVQVmlXTzZwTlVibUlmOXFmQ2RDMHJ2czJFS2xSY1pFXzRaVDloNEcyOFp1ek9UTEdaSnFmTDFKS0R5RlhoaGJ4YVdGaWV3WHFIT0xrSHZpXzYxaHc?oc=5",
+      "pubDate": "2026-07-14T20:18:28.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "LNG Canada offers five First Nations option to invest up to C$1 billion in Phase 2 storage tank",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHNBYXNueEI5V0F3aGd0ZlRSNGMtMm9KU3lXcmQ3TXFybEZxZ05MUGhPWGZxbzdFUkhWa2lFS1NuSWtoWm5xcHU0SFhpX0h3TFEtR0lqZHE2NGQ5eDhIdjRpa29wTDh6NlRkdnM4Szk1UzA4R215SmV6bEVGTDVGT3NVLUVCU0lWa0VqUTZ3M1hOeWtfS2UwSlZrRlU3ZFJGRm5DbkVKYnhvNUZ3b01IV2tJVkVzSkQ2akVkX1ctX2RRNmsyTzhTa2JSOE4?oc=5",
+      "pubDate": "2026-07-14T20:04:37.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Five First Nations sign $1-billion equity deal for LNG Canada’s planned storage tank",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHRjXzVOM3BabG90T1Nic245VnlYVF9PRlhJellPWUZIWUpCU1ZmYmZ4VWlRUU9ycWQ0RUpLblg2UlRzRWRpQlBSUlFkNVEzbml6TWN5SWducHU1NlM4YmlTcF9meVdCVHNCMlg0dERPckNXNk5EYTZ5Y2dvcG9Ka0hTdDFnZ3U3SEFWMk11dm1ka00xc3dkZ3l3?oc=5",
+      "pubDate": "2026-07-14T20:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "StatsCan: Drayton Valley statistical area maintains lowest unemployment in Alberta at 5.0 per cent",
+      "outlet": "Big West Country 92.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmd0YTEtc2oxLWVXNDY2U21OR2hDQmQzWnR3VmJLdlFRTFpWN0JiRjFkdXU5ZW0xS2tnaDhNM2IzNXpVa1lndFVyZmctWjVPQlBFVlFtZjF5aXI0N2ZYUDJKcjJucnZraFJ5MHRFc1E3eEFla2twOE5Ldmphd0Y3UGdYM2R6QVpvMnRmckg4WXd4TnpjUmZwLWFjclVpTmc4Skx0dHFRVWtyTnByNEpaVW5YbDRWaE9kenU1RVItN0RmZzdMRHZqUFRkV3F0a3VJSDdpenpR?oc=5",
+      "pubDate": "2026-07-14T19:11:41.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Investor Outlook: Siemens expands AI investment across Canadian industries",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMkJwajlGOXNaT2xxVDFwZTh5eFpFcUQ2WFhoUXB6MzQ2TzlTM3JiV1l5c2d3Z1AtV0FXNFl1M0NwNHBKbkNTdDktR2xTcU1uV2pjQ2ZCNnJXZjZpY0tkbTdwUm1FZk1KVVdsQW53ekRyWENLMnJ0TWhnSEhaRXZLemF1emhMVFVwbm01Szc5V21rdGVscWw2c0loUUtkZ21RVHF4cFhVTGVPdjNRQ0hwand0YTNGenFHWWpjWUM3dDFwN0E0S01lOXkteEtTSFpIUEJ4ZEdfNA?oc=5",
+      "pubDate": "2026-07-14T18:51:01.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Higher gas prices are already acting like a rate hike ahead of BoC decision: financial analyst",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaTFEaXhmOG9BZFRqU29YWGJZVURQdHFxS1Z0SDNqRjRqQ3F2UkcyZEVNSkxCN0VFNEs2el9kTjJVWnpzZTkwRVlBNFpMS1ZqelZscTZUNmZFUU82WlUwU3RaRGJ6MVVvZjF4NnJDdzRFT0x1RkhyVGIwX2g3OGhnTWh5R0N6X1ZQc05xY1ZEcV9SQzBIQnJNQ0dJS0E0TXFyVGxiaTV3dm9ub2RqYmVIejNaNFV0LWQtbmVBR0dTdHVhMENIQWFKR191ZC1UVEFsQnFoU2pYWmU5dw?oc=5",
+      "pubDate": "2026-07-14T17:11:03.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Board denies CRA worker’s religious objection to vaccine policy",
+      "outlet": "HR Law Canada",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWtTb0w4eWExcVB3bTVzQ3ppR0FaekZWeE0tc1FzT2RNdndoeE5HVmwtNFlJZ3Y0T1MxZnNuUjg2QXlqcmFkc01BUEpFc0ZhSXNPX1RBdjdfSGxCbFJnWnR3UlozRkdqWmlMeUJSTnFkNEFtTEZpZ19WV3JnMy1TSXBid2c1TTdwTnZSYi1NRTFkVlhrLWxrY2FCbw?oc=5",
+      "pubDate": "2026-07-14T17:09:43.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Expert: Bank of Canada’s interest rate announcement",
+      "outlet": "McGill University",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkMyejRybzU3WWtRQ0V2MGp5Qm1IT0pLTTJ0czdqWllyZmhSWWpiWS13RmE3SC1pSEdRR202M1d3TWFsMDliQTdlel9US2xGblNRRlg0aUotdl9BVi1LMndwNkpZUTluaEJIZk4zRGFndS1TTkYzcWV5S1VTcmowcmlYVTBoMEFmdWRuX19fRlY2UVJvZVNtNUhWdDRtcDg?oc=5",
+      "pubDate": "2026-07-14T15:10:55.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
@@ -26,30 +82,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada Doesn’t Have an Innovation Problem. It Has a Scale Problem.",
-      "outlet": "Open Canada",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjNRZmF4eUlwRFlDS0VGOURvTWZpeEhIMXlfeXgzbmNIbl9wdVdLVWdXNlB4RFE2UTJjTE5rTmw2NEJMMmRTVXUyaXNHbWNPSnFyRzVfZkttTEh6WTFGQ0taa0hJV2M3YmExdHJ0MnlTcDBIR1liZjExLU9PRFZWUjVzQnFDdlN3S0E3LUQxWkI?oc=5",
-      "pubDate": "2026-07-14T03:17:52.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Beyond the GST Credit: Canadians Can Get These CRA Cash Benefits in July",
-      "outlet": "The Motley Fool Canada",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXd5RElmbnhMZzhpbjl4Nlpwc1NNRndCd3hVMWliR01sN0FYR3RmbnEzTkZROWZPZVNkUWdxRXUwQndhZGR0TmMwcFJjb0VaU2VNaFR6UlRqLUZQUi1sNmkzQ0RzeXRjbkwtc0hCR0VoTXhKOUExQXprV3k0M2Ztdno0c2hPMUl0bVBuMUJaMkcwaks3SnA3WEhBNmVhNE1TS3kwOGxn?oc=5",
-      "pubDate": "2026-07-14T00:30:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada’s Population Boom Hid A Weak Economy: BMO",
-      "outlet": "Better Dwelling",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tbXlsUEU2UmFmYWNlYzBwWEtDY3F0eDB4ZVRkWU5QQVZvel91UTZzaFR2UGFJa18xTDh3NE1SSmdjTFlvSG9xT0xFVFJ5WE1kUUJSLTVJUDRUTTRDNWg1a1BuR0tNa21Kc1lrc0Y1SWNZb2R5bTdOU1VHZzl1SWs?oc=5",
-      "pubDate": "2026-07-13T21:32:46.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Cyclical rebound in Canada and structural strength in the U.S.",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2dvUzFiR2dJT3lSUlFxWVZHV0hzMHdBMS1WbF8wZkJlQnZTaWFxWmdROTNocWxOMDFtejd4QXV0bjA3aElNOXhVREtjU2ozMkFNb1A3R0otSWNGMkE4VElIZkRJdDMtRFJnQXRfSkR0NzZ5eERtenBPNDk3TjVoQ3NuaXBTQzFWN1pzX0hTbmtjd3pTYkRORUNlRmdyRkF3aDF4V1NTWUlHcG5PWWhVWmFOUUtENTgzUWwzU25B?oc=5",
@@ -58,44 +90,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Bank of Canada expected to hold interest rate as weak economy, heightened uncertainty persist",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkZ1Y3NzRnN6OTJfNmxuSm1XLTFSTC1DbGkxSEtGaXA5emE3MEh3TDhudVNNbWV5STFlVFZ0MGlfcHFucWcyMnZodUJ1NEt3VmFNQmxfWjJuSmdsU0NBV3V4dDlZS2VtRUdGLXRoRy1qU0JKZ1dYb1Z1NW5sdVJ4bGd5dUk3MUFvZE05d0ZhYzBOaVhXdFE?oc=5",
-      "pubDate": "2026-07-13T10:08:59.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Canada’s Labour Productivity: Which Industries Are Leading and Lagging?",
       "outlet": "C.D. Howe Institute",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblAyYnNPc2VzNHZQYzFvQ3VlMmhPS2sxR25Samw4c1JrV2JaZzFRU194ZjNVQkQwYWR5QVRhaXNwcHJwd2ZycDlqTUFSQXROczEtYmNWOHY3R1dYaTBaaTFyWDBZajhRNnBoOHAweWpMTExSbnM1c0tpem9aeXBYWXBKNGlYaGIzZzNOMXU1QXJTNFV6WWdFeUxValBENUpkRmc?oc=5",
       "pubDate": "2026-07-13T10:00:41.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Letting B.C. charge tolls on new Alberta pipeline is trade barriers 'on steroids,' say critics",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTG11d2ZRN0pOdVp5aTdpQU5tek1tS1RYZG5BRW56M1BHUlRCanRHcWRZWTBfWkxmQ0thM3U1WmRYZk56eWhqZFZYNXRFM3pRYUtsRFdyT0hEbG43Rk45eXVWcEl1VWxKRXU5V2MxU1h4ejJVS0NScVA3OEQ4WHhXcU95dm4tem9VN1pSVkZDWHVSRjRNdTdINUZqWHRWUjJDZmhuVFAyc3BXZkl4XzYycG9CUHFrd09pcG55dVp2TnhYallLbEE?oc=5",
-      "pubDate": "2026-07-13T08:02:42.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Why detailed record-keeping is critical to deducting business expenses with CRA: Bobic v. The King",
-      "outlet": "Canadian Accountant",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Y1ZYRkVnY2lhY3JkRHMyMHplQW43VWVzaTlKNHRNeDFIclpONjhxd2VnTnJaV1YzU1YwMGNtZ3FfQ09IUVp4MFVUdkppU09FSVlLVWhlbW1QeXlfalFzYWk5ZlpKbWZNOVF3WEE2UHVTSkpRc1R3UWl2UENvQ2c?oc=5",
-      "pubDate": "2026-07-13T03:44:35.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada's unemployment rate ticks down to 6.5%",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWkNqV05LUDFGZTRsZXRYY0FTSl9qa3pocVV3SXctcEtIRTVSOFJqSEdWMm53eGJoOEF1NzJ0LW5Qcng1UXlGNk5sa3h5YWxVNTRtb1dUcWZCXzhwZzk2eExlWG5USExLVXMxQ1F4TFZGd00xNWVkajRzZ2F5ajQ?oc=5",
-      "pubDate": "2026-07-10T15:45:44.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
@@ -114,12 +114,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Doug Ford: A pipeline from Alberta to Ontario will make Canada stronger",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWFrSndzdkxpcDJjT3BtZkJvQXVFQXhILVJuMUs0eThocElKam5WNjgtZDZLZERYbG9WOXFhaTdZWTV1cDdHRGFPT1VDOGFSSDJORzRrZlBIak1CY3RfSy1GRkZwaFRtUnNoUE02R1U1MEVjWE5WYXF5aTd1VmNnOG9rQlB6VEdl?oc=5",
-      "pubDate": "2026-07-10T12:04:34.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "Labour Force Survey Monthly",
+      "outlet": "Government of Prince Edward Island",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
+      "pubDate": "2026-07-10T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
