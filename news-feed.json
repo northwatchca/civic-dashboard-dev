@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-13T22:14:02.641Z",
+  "updated": "2026-07-14T06:37:23.991Z",
   "items": [
+    {
+      "title": "Canada Doesn’t Have an Innovation Problem. It Has a Scale Problem.",
+      "outlet": "Open Canada",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjNRZmF4eUlwRFlDS0VGOURvTWZpeEhIMXlfeXgzbmNIbl9wdVdLVWdXNlB4RFE2UTJjTE5rTmw2NEJMMmRTVXUyaXNHbWNPSnFyRzVfZkttTEh6WTFGQ0taa0hJV2M3YmExdHJ0MnlTcDBIR1liZjExLU9PRFZWUjVzQnFDdlN3S0E3LUQxWkI?oc=5",
+      "pubDate": "2026-07-14T03:17:52.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Beyond the GST Credit: Canadians Can Get These CRA Cash Benefits in July",
+      "outlet": "The Motley Fool Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXd5RElmbnhMZzhpbjl4Nlpwc1NNRndCd3hVMWliR01sN0FYR3RmbnEzTkZROWZPZVNkUWdxRXUwQndhZGR0TmMwcFJjb0VaU2VNaFR6UlRqLUZQUi1sNmkzQ0RzeXRjbkwtc0hCR0VoTXhKOUExQXprV3k0M2Ztdno0c2hPMUl0bVBuMUJaMkcwaks3SnA3WEhBNmVhNE1TS3kwOGxn?oc=5",
+      "pubDate": "2026-07-14T00:30:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "Canada’s Population Boom Hid A Weak Economy: BMO",
       "outlet": "Better Dwelling",
@@ -34,14 +50,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Government of Canada invests over $8 million to help Surrey businesses boost productivity and reach new markets",
-      "outlet": "Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeVNiMVlWTTNVOEswZEhQa044QnJXUnZRUnRUTTAtZVJxbjN6al9OSjh4VGw3T1J2WG1BMzdndVJlcnNGcGhnSFVYaUtWVUtqLVE2bnNkbmUtOXdxQ1JZQWctOE5HUHZ3LXVRTndBaWc5SnJ6TFNqYUQtR2IwbDBXMUhKU19ZVGFfeDhsOTNqNjNPRjJmelQwak9makFidnJtZHdNbnhnNUxGMFFqOHZEVEdac09Fcnk4cFUxSzJvQVg3LVUybS1ja3Rjb3ZzaHJtMW5UR3c3RnNFVVRaSUxLWFE4eTMzZnZ0bFRuSVFuT3l6akNGV1E?oc=5",
-      "pubDate": "2026-07-13T17:58:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Cyclical rebound in Canada and structural strength in the U.S.",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2dvUzFiR2dJT3lSUlFxWVZHV0hzMHdBMS1WbF8wZkJlQnZTaWFxWmdROTNocWxOMDFtejd4QXV0bjA3aElNOXhVREtjU2ozMkFNb1A3R0otSWNGMkE4VElIZkRJdDMtRFJnQXRfSkR0NzZ5eERtenBPNDk3TjVoQ3NuaXBTQzFWN1pzX0hTbmtjd3pTYkRORUNlRmdyRkF3aDF4V1NTWUlHcG5PWWhVWmFOUUtENTgzUWwzU25B?oc=5",
@@ -58,20 +66,20 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Bank of Canada expected to hold interest rate as weak economy, heightened uncertainty persist",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkZ1Y3NzRnN6OTJfNmxuSm1XLTFSTC1DbGkxSEtGaXA5emE3MEh3TDhudVNNbWV5STFlVFZ0MGlfcHFucWcyMnZodUJ1NEt3VmFNQmxfWjJuSmdsU0NBV3V4dDlZS2VtRUdGLXRoRy1qU0JKZ1dYb1Z1NW5sdVJ4bGd5dUk3MUFvZE05d0ZhYzBOaVhXdFE?oc=5",
+      "pubDate": "2026-07-13T10:08:59.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Canada’s Labour Productivity: Which Industries Are Leading and Lagging?",
       "outlet": "C.D. Howe Institute",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblAyYnNPc2VzNHZQYzFvQ3VlMmhPS2sxR25Samw4c1JrV2JaZzFRU194ZjNVQkQwYWR5QVRhaXNwcHJwd2ZycDlqTUFSQXROczEtYmNWOHY3R1dYaTBaaTFyWDBZajhRNnBoOHAweWpMTExSbnM1c0tpem9aeXBYWXBKNGlYaGIzZzNOMXU1QXJTNFV6WWdFeUxValBENUpkRmc?oc=5",
       "pubDate": "2026-07-13T10:00:41.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Bank of Canada expected to hold interest rate as weak economy, heightened uncertainty persist",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemUxWUJxZFF3Q280SHlxZVUxZ1BoajFDNGpIUkRyX0ZyeXZfMzJWNXZhNFVYVU9uckhROFB3SmRGcDVkYkw3bmFrdjg2bG8yZjBpQXRIeXpIY3RBWEZYOW9NQ0RiemRuSHptZnIxeEdkTFhQZjRRTFNkX184S2FvNzEzYkNsOGc4SjMw?oc=5",
-      "pubDate": "2026-07-13T10:00:31.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Letting B.C. charge tolls on new Alberta pipeline is trade barriers 'on steroids,' say critics",
@@ -84,8 +92,8 @@
     {
       "title": "Why detailed record-keeping is critical to deducting business expenses with CRA: Bobic v. The King",
       "outlet": "Canadian Accountant",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LU2hqV0g5dGNXZ3pWelE1WkJoRWdmdlZHcmlJS3JMWGotOWRIM1l5VXJSdUJydGFVTVpLZ2NpcE0yNVhWZW9abW5SVFNIbFBIS3FMQ2NiZk5QZl80NzFmOHF4MG9tM1l0eHdtUjlINmQ5ajF4RHd5aHZSY3hIdjg?oc=5",
-      "pubDate": "2026-07-13T03:44:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Y1ZYRkVnY2lhY3JkRHMyMHplQW43VWVzaTlKNHRNeDFIclpONjhxd2VnTnJaV1YzU1YwMGNtZ3FfQ09IUVp4MFVUdkppU09FSVlLVWhlbW1QeXlfalFzYWk5ZlpKbWZNOVF3WEE2UHVTSkpRc1R3UWl2UENvQ2c?oc=5",
+      "pubDate": "2026-07-13T03:44:35.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-10T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Conservative Party had $85M in revenue but ended 2025 with a $14M deficit",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmEwMEJDSXlQdGRjbEQ3Yy1kSzhiTDFKczBuU2xFWVpvcmZZTmxtTHJSN0xqX0JGX0pyaGZvNFRtbE9nX3I2MDdCSFpOako1Y0FJT0FKTUFvQmJPRGtQWmhuTzBLWUZkTm5URDY2MGNkUFViZDVrMExXMklJeVdmNFQ1Y2FZQQ?oc=5",
-      "pubDate": "2026-07-09T19:57:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
