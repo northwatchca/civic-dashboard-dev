@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-15T07:30:07.081Z",
+  "updated": "2026-07-15T12:54:34.725Z",
   "items": [
+    {
+      "title": "May Canada manufacturing sales +1.3% vs +1.1% expected",
+      "outlet": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmRHQmxYelZaT2U1bU9pb1N2LTRtZUNlYkl6VV9wOHBMaTlsSlNKcEx0OWNXYU5Yai01a3lMMnhOcW05TTh4cGViUG55QWZqOGt3UWhnSUFXWkZXTXRqWFFFNEQ5ZEdVeEtWNWYxN0lnYWNWLWY3cXktWXdRQkcyTmpUcw?oc=5",
+      "pubDate": "2026-07-15T12:29:28.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "The Daily Chase: Bank of Canada interest rate announcement today",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDFNcDZqY0RIWnR0SndfV093Rmt3M1RyVmxEcWRhTnY5cmt2SzcwMXhoNGM2R3RPY0g0SzVOaEo2VlB6bFh6TFNtNUFPb0p3TmlTbDc4NWxRWUxMcllSZExjYlNsSGVvQ3paaEFXS1hEQ2d0eG9lalY1ZU5NNzRvLVVhUFVkbUhiQ2M3ZmR5dmJodjRnaF8xNjRyX3ZtZzlOVmZXeFZucU5idV9mNHB1RWNNZFE3MnR3U3pUeFZScw?oc=5",
+      "pubDate": "2026-07-15T12:29:27.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Area that includes the Peace has lowest unemployment rate in Alberta",
+      "outlet": "EverythingGP",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzhVaEtyU0dwTTFCZThKaFNlQ0trNkpvc05tUXlrTm84OWFpaUhWcE5yVlc3Vm53UXY0VlVnN0pBTDJKbExpWFJ6RnRFcGxhU05VeTFlLTlXOW1zSUJXNEdmbXNTR3B4Wkc4VW11TXotMTJUM2NOZUQ4TElfMEdWZnZsOTFfam1KRHZJUGFrdkZDczdXRWhNUTJDOWlHbWhPekN3dGJmOTQ?oc=5",
+      "pubDate": "2026-07-15T12:08:47.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "LNG Canada signs C$1bn Indigenous equity deal",
+      "outlet": "gasworld",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGl4QjJ6M1VIWktJRlN2bS02SkhOa0p2TlItWHZFN2cyaWNyX25sbktvZzY4MlNXR0ozdXNMQXNxcmV3VUZjVWU5ZjRPVXBncHRUdXZHbHB2c01DTXRCeVdJU0NtLThuM2M1VnprLU1idG1KNkNkU0FtVFJBOE13YzVwZWh3cEJZc0dQcUdCOTNoaURUVC04?oc=5",
+      "pubDate": "2026-07-15T10:50:28.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Bank of Canada to deliver 5th interest rate decision of the year",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU84ZTFLVjdDNW5IRmhLdDJJU2dUQzdFVWFzSUNHS1AyTTdxQkNxNkdKN2t5dURaM1FqXzZFUTNadWdndGxDSTF5NmNMb1BaUGttTzJLNjhSaGctZHlOcG1EeGdmT2tMQ0dXcVNpUWRqUlAxZzA3QnJEQlVRcV9MSGdVcnFiTmVmNlBtdkZVTUFid05KaEVFcVEybVFOTWdtZDUtUEl5Qmw?oc=5",
+      "pubDate": "2026-07-15T09:30:08.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Apollo, Blackstone and KKR vie for Shell Stake in LNG Canada, Sources Say",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVBVi1vajFoQ1dlU2FFc01JRjFQRzlXR1RRcXVGcVpBRVliSDNEYl9qaUFhT3h4WmhEcWVXV1hYY1g5bE1LRHJDaEVLRklGRlhicE5iOFczWVJVbndBODhCVEJlcE1ZdlcyT1k3ZjNwc3h5VXhlTm13VEJWV0hNQm9hckdxZFM2MUxiWU51ODQxa0ZLazhHdlVlSzRwajVuVG9j?oc=5",
+      "pubDate": "2026-07-15T07:59:55.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Coastal GasLink congratulates LNG Canada on Indigenous equity option agreement",
       "outlet": "TC Energy",
@@ -8,54 +56,6 @@
       "pubDate": "2026-07-15T03:23:49.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Arrest warrant issued for man accused in Panama Papers after he fails to show up for court",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUE1VSFo5d3dRVzVpMWIwTjBCSFA2bHNiRzh4NW5NQUptVnFLS2ZfcmhZV0Y2WGFXOVNYQl84dEFZQmNQaUdZUF9SWDNSQUxrUU0xWUtINURyZHZtTzQ3dFFyRE9ybld4azBxaDVUdDhFT1ZfZEZsMTcxR2JLaHQxdVFaVlZjVUE0WFViWTY4ZUY?oc=5",
-      "pubDate": "2026-07-14T22:39:46.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
-      "outlet": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWFyWHNpUFppZVgtdGdmaWZvTHh4dHgtclNlOFRqWDlzZW9BM1FLQXFEdmZfVmdaQXp3NjV1N3NYOGJiSlMySm83Rm1ZMkk5V1JzMG9sMk5oY2F5Z1I0XzRtaTV1VnVxdXFNVHpvZzlJWWMtSmdlY0FUZXJFY2pHMUNVRzdmb2hvaU42azA1TVFXUk5YalN6OWVyemM4eHI5MWJN0gGoAUFVX3lxTE1XZUZ4dHkzUjdHWk1YVkZ0Y3ZqU2JIWmdZRUp4cU5qQVF4cEx6NmswenRvN29HUE5NTkNjNUFKNDBZRDVkU0RvaEhjUlhGUFhZbENQUjJXWDR5dzYtaldDaVZhanlxSjV1M2NiVDhVZkNpeFJvd0stb01WamMzdk9EZU13LTFmSDlvSlZFbG9yTG95Tlk0S284U3o5RnZBY0JPY2pIbXB0Qg?oc=5",
-      "pubDate": "2026-07-14T22:00:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada Post handed out $30.8M in management bonuses in 2025 despite $1.57B deficit",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0dJQU9XeWNRMVpVbVlmeGdZMTVrenVlV1Rzd3ExNlo2VEtiQmpySVhQRlpaLUpEWEZRc0d1MUoxYm5oY1JyWlBCX01Denl6OUVodXVZUDN1ZWhydXBhVlRObUNmYmoxRVNDYlhkSHNsMF9DcF9oSFdCTUFZRWpUWWZhZVVDaFdONlU4WWl5VFVMUHVKb1hTUGlVUmRNaUE?oc=5",
-      "pubDate": "2026-07-14T20:27:23.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Investor Outlook: Siemens expands AI investment across Canadian industries",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMkJwajlGOXNaT2xxVDFwZTh5eFpFcUQ2WFhoUXB6MzQ2TzlTM3JiV1l5c2d3Z1AtV0FXNFl1M0NwNHBKbkNTdDktR2xTcU1uV2pjQ2ZCNnJXZjZpY0tkbTdwUm1FZk1KVVdsQW53ekRyWENLMnJ0TWhnSEhaRXZLemF1emhMVFVwbm01Szc5V21rdGVscWw2c0loUUtkZ21RVHF4cFhVTGVPdjNRQ0hwand0YTNGenFHWWpjWUM3dDFwN0E0S01lOXkteEtTSFpIUEJ4ZEdfNA?oc=5",
-      "pubDate": "2026-07-14T18:51:01.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-07-14T18:34:44.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Higher gas prices are already acting like a rate hike ahead of BoC decision: financial analyst",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaTFEaXhmOG9BZFRqU29YWGJZVURQdHFxS1Z0SDNqRjRqQ3F2UkcyZEVNSkxCN0VFNEs2el9kTjJVWnpzZTkwRVlBNFpMS1ZqelZscTZUNmZFUU82WlUwU3RaRGJ6MVVvZjF4NnJDdzRFT0x1RkhyVGIwX2g3OGhnTWh5R0N6X1ZQc05xY1ZEcV9SQzBIQnJNQ0dJS0E0TXFyVGxiaTV3dm9ub2RqYmVIejNaNFV0LWQtbmVBR0dTdHVhMENIQWFKR191ZC1UVEFsQnFoU2pYWmU5dw?oc=5",
-      "pubDate": "2026-07-14T17:11:03.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Expert: Bank of Canada’s interest rate announcement",
@@ -90,12 +90,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Map 1 Unemployment rate by province and territory, June 2026",
-      "outlet": "Statistics Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQi0xTkJQd0NuZTVuT3h0RmNRek44MEU4MUpZRlVMcnRiTldpVUkwOUNCMU1sV1hZeUkxS2JiR3NQeUotb201NFlEbEV5X0hSUllkT2J5X3QzaW5vbzFiRTZtTzJZUFJWdllzWWVWd0lvRFVtSGlpdDRB?oc=5",
-      "pubDate": "2026-07-10T14:15:51.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
+      "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SamQ2WUhwLTUzZjJ2NVRKMGtCdmpfZnhXWW9qcjUyb3RWT3p2cWdhWTFDaG9CZnpEQUJHOUx0dTNOUmp5QU8yeFVXRy04eGw3aC1tb2hoVGtvSDNKbjZwQnBDR21iVHZydEQ2aktFcno4ZzhuV3J5S2psbw?oc=5",
+      "pubDate": "2026-07-10T15:40:05.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Canada’s unemployment rate edged lower in June",
@@ -114,10 +114,10 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "'First time in recorded history that population growth is negative in Canada': Mc Mahon",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSG5jUWpGeWpIVGN4ZXRBWE5uR2NoUmJwMU1UanVPTVZjOWxfYW1MTEJDNzFMSHhMcmltYl9KazYyTHdqSFdiLV9VSTF1MTdkODRkYm9YZmpSZ0NKSlJ5WTJEVENhSWtRYWpXbktpZUMwTEhNSllHOVYtZ053RHhKVkJjeHVqalRsVjI5V2pFYU4tWTA2NDN5eEdzZFFORU5Qa0tZbUdKdWtnSVE2alBFRVk1RzJ0eWpBVHNnYThhVV96aF9RY0QwNTZWa3VGWF9oakF0MmNvSzNSMnNHMWdYZA?oc=5",
-      "pubDate": "2026-06-30T07:00:00.000Z",
+      "title": "Canada’s declining fertility rate: Q&A with expert Bruce Newbold",
+      "outlet": "McMaster News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDlfSGp0WHJSMnhkNTVQZS1hTUh3Rk1aTmxvT1VQZDI2R011WFlmam1mTlJacGg3MmZEVXBLN1JTa1NpNWJYQkV4cTh5OTJKTVdfbEFYTC1JODdVMUhMZl9jZmlvZlp4SVZwcVFRbFRaaU0zQk9BZFNYX1BaRFhaY050d1NramJyUzkyS2w1NDQ?oc=5",
+      "pubDate": "2026-06-01T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
