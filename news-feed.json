@@ -1,21 +1,69 @@
 {
-  "updated": "2026-07-15T12:54:34.725Z",
+  "updated": "2026-07-15T16:59:50.342Z",
   "items": [
     {
-      "title": "May Canada manufacturing sales +1.3% vs +1.1% expected",
-      "outlet": "investingLive",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmRHQmxYelZaT2U1bU9pb1N2LTRtZUNlYkl6VV9wOHBMaTlsSlNKcEx0OWNXYU5Yai01a3lMMnhOcW05TTh4cGViUG55QWZqOGt3UWhnSUFXWkZXTXRqWFFFNEQ5ZEdVeEtWNWYxN0lnYWNWLWY3cXktWXdRQkcyTmpUcw?oc=5",
-      "pubDate": "2026-07-15T12:29:28.000Z",
+      "title": "Bank of Canada holds key interest rate at 2.25% as economic growth rebounds",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2dJdG5iVUV1TXIxNENXekVTek91V2xfclJONExlVlYwSnNqTHZHWVZfX1lITDQ1N2RiRUhtYzJvdHdJdnRvdHNSano4Qng2Q2FibGRpZFpaZUdDbWdBT00tZmV1Z3ludmFDM1pRLU56bXVTaC1TcXZ4WWtJaDJzb1F3?oc=5",
+      "pubDate": "2026-07-15T16:03:12.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Bank of Canada Holds Interest Rate at 2.25 Per Cent – July 15, 2026",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkNLa29hR0sxSTR0N2RseXUxR2VmV3FraVA0ck41S3dqWWFlanFjS3lZSDJPbk5MZjlrTnJfZUNzRWQtWjVDNWFjOHN4ZHdraEJVQU1zalZHc1RaV3VOdUkwZXBoTHlmcTNBWWZFeUc3QUdIU3NPUV80aXhqRjRfUnd6SmF3REFxMm1iOUpOYXZ5enpZRk9jaU9KeldrRUFsMi1XU1I5OEZwc1dQYzFyNWpfejBNekVoa0tmNUJxYlB2ejl2anhTeEJiN0JOdWFrRGE1ci1nN1FaNExhd294dklXdnY?oc=5",
+      "pubDate": "2026-07-15T15:33:14.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "The Bank of Canada holds its interest rate on July 15",
+      "outlet": "TD Stories",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1I1Mk44TnpNUzNBSGFVblFnd2V2YTBkd1VHTWRjd3N6Q1dwa3JpVDU0VUpBT1JfTUlXcUJYZ1cyeTNmQmFtSU95a2M1NjcwZFRNbmlzY0h2S09pRnlXbFZZMEpDMWRzelFaV0czWjU4cFBXQjBkeUpHeXdrOW5GSA?oc=5",
+      "pubDate": "2026-07-15T15:13:27.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "TCC: No Easy Way To Pre-Pay Quarterly GST - Tax Authorities - Canada",
+      "outlet": "Mondaq",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1FTWRaTGNYX1ZxeWRVanFSWHd4SmZSR0xHWlZYQnJWYnAzcUUwOHlzN1dFZFN2cm9TT0pzU2tMVjhqTmpVR0ZzVnMtUUxvLVVIbEpheDdLX3JXZllSbF82MGtZT1JaSDFMY1h1RlJWNmdLZENKZjNxUnNaZ0Q2WWs1U1cwQWYtcVYta0ktUUhCdkZ3YXFNWkhB?oc=5",
+      "pubDate": "2026-07-15T15:11:15.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Carney Prioritizes New Pipeline, Drops Climate Ambition",
+      "outlet": "The Grind Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUS12NlhuTXN0ekotQ3B1R2o3TkdkS2pBZlhMTlZTOEpBcDFzeHN4RFZkY0F4Wnczd1l4VTF0Yi00SlpjLVdBVkswNU1NLWZwbEMxZnowUjdRallXZGV4clJ4bUlLT0lrYlVYbHZiVHIxNjFfMXJnUXhQZXVMSkRhekxoZ0luXzFUWHc?oc=5",
+      "pubDate": "2026-07-15T13:52:42.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Manufacturing sales increase for fourth consecutive month in May to hit record high",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX0dSaTlMY1hOc2VNMFBBdVJJMkhCWUU0SE9SbkxCODAwbVM1WHpWc29iMDh2eHY1V2xBdVdPWGJScl9nc3hBRU5tS3Y3bWw5M3lQb1NzT0Q5eXRWRjlJQmE5ZlBjRDdwcmRoVW81OUIzdndMSVpzQzdkRF9meVI5SkVTWWhIZ0NzaklpUEFZRUUtZzNzRVZ0Qy1MbHRWQ3VnelVzTEtiTlVaZGZSUlMtdzdKSHBPd3FkSWRXaEo1Nnk3cjY3VVc2T0ZjNDZOSzVMTi1rWm5SOEg1dw?oc=5",
+      "pubDate": "2026-07-15T13:22:11.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "The Daily Chase: Bank of Canada interest rate announcement today",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDFNcDZqY0RIWnR0SndfV093Rmt3M1RyVmxEcWRhTnY5cmt2SzcwMXhoNGM2R3RPY0g0SzVOaEo2VlB6bFh6TFNtNUFPb0p3TmlTbDc4NWxRWUxMcllSZExjYlNsSGVvQ3paaEFXS1hEQ2d0eG9lalY1ZU5NNzRvLVVhUFVkbUhiQ2M3ZmR5dmJodjRnaF8xNjRyX3ZtZzlOVmZXeFZucU5idV9mNHB1RWNNZFE3MnR3U3pUeFZScw?oc=5",
-      "pubDate": "2026-07-15T12:29:27.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "The 500,000-Home Myth: Why Canada’s Biggest Housing Target Is Misleading",
+      "outlet": "missingmiddleinitiative.ca",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MTA5MWZJdlpPb0NPRndfSEFua29fVlZOdlVPVnZrOVdESW9iT1J0cXF0cFVsVlJuclh1dDAxMUFwZGM5UXFxem10NFlVbHJFQU5BbkJqTG5Cbm05VGp1SlR5bzhBYkw1V2JHMkdwUVJMd3ZRMEY5X0o2Z1kzZw?oc=5",
+      "pubDate": "2026-07-15T13:17:15.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada Manufacturing Sales Hit Record High",
+      "outlet": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc29iX1kzMHoydVk4eVNGdW1raDJlN044eEpCR2RHUGM4ZHRoWnAwcG15V0lad0FEMjJJNmszb2wzNEhEQy16bGVDbEVqTFFHZWtSZWhRd2gyVTZGckdsREJHRDQ1MEJqYU1CWEd4SmxKT04zQ3ZzMXdBWUZXR3ZXYzI4NUduWTVkb2MzMVNKRkk4MUFmRDV1Ug?oc=5",
+      "pubDate": "2026-07-15T12:55:12.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Area that includes the Peace has lowest unemployment rate in Alberta",
@@ -24,22 +72,6 @@
       "pubDate": "2026-07-15T12:08:47.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "LNG Canada signs C$1bn Indigenous equity deal",
-      "outlet": "gasworld",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGl4QjJ6M1VIWktJRlN2bS02SkhOa0p2TlItWHZFN2cyaWNyX25sbktvZzY4MlNXR0ozdXNMQXNxcmV3VUZjVWU5ZjRPVXBncHRUdXZHbHB2c01DTXRCeVdJU0NtLThuM2M1VnprLU1idG1KNkNkU0FtVFJBOE13YzVwZWh3cEJZc0dQcUdCOTNoaURUVC04?oc=5",
-      "pubDate": "2026-07-15T10:50:28.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Bank of Canada to deliver 5th interest rate decision of the year",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU84ZTFLVjdDNW5IRmhLdDJJU2dUQzdFVWFzSUNHS1AyTTdxQkNxNkdKN2t5dURaM1FqXzZFUTNadWdndGxDSTF5NmNMb1BaUGttTzJLNjhSaGctZHlOcG1EeGdmT2tMQ0dXcVNpUWRqUlAxZzA3QnJEQlVRcV9MSGdVcnFiTmVmNlBtdkZVTUFid05KaEVFcVEybVFOTWdtZDUtUEl5Qmw?oc=5",
-      "pubDate": "2026-07-15T09:30:08.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Apollo, Blackstone and KKR vie for Shell Stake in LNG Canada, Sources Say",
@@ -58,12 +90,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Expert: Bank of Canada’s interest rate announcement",
-      "outlet": "McGill University",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkMyejRybzU3WWtRQ0V2MGp5Qm1IT0pLTTJ0czdqWllyZmhSWWpiWS13RmE3SC1pSEdRR202M1d3TWFsMDliQTdlel9US2xGblNRRlg0aUotdl9BVi1LMndwNkpZUTluaEJIZk4zRGFndS1TTkYzcWV5S1VTcmowcmlYVTBoMEFmdWRuX19fRlY2UVJvZVNtNUhWdDRtcDg?oc=5",
-      "pubDate": "2026-07-14T15:10:55.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Arrest warrant issued for man accused in Panama Papers after he fails to show up for court",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUE1VSFo5d3dRVzVpMWIwTjBCSFA2bHNiRzh4NW5NQUptVnFLS2ZfcmhZV0Y2WGFXOVNYQl84dEFZQmNQaUdZUF9SWDNSQUxrUU0xWUtINURyZHZtTzQ3dFFyRE9ybld4azBxaDVUdDhFT1ZfZEZsMTcxR2JLaHQxdVFaVlZjVUE0WFViWTY4ZUY?oc=5",
+      "pubDate": "2026-07-14T22:39:46.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Cyclical rebound in Canada and structural strength in the U.S.",
@@ -82,44 +114,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada’s GDP growth ‘not sufficient,’ FCC economist says",
-      "outlet": "The Western Producer",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHZWM1Vpd21wVG9hNXdST2hSQi02OW1jZTVCQlZmaE5NT1ZPWFNxYWg1Qzg2ZlJnNG0xSUJDaHUzU2FvZURHYkdiZzBWTmRGV3hib3ZXQTdYRmxrNEYtSVp4Y3RTMzBOU0syak5qODJod3MxOEJhZTJHaUl3Sjd4U3dOcHc?oc=5",
-      "pubDate": "2026-07-10T18:17:46.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SamQ2WUhwLTUzZjJ2NVRKMGtCdmpfZnhXWW9qcjUyb3RWT3p2cWdhWTFDaG9CZnpEQUJHOUx0dTNOUmp5QU8yeFVXRy04eGw3aC1tb2hoVGtvSDNKbjZwQnBDR21iVHZydEQ2aktFcno4ZzhuV3J5S2psbw?oc=5",
-      "pubDate": "2026-07-10T15:40:05.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Canada’s unemployment rate edged lower in June",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpOdXEwRzNjcUt1bkJlVXM4VGVFLV9yZkFReXg0Unh3azQxeHdqbDgzczJBUlhDRXJrWmJHS3JxWUxIMW9jbkFWVG1wR0UyUnBRZmhjTkw4dGE3R0taZ2xsWmtick03Q1N3N1hJN01LSXhGMlFUdmdmaXphZWFObUFnaUE0UmRQalZMNG9PZVVZXzJhTGVXRWdNTjBoTjN0THBQc3RnOURZeTYwVmZv?oc=5",
       "pubDate": "2026-07-10T13:57:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Labour Force Survey Monthly",
-      "outlet": "Government of Prince Edward Island",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
-      "pubDate": "2026-07-10T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada’s declining fertility rate: Q&A with expert Bruce Newbold",
-      "outlet": "McMaster News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDlfSGp0WHJSMnhkNTVQZS1hTUh3Rk1aTmxvT1VQZDI2R011WFlmam1mTlJacGg3MmZEVXBLN1JTa1NpNWJYQkV4cTh5OTJKTVdfbEFYTC1JODdVMUhMZl9jZmlvZlp4SVZwcVFRbFRaaU0zQk9BZFNYX1BaRFhaY050d1NramJyUzkyS2w1NDQ?oc=5",
-      "pubDate": "2026-06-01T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
