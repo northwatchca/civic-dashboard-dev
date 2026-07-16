@@ -1,37 +1,77 @@
 {
-  "updated": "2026-07-16T00:12:10.607Z",
+  "updated": "2026-07-16T09:28:30.890Z",
   "items": [
+    {
+      "title": "Unemployment rate up slightly in June in Peace Region",
+      "outlet": "River Country | 94.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXFEUlJYUDRpajBOWHJUSmxEX2VDRHBmTEwyLXltUDhpeW1iNWtzU0I1ZVE3TkcwRW9OQnlUcnF6WGZ0REh5NTFuaTc1aXVOd0ZwajQ2NG9takthYUNoRmk2bWdMR1lMY0RBTU1xUGNCLXhBX01tcFJOTDBMZ0FfTHdnczhsWElJYW1jZnZteUg3WGNOWVFuZw?oc=5",
+      "pubDate": "2026-07-16T08:59:34.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Immigration department pauses applications to sponsor parents, grandparents to settle in Canada",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFBqVDhmNHg2WE5iYnBYS1dIUFBuejl3anowRkFBQ180VFZ1R3R6ZG1DRFFmdjB0empIdHVTdThDTWd4X0FaUlpfalRGbHhNZ2lfTV9hM3BpMndySFB5YkFWZU9CNkhqTVk0bEhnQ2lXMlFES2paYko1UkZ3eGdfLUdqS3pOMEZ1ZGtoNnFVZEpJQ0lsaEMwbUp1ckJubUZscDk1WFI5V3I4RlMtUERWdg?oc=5",
+      "pubDate": "2026-07-16T03:42:19.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Is Canada right to indefinitely pause applications by Canadians who want to sponsor parents and grandparents to come to Canada?",
+      "outlet": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMlFCS2Nmb0ZZWkFIZElzdTVZNURtTnlxQnlSTmFCYTAxdTloYnFCYXJBY0hHb19tekdWWjVIUlpNOEZNUkVXQThoSzh1SE13cXZnVl8xX1NqeklPejhnLVd4dGtOQXdTeUZNNEFTRHo3dWhlUmt3SHlwRXZlYlRFSl9KVW9jM2VULXBiS0YxNzVkYmFob0dHdGNfbVRKSGdUQ043c211VzQ3YWlodzE5UFVkblZNZnFkUkJqS0RncmlWQS1Zem5kSHpBSzAtZ1lvODVvU2oyV3gyT0Q1MU5CV1k5Y01nVG5VbFVtVXlrNTVxZTh2WFBWbzJRU1ptQQ?oc=5",
+      "pubDate": "2026-07-16T02:30:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
     {
       "title": "Canada pauses applications for parent, grandparent immigration sponsorship program",
       "outlet": "iPolitics",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGRxYV9OWDBRRE1LY09yckxFRGhtTm5hMmk5ZEtPTncwQnBfOFIzM0M5MDh1Q3lzWWdzV19GVk5FUFhiTW5RZzQxQlBKeXduUTVpWjZnV0xOb1ZaUk0wRzhETlN4OW1WbFlNVHd0bU11SXZSNHRqUEFyUUFrY2Z0SUFYbjhvcEZ1WGdLbk9MbE9DRm5VWmwxUGczTTUyYkJBa1E1ZGlHZnJMWktxWFQtblZINHU2aUdqSmc?oc=5",
-      "pubDate": "2026-07-15T20:39:58.000Z",
+      "pubDate": "2026-07-15T21:10:12.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada’s aerospace sector hits $33.1 billion in GDP contributions with renewed focus on defence",
+      "outlet": "SpaceQ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3A1c0poTWdLZjMtbzJHamZnUjJWbkFOS1BleUxFTG05YmhjUnRfTTZEV1VCM2RPSlQtNjRIY0dUeUk4T0JGc1Rjb1JZdk1fd2dSTEx3TXNzeFZxakFsRzN0TGI5ek50a1BCQXpXdjNpNDNLYjMzWllpc29ORUVhVG5aNk1oelhzX0lhUUFQR2Joc19EMzlSN3V1Ml84T3BJdmh1dHZ1M2Rma1FUaEJkejN3?oc=5",
+      "pubDate": "2026-07-15T20:57:56.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Top five reasons a new West Coast oil pipeline is in Canada’s national interest",
+      "outlet": "Canadian Energy Centre",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemxCVVl6M2ZWWXJWQ1FsbDFRc2QwMTFjM0JYRjFITFNRV3lEdkRTMjlMVHNzWlU2MTZWbktaV21heVA0aGgwZV85S2ZSLThwWlN2dXlLc0NvUXJyZE5xb0tNZHlqX3NNLW5kMV9WYVNHV205c1BqSlFhSWltdTlxZ0xmUU1IMy1HZUpTTVBmVTlaXzE1dWJiVmRuQ3czdXRHWHhpS3Q4QUdWbG4wdHM1VTE4Z2s5UQ?oc=5",
+      "pubDate": "2026-07-15T20:53:59.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
+      "pubDate": "2026-07-15T20:32:20.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Manufacturing sales increase for fourth consecutive month in May to hit record high",
       "outlet": "Investment Executive",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlJLZXZfVHpZS2djQk9yOU1TQlpScUZwcjBsQ3RnUHRJWFpDaklYRUVkUjFfMm8wWmQzMmM2NGJPb0wtbmphOVRDZ0NJV0didEtGNm9BTVZxZWpMX1hsYlZtckVZWUs5dko5VTVEOC14WEVMMnV4ZEVfUUxZQ0dfc05McEMyVmZ3MVF6NXFUWWltX0F6Y2lWX1hnQWNlcHotUDNPMXdvS2gyazhMTi1yNWRBUnl0UW5fMFBKUGh1SjI4Z3ZUTFlqaTNjYmRKQQ?oc=5",
-      "pubDate": "2026-07-15T19:30:00.000Z",
+      "pubDate": "2026-07-15T19:31:47.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "B.C. Court Asked to Throw Out Approval of $12-Billion Natural Gas Pipeline",
+      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
       "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVk51ZHN6RXJDcFBEdl8yWmp2cTRjdFppRDFzSFctUjBkcXh2V1FZeEZqM2RhYUZrcjg0cU1RUVU2ajNmMmwzWWNvZkwwa0FPWTRkWFFfVXJ4a2c3N1BWMmVOZ0lsVDE3YnlGX2IxVVN5bEdPWHFDdHdFYnAxU2ZWc1ZrdG05VnhQbVJJdWRRRUhYOUo4bjY2Vjh1VjIyd1RQMnl3Zw?oc=5",
-      "pubDate": "2026-07-15T17:59:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
+      "pubDate": "2026-07-15T17:57:56.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Bank of Canada holds key interest rate at 2.25% as economic growth rebounds",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2dJdG5iVUV1TXIxNENXekVTek91V2xfclJONExlVlYwSnNqTHZHWVZfX1lITDQ1N2RiRUhtYzJvdHdJdnRvdHNSano4Qng2Q2FibGRpZFpaZUdDbWdBT00tZmV1Z3ludmFDM1pRLU56bXVTaC1TcXZ4WWtJaDJzb1F3?oc=5",
-      "pubDate": "2026-07-15T17:11:53.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Taxpayer double taxed here and abroad wins in court against CRA",
@@ -74,50 +114,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Area that includes the Peace has lowest unemployment rate in Alberta",
-      "outlet": "EverythingGP",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzhVaEtyU0dwTTFCZThKaFNlQ0trNkpvc05tUXlrTm84OWFpaUhWcE5yVlc3Vm53UXY0VlVnN0pBTDJKbExpWFJ6RnRFcGxhU05VeTFlLTlXOW1zSUJXNEdmbXNTR3B4Wkc4VW11TXotMTJUM2NOZUQ4TElfMEdWZnZsOTFfam1KRHZJUGFrdkZDczdXRWhNUTJDOWlHbWhPekN3dGJmOTQ?oc=5",
-      "pubDate": "2026-07-15T14:18:37.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Manufacturing sales increase for fourth consecutive month in May to hit record high",
-      "outlet": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUhyaTVxWmt3Mmwxei1iM1FZX3Rxdy1GZzVjZUE0aDJuaEI0T2VqQzlCZkE5eTkzUmN1bVpaUk5OVmVqVTdESDVZS1M5NUxRSC1RWms2WlY5WHNvUXl4VnRrSTh6S0RCVDB4Wm5zRWh0U2dGakVLZXh2dGxBMlJrSTdxTEdvM1FqM2FXUFRnYk5GTDVPQ2V4ZHhaMHk4VVU4Zk1iSFdQUFM4cjhmNUdFNzdyUUI5enRLdmZzbTEwN1hiSnNSanc?oc=5",
-      "pubDate": "2026-07-15T13:22:11.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "The 500,000-Home Myth: Why Canada’s Biggest Housing Target Is Misleading",
-      "outlet": "missingmiddleinitiative.ca",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MTA5MWZJdlpPb0NPRndfSEFua29fVlZOdlVPVnZrOVdESW9iT1J0cXF0cFVsVlJuclh1dDAxMUFwZGM5UXFxem10NFlVbHJFQU5BbkJqTG5Cbm05VGp1SlR5bzhBYkw1V2JHMkdwUVJMd3ZRMEY5X0o2Z1kzZw?oc=5",
-      "pubDate": "2026-07-15T13:18:37.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "LNG Canada offers five First Nations option to invest up to C$1bn in Phase 2 storage tank",
-      "outlet": "Mining Weekly",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQam9YcnlKdHk2ZElGTVlzRk0wcU1pTTFXRWFsRmQtdm1Nc3pHUzZ0LUFYQXVYdXhIV3dlcVJBXzV5bUVudUlpTjk2Unc3NnRJUWlRcXNTQ3ZYNzZLbUdEWUNackppWUt5VXhlM2FTOEF1eDlfcXRDVUcxYmlYZ2JxbzVNUllEU0pNWE9jSDRBVDZtcXVqNTFtLXRJRlhkcGR6UlR0Q2RLelFuUFcxTk1rUW1yV3hfaUNyLXl4UmRsSDlORGZxT3NjdkFyWWxoLUdBRlE?oc=5",
-      "pubDate": "2026-07-15T07:20:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Cyclical rebound in Canada and structural strength in the U.S.",
-      "outlet": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2dvUzFiR2dJT3lSUlFxWVZHV0hzMHdBMS1WbF8wZkJlQnZTaWFxWmdROTNocWxOMDFtejd4QXV0bjA3aElNOXhVREtjU2ozMkFNb1A3R0otSWNGMkE4VElIZkRJdDMtRFJnQXRfSkR0NzZ5eERtenBPNDk3TjVoQ3NuaXBTQzFWN1pzX0hTbmtjd3pTYkRORUNlRmdyRkF3aDF4V1NTWUlHcG5PWWhVWmFOUUtENTgzUWwzU25B?oc=5",
-      "pubDate": "2026-07-13T17:07:49.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
+      "title": "Arrest warrant issued for man accused in Panama Papers case after he fails to show up for court",
       "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SamQ2WUhwLTUzZjJ2NVRKMGtCdmpfZnhXWW9qcjUyb3RWT3p2cWdhWTFDaG9CZnpEQUJHOUx0dTNOUmp5QU8yeFVXRy04eGw3aC1tb2hoVGtvSDNKbjZwQnBDR21iVHZydEQ2aktFcno4ZzhuV3J5S2psbw?oc=5",
-      "pubDate": "2026-07-10T15:40:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUE1VSFo5d3dRVzVpMWIwTjBCSFA2bHNiRzh4NW5NQUptVnFLS2ZfcmhZV0Y2WGFXOVNYQl84dEFZQmNQaUdZUF9SWDNSQUxrUU0xWUtINURyZHZtTzQ3dFFyRE9ybld4azBxaDVUdDhFT1ZfZEZsMTcxR2JLaHQxdVFaVlZjVUE0WFViWTY4ZUY?oc=5",
+      "pubDate": "2026-07-14T22:39:46.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     }
