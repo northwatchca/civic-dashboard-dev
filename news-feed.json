@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-18T11:32:20.189Z",
+  "updated": "2026-07-18T15:32:22.838Z",
   "items": [
     {
-      "title": "Majority of Canadians support both pipelines, but Alberta-B.C. project is favoured: poll",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXF0Z1pmX2xjRTNPMkxROWpUNlhjTVF2clA2SzhVNmtEeklJOV9WTmtCZjNvcXEyaTdMM3RINFRJTlA1Ym5tSi1SZ1ZPRmotVEVTeDhRRTZyX0ZTTnVhblNzNWY5YTVYMDU2X3RpR2lCVUpfczRwT2NhaVRqVG9lMkphbmw?oc=5",
-      "pubDate": "2026-07-18T10:03:30.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "CRA can enforce tax changes before Parliament passes them. Here’s how",
+      "outlet": "Juno News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRjNsUUpham9hR2ZuYnFxWWV1UVpzbm1rYkJCdzZFQ1dKWkE5ejhWQkNnV3VvZ3N4dkdiODR0LTh2TXdVVmZQMWlDREgyYnhScURDd2JRc3pyTG9EVkd6RjEwUUNxcVd1ZjBZVGFn?oc=5",
+      "pubDate": "2026-07-18T13:06:11.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "There's a new wildcard that could move Canada's mortgage market: FP Video explains",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkdXX1EwQW9CRmNDa0hnVVd2V3ZqbmdNRENRUW5wRS1vY25QVmdpYlVmR0l1eEhFQ1I4Q2ZzSEE0U1ZpdVU2SE9pSnpBdlRmaXZkclpDcTRxT3NnSVZzZVRLNGE2VGxaLWViLW5tVkJ5aGEtZ2VaOWFjQWJmZmgzSEhhUnRkZGFtQ0ZNU2NLeDlCc0pUZ1hVTWtNakJ2Ry0tbk16OUVmcVhqY3Utbk1R?oc=5",
+      "pubDate": "2026-07-18T11:03:20.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Trade limbo is quietly taking a heavy economic toll",
@@ -26,26 +34,18 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada's Week In Manufacturing",
-      "outlet": "Canadian Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUd3aFBXdDRmMHc3ZV9FYUxpTVdqcER6TW5CeDVMdVA0Y2kwRmZBeVdISVB6eUgyYzQzRzJOc1Z3NHpRd0J1UzZwYm1EOW9HbEpvaV9WU0N4ZzlkTjZyMWhONVRIMjg2WUJPakYyUlY3emdZaG5qZ3cxRGlRT2x2OGRYbHZkUQ?oc=5",
-      "pubDate": "2026-07-17T17:00:09.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "5 CRA Red Flags That Could Put High-Income Seniors Under Review",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEFCSXZYSXRYU245d1FoNXU1VlZqTzlRS3FVeTBxTFZ0TDVIR0V6NEpTZHd1QzVDeHZuOUlEMnpacURtTFdJeUdTTnJadm1HR3dzN0EwMm42Y2dlVGhLOXNtYkItZTE4VGhoUXBMYXRTWTBNQkQyNW1HRzdPaFdncGMyakZYQmRETHhVcXNaSDBWT3VweFZwWHNvVlBkakRTTVJ4NzI3N2RzYVBwRUdiTmhsUEoySXZ4ZU8yYlI5NmFnT016aGlOckw4S1JBNDB5TlRTMmk5Z0JPZV9ZZmVXc2hVUQ?oc=5",
-      "pubDate": "2026-07-17T14:30:22.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
       "pubDate": "2026-07-17T11:15:43.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Backgrounder: Port of Vancouver Gateway Strategy",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2JDQmFGSUNibGVWT2pGYkRZMm1qN0FRdXBERjQxMDFPT0NTUlFQUUwxd1VaMjh1QTB6dXVxeGR6XzlfR2hWTGgzVlRGWXRTejBNbEdhLUI0empxSUs2c3FudmZ4a0N5b3dRZ3VYX09jUE5ZeEhnOTN4Sk56RmlLSkJTTTQxeVJXNmVCZEdWYkRyMmFGVWNSZHgyeHoxVDg?oc=5",
+      "pubDate": "2026-07-16T16:19:57.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -58,20 +58,20 @@
       "categoryLabel": "Demographics"
     },
     {
+      "title": "Carney was iffy on a pipeline. Now his government's building one itself. Here's what changed his mind",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFJqbmRXc3otSS1lM0RicU9XRnl0aXVWbGFqUExWNDRiMHlkMGYzV0hzYlI4TW5iX21ETFVvUGN2bmRxU05ZVEJYZGNkVzMzcVZWT0JoOXVwYjB4QnQ1ME8zR0F6aEYtalBhZFBzZF9DTGR1b2kxb2lIanJ3VThQQkQ1UXdlLUNuNWhXWHBxeGtwTFhiUHk0MVdBUmhqOGFEbGV1Vy1aUTJqTFIxTmlKZGNvNndiTDZMcDR5ZU4xZjJHN3hwTlE?oc=5",
+      "pubDate": "2026-07-16T08:01:35.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Taxpayer double taxed here and abroad wins in court against CRA",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNER4N2NMUlk2WnQ3a1ItQXlqNkdUVzNoVmVwOElTWmx6QURSQ3VGSmxZUjZDM3lTMk9zMnAtX3QyN08zN0dpSXN2Mm1PbTR3aWtmaU1Ydk13bFR6emNjTnlfOWJtSUZkaFhqcF9LUV94SXE0eFZ4TUNUUU42b0tGOE9jc204OHV1c1hMMDdn?oc=5",
       "pubDate": "2026-07-15T17:04:45.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Bank of Canada Holds Interest Rate at 2.25 Per Cent – July 15, 2026",
-      "outlet": "CPAC",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkNLa29hR0sxSTR0N2RseXUxR2VmV3FraVA0ck41S3dqWWFlanFjS3lZSDJPbk5MZjlrTnJfZUNzRWQtWjVDNWFjOHN4ZHdraEJVQU1zalZHc1RaV3VOdUkwZXBoTHlmcTNBWWZFeUc3QUdIU3NPUV80aXhqRjRfUnd6SmF3REFxMm1iOUpOYXZ5enpZRk9jaU9KeldrRUFsMi1XU1I5OEZwc1dQYzFyNWpfejBNekVoa0tmNUJxYlB2ejl2anhTeEJiN0JOdWFrRGE1ci1nN1FaNExhd294dklXdnY?oc=5",
-      "pubDate": "2026-07-15T15:33:14.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "The Bank of Canada holds its interest rate on July 15",
