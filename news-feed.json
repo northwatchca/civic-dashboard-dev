@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:55:05.275Z",
+  "updated": "2026-07-18T22:33:26.922Z",
   "items": [
     {
       "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
@@ -8,14 +8,6 @@
       "pubDate": "2026-07-18T19:00:00.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "There's a new wildcard that could move Canada's mortgage market: FP Video explains",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkdXX1EwQW9CRmNDa0hnVVd2V3ZqbmdNRENRUW5wRS1vY25QVmdpYlVmR0l1eEhFQ1I4Q2ZzSEE0U1ZpdVU2SE9pSnpBdlRmaXZkclpDcTRxT3NnSVZzZVRLNGE2VGxaLWViLW5tVkJ5aGEtZ2VaOWFjQWJmZmgzSEhhUnRkZGFtQ0ZNU2NLeDlCc0pUZ1hVTWtNakJ2Ry0tbk16OUVmcVhqY3Utbk1R?oc=5",
-      "pubDate": "2026-07-18T11:03:20.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
@@ -66,20 +58,20 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Bank of Canada Holds Interest Rate at 2.25 Per Cent – July 15, 2026",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkNLa29hR0sxSTR0N2RseXUxR2VmV3FraVA0ck41S3dqWWFlanFjS3lZSDJPbk5MZjlrTnJfZUNzRWQtWjVDNWFjOHN4ZHdraEJVQU1zalZHc1RaV3VOdUkwZXBoTHlmcTNBWWZFeUc3QUdIU3NPUV80aXhqRjRfUnd6SmF3REFxMm1iOUpOYXZ5enpZRk9jaU9KeldrRUFsMi1XU1I5OEZwc1dQYzFyNWpfejBNekVoa0tmNUJxYlB2ejl2anhTeEJiN0JOdWFrRGE1ci1nN1FaNExhd294dklXdnY?oc=5",
+      "pubDate": "2026-07-15T15:33:14.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "The Bank of Canada holds its interest rate on July 15",
       "outlet": "TD Stories",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1I1Mk44TnpNUzNBSGFVblFnd2V2YTBkd1VHTWRjd3N6Q1dwa3JpVDU0VUpBT1JfTUlXcUJYZ1cyeTNmQmFtSU95a2M1NjcwZFRNbmlzY0h2S09pRnlXbFZZMEpDMWRzelFaV0czWjU4cFBXQjBkeUpHeXdrOW5GSA?oc=5",
       "pubDate": "2026-07-15T15:13:27.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Arrest warrant issued for man accused in Panama Papers case after he fails to show up for court",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUE1VSFo5d3dRVzVpMWIwTjBCSFA2bHNiRzh4NW5NQUptVnFLS2ZfcmhZV0Y2WGFXOVNYQl84dEFZQmNQaUdZUF9SWDNSQUxrUU0xWUtINURyZHZtTzQ3dFFyRE9ybld4azBxaDVUdDhFT1ZfZEZsMTcxR2JLaHQxdVFaVlZjVUE0WFViWTY4ZUY?oc=5",
-      "pubDate": "2026-07-14T22:39:46.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Expert: Bank of Canada’s interest rate announcement",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-10T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada and Alberta advance west coast pipeline project proposal and Pathways Project Carbon Capture Initiative – to build a stronger, more resilient Canadian economy",
+      "outlet": "pm.gc.ca",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1hEeXdHUFRHcExVN2VXbjFpbXZ5N3hlOVd4UUU5ejFTOFVuUnNQYXJDeTRmV0RfSTRIaGh0QVdQOExPeVBJRDVyVFpzMVZ0bDcxVllsekppUGNncE45allQUTlGUEZSVFAtVFkyTnFZR0hJVEc2RGpLamZRZnpHU3FadXBSX210Z2xKQ0d1aGZxcEFkSXM1RlNMeTVsX3RKUjA5bEtzVk1SbVVKeUVpZ2FCWUg4UW5MR3NNa05n?oc=5",
+      "pubDate": "2026-07-02T07:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     }
   ]
 }
