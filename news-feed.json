@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-19T07:38:10.302Z",
+  "updated": "2026-07-19T11:39:50.212Z",
   "items": [
-    {
-      "title": "Team Selected For Roberts Bank Terminal 2 Landmass And Wharf Construction",
-      "outlet": "Canadian Consulting Engineer",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWdKZ0k1eFdVOGM5NjRQSmRacnNpSDU5VFp2U2I1WURtb0E1UF9JWEhORjh3YnFmVVd1eWNGWlZscmVySHE4WTBJNENpZlpPQnBqbFpRNXpkM1pWV0tlS2d1MUFLWXdjQnZyTmlWSnF5TjNBcENMenpGN2Y0WkRsMFhYcVI3M1JFcmF1alZmQWxjcWpZUUQ0dUZmcUhmeDFoUHhhc082ZjR3b3FvMDlUUkMtRk5iOHlw?oc=5",
-      "pubDate": "2026-07-19T03:44:30.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
     {
       "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
       "outlet": "Crude Oil Prices Today | OilPrice.com",
@@ -40,6 +32,14 @@
       "pubDate": "2026-07-16T17:59:22.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Backgrounder: Port of Vancouver Gateway Strategy",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2JDQmFGSUNibGVWT2pGYkRZMm1qN0FRdXBERjQxMDFPT0NTUlFQUUwxd1VaMjh1QTB6dXVxeGR6XzlfR2hWTGgzVlRGWXRTejBNbEdhLUI0empxSUs2c3FudmZ4a0N5b3dRZ3VYX09jUE5ZeEhnOTN4Sk56RmlLSkJTTTQxeVJXNmVCZEdWYkRyMmFGVWNSZHgyeHoxVDg?oc=5",
+      "pubDate": "2026-07-16T16:19:57.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada pauses applications for parent, grandparent immigration sponsorship program",
@@ -106,17 +106,17 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada’s unemployment rate edged lower in June",
-      "outlet": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpOdXEwRzNjcUt1bkJlVXM4VGVFLV9yZkFReXg0Unh3azQxeHdqbDgzczJBUlhDRXJrWmJHS3JxWUxIMW9jbkFWVG1wR0UyUnBRZmhjTkw4dGE3R0taZ2xsWmtick03Q1N3N1hJN01LSXhGMlFUdmdmaXphZWFObUFnaUE0UmRQalZMNG9PZVVZXzJhTGVXRWdNTjBoTjN0THBQc3RnOURZeTYwVmZv?oc=5",
-      "pubDate": "2026-07-10T07:00:00.000Z",
+      "title": "Map 1 Unemployment rate by province and territory, June 2026",
+      "outlet": "Statistics Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQi0xTkJQd0NuZTVuT3h0RmNRek44MEU4MUpZRlVMcnRiTldpVUkwOUNCMU1sV1hZeUkxS2JiR3NQeUotb201NFlEbEV5X0hSUllkT2J5X3QzaW5vbzFiRTZtTzJZUFJWdllzWWVWd0lvRFVtSGlpdDRB?oc=5",
+      "pubDate": "2026-07-10T14:15:51.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Labour Force Survey Monthly",
-      "outlet": "Government of Prince Edward Island",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
+      "title": "Canada’s unemployment rate edged lower in June",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpOdXEwRzNjcUt1bkJlVXM4VGVFLV9yZkFReXg0Unh3azQxeHdqbDgzczJBUlhDRXJrWmJHS3JxWUxIMW9jbkFWVG1wR0UyUnBRZmhjTkw4dGE3R0taZ2xsWmtick03Q1N3N1hJN01LSXhGMlFUdmdmaXphZWFObUFnaUE0UmRQalZMNG9PZVVZXzJhTGVXRWdNTjBoTjN0THBQc3RnOURZeTYwVmZv?oc=5",
       "pubDate": "2026-07-10T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
