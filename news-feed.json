@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-28T00:13:25.538Z",
+  "updated": "2026-07-28T10:15:48.728Z",
   "items": [
+    {
+      "title": "Why is Canada Being Asked to Raise Refugee Targets for 2027?",
+      "outlet": "ImmigCanada Immigration Consulting Services",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVZMemtndTlWOGs1OFNLVzlLcmw5U0VBMkRhc0wyZ3hDQjBKQkg0VUJSWEQ0dGJFZk9OZGRqWDJSYW9mYkR2MHpKZU43S1IwX05IdmNBV2VjaFN4RmpHYVRvdlFvVm85ejJWWTR3ZTlhSjE3ZGI2TkpQT1dGMWNfRVZjQVdHRHlXSnV3Uw?oc=5",
+      "pubDate": "2026-07-28T05:45:56.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
     {
       "title": "Thunderstorms could help narrow London’s rainfall deficit: Environment Canada",
       "outlet": "London Free Press",
@@ -16,6 +24,14 @@
       "pubDate": "2026-07-27T16:05:19.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Government of Canada boosts manufacturing growth in Dartmouth",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFVtZldCaW1GUEJEVVdDMzFTemx5RjFXdnloM2s0ZDdlaE1FN0hwRDNVUHVXdHRycElhUWJZcC1tVnNzNzJSS1RLZWRLdTllT09FT2hQcGpubWhBa2hFd2tjUVdPUHVCQWpRekJLYTdDcmpIdzVmczFGQk5qQTRHNGZVNGxtZTk4YkR6TFpMb2RRaFBXLWtaLVFsWFNsUVFIemk1Qjk1N1ByeW43NXZnMm82Q3h0a0NDZW1JdDRaZTN2M1Z5dTJWTEFjb1RvVzg?oc=5",
+      "pubDate": "2026-07-27T14:30:49.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
@@ -42,28 +58,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Saskatchewan youth unemployment rate falls to 11.1 per cent in June",
-      "outlet": "WestCentralOnline",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUktMWENUY0l0TXFteWNEUWlkVWc1cjdjS0o1YTZsV3pJVGt0NzVOXzFmUEEtZFhDd191SlBsWE9UVktPMHkyUkNqVllUZ0xnY1piYUZFOXVuS2JlT1RVOHdtQzl1LUR2dU1TTjNBaC10ZEZONjhLbmZVWjV6dkJCRHFQRjJRdkhsNUdYdnZtTXh0ckF4QVppWnlNSDdLOE92VnlRd21mSWJKX3N1amc?oc=5",
-      "pubDate": "2026-07-27T11:14:35.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVWWXpZTkZOZEV0eTViSGp1VE0xM2lzYVcyTmlpb0RjUV9ZN3lyRW80MmxVcDhCVllHMHozQXhtTHZfYjdNSnEyZVA4RXBsMHpCaXp3d2VmaWVUV3VSUUFJdDlSOEUtdVFPSFhlclhvSUZvM1l4QklvdjJjbzM0OTA1VG1wT0NyR09uaExSLXV5Z1I1QjI3VS1R?oc=5",
       "pubDate": "2026-07-27T06:56:59.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-07-27T06:55:45.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
@@ -74,12 +74,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "New permanent residents down 20% in Canada. Nearly half the drop came from India",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXlyZXVWckRJNVg3d3NicUtwNzUzRTFWWmsyQ0FCQjNLaC0xQ2dFRm15RThFbEx2NXFEUElaUmFhTFJidzg4dmJaOFV1UEJtLTVCNnN6b0w3LXk1WWdOd2VoLTJUaml0TnVDOURPYnpIWF9mZjBOcnUxc0RleUxJeEpiTHFnZw?oc=5",
-      "pubDate": "2026-07-25T11:02:28.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Canada-wide warrant issued for former Calgary oil executive facing tax evasion charges",
+      "outlet": "SwiftCurrentOnline",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnM4WENXTTZXOXdQdjlSa3hNTF9aUnpLX0tUaFktalRMMW96a0VUeHZlVlhIOV9mcWFPWFZJRE5yNnNSNERic2hpdndLYW5VRUNValdMcVNFZmVXWnRpckVlWXFUMjF3NlNTdzBxWUc3MjA1QUNsZ2dEODlrTDV2V1V1YVFJSW9hUzFFdE9rZ1VZb2hyNWo1aHc4S0dNbi1hRDlWd2I4TVpvQ3NrNzJYX3J0QnZiSHdGck9YVnZxQ0J2UVliRGRjNHlB?oc=5",
+      "pubDate": "2026-07-26T11:02:23.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Six takeaways for Canada from latest U.S. tariff threats; GDP likely rose again in May",
