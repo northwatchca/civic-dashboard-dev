@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:58:05.810Z",
+  "updated": "2026-08-01T13:22:57.756Z",
   "items": [
     {
       "title": "Opinion: No one can fire the CRA, and it shows",
@@ -50,6 +50,14 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "Canada Budget Deficit Shrinks in May",
+      "outlet": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDZLRnAwc0xDdkdnVzR2TnR3em91Q19uTFJyQzY1ck53dG42SmRmOGRGUmZRcnhEM2thbHFPQjJleFVyU1NJU0xiYnBkTl9YV0hhV0llbkN3Qk5aRXJlOXNpYWNubzN0U1RacDFuakR0cXRDd0RZcHUyeWloUi1aNVFvVE1ubFNzbE83YzMxd2E?oc=5",
+      "pubDate": "2026-07-31T15:30:28.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Canada records much smaller budget deficit over first two months of 2026/27",
       "outlet": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
@@ -83,7 +91,7 @@
     },
     {
       "title": "Buying and selling assets? Understand how to protect capital gains tax treatment",
-      "outlet": "theglobeandmail.com",
+      "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWZva2dsWXBPVDJJTzZHdFFNYzdJTGl3VTljcnRfbUM4b0VvZFBpUTNaZmR3QWRyYUNaOVZqVjk2aHZJM3ppc2FFM21HM3g2amYtWUF1LWhhMFRKUmtfa05wVV9YVnZZazItZDIyNHJNT1F4NGNFYVl3SDlUZmhFeEdYbC01VGVITWpuVU5ZZFpGUFhNTHNEY0dUbEdRZ2lLN3Q3dUJUM3M1Z19fRlJkN1V3?oc=5",
       "pubDate": "2026-07-29T21:04:55.000Z",
       "category": "taxes",
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-27T14:04:08.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
-      "pubDate": "2026-07-27T13:59:35.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
