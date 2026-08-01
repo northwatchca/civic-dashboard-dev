@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:55:00.071Z",
+  "updated": "2026-08-01T15:55:45.209Z",
   "items": [
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -8,6 +8,14 @@
       "pubDate": "2026-08-01T12:12:35.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-08-01T11:50:45.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Immigrants were expected to solve Canada’s aging crisis. Here’s why birth rates are falling",
@@ -32,14 +40,6 @@
       "pubDate": "2026-07-31T23:20:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "WARMING UP TO A PIPELINE: Enbridge Warms Up to New Alberta-to-B.C. Oil Pipeline After Carbon Compromise",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2ZvcWh0d1NIUHNySkNpTEdYN1R0bktzd2RLUlRfUUtXMkNGVDRRc1RkQ19iZGtZQ292WFlkSU85RGhCOGVBQWNaMWlsVTMzUnRNYkJfRi05UFl0SUw3Zk81dlZWQUd2MmdTM1VXb2Uzd2xUNzhzOENSTDBhU0hXd2MwSDlWVkFWTHloUjFGWUdGaER1YXplN09Ia3VsRHFTZ0dnemN5SktISlZ1NEkyN0FsaTZxT3pZ?oc=5",
-      "pubDate": "2026-07-31T23:04:54.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Canada's GDP beats expectations as second quarter rebound gathers steam",
@@ -75,7 +75,7 @@
     },
     {
       "title": "LNG Canada dropped commitments to operate ‘without routine flaring,’ docs reveal",
-      "outlet": "The Narwhal",
+      "outlet": "thenarwhal.ca",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PbUV3RHI0VTRTWjJrSlQ2VUVUenRzdmxsWmY5TmZXamp6Y3RjcXB3NFNWb0JsWnFReF8tOExld0FoQ1VkdVMwRnlIbW5hSGdtSzVMSDJxd0lNVzVZRTAtTnFpYl80SUE0RWIyNEpIX3pJWWpu?oc=5",
       "pubDate": "2026-07-31T12:39:00.000Z",
       "category": "resources",
@@ -86,14 +86,6 @@
       "outlet": "The Hub | More Signal. Less Noise.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFZT0hxend5bU1OTTJRU3drT1JJelFKRktBQl95X3ctb3UwazNWU1AyaWhzVFVJM2c1RmJVdWt5amJtdTIyLWhhanY5SnJSM3BjUjYtQ0ZmMnVpalBmdGJXTjZiNm1XRTNqNldtVV9iQUcxdjliaEtscE9UZGt0SGJYa1RHeWM4T1FxWDBzd0lUdmFTa2NRci1yS24tVHh0WGpF?oc=5",
       "pubDate": "2026-07-30T21:17:25.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Buying and selling assets? Understand how to protect capital gains tax treatment",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWZva2dsWXBPVDJJTzZHdFFNYzdJTGl3VTljcnRfbUM4b0VvZFBpUTNaZmR3QWRyYUNaOVZqVjk2aHZJM3ppc2FFM21HM3g2amYtWUF1LWhhMFRKUmtfa05wVV9YVnZZazItZDIyNHJNT1F4NGNFYVl3SDlUZmhFeEdYbC01VGVITWpuVU5ZZFpGUFhNTHNEY0dUbEdRZ2lLN3Q3dUJUM3M1Z19fRlJkN1V3?oc=5",
-      "pubDate": "2026-07-29T21:04:55.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-27T14:04:08.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Why population growth matters",
+      "outlet": "Public Policy Forum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T13:59:35.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
