@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:01:42.462Z",
+  "updated": "2026-08-01T20:42:10.884Z",
   "items": [
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -34,14 +34,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-07-31T23:20:48.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada's GDP beats expectations as second quarter rebound gathers steam",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlVOWZpNTk5WlNBbEx1Y2xjSno1ZTJuYld6NGlSeXBVLXNSaGFrVWdYZkUwQ3M0X08zTklLNHgwSUV2NEFkVHZiRjZzRGs2aEZQVFpyU0Y2REhzZlBaM1IzTmVxa210bS1kZ043a1hBb3VveVIzRkNSdGg1SmpNVDFlczR5cXNyWUYtdjBn?oc=5",
@@ -66,20 +58,20 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada Budget Deficit Shrinks in May",
-      "outlet": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDZLRnAwc0xDdkdnVzR2TnR3em91Q19uTFJyQzY1ck53dG42SmRmOGRGUmZRcnhEM2thbHFPQjJleFVyU1NJU0xiYnBkTl9YV0hhV0llbkN3Qk5aRXJlOXNpYWNubzN0U1RacDFuakR0cXRDd0RZcHUyeWloUi1aNVFvVE1ubFNzbE83YzMxd2E?oc=5",
-      "pubDate": "2026-07-31T15:30:28.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Canada records much smaller budget deficit over first two months of 2026/27",
       "outlet": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
       "pubDate": "2026-07-31T15:09:43.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canadian economy grew 0.3% in May, paving way for 2nd-quarter rebound",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndFR4WU1qSEUyaHl2YmNuYjNiWE9vMVVQbmFmOVpuenNyRzU1RWhrMTNTZzFHWVZqdGpDc0tUd1VzMlZkQ0Nqd296bGozS2Fsb3BwZl9Qbkx4R3dhTGFN?oc=5",
+      "pubDate": "2026-07-31T14:19:37.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "LNG Canada dropped commitments to operate ‘without routine flaring,’ docs reveal",
@@ -112,6 +104,14 @@
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Bank of Canada sets 2027 interest rate announcement dates",
+      "outlet": "Canadian Mortgage Trends",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
+      "pubDate": "2026-07-29T17:08:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "The Workforce Tariff Response: Preparing Canadian workers for the jobs of the future through the employment insurance-funded Labour Market Development Agreements",
