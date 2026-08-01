@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:42:10.884Z",
+  "updated": "2026-08-01T21:47:47.964Z",
   "items": [
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -99,19 +99,11 @@
     },
     {
       "title": "Losing an election is associated with lower social trust among polarized voters",
-      "outlet": "PsyPost",
+      "outlet": "psypost.org",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
-    },
-    {
-      "title": "Bank of Canada sets 2027 interest rate announcement dates",
-      "outlet": "Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
-      "pubDate": "2026-07-29T17:08:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "The Workforce Tariff Response: Preparing Canadian workers for the jobs of the future through the employment insurance-funded Labour Market Development Agreements",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-28T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
+      "outlet": "Bank of Canada",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
+      "pubDate": "2026-07-27T14:04:08.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
