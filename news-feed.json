@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:56:28.939Z",
+  "updated": "2026-08-02T15:57:41.750Z",
   "items": [
     {
       "title": "Canada-wide warrant issued for former Calgary oil executive facing tax evasion charges",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Opinion: No one can fire the CRA, and it shows",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXFVSkhoRDN5ZDhCcHQwbjJNdW15aVN4M2ZNa1J3alJWYklJWlg3TlZZazBKWUxfb2NtVHJJS3p5ZmNBRlFXeGM1QnZjb3FzWWZRSTMxVFR4TU1zd014Q04zbWlDWjZkb190dUNIbjh6dUl2UFlERVJZd3BSRGFGaGJSTDc?oc=5",
       "pubDate": "2026-08-01T10:06:55.000Z",
       "category": "taxes",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Canada's GDP beats expectations as second quarter rebound gathers steam",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlVOWZpNTk5WlNBbEx1Y2xjSno1ZTJuYld6NGlSeXBVLXNSaGFrVWdYZkUwQ3M0X08zTklLNHgwSUV2NEFkVHZiRjZzRGs2aEZQVFpyU0Y2REhzZlBaM1IzTmVxa210bS1kZ043a1hBb3VveVIzRkNSdGg1SmpNVDFlczR5cXNyWUYtdjBn?oc=5",
       "pubDate": "2026-07-31T17:22:57.000Z",
       "category": "economy",
@@ -106,20 +106,20 @@
       "categoryLabel": "Social Fabric"
     },
     {
-      "title": "Bank of Canada sets 2027 interest rate announcement dates",
-      "outlet": "Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
-      "pubDate": "2026-07-29T17:08:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "The Workforce Tariff Response: Preparing Canadian workers for the jobs of the future through the employment insurance-funded Labour Market Development Agreements",
       "outlet": "canada.ca",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0ZWanVyVzhPWDhhNVBZc0NzOWNqTmthZHVxVFpoVF82N3pWVjhUbWZDME5aSGxJOEkzZkVoaHdPOHliaEdDX05kMHA1bVFfSV9NTHpERFJ1WDktMTdnOGFTSXpDaDBDMG16dFlMZm55bVc1cW9VZ0RPYXUxdmpZLWFkYU1FVW1uLVlMVWtia3NwZUhmb255SXdKclNNLVJWenMxazlUYkhwSldHcF9FTXdIX24?oc=5",
       "pubDate": "2026-07-28T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
+      "outlet": "Bank of Canada",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
+      "pubDate": "2026-07-27T14:04:08.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
