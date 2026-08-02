@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T13:15:40.736Z",
+  "updated": "2026-08-02T14:56:28.939Z",
   "items": [
     {
       "title": "Canada-wide warrant issued for former Calgary oil executive facing tax evasion charges",
@@ -13,13 +13,21 @@
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-08-01T11:50:45.000Z",
+      "pubDate": "2026-08-02T10:11:58.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
     {
+      "title": "Immigrants were expected to solve Canada’s aging crisis. Here’s why birth rates are falling",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTl9URzdJOXJhbXpuTTlCZ01NNTllREs3N29COHdGVm5WMTZJN2otZ3FfanFCNTNZUUg0QkNkekJKQU9TQmxNUk9ON2Zmd3hyOVdzd2FNR1JOa21lY3dOMEVuNjI2YTFHVDdRQ2ZFQ0pnS09wZ1BZZUgydmxqNHY5XzI2QkVCbjN6Q2RSMmdHOFd5X000MWNLQm5mME1CZjJrVFRfMldVdlVSN0tLTzlVWEE2dVRkcTQ2RXhwSlVOZHRST1Y0ZVVwWUN2eUFwTGZyclJVemdvMGhNNzBNYVY0SzlZZDNJYk5DdG9GRkdHUHJfSEd6RFhjc3A4QU1FQll1cU13Sw?oc=5",
+      "pubDate": "2026-08-01T11:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
       "title": "Opinion: No one can fire the CRA, and it shows",
-      "outlet": "Financial Post",
+      "outlet": "financialpost.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXFVSkhoRDN5ZDhCcHQwbjJNdW15aVN4M2ZNa1J3alJWYklJWlg3TlZZazBKWUxfb2NtVHJJS3p5ZmNBRlFXeGM1QnZjb3FzWWZRSTMxVFR4TU1zd014Q04zbWlDWjZkb190dUNIbjh6dUl2UFlERVJZd3BSRGFGaGJSTDc?oc=5",
       "pubDate": "2026-08-01T10:06:55.000Z",
       "category": "taxes",
@@ -27,7 +35,7 @@
     },
     {
       "title": "Canada's GDP beats expectations as second quarter rebound gathers steam",
-      "outlet": "Financial Post",
+      "outlet": "financialpost.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlVOWZpNTk5WlNBbEx1Y2xjSno1ZTJuYld6NGlSeXBVLXNSaGFrVWdYZkUwQ3M0X08zTklLNHgwSUV2NEFkVHZiRjZzRGs2aEZQVFpyU0Y2REhzZlBaM1IzTmVxa210bS1kZ043a1hBb3VveVIzRkNSdGg1SmpNVDFlczR5cXNyWUYtdjBn?oc=5",
       "pubDate": "2026-07-31T17:22:57.000Z",
       "category": "economy",
@@ -35,7 +43,7 @@
     },
     {
       "title": "Canada on track for solid economic rebound in Q2, early data suggest",
-      "outlet": "bnnbloomberg.ca",
+      "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWR4Sklla0lERW1xZkhUanNLMUY4cWhLQUtrZ2NWZXNMYU96bHc1czhtc0hFYkFGdU14VThIUDFOTlluU1czLWg4NzdZdE1CeFZ2V1lBR3Awb19jUGtWY1RQWTNqa2pycDFxSmJnOUdtWkgxTjR6V19HN0RPbkxxTHdsV0NHY2dxX3NBZndKTGcyZEwwdnprTkNKWENuaFZ5cVF2OExidFozRVFQbGpYMWpwZzJSZWV0OEx3?oc=5",
       "pubDate": "2026-07-31T17:19:16.000Z",
       "category": "economy",
@@ -67,7 +75,7 @@
     },
     {
       "title": "Canadian economy grew 0.3% in May, paving way for 2nd-quarter rebound",
-      "outlet": "cbc.ca",
+      "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndFR4WU1qSEUyaHl2YmNuYjNiWE9vMVVQbmFmOVpuenNyRzU1RWhrMTNTZzFHWVZqdGpDc0tUd1VzMlZkQ0Nqd296bGozS2Fsb3BwZl9Qbkx4R3dhTGFN?oc=5",
       "pubDate": "2026-07-31T14:19:37.000Z",
       "category": "economy",
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-28T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
-      "outlet": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
-      "pubDate": "2026-07-27T14:04:08.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
