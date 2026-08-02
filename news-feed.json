@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:01:02.885Z",
+  "updated": "2026-08-02T20:06:51.000Z",
   "items": [
     {
       "title": "Canada-wide warrant issued for former Calgary oil executive facing tax evasion charges",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Canada on track for solid economic rebound in Q2, early data suggest",
-      "outlet": "BNN Bloomberg",
+      "outlet": "bnnbloomberg.ca",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWR4Sklla0lERW1xZkhUanNLMUY4cWhLQUtrZ2NWZXNMYU96bHc1czhtc0hFYkFGdU14VThIUDFOTlluU1czLWg4NzdZdE1CeFZ2V1lBR3Awb19jUGtWY1RQWTNqa2pycDFxSmJnOUdtWkgxTjR6V19HN0RPbkxxTHdsV0NHY2dxX3NBZndKTGcyZEwwdnprTkNKWENuaFZ5cVF2OExidFozRVFQbGpYMWpwZzJSZWV0OEx3?oc=5",
       "pubDate": "2026-07-31T17:19:16.000Z",
       "category": "economy",
@@ -82,14 +82,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "How eliminating the capital gains tax can restore the Alberta Advantage",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFZT0hxend5bU1OTTJRU3drT1JJelFKRktBQl95X3ctb3UwazNWU1AyaWhzVFVJM2c1RmJVdWt5amJtdTIyLWhhanY5SnJSM3BjUjYtQ0ZmMnVpalBmdGJXTjZiNm1XRTNqNldtVV9iQUcxdjliaEtscE9UZGt0SGJYa1RHeWM4T1FxWDBzd0lUdmFTa2NRci1yS24tVHh0WGpF?oc=5",
-      "pubDate": "2026-07-30T21:17:25.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Beyond the “Technical Recession” –Canada’s Rolling Adjustment",
       "outlet": "TD Economics",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNFA3UFc5U1pYZmpVRk5qZnE5Y3BPWV9xem1fVVNiQkVhdkJTVTJsa2dUREFUaG8xc01XeDc2NHM1NzdGclRhYXpyVFZXbFFhRjZTY2I2UE5HUQ?oc=5",
@@ -99,7 +91,7 @@
     },
     {
       "title": "Losing an election is associated with lower social trust among polarized voters",
-      "outlet": "PsyPost",
+      "outlet": "psypost.org",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-27T14:04:08.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Why population growth matters",
+      "outlet": "Public Policy Forum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T13:59:35.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
