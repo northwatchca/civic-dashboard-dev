@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:48:46.914Z",
+  "updated": "2026-08-02T23:52:49.298Z",
   "items": [
     {
       "title": "Why R v Jarvis is the most important tax case for Canadian taxpayers",
@@ -43,19 +43,11 @@
     },
     {
       "title": "Canada’s Enbridge postpones plans for second phase of Mainline oil pipeline expansion",
-      "outlet": "globalnews.ca",
+      "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0xob0RuMmpwY25xY3FtdW5hLXV2Nm1sM0RXV3NLYzJwMGdGYTRTS2I5WG1kd2VybEpMUEg4X1Y0bVBhazhxOVUydkluSy1rcGpRRjd4OEFQaXkzQlhKWUtPbGhTVkFwWktCU2M5SkpSUGVPOHdxNXBSbDlLVE01RDNEUUhpd1U4Y3JF?oc=5",
       "pubDate": "2026-07-31T16:55:13.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada’s labour market expected to show further stabilization into summer",
-      "outlet": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm45NzVWNU9Jdi1GV25sZnJoNGNmdXZ6UnFjVGxzYVBPM3VJcVJhbGRmbmduUG1EMFVpY2ZXYTVrNjYwQ09ERHRfNUZIMU9yUERnMzN4S3hIU3lLTlpIX0psY0dzNkZEQkQ3RDYwWTkzbTNqdENXemhhRnVDaWpzRFA2WU9PNmJ1R1BlQ3p0TGdqNFltQWlnRlpOUzQ5ckJ5b1kxMUdBZFNpMnVPSjE0QmhwbFdPeDNTUnh2cGs1NTI?oc=5",
-      "pubDate": "2026-07-31T15:54:42.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada records much smaller budget deficit over first two months of 2026/27",
@@ -98,20 +90,12 @@
       "categoryLabel": "Social Fabric"
     },
     {
-      "title": "Bank of Canada sets 2027 interest rate announcement dates",
-      "outlet": "canadianmortgagetrends.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
-      "pubDate": "2026-07-29T17:08:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
-      "outlet": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
-      "pubDate": "2026-07-27T14:04:08.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "The Workforce Tariff Response: Preparing Canadian workers for the jobs of the future through the employment insurance-funded Labour Market Development Agreements",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0ZWanVyVzhPWDhhNVBZc0NzOWNqTmthZHVxVFpoVF82N3pWVjhUbWZDME5aSGxJOEkzZkVoaHdPOHliaEdDX05kMHA1bVFfSV9NTHpERFJ1WDktMTdnOGFTSXpDaDBDMG16dFlMZm55bVc1cW9VZ0RPYXUxdmpZLWFkYU1FVW1uLVlMVWtia3NwZUhmb255SXdKclNNLVJWenMxazlUYkhwSldHcF9FTXdIX24?oc=5",
+      "pubDate": "2026-07-28T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Why population growth matters",
@@ -120,6 +104,22 @@
       "pubDate": "2026-07-27T13:59:35.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Understanding permanent residence numbers in Canada",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
+      "pubDate": "2026-07-21T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+      "outlet": "Bank of Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzdIUE1ldkJVWG1DUXJoaHVuY2ptSVViV0xIc2lxMll4RUQ5T2xDZkRySHU3U1RXNVA1OGEwX0UzRy1HbEZvTEZJSW05T2MxWTkyUmpmazE0LXpmOC0zSnBIWUFjNUUwTmlJcjhHeUl2aFRoX041c2NuSjB3NzZPNWN3?oc=5",
+      "pubDate": "2026-07-15T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
