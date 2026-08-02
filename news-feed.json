@@ -1,4 +1,125 @@
 {
-  "updated": "2026-08-02T02:06:50.747Z",
-  "items": []
+  "updated": "2026-08-02T05:49:36.116Z",
+  "items": [
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-08-01T11:52:51.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-08-01T11:50:45.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Immigrants were expected to solve Canada’s aging crisis. Here’s why birth rates are falling",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTl9URzdJOXJhbXpuTTlCZ01NNTllREs3N29COHdGVm5WMTZJN2otZ3FfanFCNTNZUUg0QkNkekJKQU9TQmxNUk9ON2Zmd3hyOVdzd2FNR1JOa21lY3dOMEVuNjI2YTFHVDdRQ2ZFQ0pnS09wZ1BZZUgydmxqNHY5XzI2QkVCbjN6Q2RSMmdHOFd5X000MWNLQm5mME1CZjJrVFRfMldVdlVSN0tLTzlVWEE2dVRkcTQ2RXhwSlVOZHRST1Y0ZVVwWUN2eUFwTGZyclJVemdvMGhNNzBNYVY0SzlZZDNJYk5DdG9GRkdHUHJfSEd6RFhjc3A4QU1FQll1cU13Sw?oc=5",
+      "pubDate": "2026-08-01T11:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Opinion: No one can fire the CRA, and it shows",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXFVSkhoRDN5ZDhCcHQwbjJNdW15aVN4M2ZNa1J3alJWYklJWlg3TlZZazBKWUxfb2NtVHJJS3p5ZmNBRlFXeGM1QnZjb3FzWWZRSTMxVFR4TU1zd014Q04zbWlDWjZkb190dUNIbjh6dUl2UFlERVJZd3BSRGFGaGJSTDc?oc=5",
+      "pubDate": "2026-08-01T10:06:55.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canada's GDP beats expectations as second quarter rebound gathers steam",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlVOWZpNTk5WlNBbEx1Y2xjSno1ZTJuYld6NGlSeXBVLXNSaGFrVWdYZkUwQ3M0X08zTklLNHgwSUV2NEFkVHZiRjZzRGs2aEZQVFpyU0Y2REhzZlBaM1IzTmVxa210bS1kZ043a1hBb3VveVIzRkNSdGg1SmpNVDFlczR5cXNyWUYtdjBn?oc=5",
+      "pubDate": "2026-07-31T17:22:57.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s Enbridge postpones plans for second phase of Mainline oil pipeline expansion",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0xob0RuMmpwY25xY3FtdW5hLXV2Nm1sM0RXV3NLYzJwMGdGYTRTS2I5WG1kd2VybEpMUEg4X1Y0bVBhazhxOVUydkluSy1rcGpRRjd4OEFQaXkzQlhKWUtPbGhTVkFwWktCU2M5SkpSUGVPOHdxNXBSbDlLVE01RDNEUUhpd1U4Y3JF?oc=5",
+      "pubDate": "2026-07-31T16:55:13.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada’s labour market expected to show further stabilization into summer",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm45NzVWNU9Jdi1GV25sZnJoNGNmdXZ6UnFjVGxzYVBPM3VJcVJhbGRmbmduUG1EMFVpY2ZXYTVrNjYwQ09ERHRfNUZIMU9yUERnMzN4S3hIU3lLTlpIX0psY0dzNkZEQkQ3RDYwWTkzbTNqdENXemhhRnVDaWpzRFA2WU9PNmJ1R1BlQ3p0TGdqNFltQWlnRlpOUzQ5ckJ5b1kxMUdBZFNpMnVPSjE0QmhwbFdPeDNTUnh2cGs1NTI?oc=5",
+      "pubDate": "2026-07-31T15:54:42.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
+      "pubDate": "2026-07-31T15:09:43.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canadian economy grew 0.3% in May, paving way for 2nd-quarter rebound",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndFR4WU1qSEUyaHl2YmNuYjNiWE9vMVVQbmFmOVpuenNyRzU1RWhrMTNTZzFHWVZqdGpDc0tUd1VzMlZkQ0Nqd296bGozS2Fsb3BwZl9Qbkx4R3dhTGFN?oc=5",
+      "pubDate": "2026-07-31T14:19:37.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG Canada dropped commitments to operate ‘without routine flaring,’ docs reveal",
+      "outlet": "The Narwhal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PbUV3RHI0VTRTWjJrSlQ2VUVUenRzdmxsWmY5TmZXamp6Y3RjcXB3NFNWb0JsWnFReF8tOExld0FoQ1VkdVMwRnlIbW5hSGdtSzVMSDJxd0lNVzVZRTAtTnFpYl80SUE0RWIyNEpIX3pJWWpu?oc=5",
+      "pubDate": "2026-07-31T12:39:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "How eliminating the capital gains tax can restore the Alberta Advantage",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFZT0hxend5bU1OTTJRU3drT1JJelFKRktBQl95X3ctb3UwazNWU1AyaWhzVFVJM2c1RmJVdWt5amJtdTIyLWhhanY5SnJSM3BjUjYtQ0ZmMnVpalBmdGJXTjZiNm1XRTNqNldtVV9iQUcxdjliaEtscE9UZGt0SGJYa1RHeWM4T1FxWDBzd0lUdmFTa2NRci1yS24tVHh0WGpF?oc=5",
+      "pubDate": "2026-07-30T21:17:25.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Buying and selling assets? Understand how to protect capital gains tax treatment",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWZva2dsWXBPVDJJTzZHdFFNYzdJTGl3VTljcnRfbUM4b0VvZFBpUTNaZmR3QWRyYUNaOVZqVjk2aHZJM3ppc2FFM21HM3g2amYtWUF1LWhhMFRKUmtfa05wVV9YVnZZazItZDIyNHJNT1F4NGNFYVl3SDlUZmhFeEdYbC01VGVITWpuVU5ZZFpGUFhNTHNEY0dUbEdRZ2lLN3Q3dUJUM3M1Z19fRlJkN1V3?oc=5",
+      "pubDate": "2026-07-29T21:04:55.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Losing an election is associated with lower social trust among polarized voters",
+      "outlet": "PsyPost",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
+      "pubDate": "2026-07-29T18:25:19.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Bank of Canada sets 2027 interest rate announcement dates",
+      "outlet": "Canadian Mortgage Trends",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
+      "pubDate": "2026-07-29T17:08:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "The Workforce Tariff Response: Preparing Canadian workers for the jobs of the future through the employment insurance-funded Labour Market Development Agreements",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0ZWanVyVzhPWDhhNVBZc0NzOWNqTmthZHVxVFpoVF82N3pWVjhUbWZDME5aSGxJOEkzZkVoaHdPOHliaEdDX05kMHA1bVFfSV9NTHpERFJ1WDktMTdnOGFTSXpDaDBDMG16dFlMZm55bVc1cW9VZ0RPYXUxdmpZLWFkYU1FVW1uLVlMVWtia3NwZUhmb255SXdKclNNLVJWenMxazlUYkhwSldHcF9FTXdIX24?oc=5",
+      "pubDate": "2026-07-28T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    }
+  ]
 }
