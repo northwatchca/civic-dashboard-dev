@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-03T20:21:58.277Z",
+  "updated": "2026-08-03T22:01:14.778Z",
   "items": [
+    {
+      "title": "Mark Carney’s Delegation Deficit",
+      "outlet": "Policy Magazine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdVEwWFIwY09fREdVQVJJYjdHbFJrcE9uTFNscVdlWThfZ1hOeG45LTY0VWpVbkgtTHEwMUhPOEdBV0VXd2VnR0U2N2ZLQXdfczZWejBEVjVYelpXZ0g5ZEhRXzdvV2ZHSlJSWmlXQQ?oc=5",
+      "pubDate": "2026-08-03T15:10:03.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
     {
       "title": "NEW EPISODE - 3 MINUTE HISTORY CANADA - WATCH: When a Pipeline Debate Flipped Canadian Politics: The 1956 Great Pipeline Debate",
       "outlet": "EnergyNow",
@@ -10,20 +18,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada GDP Grows in May Amid Expansion in Oil and Gas Activity",
-      "outlet": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGp2amE0ZDNTOU8tUVE2UW1Qc1dwUnFWU1hGaWdWNElMdTlYcklhX1ZtX21NUkc0Z3VaR0Nqb1Jhb2ZlWDZNRkFhQTlrQm1qdWhZTDhfRG1IeUdZcG4wbDNFTEVLeEY0QTl3YU1QTDJuUVY1UV81NDZBdEQ0VHBWLUVlUXVzRkpoOWpyVkE2VEllZzkzUkxhci16QnlzanNPR0hHSHVCUnpJRnVCXzAyODB2Y3RRQQ?oc=5",
-      "pubDate": "2026-08-03T08:06:18.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
       "pubDate": "2026-08-02T22:24:25.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Why R v Jarvis is the most important tax case for Canadian taxpayers",
+      "outlet": "Canadian Accountant",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmtiMmRqdFRoMWttTDd3OEd3RGdxUFZ2RXdRenozYmZ1eDI1cHY0cjFTWlVfRno3NDFaeENaLU9YYmE4ZllpV05jRGJjNUJHWTlxS3FYLVd3cjk3d3J1MG9iLVFabGE4U3hpYXhFSmVVYWpPYWJ3alhkZHpzY3k3VA?oc=5",
+      "pubDate": "2026-08-02T22:15:30.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Immigrants were expected to solve Canada’s aging crisis. Here’s why birth rates are falling",
@@ -90,6 +98,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Posthaste: Fixing Canada's productivity problem could cost a 'staggering' $7.6 trillion",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUVpbzJLaGRBbjFNdXozMnRKUS10d1RBSGVxeWJjRHN0Z0FWalpmY1piRkNYc0JVcXU1eVIzZHJrUFBRc3BINm5CMFVQdTZmTHVweHY0NjdsOThvXzRjaE1UdDlmUFVuRy1JNTYyQVVFYXNuNU5tMkV5WlVXa2s2Tlljd21JY1V4NFluRmlFYw?oc=5",
+      "pubDate": "2026-07-30T12:08:53.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Losing an election is associated with lower social trust among polarized voters",
       "outlet": "PsyPost",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
@@ -98,26 +114,10 @@
       "categoryLabel": "Social Fabric"
     },
     {
-      "title": "Bank of Canada sets 2027 interest rate announcement dates",
-      "outlet": "Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVpVb3lpd1ZCd2xOLXBINUZseFUtUjQ1MnpGVUluenlOaFIzaXVRa0xmeUVhREY0YXZDLXhQSXN5ZnJsMmhWV3l4V1g2dHQ5THRaa0o3bXlmQ2VCeVhMQWtNX3FZMlhBRmF1VU53WFg5T3VBbzdqaXB3QjNuZWlFaTltcDJ2c0RVaF9XNU9kanV0eTNDQV9lRjRTOGFjUlBOQlp0U0dSSWw?oc=5",
-      "pubDate": "2026-07-29T17:08:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Why population growth matters",
       "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T13:59:35.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Understanding permanent residence numbers in Canada",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
-      "pubDate": "2026-07-21T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
