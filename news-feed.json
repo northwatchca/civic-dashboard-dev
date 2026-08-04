@@ -1,21 +1,13 @@
 {
-  "updated": "2026-08-04T18:24:46.845Z",
+  "updated": "2026-08-04T20:20:14.089Z",
   "items": [
     {
       "title": "High energy prices fuel surge in Canadian exports in second quarter",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGowYm1TOVBWYUdUMExOWDlkSTBaX3NRZDFxRlJCb3Rob3JISFkwZ25vVDBzNW92RHJId3lQNUE3OWFqZWVOMnlKdUt6UEVMYTJuTUVYYldweDk4TW14ZHJqTDdXbWNYQkI3WG9FQkZaLW1mekhkVFhoU09haWhtcWU4R3Z0ZjhzOUFXal9zV1doR21HS1p1cFg5QQ?oc=5",
       "pubDate": "2026-08-04T17:29:18.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Carney government moves to use Building Canada Act powers for the first time",
-      "outlet": "iPolitics",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFNvXzFtV2hvNUJxM3ludzZyT1UxRWJwYnphZ0pnT0dXZWRZNktBNmhIRXdiTVFRTmNWeVFKZ3JlS0hmWWt3OEIwUlh0YjRRcDRjaUQ1d19RbHBqeS1DV0xGaUNYbGV5YnRaRGc0bWQ4QW1Tazc2d3ZSYm1XQjFKTERkOHlXcGd2RlVzVDhsaGZZWTY0V3RaSlg2emV6Q3BPRE85MmhFTVZJbzY3S25SREFrSQ?oc=5",
-      "pubDate": "2026-08-04T16:42:46.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Canadian trade balance held in surplus for fourth straight month",
@@ -24,6 +16,14 @@
       "pubDate": "2026-08-04T16:05:03.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "A veiled bet: The West Coast Pipeline and the case Canadians haven’t been shown",
+      "outlet": "The Macdonald-Laurier Institute",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXNUYTRSOTNoZ1JVMzZCSldXNUdwT0tlV0dOdVlVWnI5bXB5Z3VGb3BDdGRiZDdkV1BGelJndVJqaGVrZUVwVWpabmF6Xzl0Y05INDZlMmVXSTA5R2hnOUpoQ0otdlpZQTdGNTJURTdINHNUWVMxWHRUMEZObllNZHhwWXp5RmJVajE2NDhwNUVveVdUbzRGbUFBWDZncU9wWkRRbW52TkpqZw?oc=5",
+      "pubDate": "2026-08-04T15:25:49.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Controversial West Coast pipeline one step closer to being fast-tracked",
@@ -67,7 +67,7 @@
     },
     {
       "title": "Opinion: No one can fire the CRA, and it shows",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXFVSkhoRDN5ZDhCcHQwbjJNdW15aVN4M2ZNa1J3alJWYklJWlg3TlZZazBKWUxfb2NtVHJJS3p5ZmNBRlFXeGM1QnZjb3FzWWZRSTMxVFR4TU1zd014Q04zbWlDWjZkb190dUNIbjh6dUl2UFlERVJZd3BSRGFGaGJSTDc?oc=5",
       "pubDate": "2026-08-01T10:06:55.000Z",
       "category": "taxes",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Why population growth matters",
-      "outlet": "ppforum.ca",
+      "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T13:59:35.000Z",
       "category": "demographics",
