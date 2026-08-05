@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:58:08.785Z",
+  "updated": "2026-08-05T02:34:46.777Z",
   "items": [
     {
       "title": "Controversial West Coast pipeline one step closer to being fast-tracked",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Canada’s weaker loonie helped drive a wider trade surplus in June: StatCan",
-      "outlet": "Global News",
+      "outlet": "globalnews.ca",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWc3UVczeGlzSXQ0emlwMkFzSGJWOTloUGhfQ04zd2EwZDVuR0UxOFRyWFZySVpHb2ZoNWZaMlhtY2JmekhIcl9nOW1OYmNHWkQ0eEcwaUVUMEUwcTMzendDQWhka3lxTU5jZk1zUmhLVUxrTHV4VXdtY3cxalVuZw?oc=5",
       "pubDate": "2026-08-04T19:47:26.000Z",
       "category": "economy",
@@ -26,6 +26,14 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "High energy prices fuel surge in Canadian exports in second quarter",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGowYm1TOVBWYUdUMExOWDlkSTBaX3NRZDFxRlJCb3Rob3JISFkwZ25vVDBzNW92RHJId3lQNUE3OWFqZWVOMnlKdUt6UEVMYTJuTUVYYldweDk4TW14ZHJqTDdXbWNYQkI3WG9FQkZaLW1mekhkVFhoU09haWhtcWU4R3Z0ZjhzOUFXal9zV1doR21HS1p1cFg5QQ?oc=5",
+      "pubDate": "2026-08-04T17:29:18.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Canadian trade balance held in surplus for fourth straight month",
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1I1Ry0yd2hVSWlVU2psYXJHbjg4dEhnakVJeWNSS3FYQVpRQm9qNnJaXzhCRFI3SFNKNWJkTlFBSDJUVEhidk96blBvNE5laTRNM0F3WXU5NUFtVTM0dnFsN3hjem9KMGhmaFV4MXlGVTFQNTFwWDl2RmNCYjlJZVBpMEtqSVFyeTk0UTNtNFdhT3Q5ZnpicHdic1lSdnpFWjc4WElqVUpyZk5rQmhHV3Bab3JfbHN1b1N2RUZZZmdoWEYtVmZfQQ?oc=5",
@@ -35,19 +43,11 @@
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-08-04T14:00:33.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada GDP's rebound gives the Bank of Canada room to hold rates steady",
-      "outlet": "Wealth Professional",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUFoOS1FNUVwd2tzb295VUljMFYyaGUxeVBXYUJqb2tOQzBNWG9pLVBtcXgxVGJCQ2R4ZlhleW5Ga2kzb2JyNmtrVkp6cXFsWEdxdTBWSHVZbFlpblFUN3hLQXBzVkNhRDE1dHVOSG9VcE9YM0luMFBkdTdsRHNqcnZodXdSS2dlYmdhMktjaElxcVFiQ3JsRHFxSmRVOGpCdU5rWEVYckhvYUhieXRaaEljOTliNmlRLVNsekRMSHRPR1M2YWV0Q21R?oc=5",
-      "pubDate": "2026-08-04T12:16:50.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Do You Qualify For The New Home GST Rebate In Ontario? (Video) - Sales Taxes: VAT, GST - Canada",
@@ -59,7 +59,7 @@
     },
     {
       "title": "Mark Carney’s Delegation Deficit",
-      "outlet": "Policy Magazine",
+      "outlet": "policymagazine.ca",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdVEwWFIwY09fREdVQVJJYjdHbFJrcE9uTFNscVdlWThfZ1hOeG45LTY0VWpVbkgtTHEwMUhPOEdBV0VXd2VnR0U2N2ZLQXdfczZWejBEVjVYelpXZ0g5ZEhRXzdvV2ZHSlJSWmlXQQ?oc=5",
       "pubDate": "2026-08-03T15:10:03.000Z",
       "category": "debt-fiscal",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
-      "outlet": "Bank of Canada",
+      "outlet": "bankofcanada.ca",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzdIUE1ldkJVWG1DUXJoaHVuY2ptSVViV0xIc2lxMll4RUQ5T2xDZkRySHU3U1RXNVA1OGEwX0UzRy1HbEZvTEZJSW05T2MxWTkyUmpmazE0LXpmOC0zSnBIWUFjNUUwTmlJcjhHeUl2aFRoX041c2NuSjB3NzZPNWN3?oc=5",
       "pubDate": "2026-07-15T07:00:00.000Z",
       "category": "debt-fiscal",
