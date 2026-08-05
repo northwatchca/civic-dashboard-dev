@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-05T22:51:48.955Z",
+  "updated": "2026-08-05T23:53:58.380Z",
   "items": [
+    {
+      "title": "Canada needs a new National Highway Strategy",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNTkwbVQ5cTVxb1dnYVlzWEFReUozSGEwMFRRWmlrd2tUQlVUVGJuYjhOajdqRklCT2V0a1N0aEZCNmlGQXItemtfWmt2Qi1VWVFrVm9tRF9ad0pPNHg0Nzctd0NoTXpycGphOTZ3U09HOXV4LU1OZzJuVDVRZjRrRmpSYjlha1NGVF9mTy1yUTBfc0E3Ymc?oc=5",
+      "pubDate": "2026-08-05T21:33:28.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Canadians can now submit claims for up to $5,000 in CRA data breach settlement",
       "outlet": "Daily Hive",
@@ -22,14 +30,6 @@
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
       "pubDate": "2026-08-05T20:17:36.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canada-U.S. trade down almost $2B in two years",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc01fZ0kydlYxVUFiaXpEVVlDZzVvVi1BbXowV0NhOFJmOUhodTJ5eXd1cll5MVY3U25VOC11UFlVQ1gyemFya1ZyMElqeHhtTkRlRENTUUFOZVMwMFBfem1SQ0JxeFdQU1JtX25jSlZ3Yi1DSWMtaFZfay1aQW1JVUZ4YnBxVE04SDJzTU9zR3p1bEo0TklXbWxhaTNMVmd2N3Nvbm0tV3ZicVczOUZWT3Jocw?oc=5",
-      "pubDate": "2026-08-05T18:59:38.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -64,22 +64,6 @@
       "pubDate": "2026-08-05T06:48:49.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Mark Carney’s Delegation Deficit",
-      "outlet": "Policy Magazine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdVEwWFIwY09fREdVQVJJYjdHbFJrcE9uTFNscVdlWThfZ1hOeG45LTY0VWpVbkgtTHEwMUhPOEdBV0VXd2VnR0U2N2ZLQXdfczZWejBEVjVYelpXZ0g5ZEhRXzdvV2ZHSlJSWmlXQQ?oc=5",
-      "pubDate": "2026-08-03T15:10:03.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Opinion: No one can fire the CRA, and it shows",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXFVSkhoRDN5ZDhCcHQwbjJNdW15aVN4M2ZNa1J3alJWYklJWlg3TlZZazBKWUxfb2NtVHJJS3p5ZmNBRlFXeGM1QnZjb3FzWWZRSTMxVFR4TU1zd014Q04zbWlDWjZkb190dUNIbjh6dUl2UFlERVJZd3BSRGFGaGJSTDc?oc=5",
-      "pubDate": "2026-08-01T10:06:55.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Canada’s labour market expected to show further stabilization into summer",
@@ -120,6 +104,22 @@
       "pubDate": "2026-07-21T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+      "outlet": "Bank of Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzdIUE1ldkJVWG1DUXJoaHVuY2ptSVViV0xIc2lxMll4RUQ5T2xDZkRySHU3U1RXNVA1OGEwX0UzRy1HbEZvTEZJSW05T2MxWTkyUmpmazE0LXpmOC0zSnBIWUFjNUUwTmlJcjhHeUl2aFRoX041c2NuSjB3NzZPNWN3?oc=5",
+      "pubDate": "2026-07-15T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Map 1 Unemployment rate by province and territory, June 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQi0xTkJQd0NuZTVuT3h0RmNRek44MEU4MUpZRlVMcnRiTldpVUkwOUNCMU1sV1hZeUkxS2JiR3NQeUotb201NFlEbEV5X0hSUllkT2J5X3QzaW5vbzFiRTZtTzJZUFJWdllzWWVWd0lvRFVtSGlpdDRB?oc=5",
+      "pubDate": "2026-07-10T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
