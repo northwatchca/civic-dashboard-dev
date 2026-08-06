@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-06T05:13:25.062Z",
+  "updated": "2026-08-06T08:22:29.023Z",
   "items": [
-    {
-      "title": "Canada’s Oil Vulnerability Exposed: No SPR and Pipeline Bottlenecks - Tammy Nemeth: The Nemeth Report",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzFEaEV4NlJvTUpQWHhTbm9RWTJoOUhfV0ZJazRkYWtfQzdWRFl6c0pBXzBJOXZzeTBaX2J3QWVCdjRkWW4tQXFBaWNYbjhfY3I1NW5icHBJTC1CY0k1eFVOZ0QybTNRM0pRUW1JNE5yakVaZWxBWkF2ak82S0RiSExwSFB0VndJUjhtLUI3S0t4QXhJeFRkbENEN2hjckFHdVlHRzRvbnJSSHVjbzZfOHdVeWYtNzJyMVkwRVlIREJuZUVK?oc=5",
-      "pubDate": "2026-08-05T23:12:14.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
@@ -16,6 +8,14 @@
       "pubDate": "2026-08-05T23:04:13.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "RBC CEO Sees Pipeline News Soon in ‘Risk On’ Investment Climate But Canada Needs to Move Fast to Secure Capital",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmVJWDYzMEVTc2lnUnVzZ3NDZV9SYlp3NnZzaFE2ZEhkT2NPbHZPeEJZcHE4Z2xNU196WEpKR1pHWVdkdm5HazA1RTlmUXp2NEtFcldoZ1lzdzFaQ3NMUFNmYnNBLWM2dHMtWDhOb2NJOTVNN280SUhVUjVqRnVmb2d1ZEh0MW4wa2FNSmJ2QmZpbUVZc3hDcTZranZkbFdpWmk0VVBmOWNobS0tNmFlWkM3ZHpZUkZSSkxrTW1vVWF1Qy13T1NWYk1oYkc5bVNFREYyczBR?oc=5",
+      "pubDate": "2026-08-05T21:00:14.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canadians can now submit claims for up to $5,000 in CRA data breach settlement",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Submit your claim now for part of $8M settlement for Government of Canada online account privacy breaches",
-      "outlet": "insidehalton.com",
+      "outlet": "Inside Halton",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0l2LTByZnNKenNnUy13ZDhlTUNNYlVFeHVPUUtxTHFSLUJIdHVaQkpxNUJ2UTFWV0FJM1k4RGk0MkNYQUNkOFEtYTlNM3hmQlpCSkVXSFBGc2d2WnhGZWJRSDZmRnZhM0wyMHR1VlFzc2NnWnBfVmx1RTluMmh0bWx1SEpsd1ItaHBpZTB3aTBseUtyOFNrR1d1b1BtN1FCSGhXMGhjX0doMDBIMU93enNZRDNaNi1GLTdocWQzUXVTUHc?oc=5",
       "pubDate": "2026-08-05T20:45:00.000Z",
       "category": "taxes",
@@ -50,20 +50,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada’s trade surplus grows as exports reach record high in June",
-      "outlet": "play1037.ca",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXR6UU1nQzJSU1hRVi1hVFpQR1hxblV3VWxEZk1iTWluQmE4VE85TkFUUzJwQm5JT2lHVUlaUlFMYmhaZ3hoTUJaaWZjNHFwUkVZRXRoaHFieGNsRnNEZHJUZlc1QkdXODZlLVpMbXlQUUtlRVNWcG1HSGcwSTlieU1DQnJmZ1lOeC1pUWxyRnBVZU1jVVFHaFdnQU1VaTJJZHc?oc=5",
-      "pubDate": "2026-08-05T17:10:48.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "The cost breakdown of a new Canadian pipeline",
-      "outlet": "The Narwhal",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wdDVLc3ZMcDFoWUhmd0FPWGRjY0w0c1ctcGQ3ZW01LXhZQ3dIWHFrVHNFT0pNZzUyTkNSWEVXQ2tMbXhYdzlpTU9yVUJOS2ZYSkd0VEVvTG1MNjJDOVA3U1E3dzZ4eTdabDBacXpuNDhRQQ?oc=5",
-      "pubDate": "2026-08-05T11:00:00.000Z",
+      "title": "Carney government moves toward listing West Coast pipeline as national interest project",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
+      "pubDate": "2026-08-04T18:06:19.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canadian trade balance held in surplus for fourth straight month",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1I1Ry0yd2hVSWlVU2psYXJHbjg4dEhnakVJeWNSS3FYQVpRQm9qNnJaXzhCRFI3SFNKNWJkTlFBSDJUVEhidk96blBvNE5laTRNM0F3WXU5NUFtVTM0dnFsN3hjem9KMGhmaFV4MXlGVTFQNTFwWDl2RmNCYjlJZVBpMEtqSVFyeTk0UTNtNFdhT3Q5ZnpicHdic1lSdnpFWjc4WElqVUpyZk5rQmhHV3Bab3JfbHN1b1N2RUZZZmdoWEYtVmZfQQ?oc=5",
+      "pubDate": "2026-08-04T16:05:03.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Opinion: No one can fire the CRA, and it shows",
@@ -83,7 +83,7 @@
     },
     {
       "title": "Losing an election is associated with lower social trust among polarized voters",
-      "outlet": "psypost.org",
+      "outlet": "PsyPost",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
@@ -91,11 +91,19 @@
     },
     {
       "title": "Why population growth matters",
-      "outlet": "ppforum.ca",
+      "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T13:59:35.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Bank of Canada raises key interest rate amid stubbornly high inflation",
+      "outlet": "Investment Executive",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFNBSFQtUlppUmYwdHRiMEhIZEZBZGFFbmd2WlNMcEpmVkxiTG9iSXU5dW9nMDRGMElvbWVpMzNjcDNPM0tjZFFReXVLUXdZb29aZlkzai03Wkw3cElMMVJGY2FLMElfQTFnUVRXRXVaRmsySVdqV2VHLWpCSk5KdUlsY3QyRGh4NkNTb0s0a1NwTVduYnVReTNHMVNMV201Y1gxWWdMX0Q5bkctTlhmT0xCTTI5TXpCOW1WZ3hR?oc=5",
+      "pubDate": "2026-07-24T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Understanding permanent residence numbers in Canada",
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-15T07:00:00.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada’s unemployment rate edged lower in June",
-      "outlet": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpOdXEwRzNjcUt1bkJlVXM4VGVFLV9yZkFReXg0Unh3azQxeHdqbDgzczJBUlhDRXJrWmJHS3JxWUxIMW9jbkFWVG1wR0UyUnBRZmhjTkw4dGE3R0taZ2xsWmtick03Q1N3N1hJN01LSXhGMlFUdmdmaXphZWFObUFnaUE0UmRQalZMNG9PZVVZXzJhTGVXRWdNTjBoTjN0THBQc3RnOURZeTYwVmZv?oc=5",
-      "pubDate": "2026-07-10T13:58:04.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
