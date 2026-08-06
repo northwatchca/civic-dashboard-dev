@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-05T23:53:58.380Z",
+  "updated": "2026-08-06T01:56:07.790Z",
   "items": [
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-08-05T23:04:13.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Canada needs a new National Highway Strategy",
       "outlet": "The Hill Times",
@@ -34,14 +42,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "OPINION: Canada’s cybersecurity hiring market is recovering. Its talent pipeline is not",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM2t5SVF3WXl6X2NScGtTV0Fsckd5cUdERl9iTkJBd1h0WmpBdm51cGRqQnpvT2t5bHktbXc0LU9NY0F4SXUwWFRyeWJTTm1GRkFWeVZ6TTNPR0tobWN1dVhFeHd2MXJpdmp1VTM4SmZUa0FuU3VRUVhrcTdpLXBrMlNlbF9uRzhKT1E4YURONzVjeWMxZ3FiU3VTYnNYZzFLX1ZzbS15aGVhY2FKOVQzTFNJUHBxSU1PX0FWcWdJQ29OS245R21PTnI2SQ?oc=5",
-      "pubDate": "2026-08-05T18:32:55.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "The cost breakdown of a new Canadian pipeline",
       "outlet": "The Narwhal",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wdDVLc3ZMcDFoWUhmd0FPWGRjY0w0c1ctcGQ3ZW01LXhZQ3dIWHFrVHNFT0pNZzUyTkNSWEVXQ2tMbXhYdzlpTU9yVUJOS2ZYSkd0VEVvTG1MNjJDOVA3U1E3dzZ4eTdabDBacXpuNDhRQQ?oc=5",
@@ -58,12 +58,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-08-05T06:48:49.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Carney government moves toward listing West Coast pipeline as national interest project",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
+      "pubDate": "2026-08-04T18:06:19.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Mark Carney’s Delegation Deficit",
+      "outlet": "Policy Magazine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdVEwWFIwY09fREdVQVJJYjdHbFJrcE9uTFNscVdlWThfZ1hOeG45LTY0VWpVbkgtTHEwMUhPOEdBV0VXd2VnR0U2N2ZLQXdfczZWejBEVjVYelpXZ0g5ZEhRXzdvV2ZHSlJSWmlXQQ?oc=5",
+      "pubDate": "2026-08-03T15:10:03.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canada’s labour market expected to show further stabilization into summer",
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-15T07:00:00.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Map 1 Unemployment rate by province and territory, June 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQi0xTkJQd0NuZTVuT3h0RmNRek44MEU4MUpZRlVMcnRiTldpVUkwOUNCMU1sV1hZeUkxS2JiR3NQeUotb201NFlEbEV5X0hSUllkT2J5X3QzaW5vbzFiRTZtTzJZUFJWdllzWWVWd0lvRFVtSGlpdDRB?oc=5",
-      "pubDate": "2026-07-10T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
