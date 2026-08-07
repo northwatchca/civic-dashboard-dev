@@ -1,21 +1,13 @@
 {
-  "updated": "2026-08-07T03:44:34.484Z",
+  "updated": "2026-08-07T05:29:18.508Z",
   "items": [
     {
       "title": "Ottawa looks at nuclear options to help solve the North's ‘energy deficit'",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwWV91c04wZGc1VHNCZy1xWjlnQUhCTWY0ZkhBOGJIc1ExdmxHb1NoRWlIM0FiQ3BsRmRrZnFudVhJYTRVTVB1b1VxeGNWZU1VZ0RpQ0RySUtqZw?oc=5",
-      "pubDate": "2026-08-07T01:14:55.000Z",
+      "pubDate": "2026-08-07T01:15:45.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canadian Natural holding off on growth projects until Ottawa and Alberta finalize pipeline deal",
-      "outlet": "Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZjV2b1lqNkRKa1lEdTFDYlAxVFFwZS1QS2JGNGc1eS1DV0ZkbVltT3g2TV9HZEVVNGZJbkxtem9NSGNJTHBZajlZR2R6MEJ4RDBNM3Y5SU95aEF2OHNvSkZGVmNLbUxTSGZPTWJnTlRueDlkQUtFY19tY3VsaTBTbnZ1UmwzYk13czZxRkk0U003QQ?oc=5",
-      "pubDate": "2026-08-07T00:05:15.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "The week’s best fixed and variable mortgage rates",
@@ -24,14 +16,6 @@
       "pubDate": "2026-08-06T21:53:50.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canadian exports remain strong through end of crop year",
-      "outlet": "The Western Producer",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGt5d3dQUUtfT2NyX1RmTUE3eGdEbkRPRGM3dUxHS1gzS1phUUpJSV9IanY0OWZEU1d3X2VFMW1mWGU2TG81aFJEOTBXaldjTnFKLW11SWlFbGxlN0lJUDdQZGlNa2xNeTl4YkZZdmFvd2FManNkMnpoVHRrOS1KMFJ2bzNpcmdDV0lrTm9rZkVadVk?oc=5",
-      "pubDate": "2026-08-06T17:52:20.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Most Canadians say CRA targets middle-class taxpayers over the rich",
@@ -59,7 +43,7 @@
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
       "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
@@ -91,9 +75,25 @@
     },
     {
       "title": "Carney government moves toward listing West Coast pipeline as national interest project",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
       "pubDate": "2026-08-04T18:06:19.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canadian trade balance held in surplus for fourth straight month",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1I1Ry0yd2hVSWlVU2psYXJHbjg4dEhnakVJeWNSS3FYQVpRQm9qNnJaXzhCRFI3SFNKNWJkTlFBSDJUVEhidk96blBvNE5laTRNM0F3WXU5NUFtVTM0dnFsN3hjem9KMGhmaFV4MXlGVTFQNTFwWDl2RmNCYjlJZVBpMEtqSVFyeTk0UTNtNFdhT3Q5ZnpicHdic1lSdnpFWjc4WElqVUpyZk5rQmhHV3Bab3JfbHN1b1N2RUZZZmdoWEYtVmZfQQ?oc=5",
+      "pubDate": "2026-08-04T16:05:03.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Controversial West Coast pipeline one step closer to being fast-tracked",
+      "outlet": "Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEN1Y0NoOUkyUVBEbkdRSHE3a2hoUTQwTm96ZVEwVFVWd3JrU014SWtkZUwySUdnbzVmalZMTmdZV29venlXTE1qaHdzcmhMTU9UblB1OURfcmptSWJhWEFxczFXVFZyMlZNQWFzbWc5Z1NkSmtTMU9aOUhQU2VwQ2tHT19nd1hfcEdncWdhMlZ6QUI1XzczdlREUklDZFdkblF0QnE3eU5hYWNTOExVX3ZYekFxVWJR?oc=5",
+      "pubDate": "2026-08-04T14:27:51.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
