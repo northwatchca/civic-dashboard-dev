@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T22:27:41.694Z",
+  "updated": "2026-08-07T23:27:28.958Z",
   "items": [
     {
       "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
@@ -8,14 +8,6 @@
       "pubDate": "2026-08-07T18:44:58.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "West Coast pipeline project has become complicated for all involved",
-      "outlet": "thegatewayonline.ca",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTJQa0M3NGJOcXotZGVhTHJMNUw4czd3SGd5Y0tGM0NhdlJscVpGclNYUEdPUVRkVXZVNmJQYk1ka3Y5N3RnR29iQmtWUXhlTWNzR0NJaVpYcFZ4bEpCSG5raUVfYk02dDc2OWN3NklEMl9WSlVUOV9oTWtIVXpOc1Z3dWFGTW5uNnRSZWxBQm9RRFljNkxnTk1MVEV5MUFsRU83MWRBWQ?oc=5",
-      "pubDate": "2026-08-07T18:33:45.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "This Week In Manufacturing",
@@ -43,8 +35,8 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
+      "outlet": "ctvnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -75,7 +67,7 @@
     },
     {
       "title": "CRA hacking lawsuit claim now open — are you eligible?",
-      "outlet": "torontosun.com",
+      "outlet": "Toronto Sun",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenRuWWh6TjF4YW1lWXc3N3dza1pId1NVQ3B3R1RzZHF3a1o4NVBTcTZJRUtvY19yTjBlUjZXYkpFc2NmQVp1QXUwZ21Sdm5HWW9GYzF0T29QdHVyWnBZRFJVSkFtMm15cWZXQVZlRThhSGt1Q1I1aHpyblVtLXpZY0N1c2VZYW9UcWZVQS1HOXYtUQ?oc=5",
       "pubDate": "2026-08-07T13:25:19.000Z",
       "category": "taxes",
@@ -112,6 +104,14 @@
       "pubDate": "2026-08-06T15:12:04.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Carney government moves toward listing West Coast pipeline as national interest project",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
+      "pubDate": "2026-08-04T18:06:19.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Losing an election is associated with lower social trust among polarized voters",
