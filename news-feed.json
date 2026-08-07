@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-07T11:39:56.161Z",
+  "updated": "2026-08-07T12:46:13.315Z",
   "items": [
+    {
+      "title": "Canada adds 75,000 jobs in July as unemployment rate ticks down",
+      "outlet": "CityNews Ottawa",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEdUZEpHWk5OOHpPR0ZzSDNGSEVnUWFsQU5yYk9lTUJJWDM5ZFV1b0pZZ2VTQ0xYbWtnRDhONHNwOVlIY0k5RjhvWURtVmx6TzF4ZUlVcUFERFFLU2htMVpUblhKTUduckdBUXJoRnZ4ZDJYVS1IQVlPZGNTZFRxWGY0VGVQdlRFbXIyZ05XUmVEbFhMbV95TXVFRTRWRGNwRjY2bA?oc=5",
+      "pubDate": "2026-08-07T12:39:44.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWk9ySkxyd2hnY0dJY3o3UkFQd0xnd0IwaEhCMTFVTUxYeFF2bnhMd0VKQ1Bzbl9FbkJSdEFwdEdIMHlPbjZfRVNkWFotLVk3b0tnWjM0X21falVQbU1vNGFEek9URGlnV1BQcEJDanc0a0JWVGExRy1mbVhfUnlWQnFqMEx4UQ?oc=5",
+      "pubDate": "2026-08-07T12:34:31.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "Pembina Pipeline says West Coast pipeline stake fits into its broader strategy",
       "outlet": "constructconnect.com",
@@ -10,7 +26,7 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada expected to have added 15,000 jobs in July, maintained unemployment rate",
+      "title": "Canada seen adding 15,000 jobs, maintaining unemployment rate in July",
       "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTE1ZGFkX2h2ZlN0cm45X285MG0tcDAtYVlWSzBFTnJOb0hyUy1RMm4wUzg0aHJqd29SS1hwTHY4d2pVYkl6SjhlX1ZzcXJuWkFqSElCaFZPUGRVN2hjMlh5b2FSLXk5YkdzNnMySHFCYm1zckFkUkNSbGQ4eTVCWWFhUUFJTEZjWk1oVDFUbG9McEtnQWFCMW8wTk9FSXE3bWE1c2xGUDJscVVRajJ3VHJWUnllX2p1?oc=5",
       "pubDate": "2026-08-07T10:51:51.000Z",
@@ -50,14 +66,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Most Canadians say CRA targets middle-class taxpayers over the rich",
-      "outlet": "Juno News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RZDRzMkdfYzZsVHg4cVVlVlNPNDRDMTl5ZEZqakVSUzRxY2F3a2FlbXVUaVpqM3BLNnJjSUczOUN5YXNhb09Nb3NUQVRvZWVzV2hCcVk3NnVXU3ZrYmpwcUZmbENkVnlhSzlzemtiU01qUQ?oc=5",
-      "pubDate": "2026-08-06T17:43:02.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
@@ -82,8 +90,16 @@
       "categoryLabel": "Demographics"
     },
     {
+      "title": "Canadians can now submit claims for up to $5,000 in CRA data breach settlement",
+      "outlet": "Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NNExMUXdNdkxGYlN6TnNFSmRwcFFIQmtXT0xMUzVKUzNvam4wQlhIS1ZjbzB4WnpPWnJoV0JKM182aWthXzNrcEZHUTAzZ2k4Q1hBWUM0SVF3ZWdHYVcxTk1kSTRSdw?oc=5",
+      "pubDate": "2026-08-06T03:50:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
       "title": "Submit your claim now for part of $8M settlement for Government of Canada online account privacy breaches",
-      "outlet": "insidehalton.com",
+      "outlet": "Inside Halton",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0l2LTByZnNKenNnUy13ZDhlTUNNYlVFeHVPUUtxTHFSLUJIdHVaQkpxNUJ2UTFWV0FJM1k4RGk0MkNYQUNkOFEtYTlNM3hmQlpCSkVXSFBGc2d2WnhGZWJRSDZmRnZhM0wyMHR1VlFzc2NnWnBfVmx1RTluMmh0bWx1SEpsd1ItaHBpZTB3aTBseUtyOFNrR1d1b1BtN1FCSGhXMGhjX0doMDBIMU93enNZRDNaNi1GLTdocWQzUXVTUHc?oc=5",
       "pubDate": "2026-08-05T20:45:00.000Z",
       "category": "taxes",
@@ -98,28 +114,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
-      "pubDate": "2026-07-31T15:09:43.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Losing an election is associated with lower social trust among polarized voters",
       "outlet": "PsyPost",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
-    },
-    {
-      "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
-      "pubDate": "2026-07-27T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
