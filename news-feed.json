@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:47:11.227Z",
+  "updated": "2026-08-07T20:33:22.415Z",
   "items": [
     {
       "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
@@ -27,11 +27,19 @@
     },
     {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
-      "outlet": "cbc.ca",
+      "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
       "pubDate": "2026-08-07T17:20:04.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "‘Not yet strong’: Canada adds surprise 75,000 jobs in July but recovery still ongoing",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlVLW1EOHptRFc4TDJteEtmend2b294VzJLekd4TXk2Z08xMVdISEhiU2pzWXEyVjl4Zmw5N0dOWllnLU1ZU2RiWi1PamlvWTBVLUY3NWM0bUkwak5lc3hRdWprTXdNTWt6TVNKMkVkaURYXzBWRHV3akFhZF9LOEJFdWVaYWgzUV9FYUFBUkdkRXEzRE9uc3JNSk1QTU5HUUREaWRFaktfSThLWnhuTHNHbUtrSElIM2dTYU5R?oc=5",
+      "pubDate": "2026-08-07T16:51:09.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
@@ -40,14 +48,6 @@
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada adds 75,000 jobs in July as unemployment rate ticks down",
-      "outlet": "Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnpjOGktVlVqTl9kWk03eF83QnVpUTB3bkJYeEFTQmtVS3E2LWJfWFB3dWU1SHJaUEgyRldsN3lRVVlpaUp5a3JHRF9YQlNLUkhQc2ZiZ1VQdmlac1ZEOERuWEdBZGZSVTVrNlV1VE1VYi1QTFhXNFNhY2ZRUjdaQUhPdnZzaWFVZ0ZtaWFjS2ZTblFpTEZJalp5R2F5SFlFVkpBZUJZMno?oc=5",
-      "pubDate": "2026-08-07T15:31:32.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
@@ -90,16 +90,16 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-08-06T22:50:11.000Z",
+      "title": "How Canadian agriculture can unlock future growth",
+      "outlet": "MNP.ca",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXUxX0VZVFhVd0ZtNVhqbzdGLVZzbmt1dEpEeWlLXzNSaFkzTXgySkZKTGQwTThVN2xrQTRCWlFKNzFHVEcwXzlLczlhQ1hlUFhQd2daanBxOV9LRHVNaG9CR1VRd3dzdHE0amxyUmNyQUpqRlJ5aDZQdlYzS2c5ZDJVbjU1VmZnTVlDbGNIOENKTEQ2dVBJZQ?oc=5",
+      "pubDate": "2026-08-07T08:38:04.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "cbc.ca",
+      "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
       "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
@@ -114,12 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
-      "pubDate": "2026-07-27T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Losing an election is associated with lower social trust among polarized voters",
+      "outlet": "PsyPost",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
+      "pubDate": "2026-07-29T18:25:19.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
     }
   ]
 }
