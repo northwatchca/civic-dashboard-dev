@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-07T18:44:16.627Z",
+  "updated": "2026-08-07T19:47:11.227Z",
   "items": [
+    {
+      "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5",
+      "pubDate": "2026-08-07T18:44:58.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "West Coast pipeline project has become complicated for all involved",
       "outlet": "thegatewayonline.ca",
@@ -11,7 +19,7 @@
     },
     {
       "title": "This Week In Manufacturing",
-      "outlet": "canadianmanufacturing.com",
+      "outlet": "Canadian Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXktY2ZrdkdHR3l6ejd4ZURNTjFidE9VRzh1VDYzVXV6clNNbENKWDNfU3d0WkZOckliTTQ1YXRqRGIyN21USmd5XzM4Q1RDQ0xOcXRYRzY5RFRLTFFMTHVaU2s5ZWV6ZVBlejE3RXIzT2dxV01wZzExZFNXbUlYYUpn?oc=5",
       "pubDate": "2026-08-07T17:31:34.000Z",
       "category": "economy",
@@ -19,16 +27,16 @@
     },
     {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
       "pubDate": "2026-08-07T17:20:04.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canadians affected by 2020 CRA data breach can now apply for compensation",
-      "outlet": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
+      "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -42,20 +50,20 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada unemployment rate fell to 6.4% in July",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHA4LXN4UWhOSGp1LTJrcUh0dVpVd01DNWM0b2trQTJSSzZ0cEkxMk9VNG1rb19PbzB6NnRuLUV1eURGcVdaVVc2MExfcjdhSEJvZTJCVWJOWF9HXzJ3WW1laXZBSUhmLTJtR00tSEpwQkNMX0VfOEwwMS1ZWnZFOUhENXZMRGN1c0Y1cnVCSTFPbndkS2dxSll4RHRIVVRfYVo3dU9yWQ?oc=5",
-      "pubDate": "2026-08-07T14:26:38.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
       "pubDate": "2026-08-07T14:00:40.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG CANADA: Looking at the Investment Landscape",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTQ1ajBWUXFhZUI3X0Noby1fdlZqdkRKWXNqVXFQbVFqaXlGaVpCMnFkTXJ1ZmEwbUwtWFNOMXhUVTRYNnVWaEdZSGx2TnozRUFFVlF2bVIyUkpMcktfUWc5QUtTbk0wWlF2VzdUUnBKQ2FOSmZoaUJQWHc5OGdHOHJn?oc=5",
+      "pubDate": "2026-08-07T13:30:56.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "CRA hacking lawsuit claim now open — are you eligible?",
@@ -82,14 +90,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada’s Oil Vulnerability Exposed: No SPR and Pipeline Bottlenecks - Tammy Nemeth: The Nemeth Report",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzFEaEV4NlJvTUpQWHhTbm9RWTJoOUhfV0ZJazRkYWtfQzdWRFl6c0pBXzBJOXZzeTBaX2J3QWVCdjRkWW4tQXFBaWNYbjhfY3I1NW5icHBJTC1CY0k1eFVOZ0QybTNRM0pRUW1JNE5yakVaZWxBWkF2ak82S0RiSExwSFB0VndJUjhtLUI3S0t4QXhJeFRkbENEN2hjckFHdVlHRzRvbnJSSHVjbzZfOHdVeWYtNzJyMVkwRVlIREJuZUVK?oc=5",
-      "pubDate": "2026-08-07T11:25:25.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
@@ -99,25 +99,25 @@
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
       "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
-      "pubDate": "2026-07-27T07:00:00.000Z",
+      "title": "Recent population growth keeps Edmonton's homes market chugging",
+      "outlet": "Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlhPTDRLa0FvR244R2ZOWXQ5OC1mVlFkTG9lemgwVTBMWk9kTVBUN0hRT08zOUoyQXlHeDFMVGFkcFpqLVB2SDBVTFlYSFlOMk9EblBJaW9STGNybmxZMXBmVklmREZCWG1uRnU2TUhXQUpHZkt6eE5FeEFMdU81REdQSjZNVzU1YWg1S2N6MjV6VURXREpUMVpOOXV0akZWb1Zv?oc=5",
+      "pubDate": "2026-08-06T15:12:04.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Understanding permanent residence numbers in Canada",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
-      "pubDate": "2026-07-21T07:00:00.000Z",
+      "title": "Why population growth matters",
+      "outlet": "Public Policy Forum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
