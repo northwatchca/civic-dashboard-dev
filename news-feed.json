@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-08T15:22:55.671Z",
+  "updated": "2026-08-08T16:24:42.646Z",
   "items": [
     {
       "title": "Unemployment Rate Up in NL, Down Across Canada",
       "outlet": "VOCM",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ1ZGamQ0WThwNWpLTmtlRkdoZVNuUzlzX0J6cEQ2djZTM2Q0N0VJMVJ5Wk4zUjhfNTFuNG4zVFB4V1ZNZnkzQjVORQ?oc=5",
       "pubDate": "2026-08-08T14:30:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Ottawa’s trade concessions with U.S., unemployment rate hits two-year low and the 100 best cities for renters: Must-read business and investing stories",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2FLMG4wOWgzVkFRMExqZkJYbXZPTHJubnAxVGZYZUFZdGR2RUl3ZEVpWksxbTh2RDdfREZFc21yR0JTbEIzOEo2NHFaT2ZxWEJVZXlaUFp5bGgxZTZtWkZ0LVlVRkFMLWtTR1VDVWlLdlU0UzQyTjBQWXhCQ2ItWV9WcTJZdi1EZ0trSWxTRFVwQVViR2RDSU1jVFRrNmpi?oc=5",
+      "pubDate": "2026-08-08T13:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -42,17 +50,9 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
-      "pubDate": "2026-08-07T17:20:04.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
