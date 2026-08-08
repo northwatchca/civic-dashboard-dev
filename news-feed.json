@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:27:28.958Z",
+  "updated": "2026-08-08T01:05:42.266Z",
   "items": [
     {
       "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
@@ -27,7 +27,7 @@
     },
     {
       "title": "‘Not yet strong’: Canada adds surprise 75,000 jobs in July but recovery still ongoing",
-      "outlet": "bnnbloomberg.ca",
+      "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlVLW1EOHptRFc4TDJteEtmend2b294VzJLekd4TXk2Z08xMVdISEhiU2pzWXEyVjl4Zmw5N0dOWllnLU1ZU2RiWi1PamlvWTBVLUY3NWM0bUkwak5lc3hRdWprTXdNTWt6TVNKMkVkaURYXzBWRHV3akFhZF9LOEJFdWVaYWgzUV9FYUFBUkdkRXEzRE9uc3JNSk1QTU5HUUREaWRFaktfSThLWnhuTHNHbUtrSElIM2dTYU5R?oc=5",
       "pubDate": "2026-08-07T16:51:09.000Z",
       "category": "economy",
@@ -35,8 +35,8 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "ctvnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
+      "outlet": "CP24",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -98,14 +98,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Recent population growth keeps Edmonton's homes market chugging",
-      "outlet": "Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlhPTDRLa0FvR244R2ZOWXQ5OC1mVlFkTG9lemgwVTBMWk9kTVBUN0hRT08zOUoyQXlHeDFMVGFkcFpqLVB2SDBVTFlYSFlOMk9EblBJaW9STGNybmxZMXBmVklmREZCWG1uRnU2TUhXQUpHZkt6eE5FeEFMdU81REdQSjZNVzU1YWg1S2N6MjV6VURXREpUMVpOOXV0akZWb1Zv?oc=5",
-      "pubDate": "2026-08-06T15:12:04.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Carney government moves toward listing West Coast pipeline as national interest project",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Why population growth matters",
+      "outlet": "ppforum.ca",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
