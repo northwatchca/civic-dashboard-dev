@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T21:22:48.138Z",
+  "updated": "2026-08-08T22:21:01.125Z",
   "items": [
     {
       "title": "Nanaimo area’s unemployment rate dips again: Stats Canada",
@@ -32,14 +32,6 @@
       "pubDate": "2026-08-08T12:10:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canadians targeted in COVID-19 CRA hack can now claim part of $8.7M settlement",
-      "outlet": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFhNeUFJOS1MOGtxVlBEMVFlMHY3Q2hYdnRlNjEzd0JvRjVMdHFialA3V3hKQjA2Uk1lVFJBRjdGS3ItM3FrNVdHTktkYndoV21KbFJ6NDRBUTI3LVc3QWJKZzRhbE0tMjhCQWQ2MThzT1BxUmZnU0ZTWFFFR3JXS3hUQXpJTl9BbTJUVWRHMXhBZ1pFZnFUejNaeWp0cDZrR1BYdVZEakhjUUY5OHVrWEcwTUNZMnh1?oc=5",
-      "pubDate": "2026-08-07T23:04:41.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -82,8 +74,16 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "Canada Revenue Agency hands Innisfail a $50,073.90 GST bill",
+      "outlet": "The Albertan",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3FsQnNlTHRFR1N6Q2RiQ296MmMyRGhHczZ4UjRxc1k0LTRCZmVQNVVDSTFncnJmdDVwY0xmV2dMUW0xZnUxYVRuTU53d255QmtMQ2NLemo2eWJDWkVsbTk4QmsxN0lRSHMxcTZFSm1YX1dyblZBeFJYTnRyZkNQZnRaSlhtZ2xBczQxQlJqRDhEdS1JT2NQSlE5aGpfWDJGdTBhZTFTNFNrMUhW?oc=5",
+      "pubDate": "2026-08-06T23:00:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
       "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Carney government moves toward listing West Coast pipeline as national interest project",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
       "pubDate": "2026-08-04T18:06:19.000Z",
       "category": "resources",
