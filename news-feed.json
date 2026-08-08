@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T20:20:46.484Z",
+  "updated": "2026-08-08T21:22:48.138Z",
   "items": [
     {
       "title": "Nanaimo area’s unemployment rate dips again: Stats Canada",
@@ -32,6 +32,14 @@
       "pubDate": "2026-08-08T12:10:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canadians targeted in COVID-19 CRA hack can now claim part of $8.7M settlement",
+      "outlet": "Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFhNeUFJOS1MOGtxVlBEMVFlMHY3Q2hYdnRlNjEzd0JvRjVMdHFialA3V3hKQjA2Uk1lVFJBRjdGS3ItM3FrNVdHTktkYndoV21KbFJ6NDRBUTI3LVc3QWJKZzRhbE0tMjhCQWQ2MThzT1BxUmZnU0ZTWFFFR3JXS3hUQXpJTl9BbTJUVWRHMXhBZ1pFZnFUejNaeWp0cDZrR1BYdVZEakhjUUY5OHVrWEcwTUNZMnh1?oc=5",
+      "pubDate": "2026-08-07T23:04:41.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -112,14 +120,6 @@
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
-    },
-    {
-      "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
-      "pubDate": "2026-07-27T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
