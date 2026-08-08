@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:31:39.965Z",
+  "updated": "2026-08-08T09:30:49.712Z",
   "items": [
     {
       "title": "Canadians targeted in COVID-19 CRA hack can now claim part of $8.7M settlement",
@@ -18,20 +18,20 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-08-07T22:21:37.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-08-07T22:14:45.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5",
-      "pubDate": "2026-08-07T18:44:58.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
@@ -43,8 +43,8 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -56,6 +56,14 @@
       "pubDate": "2026-08-07T15:31:32.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada unemployment rate fell to 6.4% in July",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHA4LXN4UWhOSGp1LTJrcUh0dVpVd01DNWM0b2trQTJSSzZ0cEkxMk9VNG1rb19PbzB6NnRuLUV1eURGcVdaVVc2MExfcjdhSEJvZTJCVWJOWF9HXzJ3WW1laXZBSUhmLTJtR00tSEpwQkNMX0VfOEwwMS1ZWnZFOUhENXZMRGN1c0Y1cnVCSTFPbndkS2dxSll4RHRIVVRfYVo3dU9yWQ?oc=5",
+      "pubDate": "2026-08-07T14:26:38.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
@@ -72,14 +80,6 @@
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-08-06T22:50:11.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Why population growth matters",
-      "outlet": "ppforum.ca",
+      "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T07:00:00.000Z",
       "category": "demographics",
