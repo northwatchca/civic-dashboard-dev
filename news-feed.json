@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T19:23:26.247Z",
+  "updated": "2026-08-08T20:20:46.484Z",
   "items": [
     {
       "title": "Nanaimo area’s unemployment rate dips again: Stats Canada",
@@ -18,14 +18,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada’s Oil Vulnerability Exposed: No SPR and Pipeline Bottlenecks - Tammy Nemeth: The Nemeth Report",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzFEaEV4NlJvTUpQWHhTbm9RWTJoOUhfV0ZJazRkYWtfQzdWRFl6c0pBXzBJOXZzeTBaX2J3QWVCdjRkWW4tQXFBaWNYbjhfY3I1NW5icHBJTC1CY0k1eFVOZ0QybTNRM0pRUW1JNE5yakVaZWxBWkF2ak82S0RiSExwSFB0VndJUjhtLUI3S0t4QXhJeFRkbENEN2hjckFHdVlHRzRvbnJSSHVjbzZfOHdVeWYtNzJyMVkwRVlIREJuZUVK?oc=5",
-      "pubDate": "2026-08-08T12:45:45.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
@@ -40,14 +32,6 @@
       "pubDate": "2026-08-08T12:10:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canadians targeted in COVID-19 CRA hack can now claim part of $8.7M settlement",
-      "outlet": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFhNeUFJOS1MOGtxVlBEMVFlMHY3Q2hYdnRlNjEzd0JvRjVMdHFialA3V3hKQjA2Uk1lVFJBRjdGS3ItM3FrNVdHTktkYndoV21KbFJ6NDRBUTI3LVc3QWJKZzRhbE0tMjhCQWQ2MThzT1BxUmZnU0ZTWFFFR3JXS3hUQXpJTl9BbTJUVWRHMXhBZ1pFZnFUejNaeWp0cDZrR1BYdVZEakhjUUY5OHVrWEcwTUNZMnh1?oc=5",
-      "pubDate": "2026-08-07T23:04:41.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -80,6 +64,14 @@
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Doug Ford pushes a Canadian pipeline as Michigan shuts down Enbridge’s Line 5 update",
+      "outlet": "The Narwhal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TaXB6WE1fQm1fQ2pYQlF5TS1TYzZsajJWZllLaUJDWmxvaTJScEdmWHJ2bEJOY2wwUlpKSGdTLVpaSER5T24zdThoSjY3NjNBblZuamRDTjYtWHViTmZadlBR?oc=5",
+      "pubDate": "2026-08-07T12:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Why population growth matters",
+      "outlet": "Public Policy Forum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
