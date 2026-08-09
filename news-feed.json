@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-09T15:23:49.877Z",
+  "updated": "2026-08-09T16:26:20.715Z",
   "items": [
+    {
+      "title": "Canada’s unemployment rate falls to 2-year low",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU1jRndCYXJscU5BMUdEWDZKazl2ZjRzM0thZkM4d3h3aGt1dnhQdlRBekJTN3VHS0pZN24zWXlmVlRLNTZfLWVXUFlqN1I4RTB2OHIwZDVJQ2t1NzBmTW11N0ZUMHh5Q0VycEttMGNCSnktajBlemZNNHFXS01ZRFVfUDVNNHpudE80?oc=5",
+      "pubDate": "2026-08-09T15:48:08.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "Trump's new U.S. customs rules could upend Canadian exports",
       "outlet": "National Post",
@@ -19,7 +27,7 @@
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-08-08T12:24:35.000Z",
       "category": "resources",
@@ -27,7 +35,7 @@
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
       "pubDate": "2026-08-08T12:10:48.000Z",
       "category": "economy",
@@ -50,6 +58,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Canada adds 75,000 jobs in July as unemployment rate ticks down",
+      "outlet": "Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnpjOGktVlVqTl9kWk03eF83QnVpUTB3bkJYeEFTQmtVS3E2LWJfWFB3dWU1SHJaUEgyRldsN3lRVVlpaUp5a3JHRF9YQlNLUkhQc2ZiZ1VQdmlac1ZEOERuWEdBZGZSVTVrNlV1VE1VYi1QTFhXNFNhY2ZRUjdaQUhPdnZzaWFVZ0ZtaWFjS2ZTblFpTEZJalp5R2F5SFlFVkpBZUJZMno?oc=5",
+      "pubDate": "2026-08-07T15:31:32.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Canada Revenue Agency hands Innisfail a $50,073.90 GST bill",
       "outlet": "The Albertan",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3FsQnNlTHRFR1N6Q2RiQ296MmMyRGhHczZ4UjRxc1k0LTRCZmVQNVVDSTFncnJmdDVwY0xmV2dMUW0xZnUxYVRuTU53d255QmtMQ2NLemo2eWJDWkVsbTk4QmsxN0lRSHMxcTZFSm1YX1dyblZBeFJYTnRyZkNQZnRaSlhtZ2xBczQxQlJqRDhEdS1JT2NQSlE5aGpfWDJGdTBhZTFTNFNrMUhW?oc=5",
@@ -58,16 +74,8 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada unemployment rate fell to 6.4% in July",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHA4LXN4UWhOSGp1LTJrcUh0dVpVd01DNWM0b2trQTJSSzZ0cEkxMk9VNG1rb19PbzB6NnRuLUV1eURGcVdaVVc2MExfcjdhSEJvZTJCVWJOWF9HXzJ3WW1laXZBSUhmLTJtR00tSEpwQkNMX0VfOEwwMS1ZWnZFOUhENXZMRGN1c0Y1cnVCSTFPbndkS2dxSll4RHRIVVRfYVo3dU9yWQ?oc=5",
-      "pubDate": "2026-08-07T14:26:38.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "statcan.gc.ca",
+      "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
@@ -96,14 +104,6 @@
       "pubDate": "2026-08-04T18:06:19.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
-      "pubDate": "2026-07-31T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Why population growth matters",
