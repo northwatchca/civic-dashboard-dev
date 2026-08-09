@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T03:26:42.191Z",
+  "updated": "2026-08-09T04:57:56.887Z",
   "items": [
     {
       "title": "Nanaimo area’s unemployment rate dips again: Stats Canada",
@@ -43,7 +43,7 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CP24",
+      "outlet": "cp24.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
@@ -67,7 +67,7 @@
     },
     {
       "title": "Doug Ford pushes a Canadian pipeline as Michigan shuts down Enbridge’s Line 5 update",
-      "outlet": "The Narwhal",
+      "outlet": "thenarwhal.ca",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TaXB6WE1fQm1fQ2pYQlF5TS1TYzZsajJWZllLaUJDWmxvaTJScEdmWHJ2bEJOY2wwUlpKSGdTLVpaSER5T24zdThoSjY3NjNBblZuamRDTjYtWHViTmZadlBR?oc=5",
       "pubDate": "2026-08-07T12:00:00.000Z",
       "category": "resources",
@@ -83,7 +83,7 @@
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
       "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
@@ -99,19 +99,11 @@
     },
     {
       "title": "Carney government moves toward listing West Coast pipeline as national interest project",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
       "pubDate": "2026-08-04T18:06:19.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
-      "pubDate": "2026-07-31T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Losing an election is associated with lower social trust among polarized voters",
@@ -120,6 +112,14 @@
       "pubDate": "2026-07-29T18:25:19.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Why population growth matters",
+      "outlet": "Public Policy Forum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
+      "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
