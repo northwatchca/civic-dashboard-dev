@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T08:33:45.865Z",
+  "updated": "2026-08-09T09:32:02.004Z",
   "items": [
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -50,8 +50,16 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Canada Revenue Agency hands Innisfail a $50,073.90 GST bill",
+      "outlet": "The Albertan",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3FsQnNlTHRFR1N6Q2RiQ296MmMyRGhHczZ4UjRxc1k0LTRCZmVQNVVDSTFncnJmdDVwY0xmV2dMUW0xZnUxYVRuTU53d255QmtMQ2NLemo2eWJDWkVsbTk4QmsxN0lRSHMxcTZFSm1YX1dyblZBeFJYTnRyZkNQZnRaSlhtZ2xBczQxQlJqRDhEdS1JT2NQSlE5aGpfWDJGdTBhZTFTNFNrMUhW?oc=5",
+      "pubDate": "2026-08-07T15:00:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "Statistique Canada",
+      "outlet": "statcan.gc.ca",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
@@ -64,14 +72,6 @@
       "pubDate": "2026-08-07T12:00:00.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada Revenue Agency hands Innisfail a $50,073.90 GST bill",
-      "outlet": "The Albertan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3FsQnNlTHRFR1N6Q2RiQ296MmMyRGhHczZ4UjRxc1k0LTRCZmVQNVVDSTFncnJmdDVwY0xmV2dMUW0xZnUxYVRuTU53d255QmtMQ2NLemo2eWJDWkVsbTk4QmsxN0lRSHMxcTZFSm1YX1dyblZBeFJYTnRyZkNQZnRaSlhtZ2xBczQxQlJqRDhEdS1JT2NQSlE5aGpfWDJGdTBhZTFTNFNrMUhW?oc=5",
-      "pubDate": "2026-08-06T23:00:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
@@ -106,18 +106,18 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Losing an election is associated with lower social trust among polarized voters",
-      "outlet": "PsyPost",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamZYeWRIU2xmbmd5a3NFNnBMUlotcFJBZUhnNWFDdUJhYnRXeFhBU21zTWkxMmp5cHo3a25LSDJLTHJjUUJmZkFHbFpKOEZMRGhaUmE1bWpGSzZfWGhzeE82QU1HUGp0NlhJMlRRMUFGOFpVdEh2WUFQZk9HS3lvUnVoU0xTVGZyd1VfZ29QVkZucnBBSnU0RDJDajRVQ0dXNHBOdmlFYw?oc=5",
-      "pubDate": "2026-07-29T18:25:19.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
-    },
-    {
       "title": "Why population growth matters",
-      "outlet": "ppforum.ca",
+      "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "New permanent residents down 20% in Canada. Nearly half the drop came from India",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXlyZXVWckRJNVg3d3NicUtwNzUzRTFWWmsyQ0FCQjNLaC0xQ2dFRm15RThFbEx2NXFEUElaUmFhTFJidzg4dmJaOFV1UEJtLTVCNnN6b0w3LXk1WWdOd2VoLTJUaml0TnVDOURPYnpIWF9mZjBOcnUxc0RleUxJeEpiTHFnZw?oc=5",
+      "pubDate": "2026-07-25T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
