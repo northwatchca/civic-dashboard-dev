@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T16:46:01.548Z",
+  "updated": "2026-08-10T17:45:11.739Z",
   "items": [
     {
       "title": "New Podcast: KPMG Canada's Manufacturing Survey Broken Down By Anamika Gadia",
       "outlet": "Canadian Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0RIZFVCQVdYZEpQUUx2V29TaFpMcm5Cc09NMm5KM0IzdnlpeTlnYlBrSUt5WlZLWTJlMWlKdkh0MHBWZU9QeDN4ekpySDNwSGs2c3kzNElYdWtFN0pBWG9kVkhTVk1XelRrMUFpNTN6bW8tT0RiMW9lT2w3azE3aXBlRTZxdmFRc3h4eC12NDVMY3ZFc3k0dzJIZC1KS2hHWl9HWjdrRnktTjZXSUZFOVZ1UkdXdHZxWjBhNkM0dw?oc=5",
-      "pubDate": "2026-08-10T16:35:36.000Z",
+      "pubDate": "2026-08-10T16:34:10.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -58,6 +58,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Tiff Macklem warns Canadians: Interest rates may need to rise if Iran war-driven inflation persists",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFJHRmlOOTRqeGRPQXMyRUN0VEZ5Q2ZCMElHbmd6YlJPcmNHSVRRZHpLZXBmS3otajk3YnpiSWExd1FHSXlQdEQ0MGNBRXpfVkkxOGd5RTc0ZHFiaDlPcGI4c2ZET0lGOEs4WVVhZWx6Y3NWb01TOG1uOTFwZDlsY3BtaE9sZ2dzUHJlajNLdw?oc=5",
+      "pubDate": "2026-08-09T16:05:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Canada’s unemployment rate falls to 2-year low",
       "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnh4WE40dU5Dazg5STQ4WDVzMF9NVHVvaDduZW9VbnFoWU0wSmI1UmNXdkdWSUxEeWpiQnZMeDN0V05ONkZSZmRIUENoUE9nUU10eTM5U2lrcmVzRUxCTlFUZmp6NnEzckR6anhpQUphTUhOTk1sOW9SUi1OaU1qMEV6Xzkxd283Z0E?oc=5",
@@ -67,7 +75,7 @@
     },
     {
       "title": "Unemployment Rate Up in NL, Down Across Canada",
-      "outlet": "vocm.com",
+      "outlet": "VOCM",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ1ZGamQ0WThwNWpLTmtlRkdoZVNuUzlzX0J6cEQ2djZTM2Q0N0VJMVJ5Wk4zUjhfNTFuNG4zVFB4V1ZNZnkzQjVORQ?oc=5",
       "pubDate": "2026-08-08T14:30:00.000Z",
       "category": "labour-inequality",
@@ -107,17 +115,9 @@
     },
     {
       "title": "Why population growth matters",
-      "outlet": "Public Policy Forum",
+      "outlet": "ppforum.ca",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "New permanent residents down 20% in Canada. Nearly half the drop came from India",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXlyZXVWckRJNVg3d3NicUtwNzUzRTFWWmsyQ0FCQjNLaC0xQ2dFRm15RThFbEx2NXFEUElaUmFhTFJidzg4dmJaOFV1UEJtLTVCNnN6b0w3LXk1WWdOd2VoLTJUaml0TnVDOURPYnpIWF9mZjBOcnUxc0RleUxJeEpiTHFnZw?oc=5",
-      "pubDate": "2026-07-25T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
