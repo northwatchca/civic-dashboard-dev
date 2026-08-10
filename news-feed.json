@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T21:34:36.543Z",
+  "updated": "2026-08-10T22:29:48.677Z",
   "items": [
+    {
+      "title": "Calgary unemployment rate dropped in July, but remains among highest in Canada",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjRjcDRCb0VIYURjMVdZVkpudFE4cngzcVMwUTRPU2M3UG9rRnVWbEZ6Y3l2dGdaVnlDLUdGempFejZ0YndXcDJvbzBiRFJjWm1PVHpYVXc4YjEwTGVvdHRzWWdzTXNTS2Z3amIyMEZpTFZnekN0MnhRWHJ5ZUJxU2ZocDllRy1WRGlEZERCMA?oc=5",
+      "pubDate": "2026-08-10T21:34:04.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "Tighter spending, more revenue brings B.C. deficit down to $7.7B, minister says",
       "outlet": "Toronto Star",
@@ -35,7 +43,7 @@
     },
     {
       "title": "In this Canadian city, rent gobbles up 95% of a full-time, minimum-wage earner's working hours",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3B1eGt1LTc0Q01xVjJ5LVY2U3NyT0JVeE5od0tjalVaNHBqSmYxTDA5N2tzeHhyeG91Zmd2a3ZRbDhsaUlQYWhiNy1GTU9wRC1rdTN4SDZUNHRTRE11S3Q0X1h4N2hFUVgwRVBUazBMdGExaHRJTlJCY09VbDBKVTZuUmhoMllwcWU0bTlHc0Fmd1U?oc=5",
       "pubDate": "2026-08-10T18:03:33.000Z",
       "category": "labour-inequality",
@@ -98,28 +106,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Tiff Macklem warns Canadians: Interest rates may need to rise if Iran war-driven inflation persists",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFJHRmlOOTRqeGRPQXMyRUN0VEZ5Q2ZCMElHbmd6YlJPcmNHSVRRZHpLZXBmS3otajk3YnpiSWExd1FHSXlQdEQ0MGNBRXpfVkkxOGd5RTc0ZHFiaDlPcGI4c2ZET0lGOEs4WVVhZWx6Y3NWb01TOG1uOTFwZDlsY3BtaE9sZ2dzUHJlajNLdw?oc=5",
-      "pubDate": "2026-08-09T16:05:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Unemployment Rate Up in NL, Down Across Canada",
-      "outlet": "VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ1ZGamQ0WThwNWpLTmtlRkdoZVNuUzlzX0J6cEQ2djZTM2Q0N0VJMVJ5Wk4zUjhfNTFuNG4zVFB4V1ZNZnkzQjVORQ?oc=5",
-      "pubDate": "2026-08-08T14:30:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
       "outlet": "CP24",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Map 1 Unemployment rate by province and territory, July 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
+      "pubDate": "2026-08-07T13:22:06.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
