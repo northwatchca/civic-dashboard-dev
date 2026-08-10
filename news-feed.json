@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T15:53:54.570Z",
+  "updated": "2026-08-10T16:46:01.548Z",
   "items": [
     {
-      "title": "Business investment in Canada since 2018 barely offsets wear and tear: report",
-      "outlet": "hcamag.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdC0wdUFqSVlzUllvREhSU0ducW5abG9vYmxMTWZaLXRPbk9xMW1CLXFBbXhqb2hPQUItSFVCcUZZQ0hId2F3UGJjOVFmc3dTaEZLZ216anExeU1fSHJfTWREOWt0ZkJreWRpWW5YRkZ4MUtWdFd3dVZqZ09EZTUzLUdrSl9UYjdrdHF0Ulh2dy1mTTVJS2RhTlpWRTRwT1ppb2FNT2tmM2FNdmpxenVSSUNfcG5WZXRTbmdLRDh1Qm4wX2N1a2JBTi14el85VGEx?oc=5",
-      "pubDate": "2026-08-10T13:07:28.000Z",
+      "title": "New Podcast: KPMG Canada's Manufacturing Survey Broken Down By Anamika Gadia",
+      "outlet": "Canadian Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0RIZFVCQVdYZEpQUUx2V29TaFpMcm5Cc09NMm5KM0IzdnlpeTlnYlBrSUt5WlZLWTJlMWlKdkh0MHBWZU9QeDN4ekpySDNwSGs2c3kzNElYdWtFN0pBWG9kVkhTVk1XelRrMUFpNTN6bW8tT0RiMW9lT2w3azE3aXBlRTZxdmFRc3h4eC12NDVMY3ZFc3k0dzJIZC1KS2hHWl9HWjdrRnktTjZXSUZFOVZ1UkdXdHZxWjBhNkM0dw?oc=5",
+      "pubDate": "2026-08-10T16:35:36.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -66,6 +66,14 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "Unemployment Rate Up in NL, Down Across Canada",
+      "outlet": "vocm.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ1ZGamQ0WThwNWpLTmtlRkdoZVNuUzlzX0J6cEQ2djZTM2Q0N0VJMVJ5Wk4zUjhfNTFuNG4zVFB4V1ZNZnkzQjVORQ?oc=5",
+      "pubDate": "2026-08-08T14:30:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
@@ -80,22 +88,6 @@
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada adds 75,000 jobs in July as unemployment rate ticks down",
-      "outlet": "Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnpjOGktVlVqTl9kWk03eF83QnVpUTB3bkJYeEFTQmtVS3E2LWJfWFB3dWU1SHJaUEgyRldsN3lRVVlpaUp5a3JHRF9YQlNLUkhQc2ZiZ1VQdmlac1ZEOERuWEdBZGZSVTVrNlV1VE1VYi1QTFhXNFNhY2ZRUjdaQUhPdnZzaWFVZ0ZtaWFjS2ZTblFpTEZJalp5R2F5SFlFVkpBZUJZMno?oc=5",
-      "pubDate": "2026-08-07T15:31:32.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
-      "pubDate": "2026-08-07T13:22:06.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
@@ -118,6 +110,14 @@
       "outlet": "Public Policy Forum",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsUlF0YlVrb05ILU1lSHpDTHBjRk5zbldUNF9EZmRTRXhhOVQ0QmNtcWVCbVo5dW5nOG9kYjl0NVJUcHpBZHZYbkluMmpFOGF1bF9CRTdPR2stVTlNek5Md1pxbnB2MWNLbDBj?oc=5",
       "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "New permanent residents down 20% in Canada. Nearly half the drop came from India",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXlyZXVWckRJNVg3d3NicUtwNzUzRTFWWmsyQ0FCQjNLaC0xQ2dFRm15RThFbEx2NXFEUElaUmFhTFJidzg4dmJaOFV1UEJtLTVCNnN6b0w3LXk1WWdOd2VoLTJUaml0TnVDOURPYnpIWF9mZjBOcnUxc0RleUxJeEpiTHFnZw?oc=5",
+      "pubDate": "2026-07-25T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
