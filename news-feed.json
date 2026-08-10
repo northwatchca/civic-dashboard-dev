@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T22:29:48.677Z",
+  "updated": "2026-08-10T23:28:05.889Z",
   "items": [
     {
       "title": "Calgary unemployment rate dropped in July, but remains among highest in Canada",
@@ -8,14 +8,6 @@
       "pubDate": "2026-08-10T21:34:04.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Tighter spending, more revenue brings B.C. deficit down to $7.7B, minister says",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVk43VHJOMXlrbXpNbDRqWDN2NXpxS3VlZVZWUVE5VWNkeW1TM0tPMlZhRDBTZFRyNnFMYzFCbFlxZ280VF9pOGRTdWp1U2w4SHZISnhJb3Z0ZHlrT1lpcnhucVZTTno3SEVYSWdFT1hHMnA4V2tmeGhCMlh2VTJRd3VWZjVBYU9Ka2xOOElDLTZJRm5lUnU4VVBNWWM0OVc3ZWhXNE5WakVMVE5nelZQQ0VCQ1prTmpvTEtBN0loemRDVGlXcFdRd21SSkhLb2M3ZGgxUU9KMGxsNTV0RGtaTkFkT0hqUkFEN3Y0R3VjWkZZZGM5LS14WW85dkI0QmtNOUc4QU9KdU1YQQ?oc=5",
-      "pubDate": "2026-08-10T21:05:05.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "CRA breach settlement claims have opened: How much money could you get?",
@@ -32,6 +24,14 @@
       "pubDate": "2026-08-10T19:30:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Tighter spending, more revenue brings B.C. deficit down to $7.7B, minister says",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVk43VHJOMXlrbXpNbDRqWDN2NXpxS3VlZVZWUVE5VWNkeW1TM0tPMlZhRDBTZFRyNnFMYzFCbFlxZ280VF9pOGRTdWp1U2w4SHZISnhJb3Z0ZHlrT1lpcnhucVZTTno3SEVYSWdFT1hHMnA4V2tmeGhCMlh2VTJRd3VWZjVBYU9Ka2xOOElDLTZJRm5lUnU4VVBNWWM0OVc3ZWhXNE5WakVMVE5nelZQQ0VCQ1prTmpvTEtBN0loemRDVGlXcFdRd21SSkhLb2M3ZGgxUU9KMGxsNTV0RGtaTkFkT0hqUkFEN3Y0R3VjWkZZZGM5LS14WW85dkI0QmtNOUc4QU9KdU1YQQ?oc=5",
+      "pubDate": "2026-08-10T18:19:48.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "The provincial deficit dropped by $3.3 billion to $7.7 billion in 2025/26: Bailey",
@@ -106,12 +106,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
-      "pubDate": "2026-08-07T16:15:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "title": "Tiff Macklem warns Canadians: Interest rates may need to rise if Iran war-driven inflation persists",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFJHRmlOOTRqeGRPQXMyRUN0VEZ5Q2ZCMElHbmd6YlJPcmNHSVRRZHpLZXBmS3otajk3YnpiSWExd1FHSXlQdEQ0MGNBRXpfVkkxOGd5RTc0ZHFiaDlPcGI4c2ZET0lGOEs4WVVhZWx6Y3NWb01TOG1uOTFwZDlsY3BtaE9sZ2dzUHJlajNLdw?oc=5",
+      "pubDate": "2026-08-09T16:05:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
