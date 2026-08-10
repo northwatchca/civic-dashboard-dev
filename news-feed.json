@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T12:53:07.582Z",
+  "updated": "2026-08-10T14:16:41.940Z",
   "items": [
+    {
+      "title": "Minister Anand announces sanctions against defence manufacturing company",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnJXZWhzV0hIUERKajBKa0hJdlVCZFp3bGlKakpoUkM4TTQzQkpOYkxmWlg3RnZiNk5yRDlCRlBrUHdSM0RyYUxFdzVRRzBReHBvTGJrZHBpekw3d2VqaDJDYWs4cEJBM2Z3emFtbzJGdHl1UHVHTDQ5Zmt1Z3c2MktYY3p1R2toRUIzdEtVUzJUYjcwclY4VnowX3Vqbjk3R0tnRU1mTTBaMVJYZm9tTHNabjhyWG1YQWNkemk1UHJRTUZaSzNLakVn?oc=5",
+      "pubDate": "2026-08-10T14:05:26.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Inside LNG Canada’s black cloud: docs reveal B.C. regulator was warned about smoke before approvals",
       "outlet": "The Narwhal",
@@ -18,8 +26,16 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-08-10T10:00:43.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "New Strategic Exports Office a step forward in trade diversification, but Canada also faces infrastructure, price-competitiveness challenges, say trade experts",
-      "outlet": "The Hill Times",
+      "outlet": "hilltimes.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUmR3Vkw3bTZucmNrV0xVWU11ZUpDS2h6S3RWVnNObUlLUklURXpWdVM2azA4Rk0yOGQ2OTZyQ2x0aFZzbU5lZUhxZHk0NlBQbzJpRklNZHlGeGRVUkpRSEtwdXVUbng5Si1FRUFyS1Q1bDV4aERfT3lGZFRzcEdMYUlRX3JBV3VQamhmRmdxZEF5NE5oU2I2SVJsYXY2czFqNVhGaEF0ZVZ3WkczdWhfU3lWTnQ0WU5MNThydXZBdGd5c0NMUkl3T2xqbmdlZ01aY2Q2UGM0cllQVVh4VDV0d0hjNTRMOUwtTVN0UGptN0FfWmdadGw1XzdPMHA5eHJuWXE2QWlyQTBiRWl3WlE2dlFtVFBjRDBBdGJSYjE4cFhTSk0?oc=5",
       "pubDate": "2026-08-10T05:04:57.000Z",
       "category": "economy",
@@ -50,22 +66,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Trump's new U.S. customs rules could upend Canadian exports",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG9LWFZld1pid1dFeUFQVXQ3WlMtLXNqckNwbkxiZ1ZjM2tRWXlId1Z0azJRVXdMbG5KNVZaRkhadF9SbEdMQlVaZW5BbzAwQ1huQmgyQjQySm1KWE5zVE1vd0dIdGk0clg0OV91WlhxVHFiRFNRcFJBZEhEQVR3VUxjSkhyWEZnN05uc1FpSl8?oc=5",
-      "pubDate": "2026-08-09T10:03:26.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-08-09T02:31:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
@@ -75,15 +75,15 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "statcan.gc.ca",
+      "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "Reuters",
+      "outlet": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
       "pubDate": "2026-07-31T07:00:00.000Z",
       "category": "debt-fiscal",
