@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T01:12:06.526Z",
+  "updated": "2026-08-10T03:46:42.259Z",
   "items": [
+    {
+      "title": "Complaints about CRA rise 27% despite recent automated tax filing, call centre failures, processing delays, poor communication",
+      "outlet": "Canadian Accountant",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTBRck1INmxGaGJkUFVDYkstdER0XzVlT2ctUUNsYV94cnEzcFVYZ2VDUlc2a0FDbHlPOUJOTF9CZUpUOEJUN1FhVVgzR2pLdEhPTVY2ZjlUQi03Ymg4d0ZVZWtXUjlndDlnWmpiOHlVX1NyelpXejZnNFVua0N4SXY2VXN1M1Y3UWJsYmoxOFk?oc=5",
+      "pubDate": "2026-08-10T01:55:56.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "First Nations chiefs in B.C. urge feds, Alberta to halt pipeline advancement",
       "outlet": "Global News",
@@ -14,6 +22,14 @@
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTgweUhwMnc1OUpsWUc0TUNleC1Rb002V2lSU0ptVTFraFJHNWVOaExqWVNVbE9uZUJqdXVjc1Jrd3puX3Atd1o3aEZwRHVBTF9BYzVndTNYakdXclpjdGIwYjZBZnNYVXdFRXBDUnMzN1VkME9aNW1LYlEtTVVZSWlNNWdjOWdIR3FmSDVVRkpLU3NCUFoxY3JCWFhwV2pXOE5HbVZ1MA?oc=5",
       "pubDate": "2026-08-09T21:51:44.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
+      "pubDate": "2026-08-09T18:11:42.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -35,7 +51,7 @@
     },
     {
       "title": "Trump's new U.S. customs rules could upend Canadian exports",
-      "outlet": "nationalpost.com",
+      "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG9LWFZld1pid1dFeUFQVXQ3WlMtLXNqckNwbkxiZ1ZjM2tRWXlId1Z0azJRVXdMbG5KNVZaRkhadF9SbEdMQlVaZW5BbzAwQ1huQmgyQjQySm1KWE5zVE1vd0dIdGk0clg0OV91WlhxVHFiRFNRcFJBZEhEQVR3VUxjSkhyWEZnN05uc1FpSl8?oc=5",
       "pubDate": "2026-08-09T10:03:26.000Z",
       "category": "economy",
@@ -50,14 +66,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-08-08T12:24:35.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5",
@@ -67,8 +75,8 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "cp24.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
+      "outlet": "bnnbloomberg.ca",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -80,14 +88,6 @@
       "pubDate": "2026-08-07T15:31:32.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada Revenue Agency hands Innisfail a $50,073.90 GST bill",
-      "outlet": "The Albertan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3FsQnNlTHRFR1N6Q2RiQ296MmMyRGhHczZ4UjRxc1k0LTRCZmVQNVVDSTFncnJmdDVwY0xmV2dMUW0xZnUxYVRuTU53d255QmtMQ2NLemo2eWJDWkVsbTk4QmsxN0lRSHMxcTZFSm1YX1dyblZBeFJYTnRyZkNQZnRaSlhtZ2xBczQxQlJqRDhEdS1JT2NQSlE5aGpfWDJGdTBhZTFTNFNrMUhW?oc=5",
-      "pubDate": "2026-08-07T15:00:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
@@ -115,7 +115,7 @@
     },
     {
       "title": "New permanent residents down 20% in Canada. Nearly half the drop came from India",
-      "outlet": "nationalpost.com",
+      "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXlyZXVWckRJNVg3d3NicUtwNzUzRTFWWmsyQ0FCQjNLaC0xQ2dFRm15RThFbEx2NXFEUElaUmFhTFJidzg4dmJaOFV1UEJtLTVCNnN6b0w3LXk1WWdOd2VoLTJUaml0TnVDOURPYnpIWF9mZjBOcnUxc0RleUxJeEpiTHFnZw?oc=5",
       "pubDate": "2026-07-25T07:00:00.000Z",
       "category": "demographics",
