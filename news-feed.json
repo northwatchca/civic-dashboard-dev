@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T18:46:16.271Z",
+  "updated": "2026-08-10T19:50:22.124Z",
   "items": [
+    {
+      "title": "The CRA Checklist Every Retiree Needs to Pass",
+      "outlet": "The Motley Fool Canada",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMi1CM2FjSDNYb0ptSlRUNHY1TmcwYzhuYU1NZGtrdWZtakEyOXphVXhRaGwzUlFGWUw5anVYSHh5QTQ2MlB4aXQtVTkxOGdGVWFZNnI2Q2xhRVR0OWlFS3ZmOGtVRXc5YVRKS2l2NDBMaVUxcmpqc2ppNUJiWjhlWDFWTTIxUQ?oc=5",
+      "pubDate": "2026-08-10T19:30:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "The provincial deficit dropped by $3.3 billion to $7.7 billion in 2025/26: Bailey",
       "outlet": "Toronto Star",
@@ -10,7 +18,7 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "In this Canadian city, 95% of a minimum-wage earner's hours worked goes to rent, says Zoocasa report",
+      "title": "In this Canadian city, rent gobbles up 95% of a full-time, minimum-wage earner's working hours",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3B1eGt1LTc0Q01xVjJ5LVY2U3NyT0JVeE5od0tjalVaNHBqSmYxTDA5N2tzeHhyeG91Zmd2a3ZRbDhsaUlQYWhiNy1GTU9wRC1rdTN4SDZUNHRTRE11S3Q0X1h4N2hFUVgwRVBUazBMdGExaHRJTlJCY09VbDBKVTZuUmhoMllwcWU0bTlHc0Fmd1U?oc=5",
       "pubDate": "2026-08-10T18:03:33.000Z",
@@ -34,16 +42,8 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Minister Anand announces sanctions against defence manufacturing company",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnJXZWhzV0hIUERKajBKa0hJdlVCZFp3bGlKakpoUkM4TTQzQkpOYkxmWlg3RnZiNk5yRDlCRlBrUHdSM0RyYUxFdzVRRzBReHBvTGJrZHBpekw3d2VqaDJDYWs4cEJBM2Z3emFtbzJGdHl1UHVHTDQ5Zmt1Z3c2MktYY3p1R2toRUIzdEtVUzJUYjcwclY4VnowX3Vqbjk3R0tnRU1mTTBaMVJYZm9tTHNabjhyWG1YQWNkemk1UHJRTUZaSzNLakVn?oc=5",
-      "pubDate": "2026-08-10T14:15:05.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
       "pubDate": "2026-08-10T12:23:47.000Z",
       "category": "resources",
@@ -70,6 +70,14 @@
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
       "pubDate": "2026-08-10T10:00:43.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "New Strategic Exports Office a step forward in trade diversification, but Canada also faces infrastructure, price-competitiveness challenges, say trade experts",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUmR3Vkw3bTZucmNrV0xVWU11ZUpDS2h6S3RWVnNObUlLUklURXpWdVM2azA4Rk0yOGQ2OTZyQ2x0aFZzbU5lZUhxZHk0NlBQbzJpRklNZHlGeGRVUkpRSEtwdXVUbng5Si1FRUFyS1Q1bDV4aERfT3lGZFRzcEdMYUlRX3JBV3VQamhmRmdxZEF5NE5oU2I2SVJsYXY2czFqNVhGaEF0ZVZ3WkczdWhfU3lWTnQ0WU5MNThydXZBdGd5c0NMUkl3T2xqbmdlZ01aY2Q2UGM0cllQVVh4VDV0d0hjNTRMOUwtTVN0UGptN0FfWmdadGw1XzdPMHA5eHJuWXE2QWlyQTBiRWl3WlE2dlFtVFBjRDBBdGJSYjE4cFhTSk0?oc=5",
+      "pubDate": "2026-08-10T05:04:57.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -107,17 +115,9 @@
     },
     {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JMdGxQcjJzazRCakR4Z3dBNkFDRVE0Tk0wWVR2ZkdKbkVCNHpvcFBrZnZGR0QxaWE0N0w3VGhMdklaTE1hc1VUVkRaNkFtQUVaSGpycDFFdHpQcmxOZ3VkLTd2aVZESFJGWVU4cGZJVGlNX282Vm5wRU92cm9kWFRNaGYzM2R5LVk3VzV0TkRhSGxsSTNEWm1abXlIMkFTOE5kWEY1R2I3TzA3NEVkM3NVcnI?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
-      "pubDate": "2026-08-06T16:37:31.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     }
