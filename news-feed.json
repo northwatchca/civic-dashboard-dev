@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-11T12:47:46.373Z",
+  "updated": "2026-08-11T14:15:24.130Z",
   "items": [
+    {
+      "title": "Pomerleau awarded construction contract for a new CRA facility in St. John’s",
+      "outlet": "ReNew Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnpDQXBPOGJxcXdOSmVCaVhDMGRRRGdITXdhZW1RaXUxZGU5bmJ3bHRyMmhoYjlha2FQMUNWQ2ZrNWk2VzNKNTdkZDA1NEw3RGUzVVJ1bXhDcmpQbW5mX3drZEJvLWVyLWFuNmdvYWowRHdVT1VjUEVoRDBBR3pGWndkWlJBUHo2elFYUlp2cGhZb1A5VHpJamJqMENFOXFpZC1DMHhR?oc=5",
+      "pubDate": "2026-08-11T13:46:47.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "CFIN Helps FabriSight Pilot AI-Powered Productivity Platform for Plant Floors",
       "outlet": "techcouver.com",
@@ -18,16 +26,8 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Too soon to say whether pipeline agreement could change Suncor’s outlook: CEO",
-      "outlet": "constructconnect.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS211bWptTDhYQkVZaFQwRTlPU09MUlV2eDZwSmpiRHFxNXlieFFvUXh3R1FwbVREdmFEZWJzS1dpOU5ZUGRIdVJzc0Z2M0dtc3p0ejcyemFQYXota0Z5b0tNSmRqOWpyaEpzTUhHMFVUUjh3OEJmd0RGMWFpVHF3bUczaXVTc1ZEV0ZQcThJeEVNOUZUSW5UelBIbTcwVnBwa1RkXzFqbUNfdm1IZFViMEVzSUd4R1didTJROTJxbENmdzY0VXp4Ql9IMkJiUWJnZnJR?oc=5",
-      "pubDate": "2026-08-11T08:36:38.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "1-time settlement 'windfall' means B.C.'s deficit last year was $3B less than expected",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakduU3h1WktrSjZmUmk3YU1WeDEtTUVqUTBMVUpyRm9HX1hpMHBob2xZblVBOXRtYnR4M0RPc2dqOTJLQUpfWjRNYXhsOFVFQ0xUOTJSdFlGZ3Q1MWJsalRPQ2VuWUw0Zk9pazZybVRnNjZQU2hxNUZ3NUFrekZJS0xYSHBzaC11aGZtdFpaZy1FWFVTLTVURGpiMVFfNEhXWEhmczVMY0hjRVhSbkVlYw?oc=5",
       "pubDate": "2026-08-11T00:04:00.000Z",
       "category": "debt-fiscal",
@@ -51,7 +51,7 @@
     },
     {
       "title": "Calgary unemployment rate dropped in July, but remains among highest in Canada",
-      "outlet": "CBC",
+      "outlet": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjRjcDRCb0VIYURjMVdZVkpudFE4cngzcVMwUTRPU2M3UG9rRnVWbEZ6Y3l2dGdaVnlDLUdGempFejZ0YndXcDJvbzBiRFJjWm1PVHpYVXc4YjEwTGVvdHRzWWdzTXNTS2Z3amIyMEZpTFZnekN0MnhRWHJ5ZUJxU2ZocDllRy1WRGlEZERCMA?oc=5",
       "pubDate": "2026-08-10T21:34:04.000Z",
       "category": "labour-inequality",
@@ -90,6 +90,14 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "First Nations chiefs in B.C. urge feds, Alberta to halt pipeline advancement",
+      "outlet": "globalnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmF0eDl4a3lXTTlzaDk1V1EyX0xhM2ROemJZZVk5TTAtNWtNel9TYXlDX1ZJRXRLS2FyY0pnZ3FQdGl6MURTQkdfZjNuVjBpN3hzbmVzTFVTa3g3LWJLbGE1SGM3ZnhSbnhrdl9tdmIwLTU3MmphTHBTRVgtdkUxSFhCbmY1U0R5MmViQnpiYzlRQQ?oc=5",
+      "pubDate": "2026-08-09T21:59:27.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
       "outlet": "CP24",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWi1hamd6THBZaG81TmtVU0pIQzRvemsxVFRyYTI4X29PbEpBczV3ZnVZM0JwQVVPMVA3b3VLX21uM0VzOWdtaFRsOXhtVzE3elFoUkVnWHJQN1Q0bDEteTNpSlFmZk1hWnhBWXJqRkd2Y1RKbUQzbDlQNW9ldmU3eXlHMHNDNXZlcUlwck5abmpfNld5bDQ3bEtIZEdZQjQ4eE41UDJWeGcwN25yR19OOVZrWE1EcGZQRnc?oc=5",
@@ -104,14 +112,6 @@
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Was your CRA profile hacked? An $8.7M lawsuit settlement claim is now open",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLazMzc3B2Q19qNE10UmJTNm45QUVSQ2JVOGNpRWhSMUxteXBQV292SVV1Z3hvR1JJaVg3a3Jhejg1aFp0eDBzUC1aNVpQenA3MmMwbk5YUDBTUFZyWmNoRGtPN1lfMzJSWW11Tmk0U3FlXzhpMjBTaFZsOVE?oc=5",
-      "pubDate": "2026-08-06T16:37:31.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Statement by the Government of Canada on the notice of settlement approval regarding the Sweet v HMK Class-Action",
