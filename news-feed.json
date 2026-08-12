@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T03:59:51.872Z",
+  "updated": "2026-08-12T05:41:30.941Z",
   "items": [
     {
       "title": "Provincial government launches public consultation on minimum wage, overtime policy",
@@ -8,14 +8,6 @@
       "pubDate": "2026-08-12T01:45:13.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
-      "pubDate": "2026-08-11T23:24:22.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
@@ -29,7 +21,7 @@
       "title": "CUSMA breakdown could mean hundreds of thousands of jobs, a trillion dollars lost: report",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUZTcmV4UWlsN0NLcHRFQ01QUkxkQ044SHNFLW9FTkNfTXhSejdNUkV0c1FYWThCRkxGX3BYX1JrV0lzUllQd05pU01VemM2WE1GMjVsM2NZaFBmSFhPamFNaTh0UUZLdkZ0WDY4YjRDOTg3Nlg2RDRRel9yMnlfTElB?oc=5",
-      "pubDate": "2026-08-11T22:46:38.000Z",
+      "pubDate": "2026-08-11T21:07:21.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -90,8 +82,16 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Inside LNG Canada’s black cloud: docs reveal B.C. regulator was warned about smoke before approvals",
+      "outlet": "The Narwhal",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmSFR1U1ZmN0R2RHlfM0Y5VG5xRHdjRktVTjllOGxxTjd3TlBnbkhOa2wtSENWVFNlSC1zNTNXNHRnZ0xpbzFDbjh5VDFyMmpsU05FeTNpaTRibm8zUVFXcXhoQkVaNUxZZzdyN2VvQ0taQQ?oc=5",
+      "pubDate": "2026-08-10T12:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "CRA data breach: Some Canadians could be eligible for up to $5,000, compensation applications now open",
-      "outlet": "bnnbloomberg.ca",
+      "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pkOEhRc0k3bW1UZHNldGJ6RlBSS1ZrU096c1huR1pqRG16VjVtMUQzMjVNamJGOHN1dXVNeFFKWXk4ckIwbE5jZU1sZ0kyMUhDTk9mWlJDbWZOcjBxRm9INW9vcEdydk1VQngweHBGWWplNGl4RE1wSk1vellnbzFOV0dWY0Ntc2NDZVBEaXJrc1R0dFRUT3h1RzVpRjBZZGk2WWVHV2tmaWlET1NrZW9MRGVNV0VpdUNFZDVZVQ?oc=5",
       "pubDate": "2026-08-07T16:15:00.000Z",
       "category": "taxes",
@@ -114,12 +114,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Understanding permanent residence numbers in Canada",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
-      "pubDate": "2026-07-21T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
+      "pubDate": "2026-07-31T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
