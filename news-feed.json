@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T14:17:05.119Z",
+  "updated": "2026-08-12T15:53:26.340Z",
   "items": [
     {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
@@ -66,6 +66,14 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Tighter spending, more revenue brings B.C. deficit down to $7.7B, minister says",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkZMVXhsTHJSUUVIMXVqS1UzaHBYbFFCNnZOZzRfbTVGdWZwSk5fOGVkd2duUjRfOWVyaEsyVUstclhiOFFvYU1lbUlOdE9FQ0VOT00xbWEtMUJVQTNjXzUxWHBhSTBlVVZYYm5ZOEpEWUx6TnZKTnVrM0NNOFlHZmx4NlZEYkQxcnJzWjR3?oc=5",
+      "pubDate": "2026-08-10T23:26:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Government of Canada awards construction contract for a new Canada Revenue Agency facility in St. John’s",
       "outlet": "canada.ca",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQ2J2WDJkaVVfcUFwUUstM3VwNFN4VWFmbnd4ejVGcElUNVJTQndUczN1VHdzekRPTjRObC1FVTBjMGVSeHBWWmZtaWQtV3d1YWhKdDF0anl3bXdVS3NMbnhpR2J6cE5sd0hTUUdxc2tVdUxZVlplYmVPU2lKaEp6VWFaUENTckJtR2VTRjZfTDBkQjluLVFhRU1jRnNsX0JuUEpXT1E3anRMZ2lmY05ZdzBRWWxvZjYyUktVUGVUVHE0eTVBZVliOGFjMGpXOFdkVHh5VThFZDV0b181anlaWmRTdUNOU2xKSDJTdUdPQ3N2UE5FUFNwVk9UVVdtSDlBNDV3?oc=5",
@@ -99,7 +107,7 @@
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "statcan.gc.ca",
+      "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
       "pubDate": "2026-08-07T13:22:06.000Z",
       "category": "labour-inequality",
@@ -107,19 +115,11 @@
     },
     {
       "title": "Labour Force Survey Monthly",
-      "outlet": "princeedwardisland.ca",
+      "outlet": "Government of Prince Edward Island",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
-      "pubDate": "2026-07-31T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
