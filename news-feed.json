@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T06:08:13.779Z",
+  "updated": "2026-08-14T08:08:57.437Z",
   "items": [
     {
       "title": "BMO Dismisses Canada’s Soaring Insolvencies. Here’s Why They’re Wrong",
@@ -32,14 +32,6 @@
       "pubDate": "2026-08-13T19:25:48.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Global oil deficit deepens as Canadian Natural holds off on oil sands expansions",
-      "outlet": "play 103.7",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejZyQ1hESVlYWVVIU1BGaWVER2NDa0hZR2hzei1pN0d5YkJNOGtnMkVGRjRQazQxY1FVTnNkcF95ekFKbzVfLWVodmhuTUlYQW82VmMzYS1Bb2RocmtkUlQzLWowNV9qZjVObm9JNTBNS25GUjR6YWtBRkNleUp2OFl0TEtFQ3p0eS1LSGxfTU55UHB0b2FXT3JrdGQ2RXZuZDl6STJjd0hYRXVGWTE4bUpwVk5iOHM?oc=5",
-      "pubDate": "2026-08-13T19:20:25.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Province opens first minimum wage public consultation in a decade",
@@ -99,7 +91,7 @@
     },
     {
       "title": "No, Canada’s economy isn’t on fire. Growth is returning, but on a permanently lower path",
-      "outlet": "The Hub | More Signal. Less Noise.",
+      "outlet": "thehub.ca",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFI0dklyeDh5Mm1meFNLVU9oLVAtek96Y0JwRUF4ZzZlOVU0YTYwMWFwVW85YUxVanU2RXJ2WUluUUNjLWw2TzZfZVBVcldZcFB3WFNlSzhndncyMGVwZzVuUndlOU00TnQ0Um12b21GeVl6RDdpSms5Wlh2S1hld2t0dGppQXpmNTlFYVFOeUN3WUdvcGJsVVVraEtpT3VjQkcwcGhCZEdJOXFXM0gwdWN4UQ?oc=5",
       "pubDate": "2026-08-12T07:00:48.000Z",
       "category": "economy",
@@ -120,6 +112,14 @@
       "pubDate": "2026-08-10T21:10:10.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues",
+      "outlet": "immigration.ca",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmpPNVdwQWstdGpLMVR5YURlQmRRV21JYzdxQlY2OFpKNTYzTVVYZWRPaGZWWW5wQTFnTm03LUdPOGxEdXZGcmIzRjRIRkNDY2NYZGxKRTFITll6cncyUEQ0MURidGpIZklLM3M5QW93ZlI2bEVOYzdCUWdxNFFPOF91eEJiRHdvcTNyVl8xN3VHdFEwaW1oS3dma0pabzg0Z25YOWVTdzR4RGZZ?oc=5",
+      "pubDate": "2026-08-10T18:03:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     }
   ]
 }
