@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-14T04:00:39.438Z",
+  "updated": "2026-08-14T06:08:13.779Z",
   "items": [
     {
       "title": "BMO Dismisses Canada’s Soaring Insolvencies. Here’s Why They’re Wrong",
-      "outlet": "betterdwelling.com",
+      "outlet": "Better Dwelling",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTm5aVXJIVHN6MHREczlZQmhQd1hUYmZ0MDN1c05QX3BKaXhVNTlOdkdCVEk2UmNDaW16SllRaFBGSjJLV3JqdUZVUjZiWTBGelh0aFJSLVVGdGQ1cjZfVEdQTFVNSFhoUmdFMjhMQ2JuV1VEbm9XNXVjR0FxNFpKOVdJazlPeGloS25IOGdlZVZlNDh4WkxEag?oc=5",
       "pubDate": "2026-08-13T22:30:31.000Z",
       "category": "demographics",
@@ -24,6 +24,14 @@
       "pubDate": "2026-08-13T20:18:38.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers",
+      "outlet": "immigration.ca",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0ZBcmlfQ2ppRkEwSHI3UHFsYzFiUWNBa2ZsMllUMHNfMk9OQlVVUTkxUWtUQlBYVHVUbmpkSE4wODBtNE1GT2ZSQUJmUWthQW1DX2dhOEdqRTZnSElpY0tMUm9MWUpsRzE1aHhBelFuNnVBRmFkTW43ZkhEUHdqSWZ4Smt3cnMwOVpLVkFQcHBXRDA?oc=5",
+      "pubDate": "2026-08-13T19:25:48.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Global oil deficit deepens as Canadian Natural holds off on oil sands expansions",
@@ -82,14 +90,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "World youth unemployment rate rose last year: UN",
-      "outlet": "Canadian Affairs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGh1bHlVTTctaFFwalJSRnFHVFFpYjJNNFhNV3Fkak44YnA3TXBSX0xMQ21KV2ZLeEdIdGxuMGdtYURxenpsT0dDcTRrdDFHVXlhOGFiSzRlQnZZVU9pOHc5YUl6QzFfWk1rbW54X2ZULUVtNUd2UU1iQXJacE5vdHAyOW1SVTM1Sld6dVVlcEEwQnVmZzZ3?oc=5",
-      "pubDate": "2026-08-13T09:10:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
       "outlet": "Canadian Lawyer",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
@@ -99,7 +99,7 @@
     },
     {
       "title": "No, Canada’s economy isn’t on fire. Growth is returning, but on a permanently lower path",
-      "outlet": "thehub.ca",
+      "outlet": "The Hub | More Signal. Less Noise.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFI0dklyeDh5Mm1meFNLVU9oLVAtek96Y0JwRUF4ZzZlOVU0YTYwMWFwVW85YUxVanU2RXJ2WUluUUNjLWw2TzZfZVBVcldZcFB3WFNlSzhndncyMGVwZzVuUndlOU00TnQ0Um12b21GeVl6RDdpSms5Wlh2S1hld2t0dGppQXpmNTlFYVFOeUN3WUdvcGJsVVVraEtpT3VjQkcwcGhCZEdJOXFXM0gwdWN4UQ?oc=5",
       "pubDate": "2026-08-12T07:00:48.000Z",
       "category": "economy",
