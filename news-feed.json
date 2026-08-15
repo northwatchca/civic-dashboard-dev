@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-15T06:25:09.546Z",
+  "updated": "2026-08-15T07:24:31.199Z",
   "items": [
     {
       "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGpPQ0huZEVoSzJVVlA5NkptZUdFSmNsMTM3SnhONUFDYXcyUmRsaGk5M2tzUTM3V05nSlRlTWdtdW5EdjJsTFlQNFBJQzFhNzZZdXk3RWVHMzFHMUdnVGx1bER2MGxUcFVzU0RlaEp1RjZXckxCR1V5ZG9uUVVsR2tqYjJkVDZ1NmRkakJTQ2dEVlNKZ3BIVnR3RFpFTkphQWR0OWRoNDVfOUZKVUNLcllyaExTcVBkZzdQXzQzLUI1QQ?oc=5",
       "pubDate": "2026-08-14T20:53:55.000Z",
       "category": "economy",
@@ -50,14 +50,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Holt Liberals rethinking New Brunswick’s minimum-wage formula",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekZhS19ZLTdVaXpEWlNPMFliUldpa2hyTkg3MjRiUUtyZExBQmNYSkdKYnlwVWQ5dXJ2NGRLbENaTk40ME54c0RHcnNvMWNRaUJMcko0UjVaOWEwWEZldmdaZjNndmlveVo3R0JtM0RibkpHNHRRd0gyT1VDSGhrRDg0cl9OM1hVand1TzllallISGZfVVVVNEItdDlaZlE?oc=5",
-      "pubDate": "2026-08-14T09:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
       "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGlyakJqZzlmbFVWSTdQcVZTSW8wYWdhQmdfbHE2SWhpdVk5a2NEU0ZVc2JvRUJJWjlwaDVPRUg2amRodWNHVW1zTk8yZkprU081SGFjRkZKVUhUM0YteW16TVBuQzJpNXJTWE5QYXRXUVBJYkVOWS1xb3BQSDRVeWdJU1pKNTJ5dXl4LThZVk9Tdw?oc=5",
@@ -88,6 +80,14 @@
       "pubDate": "2026-08-12T16:35:36.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Understanding the Rise in Canada’s Youth Unemployment",
+      "outlet": "TD Economics",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcWZBbWd5a19ZMllxaUtkdU5sakxWMWgybzh0UnJSdmt6RW81QnF2bm9LaXRSSU5fM0Jwb29IR01FNUwtQWZQMEZYc3pTa1lia1lVaTQ3b0ZPQQ?oc=5",
+      "pubDate": "2026-08-12T12:53:47.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed",
