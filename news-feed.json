@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-15T11:13:24.452Z",
+  "updated": "2026-08-15T12:23:04.879Z",
   "items": [
+    {
+      "title": "A peek into a future of slow growth",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzdoWGIwLTlVRzN3LW5MdFJaT3E3T1hibGJWVmYxT2EzLXZpZmFIemJpVnFrQU9fVFo4MHBpN1BtNVhxQ0RJUHVqREoxR1VvX0hDMjJVWXhLOEZDVmE0RkhSZlN3TXB3czBTZEFwblMxYlVSemtyWldkTG5CVFRfcTFsSjFBREhJbjlWYXVzTElFOU5TQUhReGMxNA?oc=5",
+      "pubDate": "2026-08-15T10:45:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
     {
       "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
       "outlet": "Financial Post",
@@ -112,14 +120,6 @@
       "pubDate": "2026-08-10T21:10:10.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues",
-      "outlet": "immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmpPNVdwQWstdGpLMVR5YURlQmRRV21JYzdxQlY2OFpKNTYzTVVYZWRPaGZWWW5wQTFnTm03LUdPOGxEdXZGcmIzRjRIRkNDY2NYZGxKRTFITll6cncyUEQ0MURidGpIZklLM3M5QW93ZlI2bEVOYzdCUWdxNFFPOF91eEJiRHdvcTNyVl8xN3VHdFEwaW1oS3dma0pabzg0Z25YOWVTdzR4RGZZ?oc=5",
-      "pubDate": "2026-08-10T18:03:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
