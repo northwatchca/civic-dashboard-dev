@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:16:33.934Z",
+  "updated": "2026-08-15T20:14:43.568Z",
   "items": [
     {
       "title": "Saskatchewan unemployment rate falls to 6.0 per cent in July",
@@ -50,14 +50,6 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGpPQ0huZEVoSzJVVlA5NkptZUdFSmNsMTM3SnhONUFDYXcyUmRsaGk5M2tzUTM3V05nSlRlTWdtdW5EdjJsTFlQNFBJQzFhNzZZdXk3RWVHMzFHMUdnVGx1bER2MGxUcFVzU0RlaEp1RjZXckxCR1V5ZG9uUVVsR2tqYjJkVDZ1NmRkakJTQ2dEVlNKZ3BIVnR3RFpFTkphQWR0OWRoNDVfOUZKVUNLcllyaExTcVBkZzdQXzQzLUI1QQ?oc=5",
-      "pubDate": "2026-08-14T20:53:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "National Bank of Canada Announces Interest Rate Reset of its 4.05% Limited Recourse Capital Notes Series 2",
       "outlet": "Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzIzdFJaaVJ2YVV5YTlBM3A1bTZnTUdvSDZWQUVJallZLTNXOEREZVREZU5VUHlHTnk5TUo0S3FFWEg3MWZQMy0ydWVXb2M1bTJRZ1pEdXZtSWdCZGFBSGlmS1NubWtPcXlNNlR6bEVTLTF4clNrY0ZzdWpSQjRLWnljX1J0VHhPNGFZdVNyNmFIdw?oc=5",
@@ -88,6 +80,14 @@
       "pubDate": "2026-08-13T15:51:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Government of Canada invests in Saint-Guillaume business’s productivity",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWs1bnpyVkZlWG5nWkwzVHpyV00wbHRndjNLbFhQYWFOMTZEUS1wQUlIR290THVGSHM0aVdTOEtmUEp5VXlNaUZHVVVHMmJWWEt3dlJsMVdBUUxXakhKUmtMbTJlR2dfQ3dRY1JVZ0Y4aFY5WkVXbGtkaTAwVUs2aUFnVXhrc2hOYV90N2k1RUp3V2hudXlQTVNhUnk5RGhBdzhVNURrbGt1NXZkcFRZbjlUYnRzdjdDOUt5Z1h5RFRYS0JVX3NhUjRFQl93WTdUNWh3WG1tYzlMWWhrOGNXcVgzSQ?oc=5",
+      "pubDate": "2026-08-13T13:28:24.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
