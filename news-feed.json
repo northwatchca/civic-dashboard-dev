@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-15T13:24:48.763Z",
+  "updated": "2026-08-15T14:14:39.165Z",
   "items": [
     {
-      "title": "This Week in Canada: Our Economy Looks Better Than Yours",
-      "outlet": "thefp.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kc0lSN0ZnS0Mtcm9sLXNCcS1ianBCNkJIY0FSMVhfQjNBZldIbkFaTkgyY05DemZic2hPbWh6VWVORmZWZ2dMSnRqNzJWWDhQVklfSnRlcWRDVGI0TnZYRHJJSHhZR21NNW00Sm5KLTZiN1E3ZmVNbQ?oc=5",
-      "pubDate": "2026-08-15T12:41:03.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
+      "title": "Manitoba premier’s pipeline support gives Canada hope",
+      "outlet": "Winnipeg Sun",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObXVBOTItZi16SEtFN01jT2pOMThpX25HWXA1QVBYUVdlN1BCcFV6bjZDSENZbWNNSk9WelZsU2U1TnByMWdNZ3lvZVczOWRxdmV0eElxdXZnR1M3dnV6a3Ata0trZXdSeDBxUWZoQ2hzb1JEQ3F0SHNoak1ReHZyMHpHcE4ySEllUVVvUGszUnJrVU1KTTRjbWFjX3g2Z0ZvWGNUbGk0OEFRUXVHTEJxbVcyU21HTkRReURKV1N3OTNWYTczQy00Ykd4RDV6SGNaYWJwcmtR?oc=5",
+      "pubDate": "2026-08-15T14:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "A peek into a future of slow growth",
@@ -34,16 +34,8 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-08-14T17:52:55.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "National Bank of Canada Announces Interest Rate Reset of its 4.05% Limited Recourse Capital Notes Series 2",
-      "outlet": "Yahoo! Finance Canada",
+      "outlet": "ca.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzIzdFJaaVJ2YVV5YTlBM3A1bTZnTUdvSDZWQUVJallZLTNXOEREZVREZU5VUHlHTnk5TUo0S3FFWEg3MWZQMy0ydWVXb2M1bTJRZ1pEdXZtSWdCZGFBSGlmS1NubWtPcXlNNlR6bEVTLTF4clNrY0ZzdWpSQjRLWnljX1J0VHhPNGFZdVNyNmFIdw?oc=5",
       "pubDate": "2026-08-14T16:03:00.000Z",
       "category": "debt-fiscal",
@@ -90,8 +82,16 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Understanding the Rise in Canada’s Youth Unemployment",
+      "outlet": "TD Economics",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcWZBbWd5a19ZMllxaUtkdU5sakxWMWgybzh0UnJSdmt6RW81QnF2bm9LaXRSSU5fM0Jwb29IR01FNUwtQWZQMEZYc3pTa1lia1lVaTQ3b0ZPQQ?oc=5",
+      "pubDate": "2026-08-12T12:53:47.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed",
-      "outlet": "National Post",
+      "outlet": "nationalpost.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZTQzc0JYR3c1anlBYWVQbmVRc3ZTdnFZVE9jbkNRUm1hQ2RYbWI3UDlHVml5X0Fua1lOc1laTDNfTFBPeXkySVFfaTNQZk5ycjRMdVFTRU9DZ19IUUtpT3A4aC1vOU4yMTJCRDQzN2VOMDRsQWhWZEhlU0dmb2c?oc=5",
       "pubDate": "2026-08-12T10:02:39.000Z",
       "category": "taxes",
