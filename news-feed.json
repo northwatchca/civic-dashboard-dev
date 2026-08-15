@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T02:09:44.877Z",
+  "updated": "2026-08-15T03:32:56.950Z",
   "items": [
     {
       "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
@@ -59,7 +59,7 @@
     },
     {
       "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
-      "outlet": "The Globe and Mail",
+      "outlet": "theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGlyakJqZzlmbFVWSTdQcVZTSW8wYWdhQmdfbHE2SWhpdVk5a2NEU0ZVc2JvRUJJWjlwaDVPRUg2amRodWNHVW1zTk8yZkprU081SGFjRkZKVUhUM0YteW16TVBuQzJpNXJTWE5QYXRXUVBJYkVOWS1xb3BQSDRVeWdJU1pKNTJ5dXl4LThZVk9Tdw?oc=5",
       "pubDate": "2026-08-13T20:18:38.000Z",
       "category": "debt-fiscal",
@@ -90,6 +90,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "Understanding the Rise in Canada’s Youth Unemployment",
+      "outlet": "TD Economics",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcWZBbWd5a19ZMllxaUtkdU5sakxWMWgybzh0UnJSdmt6RW81QnF2bm9LaXRSSU5fM0Jwb29IR01FNUwtQWZQMEZYc3pTa1lia1lVaTQ3b0ZPQQ?oc=5",
+      "pubDate": "2026-08-12T12:53:47.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed",
       "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZTQzc0JYR3c1anlBYWVQbmVRc3ZTdnFZVE9jbkNRUm1hQ2RYbWI3UDlHVml5X0Fua1lOc1laTDNfTFBPeXkySVFfaTNQZk5ycjRMdVFTRU9DZ19IUUtpT3A4aC1vOU4yMTJCRDQzN2VOMDRsQWhWZEhlU0dmb2c?oc=5",
@@ -112,14 +120,6 @@
       "pubDate": "2026-08-10T21:10:10.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues",
-      "outlet": "immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmpPNVdwQWstdGpLMVR5YURlQmRRV21JYzdxQlY2OFpKNTYzTVVYZWRPaGZWWW5wQTFnTm03LUdPOGxEdXZGcmIzRjRIRkNDY2NYZGxKRTFITll6cncyUEQ0MURidGpIZklLM3M5QW93ZlI2bEVOYzdCUWdxNFFPOF91eEJiRHdvcTNyVl8xN3VHdFEwaW1oS3dma0pabzg0Z25YOWVTdzR4RGZZ?oc=5",
-      "pubDate": "2026-08-10T18:03:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
