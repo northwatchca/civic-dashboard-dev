@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-16T08:20:19.342Z",
+  "updated": "2026-08-16T09:20:36.040Z",
   "items": [
-    {
-      "title": "Saskatchewan unemployment rate falls to 6.0 per cent in July",
-      "outlet": "DiscoverMooseJaw",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1JmRmJJQ2lIZXhHN0NVcFNtXzhVOExHazJ3WmRzaEtZTk9lLV93VWRmRl9OTXljZGgtNjdkVzRfWkt0bFRhRFdfWURadUFydldGbEdpbUNLWENLWHUyN254U0RVaVhmb2NmSEkyTExUMTNYM0UzTEptUWp1REQ5SnBmMXhKRnpUT2MtS01QQ3BBYjI2VGIxWWx4dDdmYXJaN3Rj?oc=5",
-      "pubDate": "2026-08-15T17:54:57.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
     {
       "title": "This CRA rebate disappears in October 2026 — Canadians could be missing out on over $1,000",
       "outlet": "Yahoo! Finance Canada",
@@ -35,19 +27,11 @@
     },
     {
       "title": "A peek into a future of slow growth",
-      "outlet": "theglobeandmail.com",
+      "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzdoWGIwLTlVRzN3LW5MdFJaT3E3T1hibGJWVmYxT2EzLXZpZmFIemJpVnFrQU9fVFo4MHBpN1BtNVhxQ0RJUHVqREoxR1VvX0hDMjJVWXhLOEZDVmE0RkhSZlN3TXB3czBTZEFwblMxYlVSemtyWldkTG5CVFRfcTFsSjFBREhJbjlWYXVzTElFOU5TQUhReGMxNA?oc=5",
       "pubDate": "2026-08-15T10:45:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGpPQ0huZEVoSzJVVlA5NkptZUdFSmNsMTM3SnhONUFDYXcyUmRsaGk5M2tzUTM3V05nSlRlTWdtdW5EdjJsTFlQNFBJQzFhNzZZdXk3RWVHMzFHMUdnVGx1bER2MGxUcFVzU0RlaEp1RjZXckxCR1V5ZG9uUVVsR2tqYjJkVDZ1NmRkakJTQ2dEVlNKZ3BIVnR3RFpFTkphQWR0OWRoNDVfOUZKVUNLcllyaExTcVBkZzdQXzQzLUI1QQ?oc=5",
-      "pubDate": "2026-08-14T20:53:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "National Bank of Canada Announces Interest Rate Reset of its 4.05% Limited Recourse Capital Notes Series 2",
@@ -67,7 +51,7 @@
     },
     {
       "title": "Holt Liberals rethinking New Brunswick’s minimum-wage formula",
-      "outlet": "cbc.ca",
+      "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekZhS19ZLTdVaXpEWlNPMFliUldpa2hyTkg3MjRiUUtyZExBQmNYSkdKYnlwVWQ5dXJ2NGRLbENaTk40ME54c0RHcnNvMWNRaUJMcko0UjVaOWEwWEZldmdaZjNndmlveVo3R0JtM0RibkpHNHRRd0gyT1VDSGhrRDg0cl9OM1hVand1TzllallISGZfVVVVNEItdDlaZlE?oc=5",
       "pubDate": "2026-08-14T09:00:00.000Z",
       "category": "labour-inequality",
@@ -75,7 +59,7 @@
     },
     {
       "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
-      "outlet": "theglobeandmail.com",
+      "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGlyakJqZzlmbFVWSTdQcVZTSW8wYWdhQmdfbHE2SWhpdVk5a2NEU0ZVc2JvRUJJWjlwaDVPRUg2amRodWNHVW1zTk8yZkprU081SGFjRkZKVUhUM0YteW16TVBuQzJpNXJTWE5QYXRXUVBJYkVOWS1xb3BQSDRVeWdJU1pKNTJ5dXl4LThZVk9Tdw?oc=5",
       "pubDate": "2026-08-13T20:18:38.000Z",
       "category": "debt-fiscal",
@@ -98,6 +82,14 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "Government of Canada invests in Saint-Guillaume business’s productivity",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWs1bnpyVkZlWG5nWkwzVHpyV00wbHRndjNLbFhQYWFOMTZEUS1wQUlIR290THVGSHM0aVdTOEtmUEp5VXlNaUZHVVVHMmJWWEt3dlJsMVdBUUxXakhKUmtMbTJlR2dfQ3dRY1JVZ0Y4aFY5WkVXbGtkaTAwVUs2aUFnVXhrc2hOYV90N2k1RUp3V2hudXlQTVNhUnk5RGhBdzhVNURrbGt1NXZkcFRZbjlUYnRzdjdDOUt5Z1h5RFRYS0JVX3NhUjRFQl93WTdUNWh3WG1tYzlMWWhrOGNXcVgzSQ?oc=5",
+      "pubDate": "2026-08-13T13:28:24.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
       "outlet": "Canadian Lawyer",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
@@ -112,6 +104,14 @@
       "pubDate": "2026-08-12T07:00:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "1-time settlement 'windfall' means B.C.'s deficit last year was $3B less than expected",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakduU3h1WktrSjZmUmk3YU1WeDEtTUVqUTBMVUpyRm9HX1hpMHBob2xZblVBOXRtYnR4M0RPc2dqOTJLQUpfWjRNYXhsOFVFQ0xUOTJSdFlGZ3Q1MWJsalRPQ2VuWUw0Zk9pazZybVRnNjZQU2hxNUZ3NUFrekZJS0xYSHBzaC11aGZtdFpaZy1FWFVTLTVURGpiMVFfNEhXWEhmczVMY0hjRVhSbkVlYw?oc=5",
+      "pubDate": "2026-08-11T00:04:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Government of Canada awards construction contract for a new Canada Revenue Agency facility in St. John’s",
