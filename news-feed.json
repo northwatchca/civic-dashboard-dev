@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T11:13:29.227Z",
+  "updated": "2026-08-16T12:24:22.868Z",
   "items": [
     {
       "title": "This CRA rebate disappears in October 2026 — Canadians could be missing out on over $1,000",
@@ -14,14 +14,6 @@
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-08-15T14:00:11.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-08-15T13:10:23.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -90,6 +82,14 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Why Carney’s pipeline gamble is a bad bet for Canadian taxpayers",
+      "outlet": "Chatham House",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDFmM1FQd0pyY0dXdFpRRzJJSjl5UnllMkUxeTROQjI1N1JQZm56Qkd6aC1yd1lvbkRXLXh6X2UxQmlqblJseE96Y2NwSG1va1l6Yzcteks2OGRHVWtnd2R2STRIYlVVUTE1c0N0Z2VNSEpUTTM1VkJ5MmtwS2tFd1lJVldmOUlOTkRyQy05ZFFVdFFKTlE?oc=5",
+      "pubDate": "2026-08-13T12:34:54.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
       "outlet": "Canadian Lawyer",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
@@ -106,20 +106,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "1-time settlement 'windfall' means B.C.'s deficit last year was $3B less than expected",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakduU3h1WktrSjZmUmk3YU1WeDEtTUVqUTBMVUpyRm9HX1hpMHBob2xZblVBOXRtYnR4M0RPc2dqOTJLQUpfWjRNYXhsOFVFQ0xUOTJSdFlGZ3Q1MWJsalRPQ2VuWUw0Zk9pazZybVRnNjZQU2hxNUZ3NUFrekZJS0xYSHBzaC11aGZtdFpaZy1FWFVTLTVURGpiMVFfNEhXWEhmczVMY0hjRVhSbkVlYw?oc=5",
+      "pubDate": "2026-08-11T00:04:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Government of Canada awards construction contract for a new Canada Revenue Agency facility in St. John’s",
       "outlet": "canada.ca",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQ2J2WDJkaVVfcUFwUUstM3VwNFN4VWFmbnd4ejVGcElUNVJTQndUczN1VHdzekRPTjRObC1FVTBjMGVSeHBWWmZtaWQtV3d1YWhKdDF0anl3bXdVS3NMbnhpR2J6cE5sd0hTUUdxc2tVdUxZVlplYmVPU2lKaEp6VWFaUENTckJtR2VTRjZfTDBkQjluLVFhRU1jRnNsX0JuUEpXT1E3anRMZ2lmY05ZdzBRWWxvZjYyUktVUGVUVHE0eTVBZVliOGFjMGpXOFdkVHh5VThFZDV0b181anlaWmRTdUNOU2xKSDJTdUdPQ3N2UE5FUFNwVk9UVVdtSDlBNDV3?oc=5",
       "pubDate": "2026-08-10T21:10:10.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues",
-      "outlet": "immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmpPNVdwQWstdGpLMVR5YURlQmRRV21JYzdxQlY2OFpKNTYzTVVYZWRPaGZWWW5wQTFnTm03LUdPOGxEdXZGcmIzRjRIRkNDY2NYZGxKRTFITll6cncyUEQ0MURidGpIZklLM3M5QW93ZlI2bEVOYzdCUWdxNFFPOF91eEJiRHdvcTNyVl8xN3VHdFEwaW1oS3dma0pabzg0Z25YOWVTdzR4RGZZ?oc=5",
-      "pubDate": "2026-08-10T18:03:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     }
   ]
 }
