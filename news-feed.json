@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:15:49.031Z",
+  "updated": "2026-08-16T11:13:29.227Z",
   "items": [
     {
       "title": "This CRA rebate disappears in October 2026 — Canadians could be missing out on over $1,000",
@@ -32,14 +32,6 @@
       "pubDate": "2026-08-15T10:45:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGpPQ0huZEVoSzJVVlA5NkptZUdFSmNsMTM3SnhONUFDYXcyUmRsaGk5M2tzUTM3V05nSlRlTWdtdW5EdjJsTFlQNFBJQzFhNzZZdXk3RWVHMzFHMUdnVGx1bER2MGxUcFVzU0RlaEp1RjZXckxCR1V5ZG9uUVVsR2tqYjJkVDZ1NmRkakJTQ2dEVlNKZ3BIVnR3RFpFTkphQWR0OWRoNDVfOUZKVUNLcllyaExTcVBkZzdQXzQzLUI1QQ?oc=5",
-      "pubDate": "2026-08-14T20:53:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "National Bank of Canada Announces Interest Rate Reset of its 4.05% Limited Recourse Capital Notes Series 2",
@@ -83,11 +75,19 @@
     },
     {
       "title": "Canada’s unemployment rate hits two-year low: Five takeaways for dentists",
-      "outlet": "oralhealthgroup.com",
+      "outlet": "Oral Health Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm5EaWMwR0N2QjlRYWxSRFVqa3MyNVhwRzlwVktMUFlMakFlZ3h2UEZPaldpN09nZHp0NHBab2lFSHpKUVBnam1ReGU5RjBLRS1RV2UzNkd5bDhZdmdEVlZYVzE0Y1NqN2tuR1ozeE8xbkVQN2tGbjdDSGxpckhqbTNBTlFwTVRnRkhtZFNsZkFXcExzQlNSWGJwT25iNW1veXdWSXItUkdnMzdSSEYyNnl3?oc=5",
       "pubDate": "2026-08-13T15:51:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Government of Canada invests in Saint-Guillaume business’s productivity",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWs1bnpyVkZlWG5nWkwzVHpyV00wbHRndjNLbFhQYWFOMTZEUS1wQUlIR290THVGSHM0aVdTOEtmUEp5VXlNaUZHVVVHMmJWWEt3dlJsMVdBUUxXakhKUmtMbTJlR2dfQ3dRY1JVZ0Y4aFY5WkVXbGtkaTAwVUs2aUFnVXhrc2hOYV90N2k1RUp3V2hudXlQTVNhUnk5RGhBdzhVNURrbGt1NXZkcFRZbjlUYnRzdjdDOUt5Z1h5RFRYS0JVX3NhUjRFQl93WTdUNWh3WG1tYzlMWWhrOGNXcVgzSQ?oc=5",
+      "pubDate": "2026-08-13T13:28:24.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
