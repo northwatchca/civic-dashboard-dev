@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:13:57.080Z",
+  "updated": "2026-08-16T18:18:47.428Z",
   "items": [
     {
       "title": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands",
@@ -8,6 +8,14 @@
       "pubDate": "2026-08-16T16:00:00.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "This CRA rebate disappears in October 2026 — Canadians could be missing out on over $1,000",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazNQVFFYUkk5SkNCOUVoOGR3YzM0cFNmbUw3MGJET3dMT21mLVlnc1hfRHlKd3YxcHpKZWl3ck1RY0s5eDFJY3g3RUxsa1I5Y0tNMGN2VXhXTzY5dHBTYXpoVnp1VklsU29NMkk2X0FfYVUzazBzaDQ1MlhEdmI2SHVRM1dHMnJYcDBv?oc=5",
+      "pubDate": "2026-08-15T14:50:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
@@ -74,14 +82,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Government of Canada invests in Saint-Guillaume business’s productivity",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWs1bnpyVkZlWG5nWkwzVHpyV00wbHRndjNLbFhQYWFOMTZEUS1wQUlIR290THVGSHM0aVdTOEtmUEp5VXlNaUZHVVVHMmJWWEt3dlJsMVdBUUxXakhKUmtMbTJlR2dfQ3dRY1JVZ0Y4aFY5WkVXbGtkaTAwVUs2aUFnVXhrc2hOYV90N2k1RUp3V2hudXlQTVNhUnk5RGhBdzhVNURrbGt1NXZkcFRZbjlUYnRzdjdDOUt5Z1h5RFRYS0JVX3NhUjRFQl93WTdUNWh3WG1tYzlMWWhrOGNXcVgzSQ?oc=5",
-      "pubDate": "2026-08-13T13:28:24.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Why Carney’s pipeline gamble is a bad bet for Canadian taxpayers",
       "outlet": "Chatham House",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDFmM1FQd0pyY0dXdFpRRzJJSjl5UnllMkUxeTROQjI1N1JQZm56Qkd6aC1yd1lvbkRXLXh6X2UxQmlqblJseE96Y2NwSG1va1l6Yzcteks2OGRHVWtnd2R2STRIYlVVUTE1c0N0Z2VNSEpUTTM1VkJ5MmtwS2tFd1lJVldmOUlOTkRyQy05ZFFVdFFKTlE?oc=5",
@@ -90,20 +90,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
-      "outlet": "Canadian Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
-      "pubDate": "2026-08-12T16:35:36.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed",
-      "outlet": "nationalpost.com",
+      "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZTQzc0JYR3c1anlBYWVQbmVRc3ZTdnFZVE9jbkNRUm1hQ2RYbWI3UDlHVml5X0Fua1lOc1laTDNfTFBPeXkySVFfaTNQZk5ycjRMdVFTRU9DZ19IUUtpT3A4aC1vOU4yMTJCRDQzN2VOMDRsQWhWZEhlU0dmb2c?oc=5",
       "pubDate": "2026-08-12T10:02:39.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "No, Canada’s economy isn’t on fire. Growth is returning, but on a permanently lower path",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFI0dklyeDh5Mm1meFNLVU9oLVAtek96Y0JwRUF4ZzZlOVU0YTYwMWFwVW85YUxVanU2RXJ2WUluUUNjLWw2TzZfZVBVcldZcFB3WFNlSzhndncyMGVwZzVuUndlOU00TnQ0Um12b21GeVl6RDdpSms5Wlh2S1hld2t0dGppQXpmNTlFYVFOeUN3WUdvcGJsVVVraEtpT3VjQkcwcGhCZEdJOXFXM0gwdWN4UQ?oc=5",
+      "pubDate": "2026-08-12T07:00:48.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "1-time settlement 'windfall' means B.C.'s deficit last year was $3B less than expected",
