@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-16T00:53:37.608Z",
+  "updated": "2026-08-16T02:18:00.257Z",
   "items": [
     {
       "title": "Saskatchewan unemployment rate falls to 6.0 per cent in July",
-      "outlet": "discovermoosejaw.com",
+      "outlet": "DiscoverMooseJaw",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1JmRmJJQ2lIZXhHN0NVcFNtXzhVOExHazJ3WmRzaEtZTk9lLV93VWRmRl9OTXljZGgtNjdkVzRfWkt0bFRhRFdfWURadUFydldGbEdpbUNLWENLWHUyN254U0RVaVhmb2NmSEkyTExUMTNYM0UzTEptUWp1REQ5SnBmMXhKRnpUT2MtS01QQ3BBYjI2VGIxWWx4dDdmYXJaN3Rj?oc=5",
       "pubDate": "2026-08-15T17:54:57.000Z",
       "category": "labour-inequality",
@@ -50,12 +50,28 @@
       "categoryLabel": "Demographics"
     },
     {
+      "title": "Canadian manufacturing sales surged to record level in second quarter, despite tariffs",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGpPQ0huZEVoSzJVVlA5NkptZUdFSmNsMTM3SnhONUFDYXcyUmRsaGk5M2tzUTM3V05nSlRlTWdtdW5EdjJsTFlQNFBJQzFhNzZZdXk3RWVHMzFHMUdnVGx1bER2MGxUcFVzU0RlaEp1RjZXckxCR1V5ZG9uUVVsR2tqYjJkVDZ1NmRkakJTQ2dEVlNKZ3BIVnR3RFpFTkphQWR0OWRoNDVfOUZKVUNLcllyaExTcVBkZzdQXzQzLUI1QQ?oc=5",
+      "pubDate": "2026-08-14T20:53:55.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "National Bank of Canada Announces Interest Rate Reset of its 4.05% Limited Recourse Capital Notes Series 2",
       "outlet": "Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzIzdFJaaVJ2YVV5YTlBM3A1bTZnTUdvSDZWQUVJallZLTNXOEREZVREZU5VUHlHTnk5TUo0S3FFWEg3MWZQMy0ydWVXb2M1bTJRZ1pEdXZtSWdCZGFBSGlmS1NubWtPcXlNNlR6bEVTLTF4clNrY0ZzdWpSQjRLWnljX1J0VHhPNGFZdVNyNmFIdw?oc=5",
       "pubDate": "2026-08-14T16:03:00.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Holt Liberals rethinking New Brunswick’s minimum-wage formula",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekZhS19ZLTdVaXpEWlNPMFliUldpa2hyTkg3MjRiUUtyZExBQmNYSkdKYnlwVWQ5dXJ2NGRLbENaTk40ME54c0RHcnNvMWNRaUJMcko0UjVaOWEwWEZldmdaZjNndmlveVo3R0JtM0RibkpHNHRRd0gyT1VDSGhrRDg0cl9OM1hVand1TzllallISGZfVVVVNEItdDlaZlE?oc=5",
+      "pubDate": "2026-08-14T09:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
@@ -82,14 +98,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Government of Canada invests in Saint-Guillaume business’s productivity",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWs1bnpyVkZlWG5nWkwzVHpyV00wbHRndjNLbFhQYWFOMTZEUS1wQUlIR290THVGSHM0aVdTOEtmUEp5VXlNaUZHVVVHMmJWWEt3dlJsMVdBUUxXakhKUmtMbTJlR2dfQ3dRY1JVZ0Y4aFY5WkVXbGtkaTAwVUs2aUFnVXhrc2hOYV90N2k1RUp3V2hudXlQTVNhUnk5RGhBdzhVNURrbGt1NXZkcFRZbjlUYnRzdjdDOUt5Z1h5RFRYS0JVX3NhUjRFQl93WTdUNWh3WG1tYzlMWWhrOGNXcVgzSQ?oc=5",
-      "pubDate": "2026-08-13T13:28:24.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
       "outlet": "Canadian Lawyer",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
@@ -112,14 +120,6 @@
       "pubDate": "2026-08-11T00:04:00.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Government of Canada awards construction contract for a new Canada Revenue Agency facility in St. John’s",
-      "outlet": "canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQ2J2WDJkaVVfcUFwUUstM3VwNFN4VWFmbnd4ejVGcElUNVJTQndUczN1VHdzekRPTjRObC1FVTBjMGVSeHBWWmZtaWQtV3d1YWhKdDF0anl3bXdVS3NMbnhpR2J6cE5sd0hTUUdxc2tVdUxZVlplYmVPU2lKaEp6VWFaUENTckJtR2VTRjZfTDBkQjluLVFhRU1jRnNsX0JuUEpXT1E3anRMZ2lmY05ZdzBRWWxvZjYyUktVUGVUVHE0eTVBZVliOGFjMGpXOFdkVHh5VThFZDV0b181anlaWmRTdUNOU2xKSDJTdUdPQ3N2UE5FUFNwVk9UVVdtSDlBNDV3?oc=5",
-      "pubDate": "2026-08-10T21:10:10.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     }
   ]
 }
