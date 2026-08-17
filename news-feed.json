@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:33:46.698Z",
+  "updated": "2026-08-17T10:24:40.808Z",
   "items": [
     {
       "title": "Court rules against taxpayer who claimed expenses for family member’s CRA dispute",
@@ -11,19 +11,11 @@
     },
     {
       "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
-      "outlet": "nationalpost.com",
+      "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
       "pubDate": "2026-08-17T08:01:22.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnZvZEFLc2VDNVQtQjE3dTl5cEdTQzV0a0FjLVl2OFBfcEktOFdoR094dkYzWUxHcGYxdXJZa2hJdl9qU0U3MnEwa3RoUURkYW92UTVMM1I4X3E4RTJCX1JOaEFNTjBGOWJWRHQ0YlkyX01ZOXpVdnZhOG8wTjRKSXRvV0VYdHpTa0d3OUNFNTBEa1d3NjRLb3EtbU92dkQ1b1N6UnkyWnZxQTZNeC1XYTd0Mm91U0hCanBUWA?oc=5",
-      "pubDate": "2026-08-16T16:00:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "A peek into a future of slow growth",
@@ -99,11 +91,19 @@
     },
     {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
-      "outlet": "Canadian Lawyer",
+      "outlet": "canadianlawyermag.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
       "pubDate": "2026-08-12T16:35:36.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canada’s Productivity Problem is a Superstar-Firm Problem – And AI is Our Chance to Fix It",
+      "outlet": "C.D. Howe Institute",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUhlRlg0aTA2ZkRnRVlTVWgtUW40UnNiMEFPclUzZ0N1TGFDMWNVbks2WWR4U3J5dUtZMmJ3TDRPTmdra09OWmZtdzZ2am1VUVVmc3RMbmVwYnZxRzluVUFscnVWZ0R2akdkMGJQYWVEU0t0Z3NiWmhKT0NRNWdqSk5PcFoyWmxjV2NiV2ZiLWd0SVk5alhZSC1rU2NzMjVuUW5JQy1MQWpadFlJUlBMUmxmOTRubndGa1cw?oc=5",
+      "pubDate": "2026-08-12T13:03:18.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "No, Canada’s economy isn’t on fire. Growth is returning, but on a permanently lower path",
