@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:28:35.537Z",
+  "updated": "2026-08-17T19:22:29.729Z",
   "items": [
     {
       "title": "No rush for Bank of Canada to raise interest rate even as inflation rate hits 3%, say economists",
@@ -10,10 +10,10 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada launches alliance to tackle advanced manufacturing workforce shortages",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUVJWVFidzgyanp3R0RtM05PXzctQ1E0OVkyMll1YXlXT0dUeWx1T3F4eXZRX2ZkS05qU3BCMjI4c3VEWHRmdW9HOE5VUjFJSkstWncyTk9tVFNSSUtsMWE5Y2l2VXRMSEotZ2F0dFNzQ1ZxeGpacl9veTMwMTFRQ2lmdDBEZENMTDdOVW4zSEN4aEpzcDhBclJYYWxjVWJvODJURDV5cW5LcHdzT3ZXNFBwRUlyMEQxWlBIeXp5UnRCOTUtRDM1bg?oc=5",
-      "pubDate": "2026-08-17T16:54:48.000Z",
+      "title": "Why Canada needs to boost its productivity",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU9sQVFGRlVLaU9hTHRVaXpkWjhOT1Q4dEFyczAxMVJYYk1OOXFnc050ZDRxNU1QVU44UkJsdUpLSE1URWxqeE9nYmlqT3d1c0VaVEJkaUtBbDNrcElKZHFhd2NnSzBKalJ4cWRZZVVXNTZSc2Q5eXota2NvWGtaTEdJcHppSW4yU1JGUjVWRzlfSXdDZ2l4NFNacE96aE5KTlpFZ01aTjduZw?oc=5",
+      "pubDate": "2026-08-17T17:21:51.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -27,9 +27,17 @@
     },
     {
       "title": "Canada Hotel Development Pipeline Grows To 48,000 Rooms",
-      "outlet": "Connect CRE Canada",
+      "outlet": "connectcre.ca",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzBjc3hrWDJjc002aUlfRU5fb0E0VTNaRlFGcHpBZTJOb3NnZWVBYnctT2dKeV8tTFVES09KMVo1MlBTSWNrOVFQNkhmTjl3dnpUZlo3MHV5amxDWDlhQnRkWENsVTBBZ3M4VkRRbGhLWWxxX0x6aXE5RXU3UHU1akg1TTZoT1BkZ0hYVElIaFRJZUU?oc=5",
       "pubDate": "2026-08-17T15:32:53.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-08-17T13:17:43.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -58,20 +66,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVWWXpZTkZOZEV0eTViSGp1VE0xM2lzYVcyTmlpb0RjUV9ZN3lyRW80MmxVcDhCVllHMHozQXhtTHZfYjdNSnEyZVA4RXBsMHpCaXp3d2VmaWVUV3VSUUFJdDlSOEUtdVFPSFhlclhvSUZvM1l4QklvdjJjbzM0OTA1VG1wT0NyR09uaExSLXV5Z1I1QjI3VS1R?oc=5",
-      "pubDate": "2026-08-14T10:39:50.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
+      "title": "A peek into a future of slow growth",
       "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGlyakJqZzlmbFVWSTdQcVZTSW8wYWdhQmdfbHE2SWhpdVk5a2NEU0ZVc2JvRUJJWjlwaDVPRUg2amRodWNHVW1zTk8yZkprU081SGFjRkZKVUhUM0YteW16TVBuQzJpNXJTWE5QYXRXUVBJYkVOWS1xb3BQSDRVeWdJU1pKNTJ5dXl4LThZVk9Tdw?oc=5",
-      "pubDate": "2026-08-13T20:18:38.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzdoWGIwLTlVRzN3LW5MdFJaT3E3T1hibGJWVmYxT2EzLXZpZmFIemJpVnFrQU9fVFo4MHBpN1BtNVhxQ0RJUHVqREoxR1VvX0hDMjJVWXhLOEZDVmE0RkhSZlN3TXB3czBTZEFwblMxYlVSemtyWldkTG5CVFRfcTFsSjFBREhJbjlWYXVzTElFOU5TQUhReGMxNA?oc=5",
+      "pubDate": "2026-08-15T10:45:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "Solid Canadian growth meets narrow tariff headwinds",
@@ -91,19 +91,11 @@
     },
     {
       "title": "Tax Court denies challenge against Canada Revenue Agency for reassessment or acts as an employer",
-      "outlet": "canadianlawyermag.com",
+      "outlet": "Canadian Lawyer",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkdGMF85OGV5UWNqMUtEYUhTNGRMYUxibE5CVFgwNFh4YkY1Yll4b19mUVRxekZ4SzZBNmZEN19kbEM5SEh1dE1rRGxOb0xaeDlYc3hpMlgwUEJoT1pQcThmRFNVU0pWbXg4QU5GRG9rdF81dEJ6dGRnVy04Y0pQaXo2N2VhaF9pV1FCSkZBLXVKZV9qalBNcUZDOFN3MWtoYzdVbjkzUEJKY2NIX09oa0dTanM3ZlFPdUVxREVZOGNRR2thQmx3cEdDRUl2Y2lROEE2b1RmWnJpMEd4WTVJdjBGaWVzV0xTOEM1YQ?oc=5",
       "pubDate": "2026-08-12T16:35:36.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Understanding the Rise in Canada’s Youth Unemployment",
-      "outlet": "TD Economics",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcWZBbWd5a19ZMllxaUtkdU5sakxWMWgybzh0UnJSdmt6RW81QnF2bm9LaXRSSU5fM0Jwb29IR01FNUwtQWZQMEZYc3pTa1lia1lVaTQ3b0ZPQQ?oc=5",
-      "pubDate": "2026-08-12T12:53:47.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Labour Force Survey Monthly",
@@ -112,6 +104,14 @@
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
+      "outlet": "Bank of Canada",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
+      "pubDate": "2026-07-27T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Understanding permanent residence numbers in Canada",
