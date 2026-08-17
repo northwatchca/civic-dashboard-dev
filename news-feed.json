@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-17T06:39:11.505Z",
+  "updated": "2026-08-17T07:45:42.787Z",
   "items": [
+    {
+      "title": "Canada Manufacturing Sales Rise for Fifth Straight Month in June",
+      "outlet": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWh1T3RRYW4xTXRpaDdhWk5WM0xaVG1BLWg0ZEJVRkVfVmtrcWFSRDhTYjBneVhSMDFIb0FVeEREdkY1UFJ1NW51emJBbl9WSnVaN1h5aXdfcWlJQkY4ak1zaGd1dHRuMUR3QmZHNXdxMlMyRmx2TV8zV1V4U1JJZE81S0h4WWlRU3pfQkZIZnZaMmVWY2p2VlhtSmVpVWpzZzRldEF0YWlVZUZV?oc=5",
+      "pubDate": "2026-08-17T07:03:24.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands",
       "outlet": "CBC",
@@ -106,20 +114,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "No, Canada’s economy isn’t on fire. Growth is returning, but on a permanently lower path",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFI0dklyeDh5Mm1meFNLVU9oLVAtek96Y0JwRUF4ZzZlOVU0YTYwMWFwVW85YUxVanU2RXJ2WUluUUNjLWw2TzZfZVBVcldZcFB3WFNlSzhndncyMGVwZzVuUndlOU00TnQ0Um12b21GeVl6RDdpSms5Wlh2S1hld2t0dGppQXpmNTlFYVFOeUN3WUdvcGJsVVVraEtpT3VjQkcwcGhCZEdJOXFXM0gwdWN4UQ?oc=5",
-      "pubDate": "2026-08-12T07:00:48.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "1-time settlement 'windfall' means B.C.'s deficit last year was $3B less than expected",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakduU3h1WktrSjZmUmk3YU1WeDEtTUVqUTBMVUpyRm9HX1hpMHBob2xZblVBOXRtYnR4M0RPc2dqOTJLQUpfWjRNYXhsOFVFQ0xUOTJSdFlGZ3Q1MWJsalRPQ2VuWUw0Zk9pazZybVRnNjZQU2hxNUZ3NUFrekZJS0xYSHBzaC11aGZtdFpaZy1FWFVTLTVURGpiMVFfNEhXWEhmczVMY0hjRVhSbkVlYw?oc=5",
-      "pubDate": "2026-08-11T00:04:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Labour Force Survey Monthly",
+      "outlet": "Government of Prince Edward Island",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
+      "pubDate": "2026-08-07T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
