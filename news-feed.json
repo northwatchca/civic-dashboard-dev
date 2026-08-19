@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:32:17.165Z",
+  "updated": "2026-08-19T08:27:51.249Z",
   "items": [
     {
       "title": "Minimum wage comments are 'madness', says business",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
-      "outlet": "theguardian.com",
+      "outlet": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1lZb1VCejNOSmRCamlITkNIMUpHRldNWWNTLVgtWHRxQzhtZG5BMFdWeUdPWlRoVExXTFVkbzF2UVpRY0FnbnFPWll2ZDhGbVFMbTFha3Y1S3RmWExXZGw0TWh0YjVDenVhV20yWDlqWElac0ZZMnhNWi1QRjRqZW9qS29BRDQ4RmstenFvZmxsbkh2TDZKYU5QLTZjTnlo?oc=5",
       "pubDate": "2026-08-19T03:12:00.000Z",
       "category": "resources",
@@ -74,20 +74,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Toronto Maple Leafs star John Tavares to appear in court to argue against $8-million tax bill",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UNVBrVENkMnYtOFhFcU1LWElIYlhTMkdIY0JOTUdXQjJCUzFfajdTZVVGM1h5NFI2TERRRTVNYU1VVG01N3pDeldZRVRYR3ZvZVJ6Ymwxc0puNmFOdHFhWFd2SWdVSlYzWXFBTzg0RGdXa3hLenF0QV9ZZkV1Z1U?oc=5",
-      "pubDate": "2026-08-17T21:17:13.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "No rush for Bank of Canada to raise interest rate even as inflation rate hits 3%, say economists",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3Z5YmJmdkxnRDVBaV9fY3RjRHBydGlPZVc4RWc4eUR3ajZXMFdmMWZCRmNpTXlPcExJcFdnY0xNWklEbmc1dmcyWnd4V2V3ZnlYLXRXSVE1T1U1cTdURmdxQjZXOENoTi0tSzJZN0lZVndUS0FMTFgyZUNKX05sQU9Kb0ZIcmJlQUVXZjNDVnZjYm9pSDM1bE85TQ?oc=5",
       "pubDate": "2026-08-17T18:08:24.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
+      "outlet": "nationalpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
+      "pubDate": "2026-08-17T08:01:22.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "A peek into a future of slow growth",
@@ -114,12 +114,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications",
-      "outlet": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXI5dG1WMVB6aVVmaUt1OWw5elkxSk5IY0NSVk9qZHBaS1luYkNvbEFXbFE2NjhRbElrQ2pZVl9KbXZhaU9YWW1kNHlLYlJmV3hnekU3a2VLNnlLOEVOckNlc2xrMjEtZkdvamZ1Z3FkX1ZfZGVULXNIR0h3MERFRlcyWnpWVlhEcjVRbEFVQy1DV25rMEM1RDdzRUhwVVBScnBlUXVhM1ZJaENtZ0tYbjBJaWxPTHdnb21qTEg5dThjNTJ4NEhYZ25ReDk?oc=5",
-      "pubDate": "2026-07-27T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Map 1 Unemployment rate by province and territory, July 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
+      "pubDate": "2026-08-07T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
