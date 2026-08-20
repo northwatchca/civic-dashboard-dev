@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:33:42.194Z",
+  "updated": "2026-08-20T07:34:42.324Z",
   "items": [
     {
       "title": "US, Canada reach 'deal', temporarily delay tariffs",
@@ -26,6 +26,14 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Keystone XL: What Trump’s focus on an oil pipeline says about Canada-U.S. trade",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVFFySHhCdGI3R2RNYTR2Um94dUhHOUk4YkxQUTJDN0xmdF9RQ1YyOTJjMk9ZVy10RVo1NGVmcmZFcmFhamFvM01rdWFINTV4SWNoY3ZXU1lvRk9UYk1yRl9HUHMwRzg3eHRZd19PQnZGU2NW?oc=5",
+      "pubDate": "2026-08-19T20:13:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Abbotsford employment rate climbs for first time in 5 months",
       "outlet": "Abbotsford News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTklnVmlUZ2d2NE5keXQtLXlrbmsyWF9rWmJVWHB4N2NKQk1XMF9yNUtjZDBKN1Vqb3pEM2dtYUJMUW02R1dmVkpOaU4yMjk3aTU2NTc0ZEEzb293Q3MxNTVGOUNpWXNmT085QkdwdjVjS1cwYTAyajYzYnpDVGNHVGcxWVduR202TXg4N3JBNzAyQUM1RzRtaA?oc=5",
@@ -42,16 +50,8 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Key dates in Keystone XL pipeline as Trump claims contentious project being revived",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMjBybk91N2lDcW42T3gwUFlNaUI4bTlVTldOa0xRRHd2OXhJUGlYTkhWM25TVWllcjRkcTR1cEZ5VHBGY2cxX2J4YzY5OTZVYU5VWlVlblRidVR1VFBKbVJPU2hXNmFXQ2U0NGtDWUlFb2VWVy1nS0gzVQ?oc=5",
-      "pubDate": "2026-08-19T18:20:42.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
-      "outlet": "CIC News",
+      "outlet": "cicnews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmswbjJiUnVoWHRybkQyeUVqMmxES1FSTG1zX0YycFlSTTRaN2pDWk5zTXFZaWV4X0pWLTFSWUF0UnlVWFlDM2ZWWTRpLXFnNGRfUDl3bVZ0cmRlVWlfWWE3YkkwcnZQcTJHeDFCVlpnak1GRXFkSDViNzgzMWwzUkhkY3ZuVUJ6cGZubXFGTS1VN0pWd3o4cXNRSkRxalcteDFXS3dlbG1tQ3NIQUh3RzZ6VTBtZGRV0gG-AUFVX3lxTFBXTmczUzlodV9lVzJRQTZnVHAwOVFfUXBuem1pRTkwX3VibTNuTEp5dnF1VUtkMWkxTGM5LUhGZXZlWnRKeTdXV2pWSnNoTE0wQ0QxWFZtdGFKREZNMDlOa19iWFRoZXF2a2Q3dVhMa2pIQUNJQXlJVll1TVJ0TF9neGktTzBWTzA3NkRDa3c2X3V3eWVJXzFJLU9TS09hNnJzRkhEbjY3YVVBUThGbC1uMXhmeUllVEF1aXBZWWc?oc=5",
       "pubDate": "2026-08-19T16:30:53.000Z",
       "category": "demographics",
@@ -91,7 +91,7 @@
     },
     {
       "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
-      "outlet": "nationalpost.com",
+      "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
       "pubDate": "2026-08-17T08:01:22.000Z",
       "category": "taxes",
