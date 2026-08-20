@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:29:59.056Z",
+  "updated": "2026-08-20T05:24:06.483Z",
   "items": [
     {
       "title": "US, Canada reach 'deal', temporarily delay tariffs",
@@ -19,19 +19,11 @@
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
       "pubDate": "2026-08-19T22:05:57.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Keystone XL: What Trump’s focus on an oil pipeline says about Canada-U.S. trade",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVFFySHhCdGI3R2RNYTR2Um94dUhHOUk4YkxQUTJDN0xmdF9RQ1YyOTJjMk9ZVy10RVo1NGVmcmZFcmFhamFvM01rdWFINTV4SWNoY3ZXU1lvRk9UYk1yRl9HUHMwRzg3eHRZd19PQnZGU2NW?oc=5",
-      "pubDate": "2026-08-19T20:13:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Abbotsford employment rate climbs for first time in 5 months",
@@ -48,6 +40,14 @@
       "pubDate": "2026-08-19T20:00:07.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Key dates in Keystone XL pipeline as Trump claims contentious project being revived",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMjBybk91N2lDcW42T3gwUFlNaUI4bTlVTldOa0xRRHd2OXhJUGlYTkhWM25TVWllcjRkcTR1cEZ5VHBGY2cxX2J4YzY5OTZVYU5VWlVlblRidVR1VFBKbVJPU2hXNmFXQ2U0NGtDWUlFb2VWVy1nS0gzVQ?oc=5",
+      "pubDate": "2026-08-19T18:20:42.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
@@ -67,7 +67,7 @@
     },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
       "pubDate": "2026-08-19T14:22:03.000Z",
       "category": "resources",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Minimum wage comments are 'madness', says business",
-      "outlet": "Yahoo News Canada",
+      "outlet": "ca.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmRwRzY0WGRlYWdpdzdQV3VUeERtVWVyOWplb205OHVGM0dSZm9RNFJKU1RWOGNwb1VLMVJIZHowVlVfbWJpVFZJYkwtWFU4bGNmUlpRUWJVUElaOGdhS0tlVFNSZFQ1TnVEVlBEQXRtS3dXT1JyMGRIREFOdEdtVA?oc=5",
       "pubDate": "2026-08-19T05:13:00.000Z",
       "category": "labour-inequality",
