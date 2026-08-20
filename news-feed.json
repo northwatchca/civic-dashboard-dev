@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-20T07:34:42.324Z",
+  "updated": "2026-08-20T08:29:33.037Z",
   "items": [
-    {
-      "title": "US, Canada reach 'deal', temporarily delay tariffs",
-      "outlet": "China Daily Global Edition",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTNEUk9FSHJmVFkySGkzZ25JODZZT3dZdmt4TVBMVTAxaVEyS2FRcVlPOEFxZTc3a0N1OHE2aHY5dGZvdTZYZDBJUkQtcW8taWtoUVI3MUo1eFF6VThwUTFzZFQ4REU3VTFsT1pZTDlXS0RHNjlHSjE2WWd1dkhIcGtn?oc=5",
-      "pubDate": "2026-08-20T02:17:56.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
     {
       "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
       "outlet": "EnergyNow.com",
@@ -51,7 +43,7 @@
     },
     {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
-      "outlet": "cicnews.com",
+      "outlet": "CIC News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmswbjJiUnVoWHRybkQyeUVqMmxES1FSTG1zX0YycFlSTTRaN2pDWk5zTXFZaWV4X0pWLTFSWUF0UnlVWFlDM2ZWWTRpLXFnNGRfUDl3bVZ0cmRlVWlfWWE3YkkwcnZQcTJHeDFCVlpnak1GRXFkSDViNzgzMWwzUkhkY3ZuVUJ6cGZubXFGTS1VN0pWd3o4cXNRSkRxalcteDFXS3dlbG1tQ3NIQUh3RzZ6VTBtZGRV0gG-AUFVX3lxTFBXTmczUzlodV9lVzJRQTZnVHAwOVFfUXBuem1pRTkwX3VibTNuTEp5dnF1VUtkMWkxTGM5LUhGZXZlWnRKeTdXV2pWSnNoTE0wQ0QxWFZtdGFKREZNMDlOa19iWFRoZXF2a2Q3dVhMa2pIQUNJQXlJVll1TVJ0TF9neGktTzBWTzA3NkRDa3c2X3V3eWVJXzFJLU9TS09hNnJzRkhEbjY3YVVBUThGbC1uMXhmeUllVEF1aXBZWWc?oc=5",
       "pubDate": "2026-08-19T16:30:53.000Z",
       "category": "demographics",
@@ -90,6 +82,14 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Canada launches alliance to tackle advanced manufacturing workforce shortages",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUVJWVFidzgyanp3R0RtM05PXzctQ1E0OVkyMll1YXlXT0dUeWx1T3F4eXZRX2ZkS05qU3BCMjI4c3VEWHRmdW9HOE5VUjFJSkstWncyTk9tVFNSSUtsMWE5Y2l2VXRMSEotZ2F0dFNzQ1ZxeGpacl9veTMwMTFRQ2lmdDBEZENMTDdOVW4zSEN4aEpzcDhBclJYYWxjVWJvODJURDV5cW5LcHdzT3ZXNFBwRUlyMEQxWlBIeXp5UnRCOTUtRDM1bg?oc=5",
+      "pubDate": "2026-08-17T17:03:10.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
       "outlet": "National Post",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
@@ -107,7 +107,7 @@
     },
     {
       "title": "Labour Force Survey Monthly",
-      "outlet": "princeedwardisland.ca",
+      "outlet": "Government of Prince Edward Island",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
