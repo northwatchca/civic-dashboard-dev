@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-20T03:39:52.071Z",
+  "updated": "2026-08-20T04:29:59.056Z",
   "items": [
     {
       "title": "US, Canada reach 'deal', temporarily delay tariffs",
-      "outlet": "global.chinadaily.com.cn",
+      "outlet": "China Daily Global Edition",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTNEUk9FSHJmVFkySGkzZ25JODZZT3dZdmt4TVBMVTAxaVEyS2FRcVlPOEFxZTc3a0N1OHE2aHY5dGZvdTZYZDBJUkQtcW8taWtoUVI3MUo1eFF6VThwUTFzZFQ4REU3VTFsT1pZTDlXS0RHNjlHSjE2WWd1dkhIcGtn?oc=5",
       "pubDate": "2026-08-20T02:17:56.000Z",
       "category": "economy",
@@ -18,10 +18,18 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "energynow.ca",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-08-19T22:05:57.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Keystone XL: What Trump’s focus on an oil pipeline says about Canada-U.S. trade",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVFFySHhCdGI3R2RNYTR2Um94dUhHOUk4YkxQUTJDN0xmdF9RQ1YyOTJjMk9ZVy10RVo1NGVmcmZFcmFhamFvM01rdWFINTV4SWNoY3ZXU1lvRk9UYk1yRl9HUHMwRzg3eHRZd19PQnZGU2NW?oc=5",
-      "pubDate": "2026-08-19T21:18:53.000Z",
+      "pubDate": "2026-08-19T20:13:00.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -59,19 +67,11 @@
     },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
+      "outlet": "energynow.ca",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
       "pubDate": "2026-08-19T14:22:03.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-08-19T08:38:08.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Minimum wage comments are 'madness', says business",
@@ -106,20 +106,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "A peek into a future of slow growth",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzdoWGIwLTlVRzN3LW5MdFJaT3E3T1hibGJWVmYxT2EzLXZpZmFIemJpVnFrQU9fVFo4MHBpN1BtNVhxQ0RJUHVqREoxR1VvX0hDMjJVWXhLOEZDVmE0RkhSZlN3TXB3czBTZEFwblMxYlVSemtyWldkTG5CVFRfcTFsSjFBREhJbjlWYXVzTElFOU5TQUhReGMxNA?oc=5",
-      "pubDate": "2026-08-15T10:45:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Canada’s unemployment rate hits two-year low: Five takeaways for dentists",
       "outlet": "Oral Health Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm5EaWMwR0N2QjlRYWxSRFVqa3MyNVhwRzlwVktMUFlMakFlZ3h2UEZPaldpN09nZHp0NHBab2lFSHpKUVBnam1ReGU5RjBLRS1RV2UzNkd5bDhZdmdEVlZYVzE0Y1NqN2tuR1ozeE8xbkVQN2tGbjdDSGxpckhqbTNBTlFwTVRnRkhtZFNsZkFXcExzQlNSWGJwT25iNW1veXdWSXItUkdnMzdSSEYyNnl3?oc=5",
       "pubDate": "2026-08-13T15:51:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
+      "pubDate": "2026-07-31T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
