@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:24:54.066Z",
+  "updated": "2026-08-20T20:20:00.087Z",
   "items": [
     {
       "title": "Shopify asks Federal Court to stay CRA’s new request for merchant information",
@@ -58,14 +58,6 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "US federal debt breaks through US$40 trillion for the first time",
-      "outlet": "Benefits and Pensions Monitor",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmxaeVp0RWxzUEUtRXhnRVV4NThzMHpOb21venY3eWpsVmdrZm53aFlncHpfbVBEOGZyTTRjYW1sZVN3dWpQQ2dKWXdEaEZFUGY0X2ZZR3N0OEcxV0VKY2ZMRGZoZmpHNmV2VzZmdmdNV3BiajRpRHRxbHE1Uks2b3pfZURpdG9IMlFCdXdaS1M1OXo1NUpYTllSSVFWdUd4Ti00YVZES2cwWnNRZTE1OVA0XzRaSXFhVWdpaEtOWUowRm9GbWsyTkpON3E?oc=5",
-      "pubDate": "2026-08-20T11:33:06.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "US federal debt passes US$40 trillion, doubling since January 2017",
       "outlet": "Wealth Professional",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXBJOHRMNXBjOHFjanJOUXlwbHNLV05kcEhIeHhwRU02Z0o2MWs2WHNUVHR5bVJ1LW44UnpWUFlvTGYwX3BFVWxtQTJVRWJTTW1WSnJicGRieldtWkREV1RjUzdvVnBSR2pfQTQ4dXdLWTJIZmlkZFdQd09qR0ZtdE56Wksxak9tT3FaYnl2VU42cl9rTVBsMU0yS19FTUdhTHVWOUg1VFQwMXE1c0pta1RJdGVhd2xiTUR3ZHN4VDdfZw?oc=5",
@@ -74,20 +66,20 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Keystone XL: What Trump’s focus on an oil pipeline says about Canada-U.S. trade",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVFFySHhCdGI3R2RNYTR2Um94dUhHOUk4YkxQUTJDN0xmdF9RQ1YyOTJjMk9ZVy10RVo1NGVmcmZFcmFhamFvM01rdWFINTV4SWNoY3ZXU1lvRk9UYk1yRl9HUHMwRzg3eHRZd19PQnZGU2NW?oc=5",
-      "pubDate": "2026-08-19T20:13:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Abbotsford employment rate climbs for first time in 5 months",
       "outlet": "Abbotsford News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTklnVmlUZ2d2NE5keXQtLXlrbmsyWF9rWmJVWHB4N2NKQk1XMF9yNUtjZDBKN1Vqb3pEM2dtYUJMUW02R1dmVkpOaU4yMjk3aTU2NTc0ZEEzb293Q3MxNTVGOUNpWXNmT085QkdwdjVjS1cwYTAyajYzYnpDVGNHVGcxWVduR202TXg4N3JBNzAyQUM1RzRtaA?oc=5",
       "pubDate": "2026-08-19T20:11:31.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Key dates in Keystone XL pipeline as Trump claims contentious project being revived",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMjBybk91N2lDcW42T3gwUFlNaUI4bTlVTldOa0xRRHd2OXhJUGlYTkhWM25TVWllcjRkcTR1cEZ5VHBGY2cxX2J4YzY5OTZVYU5VWlVlblRidVR1VFBKbVJPU2hXNmFXQ2U0NGtDWUlFb2VWVy1nS0gzVQ?oc=5",
+      "pubDate": "2026-08-19T18:20:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
@@ -120,6 +112,14 @@
       "pubDate": "2026-08-17T17:03:10.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
+      "pubDate": "2026-08-17T08:01:22.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     }
   ]
 }
