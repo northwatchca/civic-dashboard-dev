@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-20T02:13:19.895Z",
+  "updated": "2026-08-20T03:39:52.071Z",
   "items": [
+    {
+      "title": "US, Canada reach 'deal', temporarily delay tariffs",
+      "outlet": "global.chinadaily.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTNEUk9FSHJmVFkySGkzZ25JODZZT3dZdmt4TVBMVTAxaVEyS2FRcVlPOEFxZTc3a0N1OHE2aHY5dGZvdTZYZDBJUkQtcW8taWtoUVI3MUo1eFF6VThwUTFzZFQ4REU3VTFsT1pZTDlXS0RHNjlHSjE2WWd1dkhIcGtn?oc=5",
+      "pubDate": "2026-08-20T02:17:56.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVWWXpZTkZOZEV0eTViSGp1VE0xM2lzYVcyTmlpb0RjUV9ZN3lyRW80MmxVcDhCVllHMHozQXhtTHZfYjdNSnEyZVA4RXBsMHpCaXp3d2VmaWVUV3VSUUFJdDlSOEUtdVFPSFhlclhvSUZvM1l4QklvdjJjbzM0OTA1VG1wT0NyR09uaExSLXV5Z1I1QjI3VS1R?oc=5",
+      "pubDate": "2026-08-19T23:23:12.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Keystone XL: What Trump’s focus on an oil pipeline says about Canada-U.S. trade",
       "outlet": "CBC",
@@ -24,14 +40,6 @@
       "pubDate": "2026-08-19T20:00:07.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "What is Keystone XL—and why does Trump want to bring it back to life?",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RYXp5dVZTWUhsRVZYcXR3MGY0QkZWcjM0Y1RQQkt3dV9mWGJ2YWZSSnYzYm5MRHppWmpBcDVuU05MbFFfeEE5QUtvSTJKbWFaSENKMXRaZEk2RzFSbTM2eUZjdnVESkZnMjFBVDZaZnpwOWRwbGx0VC1KZw?oc=5",
-      "pubDate": "2026-08-19T19:51:25.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
@@ -58,14 +66,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Trade discussions focus on autos and alcohol restrictions",
-      "outlet": "Winnipeg Sun",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWhieGZZQUVNQXBHZkE5UTFhbXU2bV9YUlBGT2gyb2plaEV3eVdxXzczUV8yRHgxTDNORDRlY19WOWlNd0haS2MxY0Q1Qk9aRVRTOHhURkdqN2ZyV2hBZTRhdHluODNGX1pEdVJlVG1FTlNZeFRWc2J1VDhzdVlTZW5wS3R4dTlxQUUyNkFvbzlvZmNfN3ZwZUdlaUY2NWJDdHZLYURHMGRDaXZKVE5DaFE5MENRTlBjV3VMSXBiTV85Nnp2N2tFemMtclFvTXIzRVJOWkJBc3FKTUktTDFrV1doOElDdmc?oc=5",
-      "pubDate": "2026-08-19T11:30:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Minimum wage comments are 'madness', says business",
-      "outlet": "ca.news.yahoo.com",
+      "outlet": "Yahoo News Canada",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmRwRzY0WGRlYWdpdzdQV3VUeERtVWVyOWplb205OHVGM0dSZm9RNFJKU1RWOGNwb1VLMVJIZHowVlVfbWJpVFZJYkwtWFU4bGNmUlpRUWJVUElaOGdhS0tlVFNSZFQ1TnVEVlBEQXRtS3dXT1JyMGRIREFOdEdtVA?oc=5",
       "pubDate": "2026-08-19T05:13:00.000Z",
       "category": "labour-inequality",
@@ -114,12 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Putting America’s staggering federal debt load in a perspective Canadians can understand",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGlyakJqZzlmbFVWSTdQcVZTSW8wYWdhQmdfbHE2SWhpdVk5a2NEU0ZVc2JvRUJJWjlwaDVPRUg2amRodWNHVW1zTk8yZkprU081SGFjRkZKVUhUM0YteW16TVBuQzJpNXJTWE5QYXRXUVBJYkVOWS1xb3BQSDRVeWdJU1pKNTJ5dXl4LThZVk9Tdw?oc=5",
-      "pubDate": "2026-08-13T20:18:38.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Canada’s unemployment rate hits two-year low: Five takeaways for dentists",
+      "outlet": "Oral Health Group",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm5EaWMwR0N2QjlRYWxSRFVqa3MyNVhwRzlwVktMUFlMakFlZ3h2UEZPaldpN09nZHp0NHBab2lFSHpKUVBnam1ReGU5RjBLRS1RV2UzNkd5bDhZdmdEVlZYVzE0Y1NqN2tuR1ozeE8xbkVQN2tGbjdDSGxpckhqbTNBTlFwTVRnRkhtZFNsZkFXcExzQlNSWGJwT25iNW1veXdWSXItUkdnMzdSSEYyNnl3?oc=5",
+      "pubDate": "2026-08-13T15:51:36.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
