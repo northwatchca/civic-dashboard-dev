@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T02:12:05.884Z",
+  "updated": "2026-08-22T03:36:01.294Z",
   "items": [
     {
       "title": "Global bond selloff pushes Canadian fixed mortgage rates higher",
@@ -8,14 +8,6 @@
       "pubDate": "2026-08-21T20:55:09.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canadians may need to act soon to claim up to $1,800 from the CRA",
-      "outlet": "Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GMGNlSlhGVEJNa2RRQ0JhZnRYQXptdV92TXh4QVk5M1FwZnhreDRRaHBLc01rVjE4TU5LeGg4bkU1dTg3RGhaWndZZFl5V3F6WjFjZE15cw?oc=5",
-      "pubDate": "2026-08-21T20:13:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -48,6 +40,14 @@
       "pubDate": "2026-08-21T19:32:10.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
+      "pubDate": "2026-08-21T19:09:19.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "CRA T1 adjustment delays: the HR and payroll implications",
@@ -98,20 +98,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Here is a list of Canada’s current and proposed oil pipelines",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3NlVDRLV2Jfb1JaSDdPUzVraDVjbzE3NFI1RFdKWVotdGI0VVdiRTlNUW1JYXdRZG1nSm14RXRIWjR1UTl2d0oyUFhYc0FWMWNXNTZGWTdIWm9VdUFVcXVGdlgybDgwT18zajQzRjc2Wnh5aHFSRldBOXlnTG9QMkZ2elRicEpXRWpTYjZqU1NxTjRuYjMyN2JMVEV3NEJ1bXNOdVNQcGRfSTg?oc=5",
-      "pubDate": "2026-08-18T13:45:32.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Understanding permanent residence numbers in Canada",
       "outlet": "canada.ca",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
       "pubDate": "2026-08-18T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "CRA looking into pharmaceutical giant Eli Lilly Canada's taxes",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXlVbTVhSDRWdUNHTWpPQ3I1ZEl4MzMyelpWUFpyVXI4OFJxbENxS2d1QktWTXBmd0s3LS1CV25naTBtSkVfdmVaNnZvcTI2Y29iaUpmTU94SFNsWGcxaG13RlU3bnUzek1RTnJFYXNNU1dQc2Y3RHVjTTk5UnlJa1hEWVA2SWstUmJYTmpxcjR5NVdaemNZWXhtdUdBSklSemc?oc=5",
+      "pubDate": "2026-08-17T08:01:22.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, July 2026",
