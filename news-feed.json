@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-23T00:54:59.673Z",
+  "updated": "2026-08-23T02:21:03.352Z",
   "items": [
+    {
+      "title": "THE OTHER SIDE OF THE PIPELINE: It Goes Both Ways - Canada Needs U.S. Oil and Gas Too",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXNzV0dtelFESGpwckF2cGp4R0RQZHh6eVQ4aWVLMlpTQjBGRnVCZlhqSDVWSTg4WGZ0SzhmMHBjZHk4NUVISU01SWV6eEZ1NklQdkFxekYzTFd0ZFQ5SmxIOWFWT292aHpja2pVZEJ6OXJPT3dHTnktS3RXcWNtY0Y1SEpwZ1ZxNFktaERCckVNUlkwRTZkNQ?oc=5",
+      "pubDate": "2026-08-22T23:35:55.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Trump trying to destroy Canada’s manufacturing base: Unifor president",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMVBHN2tJalhIX1FXaGRUS2NOREd1d0dNeVlEYUJ4d1VmZ3JwYTBQbXMtSE52dkJqQ0RCa0pTdjJHMldHb0FqS3pxbDBRVklFN3Y4Y1ZEaVlidw?oc=5",
-      "pubDate": "2026-08-22T22:29:30.000Z",
+      "pubDate": "2026-08-22T22:49:14.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -58,18 +66,18 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-08-21T13:11:23.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "N.B. to hold public consultation on minimum wage",
       "outlet": "CHCO TV26",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JNFlKY2VzVzNjVkRlMnRaSFBhSnVzZjNHc282OVpHOEFOaFc3TEZhVUt2ZmJlX0FseTFnUEZkTnMybFFQUVJTcWFzMEZBR1VTbVBOcDUwSnF2SGtibHFZc1ZZQVdpVktYeG9IY0FYNVNtdw?oc=5",
       "pubDate": "2026-08-20T16:46:44.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Minister apologises over minimum wage comments",
+      "outlet": "Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlJ2WkVJNVdfbG9zWUNxTWdRRkpsdGQ4TFlXdHhFMHJNZTRfVUhfb3JaR1FGZ0RxdjI2Mkh0NzhLWkxtbnJqN2J1MUZkTFVoX0FtaFh5RlBzUE9ya1dnRmFrM2tvanFrOTF3SkFTVTFNS0ljUjBBMG01OUxDYmtmaWdNb0s?oc=5",
+      "pubDate": "2026-08-20T15:14:32.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -112,14 +120,6 @@
       "pubDate": "2026-08-18T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
-      "pubDate": "2026-08-07T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
