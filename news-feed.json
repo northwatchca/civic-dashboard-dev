@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-23T05:22:36.116Z",
+  "updated": "2026-08-23T06:28:47.527Z",
   "items": [
-    {
-      "title": "Prime Minister Mark Carney's Statement on Canada's Withdrawal from Bilateral Trade Negotiations",
-      "outlet": "Policy Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTlEcS04Q2pZRVVqT0NXZUYwWkJPUEczNzFBaEFsWlBJUHRtczlsRXF2Rm1EM2FRckVOaWRRQlpBSVF1OHIzOFlWdEh2Y1l2NjQ0U1pGSmhOLUxZSVlTR3FFTFNBUl9xNjhIcVhJM0ljbEd3Ym1XeU13YkNyWm9UaDgyVmFtS2hTV3BpNmw5SUY5WE1SSTV1dlJaQThHU1pZbHRtaXZmclZxbHY3bFlsdm5SemNaMlU1dlFjVktwTkUxdw?oc=5",
-      "pubDate": "2026-08-22T23:30:36.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
       "outlet": "EnergyNow",
@@ -30,6 +22,14 @@
       "outlet": "rbc.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYUdNd0NOMXBhMDhWSmZWRThGUnVpaXNSZHNobkNQN2dMX2lidUViM2hRQ1hFV3BTWU4wOEZKbjJ1R0NITXp3WklKYzhMQmZ3S3lJQkZuc204NGpfdE8xOTBSU25mV1RfZzlxYWF1dUhwVlJiNTFDeGFWWmlaNUxtWnhxaGctY2llNHo2TFc0aWtUel9RN0VwWXVpS1NaQ0F1VmxpVzZNcWVHSGVfQVdwQ0tyZmV2cGFLa0tnRGNHNlBrNzdELUdZc2h4WjU4REJXLUFJMkNBU3ZQcUpMNmFxT1lhaW9ZbFdUUm5fRG9EdVRQZC0xaEE?oc=5",
       "pubDate": "2026-08-22T14:18:29.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-08-22T13:18:33.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -114,12 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "No rush for Bank of Canada to raise interest rate even as inflation rate hits 3%, say economists",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3Z5YmJmdkxnRDVBaV9fY3RjRHBydGlPZVc4RWc4eUR3ajZXMFdmMWZCRmNpTXlPcExJcFdnY0xNWklEbmc1dmcyWnd4V2V3ZnlYLXRXSVE1T1U1cTdURmdxQjZXOENoTi0tSzJZN0lZVndUS0FMTFgyZUNKX05sQU9Kb0ZIcmJlQUVXZjNDVnZjYm9pSDM1bE85TQ?oc=5",
-      "pubDate": "2026-08-17T18:08:24.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Map 1 Unemployment rate by province and territory, July 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
+      "pubDate": "2026-08-07T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
