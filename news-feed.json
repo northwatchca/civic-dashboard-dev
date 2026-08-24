@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:37:39.652Z",
+  "updated": "2026-08-24T05:32:30.010Z",
   "items": [
     {
       "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
@@ -58,20 +58,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canadian growth rebounded in Q2 with domestic demand also strengthening",
-      "outlet": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXhuY253a0RIckN2elJTOU1WVEk0VWowdklNOFllbk1Cc0tiZkZwRm45MnNnRERnMXlUeHNxcHJmbGM2VF9fdXZVYThfQnpwNVk5aGNMeW5XMkNBVFJKZWo4LS1QbFhYT19qeWhfTkJoU0N4UEt3RmlJanNFU2x0MDZSQUpkOTdEQWJRdkxDWWlsbWE1cWVLcWhXTWhPeVpCR1JQZktEdU5tcFV6cjZidlVBSFBlcWlSaHVpVHVMcw?oc=5",
-      "pubDate": "2026-08-21T13:03:11.000Z",
+      "title": "Canada could lose 90,000 jobs to Trump’s 50% tariffs. Here’s how",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUQxTGJQMXVrRWFnTG0zZ3IxZEFrRlp0djl3c19QWWpkM3FPMzB4VU1lVy1BQ0c1ZWxJcGNVVGU1WGNzbHVWSS1KM2t5OHZObTUxa3RzTW1iTGxHdU1zbk9SeW5GbDdrMXJISF95ZlU0MXdra19yUTlxVHhiMng2b3BVLXFDdXJyejk1elpLZ3l3OFR2M1lyaEdzUVV6Q0VIMlR5VERHaDNiSk0tbHo3SEFzZ3JwNi1zbGZLRzZDaw?oc=5",
+      "pubDate": "2026-08-20T15:13:06.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "N.B. to hold public consultation on minimum wage",
-      "outlet": "CHCO TV26",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JNFlKY2VzVzNjVkRlMnRaSFBhSnVzZjNHc282OVpHOEFOaFc3TEZhVUt2ZmJlX0FseTFnUEZkTnMybFFQUVJTcWFzMEZBR1VTbVBOcDUwSnF2SGtibHFZc1ZZQVdpVktYeG9IY0FYNVNtdw?oc=5",
-      "pubDate": "2026-08-20T16:46:44.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Report from Canada's Economic Strategy Tables: Advanced Manufacturing",
@@ -114,12 +106,20 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
+      "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
+      "pubDate": "2026-07-31T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
