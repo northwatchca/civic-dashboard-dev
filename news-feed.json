@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T06:41:50.710Z",
+  "updated": "2026-08-24T07:52:08.641Z",
   "items": [
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -66,6 +66,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "US federal debt passes US$40 trillion, doubling since January 2017",
+      "outlet": "Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXBJOHRMNXBjOHFjanJOUXlwbHNLV05kcEhIeHhwRU02Z0o2MWs2WHNUVHR5bVJ1LW44UnpWUFlvTGYwX3BFVWxtQTJVRWJTTW1WSnJicGRieldtWkREV1RjUzdvVnBSR2pfQTQ4dXdLWTJIZmlkZFdQd09qR0ZtdE56Wksxak9tT3FaYnl2VU42cl9rTVBsMU0yS19FTUdhTHVWOUg1VFQwMXE1c0pta1RJdGVhd2xiTUR3ZHN4VDdfZw?oc=5",
+      "pubDate": "2026-08-20T11:30:46.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Report from Canada's Economic Strategy Tables: Advanced Manufacturing",
       "outlet": "ised-isde.canada.ca",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0llMmV1SWFEcFZNZzEwSlpkdFpZaG56V0p1Z2dhVEN0clBGZW9DSHM3OGtvMXBCX0FNdzdYdks5LXVMdVAyMDBhZTc5bVF1NVg3TFE3SHoxOU1rZmEtQmZmLUNfQmZfQzVzVzdCM2lRMXVqUjdPUm55eXZFeXk5ZTJ0S1JxX2hMME5ZMVRjbjNHMWZDUDVIUTBtc1JmZmluZUo4WlVQeUVsN1BjWHB0emJEaGI2ZnY3aDlCdm13?oc=5",
@@ -106,20 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5",
+      "title": "Labour Force Survey Monthly",
+      "outlet": "Government of Prince Edward Island",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
-      "pubDate": "2026-07-31T07:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
