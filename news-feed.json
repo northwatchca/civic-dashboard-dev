@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-24T11:19:56.437Z",
+  "updated": "2026-08-24T12:34:51.803Z",
   "items": [
+    {
+      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
+      "pubDate": "2026-08-24T10:29:50.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
@@ -16,14 +24,6 @@
       "pubDate": "2026-08-23T23:11:09.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
-      "pubDate": "2026-08-23T22:46:10.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
@@ -106,20 +106,20 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Map 1 Unemployment rate by province and territory, July 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94R09XUndYZUNCaEE4U1NvSFc4aEgtdlRMOGx1dnpLRVk3dDZ4Zm5KeUt2aVlUSWlYTl9DaGZVSGZLMVhQMUpxYXgyTXdDdHhXNFhRc2g4NDNfek1qUlE2YkRaVW9ycWtzaUtpcHFmaWxCMmVOakxkT3pB?oc=5",
-      "pubDate": "2026-08-07T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkRTeUpVYWdZUXFoejBQNnktczE0X2ZsTVRkMllDTUljUDFYUEw2Q294Q3RLTWhOQXBpbUpjcHpaMldZZW0tcFotajRzLThYWnJPWmV1OThBNFNUaU02Rm9pMUZfdV8xWDE4UFlBeGJmVmNuWTVicGh6dGJHLTAxeFZhVkdHZGRGZkFqa2JWMzdBU2dIZ3ZSajkzbFczN09fQVdLclE1SURvSjE2QXNXVXZDS3d6RUE?oc=5",
+      "pubDate": "2026-07-31T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
