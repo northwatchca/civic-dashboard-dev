@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:19:09.568Z",
+  "updated": "2026-08-25T23:19:03.540Z",
   "items": [
     {
       "title": "Fact File: Trump makes misleading claims about Canada-U.S. trade, economy",
@@ -8,6 +8,14 @@
       "pubDate": "2026-08-25T21:55:09.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Fact File: Trump makes misleading claims about Canada-U.S. trade, economy",
+      "outlet": "paNOW",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RMQ3ZXTzJ0MnY5Ti1qWUsxR2d1SGNRWU1FdXBMc09aUm5GbDJQODVvN3hoM2lpUTYzcFpFWXdRNnhDLXhBMkZZX2pfc0JFOW4xd0RkWmdsSmxVZlc0anhWSHF2SmV1LXAxSER6Y0tha21heldYS18wck5TcjhsNFZ6TFdCTVNpWU1VZlZoNUxKbmhYUVkwZENSRWZvd3dYbVE?oc=5",
+      "pubDate": "2026-08-25T21:43:49.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada needs to boost non-U.S. trade in light of tariff war, says transportation minister",
@@ -66,14 +74,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Ontario premier wants Canada to withhold oil exports to the U.S. Here's what that would mean",
-      "outlet": "Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGl0eS1HQjFadWgwemZkaHMtWVBjWU9OWlQwcmNEX1hGeTJxS2E0eVVpNkpiQkk1YjNHSUpJU1luakZSY1YwZmFySGUyWl9PNmFTbnFkN1pXb1FLRXFuT3NzZFZ2MndGNVdNX0MxZTZDanVfczZOcFpGbEJLdTYzbjF3TUtqVXVWeTZvZ01MYzk?oc=5",
-      "pubDate": "2026-08-25T11:06:21.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
@@ -116,7 +116,7 @@
     {
       "title": "Canada on track to admit fewer permanent residents than planned for 2026",
       "outlet": "CIC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmswbjJiUnVoWHRybkQyeUVqMmxES1FSTG1zX0YycFlSTTRaN2pDWk5zTXFZaWV4X0pWLTFSWUF0UnlVWFlDM2ZWWTRpLXFnNGRfUDl3bVZ0cmRlVWlfWWE3YkkwcnZQcTJHeDFCVlpnak1GRXFkSDViNzgzMWwzUkhkY3ZuVUJ6cGZubXFGTS1VN0pWd3o4cXNRSkRxalcteDFXS3dlbG1tQ3NIQUh3RzZ6VTBtZGRV0gG-AUFVX3lxTFBXTmczUzlodV9lVzJRQTZnVHAwOVFfUXBuem1pRTkwX3VibTNuTEp5dnF1VUtkMWkxTGM5LUhGZXZlWnRKeTdXV2pWSnNoTE0wQ0QxWFZtdGFKREZNMDlOa19iWFRoZXF2a2Q3dVhMa2pIQUNJQXlJVll1TVJ0TF9neGktTzBWTzA3NkRDa3c2X3V3eWVJXzFJLU9TS09hNnJzRkhEbjY3YVVBUThGbC1uMXhmeUllVEF1aXBZWWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmswbjJiUnVoWHRybkQyeUVqMmxES1FSTG1zX0YycFlSTTRaN2pDWk5zTXFZaWV4X0pWLTFSWUF0UnlVWFlDM2ZWWTRpLXFnNGRfUDl3bVZ0cmRlVWlfWWE3YkkwcnZQcTJHeDFCVlpnak1GRXFkSDViNzgzMWwzUkhkY3ZuVUJ6cGZubXFGTS1VN0pWd3o4cXNRSkRxalcteDFXS3dlbG1tQ3NIQUh3RzZ6VTBtZGRV0gGeAkFVX3lxTE1aUmhzcGp4MjRTa3hNaGVkVEIzTWFXUXRjcHhpZUh0dVdNWEdHbG1oWFFQQmM5Uk11c19aTEtDeEwxUHRXNW9XZFJrNk5DcjJ3eUxXMUNqYWZGOUdCbEhIZm5UYUl6a2hvRC1TLWw2SlpaU05lUFI2LVFhVHdfaXVTMFNudWo1OHNLd0lCMEdxSEVwb0lmdDAtWWpvcXRNSGdraVMtY2d0bmpNOVBiemJXODFnX1hiSHFXX01HN0NwS2RreVcyQjVZakZIeWI4ZV9IeGZoZWduRjN0eFI4eTZMM3plWng2MXh6TW9jM09xRl96Q0xRWU8wT2syN2VkdmJfRGVkM0g2OVlSQVMxeFdibVpKNHNTdElyWmdTcGc?oc=5",
       "pubDate": "2026-08-19T16:30:53.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
