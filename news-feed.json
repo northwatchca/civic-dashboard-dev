@@ -1,35 +1,11 @@
 {
-  "updated": "2026-08-30T02:56:29.825Z",
+  "updated": "2026-08-30T08:53:36.077Z",
   "items": [
-    {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-08-29T12:58:17.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-08-29T12:26:22.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
       "pubDate": "2026-08-29T12:25:14.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
-      "pubDate": "2026-08-29T12:02:39.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -40,6 +16,14 @@
       "pubDate": "2026-08-28T23:56:27.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Why this Canada-U.S. pipeline has emerged as a midterm election issue in the U.S. Midwest",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXhWeVpqa3NJNkJlTzIwb0h5bmFHMTZTVHBoc2dwaXo5TjdmWFdrbXRad2ZtYmU2X3ZtVEpBcHQ0VDk0ODVOaG5adjNIZ1ltOC00N2JEc0laTUlnMnBhYzluSFV1a0czeUZDRG5iSVpYaEdHWUVPc3BEdzJna0JqUXllT25iZ0liMDdUZkpjMVJaLUU2TXZQU0F6NHpIY254WWZncWJjM3pYcWc1bFZ6RkI0c1YxVkFnWHBoalE4ZzRIUQ?oc=5",
+      "pubDate": "2026-08-28T20:46:26.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Here's where minimum wage is increasing in Canada this fall",
@@ -56,6 +40,14 @@
       "pubDate": "2026-08-28T17:46:58.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada's economy posts fastest growth in three years",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibndQOTliR2RzRUdqR0k3WVE2N2cxZmh6dVoyazAxcDNqX2o0Y3ktMHp3M3I5M0hMTmhNWFBrN0dCT2FJb0xfV0pZZElId0lUNUdkVGMxRnRQQThRbUx1a0FCMVBiOWZrN1RXT1lDMFlIV2JkV2dpTGVOdFo?oc=5",
+      "pubDate": "2026-08-28T17:19:40.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
@@ -82,6 +74,14 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Up to 12 per cent of Canadians don't file taxes. It's why Canada's tax overhaul must look beyond cutting rates",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUGNCTUVLQ19MM1lZbG54dWFpNWtnOE5yQi1jVERXVlVYY2w3NERlVTZONjA2SEVxNVZnczhRTXAzSlhoYmRDZ2QxVGtDWHcwdERTR01fQkl5d2o1dk4wTE9tOThISjQ0UjZPXzY4NDUzVHpmeExaSWI3b29EeUFZVmFyNlBQdDQ1TkR2WFVhcThSUndpcWItOXpxQlk0WW5QbkI3RkgxenJBcXQ0RFFFMkhhcTlDLUlRdWtpZmFJRV9yOURFblhzaVctMXBxbXo1RUVxMFBmaUFEUU5JanFxd2R6X3NlTTBkdUw2ODJPV2hURFFkQjdxTE4tdw?oc=5",
+      "pubDate": "2026-08-28T11:35:52.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
+    },
+    {
       "title": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
       "outlet": "Radio-Canada",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkMzV2xXVGkwZHhNc1JKSGJpcHNzbXhGSWlBYzdFazQ5ZUE1RUdqV1gxblQ0MUNUQzhGb3dySmNDVkFoZlhWdjRsOXFzSENrRnhVam45b2J2NGpCdUlxdXhXV3JwV0RsbllJZDctMnJyNUxVbEdkNkdJUklKVVUxVXdETl9LSmtHT3p4bEFoTUFPMi1HOHNTNnNCV0FueEtsSnJSSjFLZlh2ZnBPOEpoaUVZNEVFOVR4c2pJZVV5YmJaZnFNWjhQa0dWRU9EUVFXVHBCQQ?oc=5",
@@ -106,20 +106,20 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "West Texas offers Canada a warning: Build energy infrastructure before the bottlenecks return",
+      "outlet": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHctMm5jYzFaTUE1TTVDTkVGSXROdVdCdEQtdzY2Vy11NlRnaU9Md2lvaURmdjRJaFNtQXg0OUNlSml2cWZNRjdQMTA5OUJaOFpTRHdMWnNNUU1aQjcwUmJuV2tYNkYxSWR0Wi1jM3JrRnpNSmJfTXJnbG50N0hJSGFHdjlacHVjN1NhOGhUck1PQWw3SE1KbWVaZE5MVzViM25YQnd6WUhKSlZBSGV6NWxMUFNJdk9DeFgwcVhHVjVHdHZD0gHKAUFVX3lxTE5LMUU1cE9RWVhYVkZDOHpzSGE3dUFfeGcwZFo1cVBpMm9wY2psbnhzTVlNWUZTTVV1VHdPOE9EUFNGbXd5YW40MkpHTS1UcE5oeVZiS2dQMTJwSGdwMXE5WGU3eXU4MDFFcnQ1cWFmRnFialNKc1hCWG92U0R2dWZSRzBJTEVqUzV6MEJxN1hUeWZzMzR3c0VTUklOVWhrMmIwaTVCaXUxXzNHTnRVZncydjRWN1A2RXZYeTJSdjZPVGJzY182UkZ1SHc?oc=5",
+      "pubDate": "2026-08-26T20:05:44.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "CRA is hiring for jobs in these cities and some positions don't require a degree",
       "outlet": "Narcity",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFdndBMVZwN19kRWdKRHRnUTkwR2oyd1FaaWt5TzZna2xCbGlIRE1EZFVoMzhabXZTQ0dvVHlyWmo4SGlzQ0ZDejhOa2R4bS00S2NkLUd2X2R3cG9RU3VhelVTS19sY1hfMzF0NWxxdTFleFE2VWc?oc=5",
       "pubDate": "2026-08-25T19:58:42.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Up to 12 per cent of Canadians don't file taxes. It's why Canada's tax overhaul must look beyond cutting rates",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUGNCTUVLQ19MM1lZbG54dWFpNWtnOE5yQi1jVERXVlVYY2w3NERlVTZONjA2SEVxNVZnczhRTXAzSlhoYmRDZ2QxVGtDWHcwdERTR01fQkl5d2o1dk4wTE9tOThISjQ0UjZPXzY4NDUzVHpmeExaSWI3b29EeUFZVmFyNlBQdDQ1TkR2WFVhcThSUndpcWItOXpxQlk0WW5QbkI3RkgxenJBcXQ0RFFFMkhhcTlDLUlRdWtpZmFJRV9yOURFblhzaVctMXBxbXo1RUVxMFBmaUFEUU5JanFxd2R6X3NlTTBkdUw2ODJPV2hURFFkQjdxTE4tdw?oc=5",
-      "pubDate": "2026-08-22T09:00:00.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
     }
   ]
 }
