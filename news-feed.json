@@ -1,13 +1,45 @@
 {
-  "updated": "2026-08-31T06:31:08.559Z",
+  "updated": "2026-08-31T14:42:53.687Z",
   "items": [
     {
-      "title": "Canada’s interest rate prediction",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nbnotem1qWU1NZ2d5eGtENVM0T3BHWkU1T3AtdVZOWFZJaG5DelVCRmtKVDN5SGNKd0hmQ0lrUjdKbDE5T0F1Ym9Ncmp3TWVqb045aVJGenNUSHVRY3U2OWc3Z2tZbFZGMFhmUjctOUQ0WTBlUlhwZg?oc=5",
-      "pubDate": "2026-08-30T15:03:36.000Z",
+      "title": "Federal fiscal deficit narrows sharply in first quarter of 2026-27",
+      "outlet": "Benefits and Pensions Monitor",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGR6M0V2OGc3Y1dqZjFNV0RhbHRCZGJybzlqdTgyOFBZMUJNN25JWVM5LWRRNnZId21rcjVZdWFKQnZWUFA5ZzRNWEpaMVlXcnV4RTI2dGRQS2hXa1gwdmJxS0NWSEl6Y2VWRnFWeFRVRjNweW13TXRWek85aGg4QzRBMWRNdnVMZlQ5SWREdU9MWml4T2FXc2JRc1Q3RlFrZlI1YmFWemVmYUZtdzFyTW5UNkJ3X0g5ejFtQ0o0YlJ1U25DQzJwTzJrVk51Tk5f?oc=5",
+      "pubDate": "2026-08-31T13:12:56.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada's GDP surge runs into tariff and bond market headwinds",
+      "outlet": "Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUZhLXFyeHNSVks4Z0Z2VzRwWkhjdl9wal9nanBDUGJDV052ckdKNkhNbURuM2pFRDU5dk1YN1VwNlhHdTNXVk5lclhybU5iUlpQWUFNZWp5bTkyYzZRQ0laaDZKanFfNHdCd0tqZ3U1SlZweXRiNmJ2c2tZbVNFLTU5bDdZZElwRHlaSWVYUW1yN2pm?oc=5",
+      "pubDate": "2026-08-31T12:30:12.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
+      "pubDate": "2026-08-31T11:27:49.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canadian Oil Tycoon Backs South Bow Pipeline to Boost US Exports",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanBQQW1VM3A3NUhWNmNFVHh1UGJWclczVU53cUNCa3dRMGJIZ092bGlPWlFIVkZRdGdjVXVtVEQ4X181TzRWdF9vVjlzMjhVSjI3a18tbzBLNkxDd3lVVHFkeHplZTVtUDJqMTdqZlJhekZKWE9kcmxYMVZHWHk2RF9fUzdKd2lrN0NzVGVJNWMzMFpwU0txMTJ3?oc=5",
+      "pubDate": "2026-08-31T11:27:49.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
+      "outlet": "Money.ca",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3hlbjhKdTlOazJlemgtN0Fpa0JJdkVMallqTlJqZ3VkQlY5WHRaTmQ3dXUyZEdZWkFJTDN5eS1PbndfSVVXMjg4S3FyemtaUU1FNFFJNWczNXhFSURHU3RJVldPbEpuSEF0aE91Uk96S3hyN2R3bHZ5eXhSaW5sbVh0dHRMUWhW?oc=5",
+      "pubDate": "2026-08-31T10:31:04.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Immigration board asks feds to better track temporary residents",
@@ -16,14 +48,6 @@
       "pubDate": "2026-08-30T10:26:06.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
-      "pubDate": "2026-08-29T18:35:51.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Here's where minimum wage is increasing in Canada this fall",
@@ -66,14 +90,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada's economy posts fastest growth in three years",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibndQOTliR2RzRUdqR0k3WVE2N2cxZmh6dVoyazAxcDNqX2o0Y3ktMHp3M3I5M0hMTmhNWFBrN0dCT2FJb0xfV0pZZElId0lUNUdkVGMxRnRQQThRbUx1a0FCMVBiOWZrN1RXT1lDMFlIV2JkV2dpTGVOdFo?oc=5",
-      "pubDate": "2026-08-28T17:19:40.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3FucE55NnJyS25GdXpnTnZwc3NoMWgyQm9ZMUZGTjRZeHJRWnJNWXUwdklDNlZKcFhFSmhzYXc5NWI5SFZKbUZKbXhqZHczS05UeWhLZkZxcms4NDFCcDlWRnppM0JkRmZJbVBtVHk?oc=5",
@@ -104,22 +120,6 @@
       "pubDate": "2026-08-27T21:00:10.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canada's Foreign Influence Transparency Registry: The Income Tax And GST/HST Consequences Registering Organizations Are Missing",
-      "outlet": "Mondaq",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZkdOcTY3WHZSVjh4enlwMG90cWhDLTVuX3kwSThMQjhYeUJPa1Q5V2VQZV9UWjFHS0o1RW1aai1Ca0pzUkNwQWg0YmxLUm9sYW1FZVZaOXJ5VExZNHBUc3BHY0JvcjFGZnByZXdRUWhNYnJzZlZjMUNxMHZLd0FaX004b3dpR1Q4QlJLNnptM2hjT2JCaFAyRzdhdWlXdWxzcGc3N3d2eUZqU3hlRnU1b0VzVklydmhqemVzZUZhN2oxRUR5bTV5TTI4RUNZWGtiRUVwT0N6bGhFZXBHWXhtRTBkMjRnMXJQdWp0RmhQOU80ejQzQnlsUi10T3dvN2JvZG9aNk1PbnozUQ?oc=5",
-      "pubDate": "2026-08-27T12:12:06.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Fact File: U.S. could inflict pain on Canada through energy trade",
-      "outlet": "CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHR2VFk4a0V0c0pwSm15cnFLbks5N3d0OC1EYkU1U1lNdUpSU1V3NnhWT3JnbWhXSzJJT2daVGtydWxMLUF3WTRHbmJ5dHRaNjBuSjNHN0xLZGpZVVRiNjhSVU95a1hyQTNTc0RZa01BSVdITFhmcnp2M3dreXBBTU81OVZhQUlGWWh6Z0daU1BCTlR4RTkzUzdoekM4eENLNUZQdzZsbG8?oc=5",
-      "pubDate": "2026-08-26T20:58:41.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     }
   ]
 }
