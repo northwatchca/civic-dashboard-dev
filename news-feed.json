@@ -1,45 +1,21 @@
 {
-  "updated": "2026-09-02T18:18:51.108Z",
+  "updated": "2026-09-02T21:29:22.952Z",
   "items": [
-    {
-      "title": "Canada’s Economy Grows Strongly, Though Tariff Uncertainty Casts Shadow",
-      "outlet": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTEyZnU3OHh0T2xaVlJZVFdyVERkSzFTWTVjSExKcTFHM3ZQZmRPVnJmekxLVFBkYURGbWpQSEJ0bVJ1Z3lRQnBiVzl3T2VmQmd2MTRnMXVjWkpJZUVRNWpxV2J6X3FNbWZKa0trbDllNm0zRzNNbUNjZmFYMXduT1Z3ckFueTg?oc=5",
-      "pubDate": "2026-09-02T15:22:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Bank of Canada Holds Interest Rate at 2.25 Per Cent – September 2, 2026",
-      "outlet": "CPAC",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNDZTUlJPTjFCXzNvdU1NOXFYdXNqTWtsY09BUUdZQncxSGJJbkZfMGs2cGFVWktCTmJJa2RzZXhMOVFweDNRWHhKSWY4ek1oVndBUF9tZW51T2RhMENkZXd0bHpHdThnZ09ldmNTcnJIdjk0dENnaUJ6bElKVmktbUxQWFJEaDBQbkxENllrS0JIN1dVTlF0cUx0VTZvbHZBN1RFWS0wVmJNbS1Ebnp4NkF4elcyWF9SSTlRM1kyZnppMkwzZXJpZUFQZFYwV0VzcnRUT3g5UDNXT2ROWTVmczdfcFNCVkRPbnc?oc=5",
-      "pubDate": "2026-09-02T15:19:37.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Bank of Canada holds key interest rate at 2.25%",
-      "outlet": "Radio-Canada",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTM3WlQ2eUREV0hMUXB6LW81azJwLVozakVQbS12MktaU05zLS1GMXpiR1NiMkk1LXZhaXJ3ZlVEYmlGb2RsMFUtdnlkWGhxLTMzSHd0dnNZWVRmeHlOY0RsUWV4NmIxZXJlSG90U2dBUWliSkJXbXA1em1yNFNFZGg3VzZ1M1pWbnptbjB5NjVUY3JrOFZNenRn?oc=5",
-      "pubDate": "2026-09-02T14:12:34.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
     {
       "title": "Bank of Canada holds interest rate at 2.25% as trade war clouds outlook",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmlwUDlSdlB4eXc2S0JwUDhWTTRRLW9aOG1zSklWM25hUVpscEJOUUM1elRmRGZySFdJX0JXRnA1dDVVNHotWkMzUDNBYzFBZjJfWEZIeEFiTGt0TkFmZjdwdkpCc0dYclJmZXlJSUFSekt1bW1DRGdPMDdKSC0za0VaaDZzM1BwS21EUnhn?oc=5",
-      "pubDate": "2026-09-02T14:10:18.000Z",
+      "pubDate": "2026-09-02T18:14:48.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-09-02T11:54:55.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Bank of Canada holds interest rate again as volatility threatens growth",
+      "outlet": "The Real Economy Blog",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDRPTVRlZE9aOVVaTVB3dHNZbFJSMDQ2elNLUlE0MEhUUzNCNWNzT2ZfOHQ5SFR1X2JkWDBwSXZ1bWpVVS1WYmpmcnFOWHZmdlNUeG9SS0txUmx1eVRfaHRfZlJEdVhYUk0yaVlULUw4WjVsMFNXdmFtZnlXWXRDTEk1Xzkzc3NvRVlEaEhULURfbDJqRjdjRHFYZmdZNWh6SjlWRA?oc=5",
+      "pubDate": "2026-09-02T15:19:26.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Trans Mountain Readies Expansion in 2027 as Pipeline Space Fills Up",
@@ -48,6 +24,14 @@
       "pubDate": "2026-09-02T10:30:30.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Bank of Canada set to make 6th interest rate decision of the year",
+      "outlet": "CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVc4aW5ERHRpX241NzFsMDJNOFJTQ28yb0ZVLVJybnVlejhtUzZ5UGluZTFXXzA5YTY3M0hKVTlZdjdKMDFUV3RKdTUybmN2NXczWncxRDZQa1QwejEwamZLX3pmcnNIdHhfc0RRWE02SWFDWjNyV1loUUhWTE5XaHBES1dRbHo1RlVMYTV4WHdsUTczX1U1SnpRZzVIZDVmTkZROVBWd18?oc=5",
+      "pubDate": "2026-09-02T08:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "New report says Alberta’s proposed West Coast oil pipeline may not pay its way",
@@ -74,16 +58,8 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Together we demand the CRA end the Canada to Israel charity pipeline",
-      "outlet": "Just Peace Advocates",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDNEZjlrb0RhYkVFakZUYi12NmJvbk9CeGhyNGJUeWYwMU5jUzZYZHJjb1ZpY2FFUE1VTGZZbFdBUVFENldZZXNYelBYNUFYdS13MTJUNlBkY2RrTjJiSjJucEV4UmFwUWNRYTlGY0tPN1hKYTB4Vld2UkZ3REZ4ZzRvWGF2eUJrbGRvUzRsV2RZalUyZGYxTGNCQVNtMDJwbzJBLWRR?oc=5",
-      "pubDate": "2026-08-31T20:37:24.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Minimum Wage Increases Are Coming Across Canada This Fall And Here’s When",
-      "outlet": "604 Now",
+      "outlet": "604now.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeXBwc1hwRUYxdl9Yd2JBcW1zVGg5SDBKajJqbllBNHBtNmYzQVhPMDBvR3RvT2dqU1ZzckxNZnMwUndLeTdUa0x3N0hPekw3MS1rOWlZU2x3WFR1WjN2LVNHQzJJTnF0S013?oc=5",
       "pubDate": "2026-08-31T20:32:03.000Z",
       "category": "labour-inequality",
@@ -98,10 +74,10 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3hlbjhKdTlOazJlemgtN0Fpa0JJdkVMallqTlJqZ3VkQlY5WHRaTmQ3dXUyZEdZWkFJTDN5eS1PbndfSVVXMjg4S3FyemtaUU1FNFFJNWczNXhFSURHU3RJVldPbEpuSEF0aE91Uk96S3hyN2R3bHZ5eXhSaW5sbVh0dHRMUWhW?oc=5",
-      "pubDate": "2026-08-31T10:31:04.000Z",
+      "title": "Together we demand the CRA end the Canada to Israel charity pipeline",
+      "outlet": "actionnetwork.org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTklEOVZURGdjMEpXbWhXUzVydnhmaG00czVzQVVHZjhabUpSMHdyeFJLekR3MmZIcmF6MWh3eG9vVG5ZbWZvS08xTjU1dHpsWVFiQ1UzQmdfTk5mclM4VXFKWmRqSGdmcUdaSmRNNEVBSFkzaWR1ZFVCek0zd2NLZXB5NnN1S2xoaUJzczhsYWJ4QlZ4czd0WksyOXV5TEZ5Mmk4Ug?oc=5",
+      "pubDate": "2026-08-31T10:40:10.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -120,6 +96,30 @@
       "pubDate": "2026-08-30T10:26:06.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada's economy has found its footing. But is it enough to survive the U.S. trade war?",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03Vk54MjBIcUF4QVkyQUJWYzYtWDR5YVZlYmhFZHNXVzFGdWZEelVyZWpvelZNQ2xhZXhjSGM0U3RsaFJyN0JJdzhXcFhFS1lyY2pIRTFCOGVieGV3bTk4YlNOamNISWRYaUZEZTFKdGtvcG1ZN01JRkkwU1FEZw?oc=5",
+      "pubDate": "2026-08-28T20:00:55.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s economy was surging in Q2. Now, it braces for new tariff headwinds",
+      "outlet": "bnnbloomberg.ca",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnRVWGNZVWdVaHY4eXV5OGVvS0VtNTFwWUt3NGpOajZzbkhIWFprelNENmNveG5NNk9HTEotZ2QwRFg1VWd2LUtFUkZSd3RLWnVhUVYyanBjbVRUdV8walViVl8zWFpOWmNJXzRNS19rVXdkZ2hpMmIxaE00VGtKa1pjZDR3ODFVcl9nZ2J5SjBWcWV4cHBPblhFVlhQVzNvUVdmQXQ0TmFUVW9YWjZIRFE5aGJhUUZDbnRVdnF5ZmpyLTQ?oc=5",
+      "pubDate": "2026-08-28T17:24:58.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s GDP rose 3.3% in Q2 with Q1 data changes showing bump, not dip",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4emhrRkRkdGFhOHRKN2YxQlpfeTA1MzFOTnlXS2RzeDIyZkU2UVdBNmRtM2dwRFlONnpjVUtRUFpCanJNT2VfV0RmdWJBNmllZzFnRzd4OFhrU1ItU3dOMC1zbDNCLWYyV2s4b0psUFk4QzA?oc=5",
+      "pubDate": "2026-08-28T12:13:48.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     }
   ]
 }
