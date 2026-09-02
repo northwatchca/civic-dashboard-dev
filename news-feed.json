@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T22:16:44.057Z",
+  "updated": "2026-09-02T00:44:45.023Z",
   "items": [
     {
       "title": "Canadian dollar weakens ahead of BoC rate decision, 10-year yield hits a two-year high",
@@ -11,15 +11,15 @@
     },
     {
       "title": "$5,000 up for grabs in CRA hacking settlement — here's who qualifies",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tMEpFRVFLc2pfN0JyRk5UYmpkSjJNbFhiQTdIODBkczEyb1VMR1dWTGF3ejRfZ1RfeDNjUHAwY0c3OE1pY3pGRC0zNENrWFNyQjNLQUVlZ1V4MVFIaUdXMkExblJHUkJMTjlRRFdLSWRwZnhZ?oc=5",
-      "pubDate": "2026-09-01T17:42:18.000Z",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92X0VsdGU3TzRfVjFhbEpkRTRtZElqem5PTmIxdkxveHYwLXdqc2hwNWZERURRektBa19nTnpHNXFfQnR1c2tTRzJ6eGVkMkVBa2xFTlFvQ0RjSUlFejB3M3QtTzh5U2s0ZW45aHhVc2s0ZGhFNXRkS0JhZTM?oc=5",
+      "pubDate": "2026-09-01T18:30:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
       "pubDate": "2026-09-01T15:42:23.000Z",
       "category": "economy",
@@ -34,10 +34,18 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "WARMING UP TO A PIPELINE: Enbridge Warms Up to New Alberta-to-B.C. Oil Pipeline After Carbon Compromise",
-      "outlet": "energynow.ca",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2ZvcWh0d1NIUHNySkNpTEdYN1R0bktzd2RLUlRfUUtXMkNGVDRRc1RkQ19iZGtZQ292WFlkSU85RGhCOGVBQWNaMWlsVTMzUnRNYkJfRi05UFl0SUw3Zk81dlZWQUd2MmdTM1VXb2Uzd2xUNzhzOENSTDBhU0hXd2MwSDlWVkFWTHloUjFGWUdGaER1YXplN09Ia3VsRHFTZ0dnemN5SktISlZ1NEkyN0FsaTZxT3pZ?oc=5",
-      "pubDate": "2026-09-01T12:57:13.000Z",
+      "title": "Assessing Alberta’s proposed West Coast Oil Pipeline",
+      "outlet": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNk40T2VwckEwOTZ1cUtNYmZidVJ5OXROVVlaOHJjN2cwblN4WmhoUzAzNngxRVpMcVNRM3RmdlpoT20yOTJWSlpKNVYwY081SFN2ZGswTWo1eG16MndXakplUjVnMEI1VzFqaHpMVjZzSl9jR253R1lqWExmMnlOTjl0OU84dw?oc=5",
+      "pubDate": "2026-09-01T13:56:56.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
+      "pubDate": "2026-09-01T12:56:57.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -46,14 +54,6 @@
       "outlet": "Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaUR2OVh5b2pQNEZPMGYweVFJRWxkX20wQ3dydVd4VlFlOHBYZjZSZ1JRYW84ZnZ1R1VPdnlnZ3Q0UW9udmhPcUlIamlPaEpzMFJPMTRHU19JVEJxWTFDT1JHMWVpenRLQjhyRlNYMTBLTEt1MGxIaTlTdktfZmdVNWFnZDFaSnZiVHRmblUzSW1yNW9QR3k2VWtxSnA4cUhRWmJVZWtMcV9EVURwY1p4WGYzNldZcl8zeG1mMkJNRlp4dy12d2hOdklZUmttTXRPRzFndEdPQXl2T3psYTFsYWlTam9hVmRYekJ0V3Z1a0pfODFpMWc5YllLb0RDdUk?oc=5",
       "pubDate": "2026-09-01T11:00:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "energynow.ca",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-09-01T02:46:59.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -74,14 +74,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWY0RXM4R3BaMVpFVVBuVjlPRV85R2VDSm1HTWNHQVJnb1NjSThDdGpaS2xSdEJfQzN3TXRMLUl1UzNTYm9jSUIzSDRqVHpYb0dXM3djWmY5bVRWZDRCbG1fR1RDNzBhRE84SkhRTXZjZzlqR0VMN3B4QzBjLTdPS2pjR2hyWEk?oc=5",
-      "pubDate": "2026-08-31T11:00:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
       "outlet": "The Hub | More Signal. Less Noise.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0w2eVFEQWZYWFRaV0Y1WjhIM1BPeWhwamJHYkhKYi02OVlDU3lfZEU3aVRpbXpZQjFxWm0ybjBKMFdGODVKZXBCZ1A5ZzhuWVMweC1MRjhHTTFWcFFtT0JBdDdYVUFTUlRnNlVkLVE4WDE5TUxGZDVwVVJ6WVRYTHR1V25EQ1JYRG0wRnRScXE2Y2UyaXJLN3pHU3FRa1NuWDhvTkh3Z3pOWFZK?oc=5",
@@ -90,12 +82,12 @@
       "categoryLabel": "Social Fabric"
     },
     {
-      "title": "Immigration board asks feds to better track temporary residents",
-      "outlet": "CHAT News Today",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT25LVWJYN2ZXVUxxR2tVc1VKSjJEellvZVEySnViWnhYRDctbkFGOWl2RkFYT012Q29VOU1CbVRsUl9aR00zanJEenJaMEg3cmlzQk40SG1EUEdYQ0ZhanBWdm9ROWI3bEdtVTZFVnRxeXAzRWs1ejQtMjdKZmFLcFNXY0R5MXBZUWY5a2JrNjJndm5jZU80RDhUU3VJMUtQZlE?oc=5",
-      "pubDate": "2026-08-30T10:26:06.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Ex-Blue Jay stars sweep doubleheader in multi-million-dollar tax battle against feds",
+      "outlet": "National Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUkNtcGJDb2lseDQwdlFDbTY1eThENlY3YlgxV0ZKZVhpMHRVTldqbHI2NGxDSi1RbnlrMEZZS3Qxa29Tb2tFWlRUR05SZDhxTHVGdVRFdm8tLXgtbHlxTFU5UGpnN1YteHA2X2NmclhIaGhkNG4wX3U2WmxWM0pyS19sMFhLOVM0Y01KX253UzBOSVJFcXRtN0FqaHc4RXdnSGlDbm9hWVgtRm5EXzdJMk13VDFBRWQ4SmV5LXNqMXA?oc=5",
+      "pubDate": "2026-08-28T21:26:37.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million",
@@ -114,12 +106,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "CRA announces prescribed rate for Q4 2026",
-      "outlet": "Investment Executive",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWd5aDV3azlXa1RPTzFlV3R2dEk1ZTNyZTNQdGRmb2dzRlpzWWRPQmdPRm5HREpBOGZkdTJadWNRRDQtWWplRHNvb0drWlhqWno3eVV1TXNmUml5STBIMmFNZ0liRGdmNmt3cVl4MGppMEkxQ1RiSmM3R1FXaGM5VmFwSEtUbFNYSGJHUVAydTdhTTR2VjdDbzU2MFJUcEE?oc=5",
-      "pubDate": "2026-08-28T15:07:59.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "title": "Understanding permanent residence numbers in Canada",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
+      "pubDate": "2026-08-18T07:00:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "No rush for Bank of Canada to raise interest rate even as inflation rate hits 3%, say economists",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3Z5YmJmdkxnRDVBaV9fY3RjRHBydGlPZVc4RWc4eUR3ajZXMFdmMWZCRmNpTXlPcExJcFdnY0xNWklEbmc1dmcyWnd4V2V3ZnlYLXRXSVE1T1U1cTdURmdxQjZXOENoTi0tSzJZN0lZVndUS0FMTFgyZUNKX05sQU9Kb0ZIcmJlQUVXZjNDVnZjYm9pSDM1bE85TQ?oc=5",
+      "pubDate": "2026-08-17T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
