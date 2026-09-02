@@ -1,21 +1,61 @@
 {
-  "updated": "2026-09-02T10:21:24.225Z",
+  "updated": "2026-09-02T14:51:58.821Z",
   "items": [
+    {
+      "title": "Bank of Canada holds key interest rate at 2.25%",
+      "outlet": "ici.radio-canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTM3WlQ2eUREV0hMUXB6LW81azJwLVozakVQbS12MktaU05zLS1GMXpiR1NiMkk1LXZhaXJ3ZlVEYmlGb2RsMFUtdnlkWGhxLTMzSHd0dnNZWVRmeHlOY0RsUWV4NmIxZXJlSG90U2dBUWliSkJXbXA1em1yNFNFZGg3VzZ1M1pWbnptbjB5NjVUY3JrOFZNenRn?oc=5",
+      "pubDate": "2026-09-02T14:12:34.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Bank of Canada holds interest rate at 2.25% as trade war clouds outlook",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmlwUDlSdlB4eXc2S0JwUDhWTTRRLW9aOG1zSklWM25hUVpscEJOUUM1elRmRGZySFdJX0JXRnA1dDVVNHotWkMzUDNBYzFBZjJfWEZIeEFiTGt0TkFmZjdwdkpCc0dYclJmZXlJSUFSekt1bW1DRGdPMDdKSC0za0VaaDZzM1BwS21EUnhn?oc=5",
+      "pubDate": "2026-09-02T14:03:45.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-09-02T11:54:55.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Trans Mountain Readies Expansion in 2027 as Pipeline Space Fills Up",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3REZ2pXRzVQU2lHRXNCYXNzTWRlNXdWaXB0SGVzajVMWHNZZGJBa3BRS2pDMi0zQW9mSG85bXRBaEZPVkx3SW1Yc1Z5MHNpa1BiRFBYcGpzUG5NV01UNTgwb21UeVozd3lmSWE3bFBBNnFCTEo1VFdVaTRuLVhGdVY1QUtMSzhYdkp5Z0pSWTItSmJmTVJZTXM1Y1U5QQ?oc=5",
+      "pubDate": "2026-09-02T10:30:30.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "CRA Business Account: Authorization Traps - Tax Authorities - Canada",
       "outlet": "Mondaq",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFdWRUdOWTVpaHNabzZzSmpXMWR5N2MzVlJDU19HbFVZWVdseHVBa01ZU0cybjdsMmVvdDhqUVhLMzB2cHY2aFR0RmM4OVhKOXhZZnNJMkRUa3BQcGt4RmtxZW42UjBWalZSbXFIemNpVlJxd1MyZG13b2l2UzltRTk4NTYteW5pWFZWMEhuWUxmZ21hZXRUOFlR?oc=5",
-      "pubDate": "2026-09-02T09:11:15.000Z",
+      "pubDate": "2026-09-02T09:12:18.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
       "title": "Bank of Canada set to make 6th interest rate decision of the year",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWExeklaa0dhMk5YTjRGUUtNbDlmNkg2S2NvZ1lNOGt0TTNRNTlaY1FUZGNqTGNWUUw0ZDVTTTlSMkd6di1NU2hlZHFpb0NrZlByMGZzTzhQbXZDbU0xQ1VrSERJejA5OFBzOW1rM3pmUnpUMDFLRnRwSkpHajhhZ2xLbEFBYW1pWVRySHJQLWMwN2taajR3NWNrcTI0dHp0MmhYNG9QMXRWUQ?oc=5",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclMyUVJsNUtCTU81U1JaU05PNXVwRVh3SFF3dVVTQVNBWjFSaTRvY2d2MU5ta3FFbGZoZW5JcU04X0VsYkF4V0dlRmU5TE5kRDlZNFVRMDN2WEpxMGFoaTByZ0VGTVlDVXR1R2F2OEVxT19TTDRsVTg0VXBCdldNeTFVcThwMHp1S01JSTU4YkNIc3U4WkdzRjN1Zk5fU2xncmJkQnByLWRtR0xvb2wxZElxUGk?oc=5",
       "pubDate": "2026-09-02T09:05:05.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Carney government is betting pipeline revenue on a carbon capture project whose price keeps climbing and carries environmental risks",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXNHbjVYeERYQThwVFM4UlhHeUt3b3dqeEh3THNuSVpYWHhjY0phWUVsQ29LVmxLWXNDYjFUMF96NEQ3dEJBZWNmRWJjUmJ0THhuNmM0U01QT1paLWFQMVAtRzdMLW5ZdGpvbkhoMXhwYVhYY1pVRHkwTjJPXzBrZ3JZUlhBMng2dlZscVVfWlJsSGVuZy1reEZ6RU9tcG5LT0VLZHJqckhXNUZycUVMQXBCRUlIcER6UEZr?oc=5",
+      "pubDate": "2026-09-02T08:30:33.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "New report says Alberta’s proposed West Coast oil pipeline may not pay its way",
@@ -34,22 +74,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-09-01T14:55:23.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
-      "pubDate": "2026-09-01T12:56:57.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Minimum Wage Increases Are Coming Across Canada This Fall And Here’s When",
       "outlet": "604now.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeXBwc1hwRUYxdl9Yd2JBcW1zVGg5SDBKajJqbllBNHBtNmYzQVhPMDBvR3RvT2dqU1ZzckxNZnMwUndLeTdUa0x3N0hPekw3MS1rOWlZU2x3WFR1WjN2LVNHQzJJTnF0S013?oc=5",
@@ -64,14 +88,6 @@
       "pubDate": "2026-08-31T11:27:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3hlbjhKdTlOazJlemgtN0Fpa0JJdkVMallqTlJqZ3VkQlY5WHRaTmQ3dXUyZEdZWkFJTDN5eS1PbndfSVVXMjg4S3FyemtaUU1FNFFJNWczNXhFSURHU3RJVldPbEpuSEF0aE91Uk96S3hyN2R3bHZ5eXhSaW5sbVh0dHRMUWhW?oc=5",
-      "pubDate": "2026-08-31T10:31:04.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
@@ -90,14 +106,6 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Why this Canada-U.S. pipeline has emerged as a midterm election issue in the U.S. Midwest",
-      "outlet": "National Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXhWeVpqa3NJNkJlTzIwb0h5bmFHMTZTVHBoc2dwaXo5TjdmWFdrbXRad2ZtYmU2X3ZtVEpBcHQ0VDk0ODVOaG5adjNIZ1ltOC00N2JEc0laTUlnMnBhYzluSFV1a0czeUZDRG5iSVpYaEdHWUVPc3BEdzJna0JqUXllT25iZ0liMDdUZkpjMVJaLUU2TXZQU0F6NHpIY254WWZncWJjM3pYcWc1bFZ6RkI0c1YxVkFnWHBoalE4ZzRIUQ?oc=5",
-      "pubDate": "2026-08-28T20:46:40.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3FucE55NnJyS25GdXpnTnZwc3NoMWgyQm9ZMUZGTjRZeHJRWnJNWXUwdklDNlZKcFhFSmhzYXc5NWI5SFZKbUZKbXhqZHczS05UeWhLZkZxcms4NDFCcDlWRnppM0JkRmZJbVBtVHk?oc=5",
@@ -112,14 +120,6 @@
       "pubDate": "2026-08-28T12:13:48.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Up to 12 per cent of Canadians don't file taxes. It's why Canada's tax overhaul must look beyond cutting rates",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUGNCTUVLQ19MM1lZbG54dWFpNWtnOE5yQi1jVERXVlVYY2w3NERlVTZONjA2SEVxNVZnczhRTXAzSlhoYmRDZ2QxVGtDWHcwdERTR01fQkl5d2o1dk4wTE9tOThISjQ0UjZPXzY4NDUzVHpmeExaSWI3b29EeUFZVmFyNlBQdDQ1TkR2WFVhcThSUndpcWItOXpxQlk0WW5QbkI3RkgxenJBcXQ0RFFFMkhhcTlDLUlRdWtpZmFJRV9yOURFblhzaVctMXBxbXo1RUVxMFBmaUFEUU5JanFxd2R6X3NlTTBkdUw2ODJPV2hURFFkQjdxTE4tdw?oc=5",
-      "pubDate": "2026-08-28T11:35:52.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
     }
   ]
 }
