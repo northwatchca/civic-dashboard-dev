@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-02T23:44:59.482Z",
+  "updated": "2026-09-03T02:27:06.868Z",
   "items": [
+    {
+      "title": "Bank of Canada keeps interest rate steady at 2.25% amid U.S. tariffs and Iran war",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abXVwNl9tRUVEaVVvT3ljODJqVzJ4aG1oaXRlZG5nWDBxcW5lczFZU0lkVWZXS0xvWkdqUEFLUlUtWUw0SExmZmdEa212ZS1PQUhqc0EzMG5Tdw?oc=5",
+      "pubDate": "2026-09-03T02:19:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada Revenue Agency (CRA) Entry-Level Jobs in Sudbury, Ontario - Apply by 27 November 2026",
+      "outlet": "Global South Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1MlREcFNQMWhQc0tWSmo2Y3dBb0xIejlmTjVaN3NpeEgxS1N3YnZrZ2hVd0R3eFlUNDNLd0ZCVEQ1QUc5S2R0dWxFUmRqcXh0T1dSa3R1NGc1ZHVwcHFiR2dlMnpqMnM?oc=5",
+      "pubDate": "2026-09-03T01:49:29.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "Bank of Canada holds key interest rate amid trade uncertainty, Iran war",
       "outlet": "CHCH",
@@ -8,22 +24,6 @@
       "pubDate": "2026-09-02T20:09:55.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Bank of Canada keeps interest rate at 2.25% amid U.S. tariffs, Iran war",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lM1FJMGlpSXVXSjJQYUo3czkyWnd2cWE1MndpQWhDdEdmMjAya1dFNlRVdkk3a2JxR0lFcUJwLWdQMTNkbEUyQmlkaW1BU2ZhMENoVUZQT1EyUQ?oc=5",
-      "pubDate": "2026-09-02T18:42:59.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Whitecaps To Wanderers Pipeline Continues With Mackenzie Loan",
-      "outlet": "northerntribune.ca",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85eE9zdWRNV0ZFUFlMaFc0X2JpZmdLMmFfVmhHVVJpWEJTYnhURHExOTNaRUNWYmdXbHRQN1l5cHhxREUxQzd5czlWMXhaQkNONHNPNHhsSS1QVE9fbzFqTExMd3BLell1Ymd2VFhaaGFpWW8?oc=5",
-      "pubDate": "2026-09-02T18:35:56.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Sobey School research secures $219,000 SSHRC Grant to tackle Canada’s productivity challenge",
@@ -34,26 +34,18 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Text of the Bank of Canada's latest policy interest rate decision",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUk5XcXdCT3hXSVotdHFpNS1JUTJ1NGxmaWw4akFFR2YySW5yOEprZnhBRktrT1pXWVZ4eEdycmprVmthZ1pPN2E1ay1FajdaZEIwTFl4UG5PR2tFbGhEeGh3MHVuZGpUZnZDV3ZyYkVZMEVNc1M3SHJYX1pUdHc4MmY5N2JWTHo1T09XNmdyeGJzX1F0TFplX21KeFU0VkhMLWtzcEgxU0JYZksyYnZjSE5FV0otZ3dBZlRjS0tWNXY?oc=5",
-      "pubDate": "2026-09-02T14:00:02.000Z",
+      "title": "Bank of Canada holds interest rate at 2.25%, warns trade war could sabotage recovery",
+      "outlet": "MoneySense",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXNPOUxTdG1UMTRYNnJ6NmJ0S1phX1dsZFFURWJzTE1ad1dBNFExU3VjZ0RhUG1OYzh1V1JXNlExVHNDdUJZYU54YUhXNzNhd2JRMnlsVDhRMjdfZy0tbUtRcjFxOEJTSy1CWXBkRC16Q1NJQ29MMFlscUVnLURVbTViZThQUnE5TDN2cQ?oc=5",
+      "pubDate": "2026-09-02T15:14:29.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Trans Mountain Readies Expansion in 2027 as Pipeline Space Fills Up",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3REZ2pXRzVQU2lHRXNCYXNzTWRlNXdWaXB0SGVzajVMWHNZZGJBa3BRS2pDMi0zQW9mSG85bXRBaEZPVkx3SW1Yc1Z5MHNpa1BiRFBYcGpzUG5NV01UNTgwb21UeVozd3lmSWE3bFBBNnFCTEo1VFdVaTRuLVhGdVY1QUtMSzhYdkp5Z0pSWTItSmJmTVJZTXM1Y1U5QQ?oc=5",
-      "pubDate": "2026-09-02T10:30:30.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
-      "pubDate": "2026-09-02T10:30:09.000Z",
+      "title": "Navigating Defence Canada procurement: Programs and incentives",
+      "outlet": "MLT Aikins",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWExPV1Y2ME9IdTkxTlpMSGFQYnFEQ21nUjJFQ2QxZlNXT1ZGNEtlLWJYRjVsdHJ6aDdsTk1qWnlIdFQ3LU5lc3hvU2R1YWxORTRHc2RkcE92WGktM0tQZnJqN2Qxc2hJdkVON3B2aGFPZ1dkMGtxQ1B5azJDTjVRbGZld3Nhc0E0WkdIY0V0MGRlbF9lbExSNllGeFRwZw?oc=5",
+      "pubDate": "2026-09-02T13:59:45.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -62,6 +54,14 @@
       "outlet": "The Hub | More Signal. Less Noise.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXNHbjVYeERYQThwVFM4UlhHeUt3b3dqeEh3THNuSVpYWHhjY0phWUVsQ29LVmxLWXNDYjFUMF96NEQ3dEJBZWNmRWJjUmJ0THhuNmM0U01QT1paLWFQMVAtRzdMLW5ZdGpvbkhoMXhwYVhYY1pVRHkwTjJPXzBrZ3JZUlhBMng2dlZscVVfWlJsSGVuZy1reEZ6RU9tcG5LT0VLZHJqckhXNUZycUVMQXBCRUlIcER6UEZr?oc=5",
       "pubDate": "2026-09-02T08:30:33.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "New report says Alberta’s proposed West Coast oil pipeline may not pay its way",
+      "outlet": "Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTYtRVNxVkVOWUFjYzViekhnLWlVRHA5YXJBLUxvUFFNT1pPZlZ5MnNGN0dzVTJ4WElwRnRHelNsSjFhN1NXUmE2a0FTeXBickNVZ080VHRka1JaT2UtNk9QajhFZkt6ZE5nNzAyNWRWSjE2d0VrY3BwNVNuUTYxLTdtb3JMbnFGNzI5Wmtyd0s4aUZjckthMg?oc=5",
+      "pubDate": "2026-09-02T00:44:56.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -82,20 +82,20 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "MILESTONE: LNG Canada Ships 100th LNG Cargo, Marking Major Milestone in Canada’s Emergence as a Global Energy Exporter",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFVHN1RQSEdzdWZtM251aU5FU1JGX0FJOHo3OTduRWxCZlhfTkFwRUlUUkQ2RGZYUFJhYXlLbS1vbnU0U1l5STN1bTk4Y2dUdUwxbDlxektZNnduazA4eUtsU1ZhZXRCenVsNHdaazkwV3FoSXVuU2xsVW1uNWJidUZVM0p0N1ZDTThqS2ZGSkNKQVFuekZRSlB0RkxqRkVRV0M1TTZLUXA4d3cydlFhTFhmb1BwVXc2b2UtOTFEdTBiME11dS1RN1hLdE9jY2xXNUlNZlVkN2VrTGdSQ0E?oc=5",
+      "pubDate": "2026-08-31T12:29:01.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Canada’s unemployment rate hits two-year low: Five takeaways for dentists",
       "outlet": "Oral Health Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm5EaWMwR0N2QjlRYWxSRFVqa3MyNVhwRzlwVktMUFlMakFlZ3h2UEZPaldpN09nZHp0NHBab2lFSHpKUVBnam1ReGU5RjBLRS1RV2UzNkd5bDhZdmdEVlZYVzE0Y1NqN2tuR1ozeE8xbkVQN2tGbjdDSGxpckhqbTNBTlFwTVRnRkhtZFNsZkFXcExzQlNSWGJwT25iNW1veXdWSXItUkdnMzdSSEYyNnl3?oc=5",
       "pubDate": "2026-08-31T11:27:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Together we demand the CRA end the Canada to Israel charity pipeline",
-      "outlet": "actionnetwork.org",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTklEOVZURGdjMEpXbWhXUzVydnhmaG00czVzQVVHZjhabUpSMHdyeFJLekR3MmZIcmF6MWh3eG9vVG5ZbWZvS08xTjU1dHpsWVFiQ1UzQmdfTk5mclM4VXFKWmRqSGdmcUdaSmRNNEVBSFkzaWR1ZFVCek0zd2NLZXB5NnN1S2xoaUJzczhsYWJ4QlZ4czd0WksyOXV5TEZ5Mmk4Ug?oc=5",
-      "pubDate": "2026-08-31T10:40:10.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
