@@ -1,11 +1,19 @@
 {
-  "updated": "2026-09-03T02:27:06.868Z",
+  "updated": "2026-09-03T07:36:16.139Z",
   "items": [
+    {
+      "title": "Canada’s exports are shifting away from the U.S.—can its transportation system keep up? 5 takeaways from Transport Canada’s annual report",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ3lnM1NabnNveXNXSVNJSDMxdjZSeWJ4OVRMbENmOFpSMndyUFpRWWFTYkN4ZTlWdGJuTUl3c0FaN21vdmlvNVJOTjZCOHZmZ3A1bHp1Z21kRExhTjZsTkFTdDB5aGplc3M4NVZGV0lZbHVpYUY0Yy13T1Z6LWo3M0NNMXdMb3gxMi0xQW1HSVhRdWNzUklhVGFuaU9TOThScFllZDFicU9FWkhPX1BKamNYLXpadGl4OHZXSVp4LUc3RUtudEhKTUw4SVB0VVZIQ28zS1dyR3dXSHZsQWljQ2M2dDBvNnU3MjFnQVBPbFY3V0NsWmc?oc=5",
+      "pubDate": "2026-09-03T07:00:38.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Bank of Canada keeps interest rate steady at 2.25% amid U.S. tariffs and Iran war",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abXVwNl9tRUVEaVVvT3ljODJqVzJ4aG1oaXRlZG5nWDBxcW5lczFZU0lkVWZXS0xvWkdqUEFLUlUtWUw0SExmZmdEa212ZS1PQUhqc0EzMG5Tdw?oc=5",
-      "pubDate": "2026-09-03T02:19:00.000Z",
+      "pubDate": "2026-09-03T02:53:02.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
@@ -18,6 +26,14 @@
       "categoryLabel": "Taxes"
     },
     {
+      "title": "What the trade war and U.S. policy mean for Canadian mortgage rates",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDdNYkp3LVhiN0x3bktSdG5XMTUxQ0hSaVpDZkJIYUc2R3BfWks2ZUJLWDdXZVVJR3NqS3JPTDNzOHdGQkFQanU1Z2M5X05scWw0bUNkNzVKWmJVYW9CZUF6cXgwMk1tdEVSemh3WnhrQ2hkVjlkVGZPT0dFdFQ0Q2dOTlpWWEt0T01iWDJtUGNMR2JGZFg2ck10YW1BSVBJVmxUMEhIdnpReXlNOTFvVHZEaTNLOHo5NnRGckZrRmc3c0h3UUtwOTB1bHFlZw?oc=5",
+      "pubDate": "2026-09-02T21:20:58.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Bank of Canada holds key interest rate amid trade uncertainty, Iran war",
       "outlet": "CHCH",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemMyOHVKTlJLOGRFaEdQSi1fM2Zad25fbEh3VGw0a1pmR192VE5SUXVvcTF0RUxISzVaMC0ySnQ3TGRCd0I0UjRjNU1vbVpJaW1GZ1N5NE8zNWw1TzVsTjZ3dVQ3Zm9ZS0dHb1I5VHJkN09FTFZ2aUZtQldlNVJLWld2dkF6UDFvN3hFU1RWSXVtel81TTFsR20yVkE2eHZ2SXRGcA?oc=5",
@@ -26,42 +42,18 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Sobey School research secures $219,000 SSHRC Grant to tackle Canada’s productivity challenge",
-      "outlet": "Saint Mary's University",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjVtX3I0SFhvdzE4amVtRHBJcVFVUDFlb0xXRmlwYVJWTERKY0hFOFZCbmxEUGtOZ0c1UnR4TFpGZnJWV0ctOE5iejRaejFKS3U3LXlrNzZDcTVVa2hISkxLV2x6dlM3QVJtcDZlY3lsNHRNRG1vMWxIRnhlRVV2U0toeVUtd3hnQm9mbWstRWlOTWVrM1BMMFNkSFNtOTRYNFBVUmVEeGRhd0RRSi10QWpxbEJidS1TcGQzSUFR?oc=5",
-      "pubDate": "2026-09-02T16:50:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Bank of Canada holds interest rate at 2.25%, warns trade war could sabotage recovery",
-      "outlet": "MoneySense",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXNPOUxTdG1UMTRYNnJ6NmJ0S1phX1dsZFFURWJzTE1ad1dBNFExU3VjZ0RhUG1OYzh1V1JXNlExVHNDdUJZYU54YUhXNzNhd2JRMnlsVDhRMjdfZy0tbUtRcjFxOEJTSy1CWXBkRC16Q1NJQ29MMFlscUVnLURVbTViZThQUnE5TDN2cQ?oc=5",
-      "pubDate": "2026-09-02T15:14:29.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Navigating Defence Canada procurement: Programs and incentives",
-      "outlet": "MLT Aikins",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWExPV1Y2ME9IdTkxTlpMSGFQYnFEQ21nUjJFQ2QxZlNXT1ZGNEtlLWJYRjVsdHJ6aDdsTk1qWnlIdFQ3LU5lc3hvU2R1YWxORTRHc2RkcE92WGktM0tQZnJqN2Qxc2hJdkVON3B2aGFPZ1dkMGtxQ1B5azJDTjVRbGZld3Nhc0E0WkdIY0V0MGRlbF9lbExSNllGeFRwZw?oc=5",
-      "pubDate": "2026-09-02T13:59:45.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Carney government is betting pipeline revenue on a carbon capture project whose price keeps climbing and carries environmental risks",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXNHbjVYeERYQThwVFM4UlhHeUt3b3dqeEh3THNuSVpYWHhjY0phWUVsQ29LVmxLWXNDYjFUMF96NEQ3dEJBZWNmRWJjUmJ0THhuNmM0U01QT1paLWFQMVAtRzdMLW5ZdGpvbkhoMXhwYVhYY1pVRHkwTjJPXzBrZ3JZUlhBMng2dlZscVVfWlJsSGVuZy1reEZ6RU9tcG5LT0VLZHJqckhXNUZycUVMQXBCRUlIcER6UEZr?oc=5",
-      "pubDate": "2026-09-02T08:30:33.000Z",
+      "title": "TC Energy Could be Open to Return to B.C. LNG Pipeline Project as Global Gas Crunch Threatens",
+      "outlet": "energynow.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3ZaVE5YekxXRjEyV3RCb0p5eGlzaVhSQXdFdl9NVGFTbkVvZTcybVZhbnhmWXpITHVtRjh3TE4wcXRsRXJIbUhZa2NYVFlYNERTdGpzbU9rcmlnbDd6d2gyc2lWTlpHbEoyNS1EZjFDSHVwb2NXbVB6OERUSjBZVXFxelU2U1pjZVFCdGRnWFRtcW4wWi1NZHBiTGxkQmM3aXR5aHRVWFAzVEY2Y05acVh1dmJwa1h5X3pJa1hEa0Y?oc=5",
+      "pubDate": "2026-09-02T13:16:32.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
     {
-      "title": "New report says Alberta’s proposed West Coast oil pipeline may not pay its way",
-      "outlet": "Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTYtRVNxVkVOWUFjYzViekhnLWlVRHA5YXJBLUxvUFFNT1pPZlZ5MnNGN0dzVTJ4WElwRnRHelNsSjFhN1NXUmE2a0FTeXBickNVZ080VHRka1JaT2UtNk9QajhFZkt6ZE5nNzAyNWRWSjE2d0VrY3BwNVNuUTYxLTdtb3JMbnFGNzI5Wmtyd0s4aUZjckthMg?oc=5",
-      "pubDate": "2026-09-02T00:44:56.000Z",
+      "title": "CERAWeek: Canadian Crude Re-exports From Gulf Coast Set to Surge with Pipeline Projects, Enbridge Says",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeU9iRWRDRlNWbnYxR2Fib1gwb1JmWEwwQ256ODN1R0VlcjNaSXVSbTlsUHhJN0tJVFlrNzhrX2VnRWxtYUFRRXR6YTdhbU9KUjFoWWFXdjNSUmNQTzg5ZlNHRGpQdXJ2b2pvTTcxRUpfWmlUbjQtNE9IV2Nha0pqdkR0YnRiODZta1JubFNvcEFTNGNXdWxrNjljeU5jRFU4NENiS19Yd0ZyS0lNdjlCUnVBRHFTMHpQN1JDNWNRc0hHcS1oMFdIeC1n?oc=5",
+      "pubDate": "2026-09-02T11:54:44.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -74,18 +66,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Minimum Wage Increases Are Coming Across Canada This Fall And Here’s When",
-      "outlet": "604 Now",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeXBwc1hwRUYxdl9Yd2JBcW1zVGg5SDBKajJqbllBNHBtNmYzQVhPMDBvR3RvT2dqU1ZzckxNZnMwUndLeTdUa0x3N0hPekw3MS1rOWlZU2x3WFR1WjN2LVNHQzJJTnF0S013?oc=5",
-      "pubDate": "2026-08-31T20:32:03.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "MILESTONE: LNG Canada Ships 100th LNG Cargo, Marking Major Milestone in Canada’s Emergence as a Global Energy Exporter",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFVHN1RQSEdzdWZtM251aU5FU1JGX0FJOHo3OTduRWxCZlhfTkFwRUlUUkQ2RGZYUFJhYXlLbS1vbnU0U1l5STN1bTk4Y2dUdUwxbDlxektZNnduazA4eUtsU1ZhZXRCenVsNHdaazkwV3FoSXVuU2xsVW1uNWJidUZVM0p0N1ZDTThqS2ZGSkNKQVFuekZRSlB0RkxqRkVRV0M1TTZLUXA4d3cydlFhTFhmb1BwVXc2b2UtOTFEdTBiME11dS1RN1hLdE9jY2xXNUlNZlVkN2VrTGdSQ0E?oc=5",
-      "pubDate": "2026-08-31T12:29:01.000Z",
+      "title": "Assessing Alberta’s proposed West Coast Oil Pipeline",
+      "outlet": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNk40T2VwckEwOTZ1cUtNYmZidVJ5OXROVVlaOHJjN2cwblN4WmhoUzAzNngxRVpMcVNRM3RmdlpoT20yOTJWSlpKNVYwY081SFN2ZGswTWo1eG16MndXakplUjVnMEI1VzFqaHpMVjZzSl9jR253R1lqWExmMnlOTjl0OU84dw?oc=5",
+      "pubDate": "2026-09-01T13:56:56.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -96,14 +80,6 @@
       "pubDate": "2026-08-31T11:27:36.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "CRA fines Vancouver realtor $103,785 for pretending a rental property was her home",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3hlbjhKdTlOazJlemgtN0Fpa0JJdkVMallqTlJqZ3VkQlY5WHRaTmQ3dXUyZEdZWkFJTDN5eS1PbndfSVVXMjg4S3FyemtaUU1FNFFJNWczNXhFSURHU3RJVldPbEpuSEF0aE91Uk96S3hyN2R3bHZ5eXhSaW5sbVh0dHRMUWhW?oc=5",
-      "pubDate": "2026-08-31T10:31:04.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
@@ -118,6 +94,30 @@
       "outlet": "CHAT News Today",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT25LVWJYN2ZXVUxxR2tVc1VKSjJEellvZVEySnViWnhYRDctbkFGOWl2RkFYT012Q29VOU1CbVRsUl9aR00zanJEenJaMEg3cmlzQk40SG1EUEdYQ0ZhanBWdm9ROWI3bEdtVTZFVnRxeXAzRWs1ejQtMjdKZmFLcFNXY0R5MXBZUWY5a2JrNjJndm5jZU80RDhUU3VJMUtQZlE?oc=5",
       "pubDate": "2026-08-30T10:26:06.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Ex-Blue Jay stars sweep doubleheader in multi-million-dollar tax battle against feds",
+      "outlet": "nationalpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUkNtcGJDb2lseDQwdlFDbTY1eThENlY3YlgxV0ZKZVhpMHRVTldqbHI2NGxDSi1RbnlrMEZZS3Qxa29Tb2tFWlRUR05SZDhxTHVGdVRFdm8tLXgtbHlxTFU5UGpnN1YteHA2X2NmclhIaGhkNG4wX3U2WmxWM0pyS19sMFhLOVM0Y01KX253UzBOSVJFcXRtN0FqaHc4RXdnSGlDbm9hWVgtRm5EXzdJMk13VDFBRWQ4SmV5LXNqMXA?oc=5",
+      "pubDate": "2026-08-28T21:26:37.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Nepal flash flood death toll climbs to 579, with 32 Canadians, permanent residents among missing",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5N0t4YnhZR0tPR1g4cklWdHI5bjZRb0plQ3VoUlpvSkVra0U5TVBKbmNzUFBXeWU4YzVaZU1FZkt6VE9Lamx5VGNrcENpQWFVNTNMOVJFejQ1V2hHSUw5cHFuM2lSN3N6S1VPMnRPNG1FQQ?oc=5",
+      "pubDate": "2026-08-28T19:28:52.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Nepal flash flood death toll climbs to 579, with 32 Canadians, permanent residents among missing",
+      "outlet": "ici.radio-canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2ZxUGpYZWV3MHItazlUSG9IS0ZrNzUtUl9HRVFGbWZQV01qVGlDNjdQdk55LUhjbVRtYzFZSWZDOXkxdmwwUkw5MXdXMU5jeE1ieFZaR3ZCbzNUS2ZPQ0JCWGduQTRBbWc1NUI4bFBVRjRTbm9ERFdCYUJhalp1X296QUhGd1Q1Q2RIbjBveEM0dUFKUmxRc3d1TFJMSmFYYl9kUUFlQUNibl9OVWpFdF9wMThYRDJfVWpyd1AtRG1VOVlSZVRUaVZTQTNWU2xyM2ZxVTJXS3B4QQ?oc=5",
+      "pubDate": "2026-08-28T18:53:11.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
