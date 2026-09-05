@@ -1,11 +1,19 @@
 {
-  "updated": "2026-09-05T00:31:57.762Z",
+  "updated": "2026-09-05T05:09:05.430Z",
   "items": [
+    {
+      "title": "Canada’s unemployment rate holds steady despite job losses",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TWmZESmp4SHdBbFdqTjNBZXZIM3NhcUdabEF2TlM5aFdBeHgwSzM5dW9QbHgxa2UtTlBRcGZWcnZYWi10X1ZzM0tmQmJKUzV2eEI2MHE5SmJ4QQ?oc=5",
+      "pubDate": "2026-09-05T02:05:16.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "Canada’s Oil Vulnerability Exposed: No SPR and Pipeline Bottlenecks - Tammy Nemeth: The Nemeth Report",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzFEaEV4NlJvTUpQWHhTbm9RWTJoOUhfV0ZJazRkYWtfQzdWRFl6c0pBXzBJOXZzeTBaX2J3QWVCdjRkWW4tQXFBaWNYbjhfY3I1NW5icHBJTC1CY0k1eFVOZ0QybTNRM0pRUW1JNE5yakVaZWxBWkF2ak82S0RiSExwSFB0VndJUjhtLUI3S0t4QXhJeFRkbENEN2hjckFHdVlHRzRvbnJSSHVjbzZfOHdVeWYtNzJyMVkwRVlIREJuZUVK?oc=5",
-      "pubDate": "2026-09-04T21:20:13.000Z",
+      "pubDate": "2026-09-04T22:58:20.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -27,7 +35,7 @@
     },
     {
       "title": "CRA will automatically reject older Disability Tax Credit forms starting Sept. 8 — here's how to avoid resubmitting",
-      "outlet": "money.ca",
+      "outlet": "Money.ca",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mcnl6YWlmaUFmdVRsNEpRdEl4UDZGbVBMaWNnRXdCalB3a2F0RHAtTy04RVhXekNSY2dWYXZ3Y1BZN2E4dHBmb1ZKZnpsZ0lBQzdCVjJXOE5LRHYxR3Z1NWRNcU13ajZkQ0pib0QwY0VnbmZKclBR?oc=5",
       "pubDate": "2026-09-04T16:09:37.000Z",
       "category": "taxes",
@@ -54,14 +62,6 @@
       "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FaV9pU1BmTGZqODJEc3RMVXVGSnNiWFZJa3RhYWRLaHY3MkJHb0Q5V2g3SDdsanRjRkFtT1FBbkluNFdOZmVueU9MWnViWUNpOHQ4Z2JBSHpIQmhHXzNEUmNxdW9DQkt2eUlacDBvOEN4b2FEZndmZVNn?oc=5",
       "pubDate": "2026-09-04T13:25:37.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Economy sheds 42,000 jobs, unemployment rate steady in August, says StatCan",
-      "outlet": "globalnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmxEZmVjeTVUTGwtamFkQmQ0Njl3T0s0XzE4Y2tQdnpUaTNXRTlESkJtS0dnQnVtWDFPS0NvMVZOTXBqQjktMVM5RlRxRGI3cmNJeDFVWk40eXBBZWVfNk9ERjZKSjk4MUE3YWZJNTJrdmk1SEx2NWxWQ0RtVVNUa0xYeEdHdFZpVVZGTFpOV3FQTk5VNnR6Q0Jzei1nc1JZaTVZ?oc=5",
-      "pubDate": "2026-09-04T13:07:07.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -98,14 +98,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-09-04T06:55:18.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnZpZUtVNS1NWV9KY19PeTZHZ21HendOQ3E5SVRvSmw1TEVCNHU3TTNYZ1p0dVU2NFRNeEg2MGdVRDVVY3ZWWjRyOHU5bTF5dkctN0ZKODN2eVRYN1VVN1gyU2JCN3F3NDJpZGlieTVCbi1FbHRNT3JJSi04Vm1kaUJqN1ZhMjZyYmxHY2RB?oc=5",
@@ -120,6 +112,14 @@
       "pubDate": "2026-09-03T15:41:29.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "We want to hand down the family cottage. What do we need to know about capital-gains tax?",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFZQbElJbTZWUHkzb3NYVlJORFAzcmp6RFRHMGgxR1ptWFdmMVdFcmNzMlZqZEVwOUhrZmhBM2dQWk4wUTBsRW42QWZaR1ZZTnItUDZ3Um5CSklseGRkWEF1NW9XVk4ycnVscXU3aXVlQUVjU25JbW0zS1VmMVRKbEt4Sk93ekxMSTBYZ0o4dzc4eGt4c0NvbUJZWE9aT1RmcDBKMUJiNGFTd3pIbl81YWRB?oc=5",
+      "pubDate": "2026-09-03T09:31:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     }
   ]
 }
