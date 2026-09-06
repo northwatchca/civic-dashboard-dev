@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-05T22:33:19.553Z",
+  "updated": "2026-09-06T00:28:10.838Z",
   "items": [
+    {
+      "title": "NL Unemployment Rate Falls, Still Highest in Canada",
+      "outlet": "VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uVEc2eVZ4SGZ4U1hhOWNZeHRxVThZblU4WmpyQjdRWHhzUFNSTlYtWTA4NXM5ZFlQOEVzVFB1QTRyUDJVSVRfdFd2SQ?oc=5",
+      "pubDate": "2026-09-05T16:45:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "energynow.ca",
@@ -18,28 +26,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Kelowna adds jobs but remains the worst city in Canada for unemployment rate",
-      "outlet": "Kelowna Capital News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXY1aFRhX3NxVjNvaEh4Rk05bXdQTHJnUW5VX2tmU1FIdnRjM21CRlFyT2RYREFpMzlJekZ3eDhWMEdpWUIyRDY1NzVnclFibnJJMFkxeVJXOTFkNnJldk5BeFB5elJEeWQ3dE1WV1VCdUZtekxkQW5GRGt2d2l2bXE0Z2wtcHdCUExVQXlha1N2amNzdTF2YVp1RXd6N2xOQXZHRzJNMHEyOTBwYzg1emR3aEFTdw?oc=5",
-      "pubDate": "2026-09-05T12:01:38.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Lorne Gunter: Eastern pipeline more effective than oil tariffs in Canada-U.S. trade war",
       "outlet": "Edmonton Journal",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFZkSjlibElfRVhYUFBrT25Ld1gtZUdnamR0VEhGTVlkRFpaX294RzRwd0lCWXNCbXVhQk1kUmtDY2tpRE5KNm5PcWNQajdPcGt5dmtuTUhuQVBCLVJ6bnladWRjTmJkOFpjWTR1MzdiNkZPT0pzVFpLX2o1SnN6SVB1QXBfUWl2TTc4bXdQM3BpblpNR3E4QkRkMTdwaDZTQ3A5WHJLX1ZPVlczQ2paSDFSUWFEdmpHdTQxM1E1dENFNXJWTzg1NjVxSWg?oc=5",
       "pubDate": "2026-09-05T11:10:13.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada sheds 41,700 jobs in August as public-sector cuts deepen ahead of countertariffs",
-      "outlet": "thehub.ca",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0FMeUxHSHdLMVZ4VTJmZ1BfZ0JOWE14TjlOS2tXeWthRWJnZ3YwLURhNWJtbWpxUTNweG4xeUI3YUk4VXhRRVRWR2cyU1V5ckZHdHRNRzhZbVZBWVZqdjg1eHJiNHR2VWFMcmFLQ0xmV2VLRkQ4OHFta3RnbVo1by13b2dHMHVvSjR1dzZEN0lVTWY1RDFnUFBMNWY5MkYtS3pOR2hzem5fVkdFN0s5c3FucEdKNmc?oc=5",
-      "pubDate": "2026-09-05T08:00:42.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada's grocery benefit pays more than the GST/HST credit — Here's when the payment arrives",
@@ -50,12 +42,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "energynow.ca",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
-      "pubDate": "2026-09-04T16:26:36.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "CRA will automatically reject older Disability Tax Credit forms starting Sept. 8 — here's how to avoid resubmitting",
+      "outlet": "Money.ca",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mcnl6YWlmaUFmdVRsNEpRdEl4UDZGbVBMaWNnRXdCalB3a2F0RHAtTy04RVhXekNSY2dWYXZ3Y1BZN2E4dHBmb1ZKZnpsZ0lBQzdCVjJXOE5LRHYxR3Z1NWRNcU13ajZkQ0pib0QwY0VnbmZKclBR?oc=5",
+      "pubDate": "2026-09-04T16:09:37.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canada's unemployment rate remains at 6.4% as economy sees broad-based declines",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZU8wZGJGS3BlelJkSFRUcElVSngxY0RYRE41OFBUTFNzNUhuNWlUM3FKbDljc3lQeTVmT3RFcklNMVlPVmFwWWZKS3pfdlhKTkw4LVBwLXBZM0xOWldZRF9GN1IzT1dvRmpMeWFveGx4d05fbUxGRk1qczh3RC05U09Ca0hZQlFOM0I2OE1vb1Q0QUZ1bGdtUmtCYnEzaVps?oc=5",
+      "pubDate": "2026-09-04T16:07:08.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, August 2026",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Canada’s trade surplus narrows as exports post first decline in six months",
-      "outlet": "thehub.ca",
+      "outlet": "The Hub | More Signal. Less Noise.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWpQMVlLN29mTHFQazdMYTRWdVhLY3JvcWIwY0NnYTRnVGNrT1I5VkoxWmhoam5WM0d4ZTg1cW01OXUwSkhlaUJkYnBORWFjX0dpcF9GMkhlLXpvRDVlWmN1SGMzcGNNVHgybXZKRVgtY2ZHNnlLQWdtN2dnVVBtOU80VXp1dVh1MXlxS2lEOGNWR2EweVVYY0hMb2dGVjJWazZvUzVB?oc=5",
       "pubDate": "2026-09-04T08:00:23.000Z",
       "category": "economy",
@@ -90,8 +90,16 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Federal investment helps defend Winnipeg’s advanced manufacturing sector against U.S. tariffs",
+      "outlet": "canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUWFYN1hybUhrWmxHNVB1N3BDTF8yeWt1UUtNbkMwVE5fbTlac3I5WW5DREMydnhlOVlEcnZ3MXVMT3BkTHdUdnRsR2RXRXk1ZTVkWER5eFloemdFWWN4M3BHWHJFYXQzOHlscUdnc3IyYjRGVjBfNFVBRzNNNHNMN01HRk1wQUdYRWZ3UnRaS2paenhRN1RjU2R4YlVXNEtHR3F5bjdvbWoyWmtONjFqdUVRZDhuSUZDMnZWN0ppcVBuMHNLRmRuQTN5cUV1bUY2LWJoQ29DSXVBejd6UzVfLXh4UWtFRUxiQnFzVWJfWEdrX3ZucXc?oc=5",
+      "pubDate": "2026-09-03T16:16:03.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Canada July trade surplus shrinks, U.S. exports drop",
-      "outlet": "bnnbloomberg.ca",
+      "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWd4SWR0djFTdTUxanVvbTRndC1EME1jZVBGOS1HejJJLVlETkR2YV9wYVVkbk1CN1hxbUZielJwTExoNXR0UVNTX0xRSFQ0eTJQendMdFBjNGkybmRYSzkyWkVnMmdNUl9tQm1KUm9GNi1TTllaYVRCOXlBM2R0V3ZhX0NhMTYzU3JkZzZhRzJXYkxMRHh1LVZyNnpJdkt0TVVrTXJTc0dkMDBubnJxSDd2N0NPNmlmYkpGRQ?oc=5",
       "pubDate": "2026-09-03T15:41:29.000Z",
       "category": "economy",
@@ -99,7 +107,7 @@
     },
     {
       "title": "We want to hand down the family cottage. What do we need to know about capital-gains tax?",
-      "outlet": "theglobeandmail.com",
+      "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFZQbElJbTZWUHkzb3NYVlJORFAzcmp6RFRHMGgxR1ptWFdmMVdFcmNzMlZqZEVwOUhrZmhBM2dQWk4wUTBsRW42QWZaR1ZZTnItUDZ3Um5CSklseGRkWEF1NW9XVk4ycnVscXU3aXVlQUVjU25JbW0zS1VmMVRKbEt4Sk93ekxMSTBYZ0o4dzc4eGt4c0NvbUJZWE9aT1RmcDBKMUJiNGFTd3pIbl81YWRB?oc=5",
       "pubDate": "2026-09-03T09:31:00.000Z",
       "category": "taxes",
@@ -110,14 +118,6 @@
       "outlet": "CPAC",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNDZTUlJPTjFCXzNvdU1NOXFYdXNqTWtsY09BUUdZQncxSGJJbkZfMGs2cGFVWktCTmJJa2RzZXhMOVFweDNRWHhKSWY4ek1oVndBUF9tZW51T2RhMENkZXd0bHpHdThnZ09ldmNTcnJIdjk0dENnaUJ6bElKVmktbUxQWFJEaDBQbkxENllrS0JIN1dVTlF0cUx0VTZvbHZBN1RFWS0wVmJNbS1Ebnp4NkF4elcyWF9SSTlRM1kyZnppMkwzZXJpZUFQZFYwV0VzcnRUT3g5UDNXT2ROWTVmczdfcFNCVkRPbnc?oc=5",
       "pubDate": "2026-09-02T16:47:27.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "It's a hold: The Bank of Canada just held its interest rate. Again.",
-      "outlet": "TD Stories",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2YtbUhqalUwNEJxOGwwOFk0a3ZRRTc3UmtaaEVEajd0N2xtUjk1cjA0cEtFbnk3VlZMVVpTMi1ITUh2bkJQZl9nQmZxM1h4SjNLSDMzVFdVbVVsNG1ZNGVaeGROUzJYWFA4NXBJMXBlaTloLUhZWjdTTDVDZkRIczlaMFZxZlE?oc=5",
-      "pubDate": "2026-09-02T14:44:52.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     }
