@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-06T13:52:37.347Z",
+  "updated": "2026-09-06T16:38:00.979Z",
   "items": [
-    {
-      "title": "Canada-U.S. living standards gap more than doubled since 1999",
-      "outlet": "WestCentralOnline",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWhkOExEWDMwMWMxZERPeWxkbUd3VXhkV0xWc3VUdlpGb2R1aFZjVUczeldpdFprc2s4cnZoMnZTdnY1eGxqVXVpSy0tRk5RdGVjajJRc3VtT1pzSzVXb24yd0N6Z1hxUzFvQTM5ZEVkeE9oQ1ZJLUZJVEU4RDFTUWxnZ2pLS1MwcWlPX3VaTlNITzhGRnN1ZnlOcEQxSFhNMmxnaQ?oc=5",
-      "pubDate": "2026-09-06T12:04:35.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "NL Unemployment Rate Falls, Still Highest in Canada",
-      "outlet": "VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uVEc2eVZ4SGZ4U1hhOWNZeHRxVThZblU4WmpyQjdRWHhzUFNSTlYtWTA4NXM5ZFlQOEVzVFB1QTRyUDJVSVRfdFd2SQ?oc=5",
-      "pubDate": "2026-09-05T16:45:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
       "outlet": "EnergyNow",
@@ -26,12 +10,28 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Kelowna adds jobs but remains the worst city in Canada for unemployment rate",
+      "outlet": "Kelowna Capital News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXY1aFRhX3NxVjNvaEh4Rk05bXdQTHJnUW5VX2tmU1FIdnRjM21CRlFyT2RYREFpMzlJekZ3eDhWMEdpWUIyRDY1NzVnclFibnJJMFkxeVJXOTFkNnJldk5BeFB5elJEeWQ3dE1WV1VCdUZtekxkQW5GRGt2d2l2bXE0Z2wtcHdCUExVQXlha1N2amNzdTF2YVp1RXd6N2xOQXZHRzJNMHEyOTBwYzg1emR3aEFTdw?oc=5",
+      "pubDate": "2026-09-05T12:01:38.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-09-05T11:49:13.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-09-05T11:46:56.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada's grocery benefit pays more than the GST/HST credit — Here's when the payment arrives",
@@ -83,19 +83,11 @@
     },
     {
       "title": "Canada July trade surplus shrinks, U.S. exports drop",
-      "outlet": "BNN Bloomberg",
+      "outlet": "bnnbloomberg.ca",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWd4SWR0djFTdTUxanVvbTRndC1EME1jZVBGOS1HejJJLVlETkR2YV9wYVVkbk1CN1hxbUZielJwTExoNXR0UVNTX0xRSFQ0eTJQendMdFBjNGkybmRYSzkyWkVnMmdNUl9tQm1KUm9GNi1TTllaYVRCOXlBM2R0V3ZhX0NhMTYzU3JkZzZhRzJXYkxMRHh1LVZyNnpJdkt0TVVrTXJTc0dkMDBubnJxSDd2N0NPNmlmYkpGRQ?oc=5",
       "pubDate": "2026-09-03T15:41:29.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "We want to hand down the family cottage. What do we need to know about capital-gains tax?",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFZQbElJbTZWUHkzb3NYVlJORFAzcmp6RFRHMGgxR1ptWFdmMVdFcmNzMlZqZEVwOUhrZmhBM2dQWk4wUTBsRW42QWZaR1ZZTnItUDZ3Um5CSklseGRkWEF1NW9XVk4ycnVscXU3aXVlQUVjU25JbW0zS1VmMVRKbEt4Sk93ekxMSTBYZ0o4dzc4eGt4c0NvbUJZWE9aT1RmcDBKMUJiNGFTd3pIbl81YWRB?oc=5",
-      "pubDate": "2026-09-03T09:31:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
     },
     {
       "title": "Bank of Canada Holds Interest Rate at 2.25 Per Cent – September 2, 2026 - Headline Politics",
@@ -107,7 +99,7 @@
     },
     {
       "title": "It's a hold: The Bank of Canada just held its interest rate. Again.",
-      "outlet": "TD Stories",
+      "outlet": "stories.td.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2YtbUhqalUwNEJxOGwwOFk0a3ZRRTc3UmtaaEVEajd0N2xtUjk1cjA0cEtFbnk3VlZMVVpTMi1ITUh2bkJQZl9nQmZxM1h4SjNLSDMzVFdVbVVsNG1ZNGVaeGROUzJYWFA4NXBJMXBlaTloLUhZWjdTTDVDZkRIczlaMFZxZlE?oc=5",
       "pubDate": "2026-09-02T14:44:52.000Z",
       "category": "debt-fiscal",
@@ -115,11 +107,19 @@
     },
     {
       "title": "Assessing Alberta’s proposed West Coast Oil Pipeline",
-      "outlet": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "outlet": "ieefa.org",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNk40T2VwckEwOTZ1cUtNYmZidVJ5OXROVVlaOHJjN2cwblN4WmhoUzAzNngxRVpMcVNRM3RmdlpoT20yOTJWSlpKNVYwY081SFN2ZGswTWo1eG16MndXakplUjVnMEI1VzFqaHpMVjZzSl9jR253R1lqWExmMnlOTjl0OU84dw?oc=5",
       "pubDate": "2026-09-01T13:56:56.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0w2eVFEQWZYWFRaV0Y1WjhIM1BPeWhwamJHYkhKYi02OVlDU3lfZEU3aVRpbXpZQjFxWm0ybjBKMFdGODVKZXBCZ1A5ZzhuWVMweC1MRjhHTTFWcFFtT0JBdDdYVUFTUlRnNlVkLVE4WDE5TUxGZDVwVVJ6WVRYTHR1V25EQ1JYRG0wRnRScXE2Y2UyaXJLN3pHU3FRa1NuWDhvTkh3Z3pOWFZK?oc=5",
+      "pubDate": "2026-08-31T06:50:35.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
     }
   ]
 }
