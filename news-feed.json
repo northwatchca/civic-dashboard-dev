@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-07T17:00:13.481Z",
+  "updated": "2026-09-07T20:26:06.472Z",
   "items": [
+    {
+      "title": "NEW EPISODE - 3 MINUTE HISTORY CANADA - WATCH: When a Pipeline Debate Flipped Canadian Politics: The 1956 Great Pipeline Debate",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE95Y3ZLbWRIYmZNbTRJQjJ5bHo3dVQ0ZUtIX2hfVHRVSDlFZVlNYTRRQVdEWDBGTWdZbHhta1kwSW9xS1pBSTBHd09kb0ItOWlubkVKVUxmSXFSdm42ZzNhS0FWT0c3cUVDSkdRWVJDOUFHTm5vdk4xT0tGUDZwems1OWZmWkpiTDRfTUJiZkVpQktwTG1nWDdPUmJoc0FZcFA1dkRLQ0FOQnM4V2c?oc=5",
+      "pubDate": "2026-09-07T15:45:39.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Canada Workers Benefit payments are going out this fall & you could get hundreds of dollars",
       "outlet": "MTL Blog",
@@ -8,14 +16,6 @@
       "pubDate": "2026-09-07T13:00:02.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "U.S. CUSMA exit would be severe but not cataclysmic for Canada: Deloitte report",
-      "outlet": "constructconnect.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0dIaUNQeDhESU4zYkFDdWhlNGtRblRlTGdfeU0xckdMVG8tLVJ1VHo1bG1KZ0Vab3FpbGQtT2U1WF82UE9ON3VXNEdONlA3TEZ6bmxNbF9RaUltcXRNQVVfMXA0U3JwY1ItbkwzOXB6Y0FqTkstQ1JldC0yaTBHSFJQaklNN0NJS1l5X3lkSkxURGpNUGZWQWVFbFJXZkd6SHVBdmtPY0E2Y3BnTXRzdWN6bk13dWNEWW4tVVZKT2dyTUNEX09QRHZyN3FleE81YUdyMWZn?oc=5",
-      "pubDate": "2026-09-07T10:35:54.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "CRA warns Canadians: Disability Tax Credit applications on pre-2023 forms will be rejected starting Sept. 8",
@@ -26,20 +26,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "South Bow Targets 2027 Decision on Canada-US Oil Pipeline Revival",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEk0QjNOU3dqSFdxQ2NCNEV1NHdJeUFMcENhQWRzTmQ1enFnNkNILVVueDBpOGhsa1lzMWtsMmwxNFVYUzIwa2wtVlpDNXZVZVJ0dGQwVzBpbDFYVVR0aDhBYkNteVNXbm8tUGptTC1NWmd0LVZicE1sSmNvR1B3OElVZnRiN01EVU1PSFVkOFJBakVHNWVZSFF1Zw?oc=5",
-      "pubDate": "2026-09-07T09:11:03.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
       "pubDate": "2026-09-06T22:29:43.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-09-05T11:46:56.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Lorne Gunter: Eastern pipeline more effective than oil tariffs in Canada-U.S. trade war",
@@ -91,7 +91,7 @@
     },
     {
       "title": "Canada July trade surplus shrinks, U.S. exports drop",
-      "outlet": "bnnbloomberg.ca",
+      "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWd4SWR0djFTdTUxanVvbTRndC1EME1jZVBGOS1HejJJLVlETkR2YV9wYVVkbk1CN1hxbUZielJwTExoNXR0UVNTX0xRSFQ0eTJQendMdFBjNGkybmRYSzkyWkVnMmdNUl9tQm1KUm9GNi1TTllaYVRCOXlBM2R0V3ZhX0NhMTYzU3JkZzZhRzJXYkxMRHh1LVZyNnpJdkt0TVVrTXJTc0dkMDBubnJxSDd2N0NPNmlmYkpGRQ?oc=5",
       "pubDate": "2026-09-03T15:41:29.000Z",
       "category": "economy",
