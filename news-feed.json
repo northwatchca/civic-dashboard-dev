@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-08T02:28:53.815Z",
+  "updated": "2026-09-08T07:40:01.116Z",
   "items": [
+    {
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "outlet": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+      "pubDate": "2026-09-08T04:39:14.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
       "outlet": "CBC",
@@ -16,14 +24,6 @@
       "pubDate": "2026-09-07T16:31:23.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-09-07T16:28:06.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -42,16 +42,16 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canada Workers Benefit payments are going out this fall & you could get hundreds of dollars",
-      "outlet": "MTL Blog",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hdnFHMThzdERoZ3JjTHA4a3VSRFprekhLbWctM3ktRWhaVW9jWGsxU1ZjeTNLajJfWW14aFN6cjNZQ2dNRTl5d1JaaVdXV2VrME5DQ3hxcXI3U01hb2NlRGlPV08?oc=5",
-      "pubDate": "2026-09-07T13:00:02.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "title": "Trans Mountain Pipeline’s ‘Capacity’ Milestone Should End Opposition to New Pipeline",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDdCS0ppZDhLdFotRXkzMU9IOHpIUi1mR1RDWWYzamx4NERaNzlKRlJCSGFVelg1MUNYUkQzc3BtOTZjMnFWUTJKWVlCYlFiak1xV3ZCMTVPSlN6T1RYRWlOYlVkMXVFTWc5bEw3NFhHZDA2dkIwMWxveDVnaUZmTDk5d3c5d0NIRlZzaFV4bTR4QnNGYkpHQjlZRTJfVEJnalYtUThNOExkaTBvcFFoNw?oc=5",
+      "pubDate": "2026-09-07T15:43:17.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "CRA warns Canadians: Disability Tax Credit applications on pre-2023 forms will be rejected starting Sept. 8",
-      "outlet": "Yahoo! Finance Canada",
+      "outlet": "ca.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkdMZEx1M3JQOWdtMWZ0X1FIUEhWak1PRnZFVUh3WVJzaEhSaWZTUVFjcDZHMW9GeENwU0ZBakVMMklMQkI2RzhHbXhpeldOOVJ6N3pHR0x2RERhY3lYUE9YcjhiUWpoc09hVmZob3BDWWpZMmFVTHJDRFN2aG9oLWdURzQ1V2VuMHdR?oc=5",
       "pubDate": "2026-09-07T10:00:00.000Z",
       "category": "taxes",
@@ -64,6 +64,14 @@
       "pubDate": "2026-09-05T11:10:13.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada's grocery benefit pays more than the GST/HST credit — Here's when the payment arrives",
+      "outlet": "MTL Blog",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zcml0VGRic0Qzb2dMZTk4Z2Vkc1c3eExIRURyVjAtejdOYy1GT2V0Q09SS0U3SWpuTlBISXZCZUpueUhiczFDQzJmQWxTU3lOaFZMNVloWkU1b2xrVk1GRWtheFJyWlRj?oc=5",
+      "pubDate": "2026-09-04T18:10:44.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Canada's unemployment rate remains at 6.4% as economy sees broad-based declines",
@@ -88,14 +96,6 @@
       "pubDate": "2026-09-04T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada July trade surplus shrinks, U.S. exports drop",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWd4SWR0djFTdTUxanVvbTRndC1EME1jZVBGOS1HejJJLVlETkR2YV9wYVVkbk1CN1hxbUZielJwTExoNXR0UVNTX0xRSFQ0eTJQendMdFBjNGkybmRYSzkyWkVnMmdNUl9tQm1KUm9GNi1TTllaYVRCOXlBM2R0V3ZhX0NhMTYzU3JkZzZhRzJXYkxMRHh1LVZyNnpJdkt0TVVrTXJTc0dkMDBubnJxSDd2N0NPNmlmYkpGRQ?oc=5",
-      "pubDate": "2026-09-03T15:41:29.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Wildfires are delaying some CRA benefit cheques — here's what to do",
