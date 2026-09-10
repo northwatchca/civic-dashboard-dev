@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-09T23:44:11.181Z",
+  "updated": "2026-09-10T02:31:46.660Z",
   "items": [
     {
       "title": "COMMENTARY: Carney Government’s ‘Export’ Plan Relies on Canada’s Natural Resource Sector - Fraser Institute",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZU54bTB3bU1xNG1KLXVvek9uTjhudnJnckVkRHFIQWZvb01IQUlqWnh1NEFjSmNUQXE0TDZQLUdWVUZCSTBYSVNvNGNjbWVSOFZQc3JnN3BDYUJkTTJtUW9KV1pHY0xRUU84bUlvQ0Nva1l0LXlQaGdYN3dBaXNORnBRd0h5RnVuZlRHX29NX1pYVy1FZFctRFpsX0dHeVgwYUhkWGN5NmZjdHhJVk94TFNUNUZpQ2xvTlg5NjdGOUxoaGFIdEkzQm53?oc=5",
       "pubDate": "2026-09-09T22:16:39.000Z",
       "category": "economy",
@@ -51,7 +51,7 @@
     },
     {
       "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
       "pubDate": "2026-09-09T10:33:40.000Z",
       "category": "resources",
@@ -82,20 +82,20 @@
       "categoryLabel": "Social Fabric"
     },
     {
-      "title": "What do Canadians do when interest rates are high?",
-      "outlet": "Canada Mortgage and Housing Corporation | CMHC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzVBVjZiTFR5bnJ4OXpPRVdfQi1FYzE0bi12d2M0Q3I4dlNqYnU1cnBucXR5UXF0VmFURXRmQ0VSb3BlOHVCYVFTaEJmR1I5LWl2cXAySC1nQTFQbmFXOG8yVFE1bjZhbVF0ei1CRmNEZjFnbjZ5RDZZX0QyNWE5WGJaY2hBVUtlSmlWVDRYd1M3cFV4TEZuUkF3?oc=5",
-      "pubDate": "2026-09-08T15:01:30.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Economy sheds 42,000 jobs, unemployment rate steady in August: StatCan",
       "outlet": "constructconnect.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbW1yNnNZTnNqRXJNaEVmeTd0YS1EOElpQmVUaUxFUDFjUEJWUHRKenRXS3VJeEl6UjBLaUlHaFNneVhFbm5LeHNFVGlqWVB5R0hCWWFCUlp5R1gwcUp2blZrUVpmS1RtOF9KaTBOUUtfcFR6QTRXemNWYUQtd2RycGtDMEhUMElxN21Ubm45U2NNNVg5ZmhBTnNnMHNPQ3Q3alR3ZjJLM3dBaXZPNW1RbFhfNi1ERU5kV1NtQU8yTEZZRGxyQ2tr?oc=5",
       "pubDate": "2026-09-08T10:39:05.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "What do Canadians do when interest rates are high?",
+      "outlet": "Canada Mortgage and Housing Corporation | CMHC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVk2MklsMW1HMzZPc0d0MmtoaFJqUk5rd2c5aE1PVjRsTEFSaEZMa1ZybHI0bE8wTkY3VlJXUVhWeGU3SGZXQnhSc09PbDNudFY2VXpUWlVIMzRIcEx0Sm9XUEFPbXFzQTNVWkRXMWVwejcyM0swUmxlUVY4TXpDQTlfbmZVekJvYzFUUTlUNllRVHFTQkE?oc=5",
+      "pubDate": "2026-09-07T19:59:16.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canada's grocery benefit pays more than the GST/HST credit — Here's when the payment arrives",
@@ -114,12 +114,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Line of Sight: Canada Needs Transparent and Predictable Immigration Targets",
-      "outlet": "C.D. Howe Institute",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd05xVmJ0Mi1kb1JMams0M3hXMl8zOFQ5UWxwLVlFQ2pNNDBOTmdYMXliaWZXWHlvUDE2c3ZNOUJvY2tackV3Q0haSlotSEhuTkJHNjE1SU9iTnFUVmxZWmVHYkRUWkxVSzFyZjZNTjZqbkJMX0ZpSzhlaUxERkQ0RzN0Ym1HVkVHUTRFT05EdzFTQnBnTC1VRUJTUkJxVTM3djRXNS1Ia2JVdw?oc=5",
-      "pubDate": "2026-09-03T18:07:36.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZMTklOV0VfMVVNdXJBdEl6Q2RRbE9ieTVFRFA4WmM3LVY1elFPOFBUX1RCZFJoLU1nS2RsMXZMTmlsbVJlXzdCckt4ZExVTDNxYVdESlZITkpzVXdhQmhwRHZ6RmltUkpZR2NQdnhoVkFVRk01aDVkR3l2Yi1vNUZXQ1ZsVUhsWVh0V1dSd2V6Q2FSMGJvUmNCb0g5dkFsRmQ0MTBnY3I0T2xLcWkxY2pNZmV5djNvUE9HOXJiTDNzbUE?oc=5",
+      "pubDate": "2026-08-28T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
