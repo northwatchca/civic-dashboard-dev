@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-10T19:24:42.680Z",
+  "updated": "2026-09-10T22:09:52.268Z",
   "items": [
+    {
+      "title": "The world wants Canadian food",
+      "outlet": "Farm Credit Canada | FCC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNXzRDLWJZNm5CMGVlRTVrZXVxeERuUUpDblE4MzFfeTUwQVd2U0FoRmNhenUxSlduV2FidmRIZXl0ZnZhRHA4aGttN2w3LVlMRnQyWWpNTy1TWWlzcU0yMmRweWtTakk5UWpEbXotNFNTbVBvWnBHRTJpSQ?oc=5",
+      "pubDate": "2026-09-10T20:19:34.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Ontario's minimum wage is about to increase again next month",
+      "outlet": "blogTO",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkQ1aXI5VTdXVDBDdm45QlQ1YkU4ZThhOGpvdmJ3LXJyMUk0M2NWNWd5Q0V0aXA2NWVUY3ZEZER2UjRWOWpjTWx5MDhQOFhpN19xN3pRcW9mMDgzLWZBSElJc2pWdHJqeWtHUEVIcERia055UzNqbDJ6SktUclBiODkzQUF3Y1g0TFk0?oc=5",
+      "pubDate": "2026-09-10T19:37:13.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
     {
       "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
       "outlet": "EnergyNow",
@@ -11,7 +27,7 @@
     },
     {
       "title": "Canada's next productivity gains will depend on leadership, not technology investment alone, BDO Canada finds",
-      "outlet": "PR Newswire Canada",
+      "outlet": "newswire.ca",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUDlBdUMxTjJ2ZHd3TW81azVNTDJMR1NhR0JCZHFaY21CYUlYOWdfSHZOSVdnR3pXZFhoZjFuT09TQm92aDA3eDVYNW5kNWpwUWtzZHJkMElQd3FxaTkzQm44XzBwNko0dF9GMTRlV252MUpBR1NIdmNjWUpOZnhWZDRIWWNOR1EzY0M0MGI2WW55aEN1WkRFZGNncmtHUzU0QWI4TEN2VEZpRnRMUXE4TlY5ZWtaOWlWUWRpSHY4Y3dRcVJteDUyOS1PVzYySk1CaVdpY3ZXNU5sWkcwWjBxRDJXM0tyZS1XQUh0QzVYX0lxUQ?oc=5",
       "pubDate": "2026-09-10T12:00:00.000Z",
       "category": "economy",
@@ -90,28 +106,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada's unemployment rate remains at 6.4% as economy sees broad-based declines",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZU8wZGJGS3BlelJkSFRUcElVSngxY0RYRE41OFBUTFNzNUhuNWlUM3FKbDljc3lQeTVmT3RFcklNMVlPVmFwWWZKS3pfdlhKTkw4LVBwLXBZM0xOWldZRF9GN1IzT1dvRmpMeWFveGx4d05fbUxGRk1qczh3RC05U09Ca0hZQlFOM0I2OE1vb1Q0QUZ1bGdtUmtCYnEzaVps?oc=5",
-      "pubDate": "2026-09-04T16:07:08.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Map 1 Unemployment rate by province and territory, August 2026",
-      "outlet": "statcan.gc.ca",
+      "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FaV9pU1BmTGZqODJEc3RMVXVGSnNiWFZJa3RhYWRLaHY3MkJHb0Q5V2g3SDdsanRjRkFtT1FBbkluNFdOZmVueU9MWnViWUNpOHQ4Z2JBSHpIQmhHXzNEUmNxdW9DQkt2eUlacDBvOEN4b2FEZndmZVNn?oc=5",
       "pubDate": "2026-09-04T13:25:37.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3FucE55NnJyS25GdXpnTnZwc3NoMWgyQm9ZMUZGTjRZeHJRWnJNWXUwdklDNlZKcFhFSmhzYXc5NWI5SFZKbUZKbXhqZHczS05UeWhLZkZxcms4NDFCcDlWRnppM0JkRmZJbVBtVHk?oc=5",
-      "pubDate": "2026-08-28T07:00:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million",
