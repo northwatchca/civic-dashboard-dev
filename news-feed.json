@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T16:49:21.581Z",
+  "updated": "2026-09-10T19:24:42.680Z",
   "items": [
     {
       "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
@@ -90,28 +90,20 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "Canada's unemployment rate remains at 6.4% as economy sees broad-based declines",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZU8wZGJGS3BlelJkSFRUcElVSngxY0RYRE41OFBUTFNzNUhuNWlUM3FKbDljc3lQeTVmT3RFcklNMVlPVmFwWWZKS3pfdlhKTkw4LVBwLXBZM0xOWldZRF9GN1IzT1dvRmpMeWFveGx4d05fbUxGRk1qczh3RC05U09Ca0hZQlFOM0I2OE1vb1Q0QUZ1bGdtUmtCYnEzaVps?oc=5",
+      "pubDate": "2026-09-04T16:07:08.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "Map 1 Unemployment rate by province and territory, August 2026",
-      "outlet": "Statistique Canada",
+      "outlet": "statcan.gc.ca",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FaV9pU1BmTGZqODJEc3RMVXVGSnNiWFZJa3RhYWRLaHY3MkJHb0Q5V2g3SDdsanRjRkFtT1FBbkluNFdOZmVueU9MWnViWUNpOHQ4Z2JBSHpIQmhHXzNEUmNxdW9DQkt2eUlacDBvOEN4b2FEZndmZVNn?oc=5",
       "pubDate": "2026-09-04T13:25:37.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Labour Force Survey Monthly",
-      "outlet": "Government of Prince Edward Island",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHNsU3lDVDZQMy1yaEd0emFROGM2WV9tcXZBM3FXajJKTkRBWlQ4NTUzUFVRR3RxRm1VS2dxVmxWTVR2bDhwdUpuVGViSUhjanE1NldWRFlwVWpMaEw2ZGN1QVRDQ1JhbnNhNDN0YW1LelpYcllqVmpfUnNZNTVmYXNfdjZGa1ZDNXRjazJha1BmR1lHR0RBcnFseGs1R1dwckkxdg?oc=5",
-      "pubDate": "2026-09-04T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Line of Sight: Canada Needs Transparent and Predictable Immigration Targets",
-      "outlet": "cdhowe.org",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd05xVmJ0Mi1kb1JMams0M3hXMl8zOFQ5UWxwLVlFQ2pNNDBOTmdYMXliaWZXWHlvUDE2c3ZNOUJvY2tackV3Q0haSlotSEhuTkJHNjE1SU9iTnFUVmxZWmVHYkRUWkxVSzFyZjZNTjZqbkJMX0ZpSzhlaUxERkQ0RzN0Ym1HVkVHUTRFT05EdzFTQnBnTC1VRUJTUkJxVTM3djRXNS1Ia2JVdw?oc=5",
-      "pubDate": "2026-09-03T18:07:36.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     },
     {
       "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
@@ -120,6 +112,14 @@
       "pubDate": "2026-08-28T07:00:00.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZMTklOV0VfMVVNdXJBdEl6Q2RRbE9ieTVFRFA4WmM3LVY1elFPOFBUX1RCZFJoLU1nS2RsMXZMTmlsbVJlXzdCckt4ZExVTDNxYVdESlZITkpzVXdhQmhwRHZ6RmltUkpZR2NQdnhoVkFVRk01aDVkR3l2Yi1vNUZXQ1ZsVUhsWVh0V1dSd2V6Q2FSMGJvUmNCb0g5dkFsRmQ0MTBnY3I0T2xLcWkxY2pNZmV5djNvUE9HOXJiTDNzbUE?oc=5",
+      "pubDate": "2026-08-28T07:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
