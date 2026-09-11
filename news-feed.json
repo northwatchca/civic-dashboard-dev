@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-11T00:45:00.461Z",
+  "updated": "2026-09-11T05:30:22.698Z",
   "items": [
-    {
-      "title": "The world wants Canadian food",
-      "outlet": "Farm Credit Canada | FCC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNXzRDLWJZNm5CMGVlRTVrZXVxeERuUUpDblE4MzFfeTUwQVd2U0FoRmNhenUxSlduV2FidmRIZXl0ZnZhRHA4aGttN2w3LVlMRnQyWWpNTy1TWWlzcU0yMmRweWtTakk5UWpEbXotNFNTbVBvWnBHRTJpSQ?oc=5",
-      "pubDate": "2026-09-10T20:19:34.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
     {
       "title": "Canada moves to streamline pipeline, major project reviews",
       "outlet": "BOE Report",
@@ -21,7 +13,7 @@
       "title": "Ontario's minimum wage is about to increase again next month",
       "outlet": "blogTO",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkQ1aXI5VTdXVDBDdm45QlQ1YkU4ZThhOGpvdmJ3LXJyMUk0M2NWNWd5Q0V0aXA2NWVUY3ZEZER2UjRWOWpjTWx5MDhQOFhpN19xN3pRcW9mMDgzLWZBSElJc2pWdHJqeWtHUEVIcERia055UzNqbDJ6SktUclBiODkzQUF3Y1g0TFk0?oc=5",
-      "pubDate": "2026-09-10T19:53:02.000Z",
+      "pubDate": "2026-09-10T19:52:15.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -34,20 +26,20 @@
       "categoryLabel": "Resources"
     },
     {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-09-10T18:00:37.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "CUPE pushes to strengthen workers’ rights in submission to upcoming 2026 Federal budget",
       "outlet": "CUPE",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkZWdy1ObEdkcjNRVTFpTEU0eU9MUkozakd3dlJEQm0waHlRZjdqUndnY1BHM3FCMWZsMV9DMUZ1OHdqRG4zTUkwNWVBOGZXaU10MHlqMXBoeHo2LW5fRWtSdWpaWVB4TS1vT215NHZhVWpXOTl6c1lJdEw4U3cwcDNkTGdNVVV6bmFFTWlFUUNYMXlrN1FRemZrdlJGcFE?oc=5",
       "pubDate": "2026-09-10T16:10:04.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada's next productivity gains will depend on leadership, not technology investment alone, BDO Canada finds",
-      "outlet": "PR Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUDlBdUMxTjJ2ZHd3TW81azVNTDJMR1NhR0JCZHFaY21CYUlYOWdfSHZOSVdnR3pXZFhoZjFuT09TQm92aDA3eDVYNW5kNWpwUWtzZHJkMElQd3FxaTkzQm44XzBwNko0dF9GMTRlV252MUpBR1NIdmNjWUpOZnhWZDRIWWNOR1EzY0M0MGI2WW55aEN1WkRFZGNncmtHUzU0QWI4TEN2VEZpRnRMUXE4TlY5ZWtaOWlWUWRpSHY4Y3dRcVJteDUyOS1PVzYySk1CaVdpY3ZXNU5sWkcwWjBxRDJXM0tyZS1XQUh0QzVYX0lxUQ?oc=5",
-      "pubDate": "2026-09-10T12:00:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "These federal departments have the highest number of applications for early retirement",
@@ -59,7 +51,7 @@
     },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
       "pubDate": "2026-09-10T09:30:05.000Z",
       "category": "resources",
@@ -67,7 +59,7 @@
     },
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
       "pubDate": "2026-09-10T09:27:41.000Z",
       "category": "economy",
@@ -75,7 +67,7 @@
     },
     {
       "title": "CRA Refunds: Where Did My Money Go? - Tax Authorities - Canada",
-      "outlet": "Mondaq",
+      "outlet": "mondaq.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORFFSRW9zYmR2V2JqYlhrZmFYUDhyMmgxakJJYkxSS2VmZlJkYWU1NXI0ZVFBSFZ5NXQ1T2poOFJkQi11X2tPTVBLUDdkWUN2bnlWdmpxSTQ2M2JTQ05OZzFINkRiQTRJVjc0SG5oNjZzVFpOSGxSZDBYNUt1cUxuMEZ1RlZIT2puZ3dzWlpnRzA?oc=5",
       "pubDate": "2026-09-10T09:11:13.000Z",
       "category": "taxes",
@@ -100,7 +92,7 @@
     {
       "title": "What do Canadians do when interest rates are high?",
       "outlet": "Canada Mortgage and Housing Corporation | CMHC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzVBVjZiTFR5bnJ4OXpPRVdfQi1FYzE0bi12d2M0Q3I4dlNqYnU1cnBucXR5UXF0VmFURXRmQ0VSb3BlOHVCYVFTaEJmR1I5LWl2cXAySC1nQTFQbmFXOG8yVFE1bjZhbVF0ei1CRmNEZjFnbjZ5RDZZX0QyNWE5WGJaY2hBVUtlSmlWVDRYd1M3cFV4TEZuUkF3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVk2MklsMW1HMzZPc0d0MmtoaFJqUk5rd2c5aE1PVjRsTEFSaEZMa1ZybHI0bE8wTkY3VlJXUVhWeGU3SGZXQnhSc09PbDNudFY2VXpUWlVIMzRIcEx0Sm9XUEFPbXFzQTNVWkRXMWVwejcyM0swUmxlUVY4TXpDQTlfbmZVekJvYzFUUTlUNllRVHFTQkE?oc=5",
       "pubDate": "2026-09-08T15:01:30.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
@@ -115,11 +107,19 @@
     },
     {
       "title": "Map 1 Unemployment rate by province and territory, August 2026",
-      "outlet": "statcan.gc.ca",
+      "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FaV9pU1BmTGZqODJEc3RMVXVGSnNiWFZJa3RhYWRLaHY3MkJHb0Q5V2g3SDdsanRjRkFtT1FBbkluNFdOZmVueU9MWnViWUNpOHQ4Z2JBSHpIQmhHXzNEUmNxdW9DQkt2eUlacDBvOEN4b2FEZndmZVNn?oc=5",
       "pubDate": "2026-09-04T13:25:37.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0w2eVFEQWZYWFRaV0Y1WjhIM1BPeWhwamJHYkhKYi02OVlDU3lfZEU3aVRpbXpZQjFxWm0ybjBKMFdGODVKZXBCZ1A5ZzhuWVMweC1MRjhHTTFWcFFtT0JBdDdYVUFTUlRnNlVkLVE4WDE5TUxGZDVwVVJ6WVRYTHR1V25EQ1JYRG0wRnRScXE2Y2UyaXJLN3pHU3FRa1NuWDhvTkh3Z3pOWFZK?oc=5",
+      "pubDate": "2026-08-31T06:50:35.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
     }
   ]
 }
