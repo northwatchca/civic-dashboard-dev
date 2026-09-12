@@ -1,17 +1,9 @@
 {
-  "updated": "2026-09-12T11:52:26.058Z",
+  "updated": "2026-09-12T14:47:05.394Z",
   "items": [
     {
-      "title": "New U.S. tariffs and import bans won't dent national GDP growth, economists say — here's what it could cost Canadians",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmpGSjhBeGxDdG10bEZ1YmV0ZTNpdVdxMlZ1RWFKOFhXSmN5eWUzVWM3eDVGWjFyOWVuV2lZVE53amZZUWdkaktnd3RIWEtyb0NweDlFUElwZ1lrZENNdjI5RUlHNDRuYU01VE5haDdvT3M4NURLODUzSDMxdHUycXVDZzU?oc=5",
-      "pubDate": "2026-09-12T09:35:07.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada’s PISA scores hit record lows. Don’t let rankings drive reform",
-      "outlet": "policyoptions.irpp.org",
+      "outlet": "Policy Options",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldG5QcEJFaXl6cWNZT1dkdDlTaE5CcjU2SVkxemh2a1Vib1JMRkNQZjVRMVVycmtfYzlEZEZ2SEZQcjRpTFRySXZlQVFWM2FuWUxZNkQ5YnB0VkM1NU9TRWlGb0xJZkprM1E?oc=5",
       "pubDate": "2026-09-12T01:49:36.000Z",
       "category": "social-fabric",
@@ -50,12 +42,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "International demand for Canadian maple syrup surges amid U.S. trade war",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHU0WlFWRnpFTUlwWG9YdnNKeTZxamdSdG1Cb0J4YnlZME5Sem11MU53b0I0TGliR1VFbkQ1blFkOG4zZ0o1WUhtSzc2bm9BQmFyWUhkenJRZUstY1Rkb0RmajVWbFFSNVdhc1BjdTFna1RrRkZmcVRFdGtwM21lUDgweXVCNXk0ckxQdWVrdVBKdw?oc=5",
-      "pubDate": "2026-09-11T18:34:07.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Big banks finally blink and hike fixed mortgage rates",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbERYcDdnTlhRd09CTGN6REttTmd2TzJRdlNBdG5wSFFsaW5ZR1hNX3V4M185RU55bE55blByU2I1ZGh4QVRGNjFfMXhhUlI1MnUxZ0tMaDdadXBYZm1Zb0lGZ2J0ZXNlUUdIQzJVT0pYMFZqa2tnX2pHZFJENmJCcU9LVUNCd1h0MmZvT2VpNjJoRzE4dlNz?oc=5",
+      "pubDate": "2026-09-11T19:01:02.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Abbotsford adds 700 jobs in August as province loses thousands",
@@ -72,14 +64,6 @@
       "pubDate": "2026-09-11T08:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "CUPE pushes to strengthen workers’ rights in submission to upcoming 2026 Federal budget",
-      "outlet": "CUPE",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkZWdy1ObEdkcjNRVTFpTEU0eU9MUkozakd3dlJEQm0waHlRZjdqUndnY1BHM3FCMWZsMV9DMUZ1OHdqRG4zTUkwNWVBOGZXaU10MHlqMXBoeHo2LW5fRWtSdWpaWVB4TS1vT215NHZhVWpXOTl6c1lJdEw4U3cwcDNkTGdNVVV6bmFFTWlFUUNYMXlrN1FRemZrdlJGcFE?oc=5",
-      "pubDate": "2026-09-10T16:10:04.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "These federal departments have the highest number of applications for early retirement",
@@ -107,7 +91,7 @@
     },
     {
       "title": "What do Canadians do when interest rates are high?",
-      "outlet": "cmhc-schl.gc.ca",
+      "outlet": "Canada Mortgage and Housing Corporation | CMHC",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVk2MklsMW1HMzZPc0d0MmtoaFJqUk5rd2c5aE1PVjRsTEFSaEZMa1ZybHI0bE8wTkY3VlJXUVhWeGU3SGZXQnhSc09PbDNudFY2VXpUWlVIMzRIcEx0Sm9XUEFPbXFzQTNVWkRXMWVwejcyM0swUmxlUVY4TXpDQTlfbmZVekJvYzFUUTlUNllRVHFTQkE?oc=5",
       "pubDate": "2026-09-08T15:01:30.000Z",
       "category": "debt-fiscal",
@@ -120,6 +104,22 @@
       "pubDate": "2026-09-08T10:39:05.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada's economy grew a strong 3.3% annualized in 2nd quarter, as 1st quarter revised higher",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3FucE55NnJyS25GdXpnTnZwc3NoMWgyQm9ZMUZGTjRZeHJRWnJNWXUwdklDNlZKcFhFSmhzYXc5NWI5SFZKbUZKbXhqZHczS05UeWhLZkZxcms4NDFCcDlWRnppM0JkRmZJbVBtVHk?oc=5",
+      "pubDate": "2026-08-28T07:00:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s GDP rose 3.3% in Q2 with Q1 data changes showing bump, not dip",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4emhrRkRkdGFhOHRKN2YxQlpfeTA1MzFOTnlXS2RzeDIyZkU2UVdBNmRtM2dwRFlONnpjVUtRUFpCanJNT2VfV0RmdWJBNmllZzFnRzd4OFhrU1ItU3dOMC1zbDNCLWYyV2s4b0psUFk4QzA?oc=5",
+      "pubDate": "2026-08-28T07:00:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     }
   ]
 }
