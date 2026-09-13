@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-13T05:32:47.177Z",
+  "updated": "2026-09-13T10:53:40.923Z",
   "items": [
     {
+      "title": "Canada's oil windfall may yet wipe out its losses from tariffs",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTY1bmt1cE5McjFxRXVFMGRjYlJmZVdlNGJINGtYWHh3b09UbF8wbndSU2hSbkJpMWh4anF1Qy1hWFJHeTVIWjc2UVFsWXhLM2syWWs2dEdjbEtsWVNDSUE0cThsOGNGRDVvb2ZhS2lyeFVwTmFHODhIUkJYa012aW5wTmlLc19DVThGaXBOUk1CMzg?oc=5",
+      "pubDate": "2026-09-13T08:00:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Opinion: Why Canada's new pipeline proposal threatens the Salish Sea",
-      "outlet": "vancouversun.com",
+      "outlet": "Vancouver Sun",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVpxRUViLVJVWVpzaUMtdUNiRk9HVE5sWnZMNEZoRjR2R09kVjlISF9XeUNCSUxTcE1oU0xkTzlxTk1PMzZ3Mmtqd0lJSDZ6alFfdVdsZXpBOE93dXZzYlJOU2ZNT0pzYzZtdmhmeU9ZTVgyMVZ0MllpOHItc01YYU1qQnAtV1ZlTllQSExpcGw1WEhiMExXNV9yZjBrYThrVEFrZUZYN1I?oc=5",
       "pubDate": "2026-09-12T23:06:11.000Z",
       "category": "resources",
@@ -34,14 +42,6 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
-      "pubDate": "2026-09-12T16:46:12.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Bond yield surge pushes fixed mortgage rates higher across Canada",
       "outlet": "Canadian Mortgage Trends",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmhZY05zSzJKSnA1SUNyQWVjaXQwa1NlM212bGVRQnVHbWNjaEFMVFNsRXNrU2JGU3pkcE9YbHFlZHREWHV3d0VqQ2Z0Zk10bHBQUWhNOWx3OHR3Q2VNRjUwOTRDaElVdVBUVy1ISGh5bGFKVWFteE5raDNUZ2JwZmNaZmxrbVJSODk3S09HZDgtUTFGeUNDTGEtQzNYS2lRU1JQMWswT1Y5ejh3aktJcmxMYw?oc=5",
@@ -64,6 +64,14 @@
       "pubDate": "2026-09-12T01:49:36.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Canada’s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVWWXpZTkZOZEV0eTViSGp1VE0xM2lzYVcyTmlpb0RjUV9ZN3lyRW80MmxVcDhCVllHMHozQXhtTHZfYjdNSnEyZVA4RXBsMHpCaXp3d2VmaWVUV3VSUUFJdDlSOEUtdVFPSFhlclhvSUZvM1l4QklvdjJjbzM0OTA1VG1wT0NyR09uaExSLXV5Z1I1QjI3VS1R?oc=5",
+      "pubDate": "2026-09-11T21:44:27.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
@@ -106,18 +114,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "CRA September 2026: The Biggest Benefit, Tax Credit and Payment Updates Canadians Need to Know",
-      "outlet": "kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFRhZjh4eUpRd3QtUEtEX044dUU1YVdNQXpFQkFYUDdmRUNtQVl5QkhPZGJULUdka1N0Ti1mZ0x4dmxpYkhWZWxEVFBtYWtkcVVETWFJZG9GRHpBdFo0TWdjSXJGanlmd21MTXFWVEs4a1QwaUMyLTNqMVU0dDZ6aXNoOEdXVUJmaU9pUEVrekxwUXpGVDBBWEVMNHBqTlBrOEVkS1RwYktrSVhySlUySDBZdVZ3WXJ3a1dzVWpURXFRZW1sNWVYS2xNcFJPUQ?oc=5",
-      "pubDate": "2026-09-09T10:35:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada’s global ranking in education falls to record lows",
-      "outlet": "Juno News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hSS1pR05oSXdQWkwwRHJlMXI2MHJCMmZTYXhRRmpEanpZbWVfUkVzV24yT0R0RE03M1E2dnIzdmtJcDhtd0poSTlycFRqcXp1ZHY5YktMcmgzZ3ZuWEZXZlRCZXpPUWhJd0FHUjA3bw?oc=5",
-      "pubDate": "2026-09-08T15:31:21.000Z",
+      "title": "C.D. Howe council urges deeper cuts to temporary residents, better exit tracking",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0w2eVFEQWZYWFRaV0Y1WjhIM1BPeWhwamJHYkhKYi02OVlDU3lfZEU3aVRpbXpZQjFxWm0ybjBKMFdGODVKZXBCZ1A5ZzhuWVMweC1MRjhHTTFWcFFtT0JBdDdYVUFTUlRnNlVkLVE4WDE5TUxGZDVwVVJ6WVRYTHR1V25EQ1JYRG0wRnRScXE2Y2UyaXJLN3pHU3FRa1NuWDhvTkh3Z3pOWFZK?oc=5",
+      "pubDate": "2026-08-31T06:50:35.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
     }
