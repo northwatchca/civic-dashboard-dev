@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-14T00:34:34.132Z",
+  "updated": "2026-09-14T05:37:41.325Z",
   "items": [
+    {
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-09-14T00:43:35.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Philanthropists critical of Nakba exhibit donated $4.8M to groups later sanctioned",
       "outlet": "Canadian Accountant",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MS2tzN1lBVTFBMlhsckREaUNWR2Y4T3J0Wjk5SV9obi1xY2tmdEpsMFpNMTNkdTMwdXdOUjRZZ3ZoRkliQlM3LWFKWDN1aTFOUlZ2S25XWndaVVBxRFJiYXdmTnhsTUtOcTJXd0lTUUZpRDhZSmhOWE9kTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45cHBWX0pxUFV4RXFZempxZk9JZUFpc2dVbG04ZzZEUGpoMnFQWk1lTTdKMTNwU29ZcVkzc3BQR19iZU9PeUFiRE94eVprQVhxZ0dPT1FpZVA4TEFqQzRGVTBxai1GZTAxTTFzbnVrWnhBSmk4b3J6RFlXSQ?oc=5",
       "pubDate": "2026-09-13T22:55:02.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
-      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
-      "pubDate": "2026-09-13T13:32:59.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
+      "title": "Canada Now: A nation in the spotlight",
+      "outlet": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUC1DRm1TbGkxbUtoNmUySmp6TzdoUU8wSnFIcFhtdjNWVDZHaWpKS0p2Y1M0MS15NGRIbXNhakpSR1FYLVlpTlFacjFwcDdfTkVPZHZtazE0dVE4c09wel9XWVgyZmFPSlE3dDVTV0lTOEh5THZwelZsWTdlRGNjYjJPajBBQ3F6ekpjMEVnUVpFdE5mdzRWZWJPUnQ1NjI0YzFGQTRIRWFFdGROUEVOQzEwbw?oc=5",
+      "pubDate": "2026-09-13T21:58:47.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
@@ -32,14 +40,6 @@
       "pubDate": "2026-09-12T15:55:01.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-09-12T07:43:40.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s PISA scores hit record lows. Don’t let rankings drive reform",
@@ -91,7 +91,7 @@
     },
     {
       "title": "CRA denies tax credit to B.C. divorced dad paying child and spousal support",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZQN0pnOVM1RmRJXzllUHFrdWxndTdYTG1xSDJHWGUtRlNrOEI3ZTNXaElSS2VyWXV6WEZqVlJzTTlITUk0ZnE3TjB5bFUyZ2pkWGRmVzFVRGotSXJMaHUwZ2hMLWFzYzQzbmJDRE5wREwxaEF4clhQVDVwN2daNXlKaERvWlFZQjllWU9GdERTQldjT2VUVHZIWkZ6QWVmMnNVZVVXQ1AzT1VEd1E?oc=5",
       "pubDate": "2026-09-09T15:34:11.000Z",
       "category": "taxes",
