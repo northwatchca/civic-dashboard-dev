@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-16T19:16:24.213Z",
+  "updated": "2026-09-16T22:32:31.991Z",
   "items": [
     {
-      "title": "Canadians are getting this grocery payment in October instead of the usual GST/HST credit",
-      "outlet": "MTL Blog",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCUkluVHF4M0JlYS1LaFpxTlNXRDdKTHhOb01NZkxZOWY3dFlmbVpCUW1KeEx5bm5aTEZSeklZdUlEeXM5R1dycy12ajFreS1KMWl4Zjg1SUhsbDl2Yk5kMA?oc=5",
-      "pubDate": "2026-09-16T18:54:47.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Explained: Could the Fed’s rate hike impact Canada’s mortgage outlook?",
-      "outlet": "mpamag.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFpRT2lsS3ptYmVOd2VONGxlZzVYWVZLNVhWcGZrSnZvLVdPUU91YlctOVloWk93dzZZT1ROc215dHROVGMzeW9KTjBMNzlQUkxwSTBUSEs5T2plVlluYlMzalBnMTFsMEVvN3lVRW0yMmhmT3hYWGpDVnhFdnRFSVBFaUJ4ekd0Ukxfc2R5bm1Zcl9yeVJNMU5ka0dqRHVjUVdYY25TcFVWZE1NdG42eWVSNV9zODJrTEgxNWFNUUlrQTdweHFlS09VSWRSUQ?oc=5",
-      "pubDate": "2026-09-16T18:01:41.000Z",
+      "title": "Could the U.S. Fed's key interest rate hike have any impact on Canada?",
+      "outlet": "CP24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUViZHhtYTB2VEZwLUhURWw4LUgweWRJTGZLVDFXSENnaXFwY2VORTlvbkdWWHNRZkt6TjZTeGh3NHpBVmNzcnhRVDFkWTBJVTJBWWJiaXVEdFA1MXY2RmN6V1pOUWRPU1FjeDZoUGhmWGZxWGljWVBub0h1NjNBa3Z4TTVTNzlTcmlVUkRWdTd0cmtINEVPMnZreU9fVWVwc0R5THI3NFU?oc=5",
+      "pubDate": "2026-09-16T22:02:19.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Could the U.S. Fed's key interest rate hike have any impact on Canada?",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelUtTjhQSkZTY285OUFrbUdlTHU5Mm1VRTY1cUJqYmNQVFhoQmx3cFZ5QkYxLWhHeDVHNXBCRGNOOXNwTGZ0dUlEeWk4TFVDLVJXMktvNXNxQ2RYV1ROVW9OTmZSeVYtXzZkNFI1QTBMUnVYT3JJWFplQnFkMlFWV2EteUI2WFlhVWFNQlBGWVRzcjNpUUVxUUZsUmsyS1JGYXhLZ1dfQXFGRDA?oc=5",
+      "pubDate": "2026-09-16T22:02:19.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "What you need to know about Alberta referendum questions 2, 3 and 4 on immigration",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTI5RlRURUtaX05MNURhRHJuRzktMG5YNk0tWE1UVk5lZkR1eDRkTkxqWVJRTkxRSG1iMGREMnFLM1pXelZvTktZUnY5blhoeTNFbzYzWjVzckZBQkNMU1k0aVVPLURCck9KMXVyaUNLTUs5RDVYOEdwVUxWMENWWGJrUFdLOUx4UDdwaDdDQU1fMGNDODVacEZR?oc=5",
+      "pubDate": "2026-09-16T19:15:16.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "Trade in AI: A Policy Agenda for Growing Canada's AI Exports to the Indo-Pacific",
@@ -26,8 +34,16 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Tax Insights: Federal tax measures to boost investments in Canada ─ permanent immediate expensing and faster rulings",
+      "outlet": "PwC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFVLT0ZSNm5ENmlsU1h2cHdHRHI2ZWpGc1lWYUgzaXY4Q2lQYXJZa3RlUXhUN1JkdlNUbW42WXBMUWhCM2pVZm42bzNyMXZzMEZXTDJtTFhUck9XX08zSlNMcU12T1hQX0h1NUxIa0IxOWEtemN3ck94OXJsSlNfLUFnZHJlLXhhdERXZ1dJRzNudzVjSWpXcmk3YW5hdUUzU0N2RkRUeDJVRm5NbUpMbFBXRktCWjRxNTFuWQ?oc=5",
+      "pubDate": "2026-09-16T15:48:44.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
       "title": "South Bow Targets 2027 Decision on Canada-US Oil Pipeline Revival",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEk0QjNOU3dqSFdxQ2NCNEV1NHdJeUFMcENhQWRzTmQ1enFnNkNILVVueDBpOGhsa1lzMWtsMmwxNFVYUzIwa2wtVlpDNXZVZVJ0dGQwVzBpbDFYVVR0aDhBYkNteVNXbm8tUGptTC1NWmd0LVZicE1sSmNvR1B3OElVZnRiN01EVU1PSFVkOFJBakVHNWVZSFF1Zw?oc=5",
       "pubDate": "2026-09-16T13:01:54.000Z",
       "category": "resources",
@@ -35,7 +51,7 @@
     },
     {
       "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "energynow.ca",
+      "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
       "pubDate": "2026-09-16T12:57:27.000Z",
       "category": "resources",
@@ -50,20 +66,20 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Federal public service has lost 23,000 staffers in two years: budget watchdog report",
-      "outlet": "CityNews Ottawa",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlZ4Z2xXNl9kWmlHTnpjek9ENmViSkJsZGxMbHowZzVIcXpxMkVxX2k3QjlsZXNBVFpET3dZSlJSN3BZY0RELTNXQ0JLSlRxd0VlRk1vaDQ0UWthWlc5UkNFS2dBOXJ5NDhSOUtCUmp5OG1MQURlbXpWNzRCaWd1THVUX3VSWmQtNlJFY0lMTERGN0dWTjAxbkIwcEZVWkNzMDFCdDZPTy16eUwwcHVtSlRtWUhnUHJPSkR4WkR3?oc=5",
-      "pubDate": "2026-09-16T05:19:01.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Canada lifts Employment Insurance premium rate, maximum insurable earnings for 2027",
       "outlet": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelhlRFQ3a0t2aUpscUlLWks5WXZRLXVXeTQ5ZVQwS3hyLVVsMTFOWFVfeTEyMDVna1ZRMjFEMnRTaWUzdnN3NmdvdXp3Ql9PZEJRUmQ2MG5OTTI1TFhLcFNKOXphUzhnWWNOTk1YcGFmd05RQXhUdFk1NjNuRmRvQjhVZE5PWS01bDZSY0tMS3hfcC1nQnRSekFNV2tnNmZSWXZzbld6a21ZYzFHX0pHZnhmV1hmMGc3bklYaXk1eHZLcllzcmE2dVl1NlFOc1hyMm9aczNxTDZtTE9WYVNNTWVhbXp2Zk94QVE?oc=5",
       "pubDate": "2026-09-16T04:00:35.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Feds announce advance income tax ruling requests will prioritize $1B investments",
+      "outlet": "canadianlawyermag.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXFESjA0LXBRT2U1MEFIUzlJSXkzSVZCdHBVaFY4SWVyY1poZ0NvdGxUZmVBblBOQ0lHSVJEWkEwQmhLWjVpZXduTHhmbkV4akpidG1XX1g0WDVQU0twdzVabDhkR0xCdmxKaUlfZTRPclRweUNkSDN6a1dndDVXblhkLWs4V2xNX0RoZUkySkFvWGlYMGdYMHUtdDF5QU1OR0VSb3FUTXNsMXZtNHFScGhaWE9wY2F0ck16NDZKNU9MM0E?oc=5",
+      "pubDate": "2026-09-15T17:29:49.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
       "title": "Prime Minister Carney introduces new Productivity Mega Deduction to boost Canada’s advantage as the most competitive G7 country for new business investment",
@@ -90,14 +106,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "CRA to prioritize advance tax rulings for $1B-plus investments",
-      "outlet": "Investment Executive",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQak5kX055R0UxampGaW5ieE1uV2FuNEQ3QzkyRVpuaTU3UzZSVGIyLXlSd25iOHViYnV2bHd4WmRCMzdSRWNzdjI4ZkhJWmx6X1pPcHVSa2ItUTZhbUxnUE5PMlVvWFY5WlREMXctWHU4SENkQUVoZGR0U0ZGbHRmWnE3Z2FCUzhzSXNzTlVReFZOQlE0X1FuRTY0WFNTTzlMT0lzODRB?oc=5",
-      "pubDate": "2026-09-14T20:58:48.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Mortgage Rates Forecast Canada 2026-2030",
       "outlet": "nesto.ca",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0V3cEFtU0ZYcW52dGJGMUhGa3NEREk1c3AzV1VIaXhDeGJNNmtsRWg4VTNlWEpTbVdiVGpJRnpyMU1wLV9KU1VWM1hwVXA2R0hrVnM0ZGNEcDBvLTF0RUVRRUU0djRONmRubzU3MkZfTDJqb3RjU0RUY185ZEZNbjVR?oc=5",
@@ -107,19 +115,11 @@
     },
     {
       "title": "Which 5 provinces are increasing minimum wage rates in October?",
-      "outlet": "Canadian HR Reporter",
+      "outlet": "hrreporter.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm9JUjVmVFViek90SUdGZDJ6TVJVY2ZMV0NyODNhSVZjNUxBTDlNR1Y3MXdBdEhLeWUybjY5RmZwN2NZZktGNTBjRy1qMU12dEl5N3dadlgwd2hFUTJyOXZ3OHBobVBBb205T3lQTkxrYnVwNnRsMWVaZW41a2ZQRzF3bGRCQ0hYVWFNTEFuektJNFlkdHRza0pBT04xbnRrRGdBdzUxa3FXTkdubE9zeU9iZ1lmYWM?oc=5",
       "pubDate": "2026-09-14T14:22:59.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOHhWTUppT0tNdHc3UldybGNNcjYzU1MyRVAxUEpBTk1BeUZyUjFjUVJxcExENWdIaEl4TlJZcGE3NjN6ZU9QNVEwMXVzZkNXbWtMQlVRRnFsNEhUUU5scVc0VWVyS1ZIZ01KY0tYbzZoLUo4c1N5bk9MM3U2TFU?oc=5",
-      "pubDate": "2026-09-14T11:33:08.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     }
   ]
 }
