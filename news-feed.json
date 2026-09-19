@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-18T22:57:04.885Z",
+  "updated": "2026-09-19T00:58:02.975Z",
   "items": [
-    {
-      "title": "IER Releases Canada Wrong: The Hidden Surplus Behind the Headline Deficit",
-      "outlet": "The Institute for Energy Research",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1plWnN0RWZ1VDFlOUtQSzBJd0pLOTZ4dFM4WUdyNDhrVWpzd1I5eDc5LVJsR1U4VHlsVWVmVE5HQ1Y1aDlJd1hkMl9TN0VCZkxTenBxZ3ZNTkYzM0dRUjdXTTAtRlRBU2xZUmpDNnRwTUR5UWRscTZlVGVPZTY1d1ZjbjZZMHBDN3daYmtBeHg1YWNMLXpTeHFFQmVFemw2c29z?oc=5",
-      "pubDate": "2026-09-18T20:44:40.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
     {
       "title": "CRA still owed over $5B in COVID-19 benefits sent to ineligible recipients",
       "outlet": "CBC",
@@ -27,7 +19,7 @@
     },
     {
       "title": "Variable mortgage rates are having a moment",
-      "outlet": "financialpost.com",
+      "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk93LTNsTkRuaUNkOS1XWHdnci1yZ3dTdnpCcXJJbm5JQ3dmOU5Bcm82SkJZMVB5azFoTUYyaVhyMTE2ay1ocVhwZnhMdWREMWdwRll5U2dNZHVvZ2JlSl9yQkp5cFFmWllkVkI5TkI5bVYzUTVCeWVTWE9MYTdqMmh4Wmp3cS1iMmlwZkhRa0dtQ3dhUG1oUUlwYXNCd0REWXNDOGNiWS1ZQQ?oc=5",
       "pubDate": "2026-09-18T14:26:59.000Z",
       "category": "debt-fiscal",
@@ -91,7 +83,7 @@
     },
     {
       "title": "Canada lifts Employment Insurance premium rate, maximum insurable earnings for 2027",
-      "outlet": "insurancebusinessmag.com",
+      "outlet": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelhlRFQ3a0t2aUpscUlLWks5WXZRLXVXeTQ5ZVQwS3hyLVVsMTFOWFVfeTEyMDVna1ZRMjFEMnRTaWUzdnN3NmdvdXp3Ql9PZEJRUmQ2MG5OTTI1TFhLcFNKOXphUzhnWWNOTk1YcGFmd05RQXhUdFk1NjNuRmRvQjhVZE5PWS01bDZSY0tMS3hfcC1nQnRSekFNV2tnNmZSWXZzbld6a21ZYzFHX0pHZnhmV1hmMGc3bklYaXk1eHZLcllzcmE2dVl1NlFOc1hyMm9aczNxTDZtTE9WYVNNTWVhbXp2Zk94QVE?oc=5",
       "pubDate": "2026-09-16T04:00:35.000Z",
       "category": "labour-inequality",
@@ -120,6 +112,14 @@
       "pubDate": "2026-09-15T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Which 5 provinces are increasing minimum wage rates in October?",
+      "outlet": "Canadian HR Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm9JUjVmVFViek90SUdGZDJ6TVJVY2ZMV0NyODNhSVZjNUxBTDlNR1Y3MXdBdEhLeWUybjY5RmZwN2NZZktGNTBjRy1qMU12dEl5N3dadlgwd2hFUTJyOXZ3OHBobVBBb205T3lQTkxrYnVwNnRsMWVaZW41a2ZQRzF3bGRCQ0hYVWFNTEFuektJNFlkdHRza0pBT04xbnRrRGdBdzUxa3FXTkdubE9zeU9iZ1lmYWM?oc=5",
+      "pubDate": "2026-09-14T14:22:59.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
