@@ -1,11 +1,75 @@
 {
-  "updated": "2026-09-24T15:39:22.168Z",
+  "updated": "2026-09-24T19:41:47.736Z",
   "items": [
     {
-      "title": "A Toronto Chinese restaurant was just named the best in Canada",
-      "outlet": "blogTO",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXBuVjNJZm5aRXhVLTVoSi1SY29EVENZYkp4ZUdsb0dVTzlYek1xMGU3dW1ydXExWEFwMjF1ZDlyWTd5WkZJa0Z3Y1lwQWlvMGJSbjlBS0ZXZS1pOW1wMjNGVVhrMmhjbWlJQ21sUkliTXdoZDB6d0pFcFdtYXdqMmJzM2xHUjFQUWhLUGVkUQ?oc=5",
-      "pubDate": "2026-09-24T14:21:46.000Z",
+      "title": "LNG Canada Phase 2 decision could come as early as October",
+      "outlet": "The Interior News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjVNdlpJM0NDc3Y5YVpyUlVJTFZnTWpsS0VBcFFHcEVQNk5KazFkWVF0Snh1bnpfOFd1ekdYODVnOUx2b2tZRlVBaFZqSTdWbU1xLUE5TzFxVDZ1MFJxMXVlQnVTNDVWT0owNGFNRmRGeG40bkZpZmF2YmdOWGJTMmVmMlVrUXNVRGtLMGxDem00Umd6YlJsVHpJNjg?oc=5",
+      "pubDate": "2026-09-24T19:01:52.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Global Markets: Canadian unemployment rate dips",
+      "outlet": "Grainews",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnhmemNVQ3FhM083VFA0Q2h6Ml9OZU5mdVNreV9WbW56QkRfSXRBdTZ0Y01pVlBTdlhsOTZYNHBMYlY1amk5V1FaeEMtMFV3czRMYkwzTnF0V0ZoT05GYVhnZmxmc0xUZ1V4R09yS3h3N1hWQjBoRm1hVlJYSXFVanRMX0R1SUNpSXZ0RS1B?oc=5",
+      "pubDate": "2026-09-24T18:21:39.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada's population growth continues to slow, consistent with lowered immigration targets",
+      "outlet": "ca.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGNxNE5NNFc0OVJsbGhZMEVBa01wb1pmWXlzSF81YlJueDlxTDlHcDc1RmxKZ2dUZzQ1RS1DQzRHVnd5UEs3N250X3luOHR3bVlUZWh2QXU2R09GSzc5UmNDcks1NU9zQ3lvbVQtVzZGdEhLN3NRWHJud0VRcGtUM0tEamlOblJS?oc=5",
+      "pubDate": "2026-09-24T17:04:13.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
+      "pubDate": "2026-09-24T16:37:34.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Workers in 5 provinces get minimum wage raises Oct. 1 — but up to 35 cents of every extra dollar vanishes to deductions",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1FGX0RuUmN1V04xOGFuVG1NLVRDTklhUUtkZzlaUEpXbjR5aTUzQ0pyZDdzbTBHcEprYUdjUzlJN1FyYVVmWllwYnBEN2RURFBwdHlaQV9LTEIyT3E5Q0RHMl9GTHJFMlhHQUd6dkNGTjBhdlFNeHNCYUxlZkotdkxrMTFpaXVi?oc=5",
+      "pubDate": "2026-09-24T16:30:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Ontario deficit comes in better than projected at $13-billion",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzdQanNla2tNS1lyQ3c1aVo0WjlRNTBoRnFpalFXbTBVb2FPb2JxWm12U010TzU4dTNYblE2Zkk4UmRLVEZab1ZCU3BBVjU0ODNZYWo1UWFoekFybTktUDdIVmRYb1N0S0FISTNuZmtpal9RdVo0RG1wcnR5RGR4aXdDSG9mZXNrbGtnSklrNDF3cy1BTkNkdG5USzdIejN0UEtpSFRPUlpwLVFV?oc=5",
+      "pubDate": "2026-09-24T16:29:49.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Bill C-39: Key amendments to the Canadian Energy Regulator Act – What pipeline companies need to know",
+      "outlet": "dentons.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNk9KNkpvYl93b3RQOEFtSzZhanFMNHVlV0pmX3ZPUVdsY3F4ZW45OWljU05Ic1JaaDBqTXEwUTZreUlqRmNhQ2pjeVBycEsxeFAxUXZaNUdHc2I3eDg0OHNrYUR5MzhlbkZONEx0ZUZYZXVNV0I1anRXVVAxUGt1anV3OVFXbEJRRm5ianBLTUNDd1UtUEg1YnVlWkRDZ2RVZkxiZHN3SHVKbWFfazBhcjgyOF92ajZEbzdud3Q2RWtIdw?oc=5",
+      "pubDate": "2026-09-24T16:29:47.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Mortgage rates aren't falling anytime soon, one economist warns",
+      "outlet": "mpamag.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRLQmZ1U3k4bThUZDJiX0dvMXMtT3ZwZC1oV2RPQWFOWldfdERnMFBmY1ZCQnFUR3VndTNoSUJ0OVNjRVZfTlpmNWNVOVRRMU1xVEtuUmpOMnFPeTE3LTZyV1c1bTRWR1cwOGltS0lCLTQ1c2gxWXRXejBhMEpXcEMwWkpybnMwXzM1eFBsQTNOWjlZa1g5cnZkQ2FQNnBSUTFXRzdqb1FoWFpjZUVSWkRtMVZwb0xwVjlZc0NLS1NfdFl6bUJZ?oc=5",
+      "pubDate": "2026-09-24T16:07:11.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Montreal woman killed during virtual work meeting: reports",
+      "outlet": "hrreporter.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTdCNGE1T25DY2hDbFFKTzBfek1IX0hHNjlSbjZ3QW9FRE5nSVc4MWdTaFJkTFdXc3RidWw1Q2J6NEtWV19hazdvX19pLUlOZWZmdlBQRmwzVGpmbHRUQnZTODNVZUtpY0RxMWk1WDVaM1JfdGI5MGtyNzRFdVRzZjZqSDRYbWNCT1ZySk5zQTdYZnhJTXNoOVNsRllyZWx0U05GLUoxRlo5LTFYYjN3?oc=5",
+      "pubDate": "2026-09-24T14:21:48.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -19,27 +83,11 @@
     },
     {
       "title": "Posthaste: Tiff Macklem take note — markets have so far correctly called interest rate hikes, says analyst",
-      "outlet": "Financial Post",
+      "outlet": "financialpost.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5SMUpkOTJwcU9TMnFzc2xLWl9pYUVjMzNPQWZaYUJOcEFDc2RORTJ0dXBoVFBVY3QwcmQyZWh3RUpJd0ZEMnNsZEdZamQ0N1ZaV0JuRHNVZHd1OExKYXdmcElPS0lBcVA4ZGd0WllZNUJIajJOSVpiUWFYNndWS0tRUjh3Zw?oc=5",
       "pubDate": "2026-09-24T12:02:37.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Oil sector questions economics of Alberta’s West Coast pipeline",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzZVb1Nia3ZiWlVVYlNtbmNHdzdrSm5tN0lBdU9TSXhrc3FTeTNETEZwcm1xc2lhTG9LZWZfeWhwN0UxNnZnRDk2TmwwRTFvVDljUk5kNzlDVEw0TDFudS1salhtejhpYlVHWXlpWnBEUWtLemtON1BnVVhFSTRDQ0taaGVsOHJsSjJiLWFZbTFnUEJiT2wySmRvTWtHTlR6SkIxajVlNU14cVRVS0E2VDB3?oc=5",
-      "pubDate": "2026-09-24T10:00:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "China and India offer major upside for Canada’s cultural exports, says federal analysis",
-      "outlet": "thelogic.co",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qUnVMd3NpWnZFM2h5elJWYUJuMnN2bUNrTVRUOG5ySVhXOG13WDJWYjB2TUFqY2ZNeXN4TGkwUUdRc1pNUUZreUljRlJQVGFUTUQtRHlSYlIzMWRsMloyMVFTVlFqT2hwa3U0c3Y5MGNGb2lHTzBaX0NkaWR1Zw?oc=5",
-      "pubDate": "2026-09-24T09:45:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s Fertility Rate Remains at All-Time Low",
@@ -67,59 +115,11 @@
     },
     {
       "title": "A Canadian who lived abroad thought she followed TFSA contribution rules, but CRA surprised her with a penalty tax",
-      "outlet": "Financial Post",
+      "outlet": "financialpost.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk5CUnZuUmRLVU0wS1NRRzZqdUx1X0JXR2V2MnRheVB4QklpbGIzUGtIVXpTdkc2dDlLeEl5Vm1WUEliT2RMZ3kwWDZ1S3FsN0JsVHR3dVJVWmJkTTRodTlTUVhEcTdXUi11M0JBeVVNakZMOUJDdUtWMmJzVzdGNkxjZkhqX0g3eF9PWHZvS1B6cG1JVEZybVczSWJibmlyanlDTV9lQQ?oc=5",
       "pubDate": "2026-09-24T03:35:59.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
-      "pubDate": "2026-09-23T20:39:58.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-09-23T20:18:29.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada’s population growth continues its decline, StatCan says",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXNzhXLVI1ejhwMlFvWHFIWUFkc1BUa3dZTFJTU2lUakxnQzl1MzJiZFBLTTJxcEpMZkxCcktHYkZoeTg1MUhhVTZTM1lkbU5tX2FPZmUyOUFuelhWcHF0dnFNc094Q1RQOVpkSlB1QWU3OWtPUHBOd3psOA?oc=5",
-      "pubDate": "2026-09-23T18:08:42.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Minimum wage rises affecting entry-level roles",
-      "outlet": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMS1IQzR1SDNEcmhHWHlxNXpFNTV6YzJXWFJJMmJ6dXRTc0VLZUpHNkYzSnA2clRmc19heHUtR0d4czQtS0tPTHp3Sk9odEd6RksyeHJxMlVDSGcyeGcweWxMU2hnYkRfbmJCeEYwZzYybGthWDNZaEhBNndtQjhLVQ?oc=5",
-      "pubDate": "2026-09-22T11:19:11.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Priority tax rulings and the Productivity Mega Deduction",
-      "outlet": "Dentons",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN1YzWjV1ZEFWX3lvZlh2d1VHLUQtSE8tYjJqMy1BUWdwaTZWUmd4N25NUXdCQW9jTzFEcXl2bHhaY1VYQ2FnM09yVUJSZzM2NlJkY1B5M3FRdHNSVWdpWmRpM1ZVV2M2YmhOOFNTd29xV1FjTG9oVDlMZW9yMmpvV2NYLTU4QVYxZmR2WjZPdnRUQ1lSeEZVZ1d4MWg5VG1xTndGaHFhalhOLUhEYlJhYktQRE9WcDVPSzQ1ZENTcVRaamgwUjRkWFBPdW9XUUIwR0xqYzhnc2lDTmVIeF80VQ?oc=5",
-      "pubDate": "2026-09-21T16:30:38.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada’s Sliding PISA Scores Hide a Sharper Story",
-      "outlet": "cdhowe.org",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2cwT3I1NkdhelNsQ2Q1c1B1SDV3U3JFekZaX0JkN09KS25FTHRWaGFHLXMzdW9LT19odERfTzB6Uzd6X25ZRE5FWmZaTXBJcHU5Ny04bzlmRTJSbU5LX1JTcGhwNi04NF9OMVdtaUpjd1lmOTdwSWNncUU4Y1pLLUZBekhYTTQ?oc=5",
-      "pubDate": "2026-09-21T10:20:17.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
     }
   ]
 }
