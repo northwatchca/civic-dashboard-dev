@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-24T10:53:51.060Z",
+  "updated": "2026-09-24T15:39:22.168Z",
   "items": [
+    {
+      "title": "A Toronto Chinese restaurant was just named the best in Canada",
+      "outlet": "blogTO",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXBuVjNJZm5aRXhVLTVoSi1SY29EVENZYkp4ZUdsb0dVTzlYek1xMGU3dW1ydXExWEFwMjF1ZDlyWTd5WkZJa0Z3Y1lwQWlvMGJSbjlBS0ZXZS1pOW1wMjNGVVhrMmhjbWlJQ21sUkliTXdoZDB6d0pFcFdtYXdqMmJzM2xHUjFQUWhLUGVkUQ?oc=5",
+      "pubDate": "2026-09-24T14:21:46.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Productivity Mega Deduction: Key tax measures announced at the Canada Investment Summit",
+      "outlet": "McCarthy Tétrault",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWTRpaGpXS3ZtcUwwVTlUdFBaTl9aRlA2TEYyNjRaVTVjc2hmeDNqZG1sRVZGenVpYUNhQmNsYml2cE1TNFZtQmI5NGtRQkxyVG9PZzFNRnFSUGxQQkZIN0dsMnlEWlBPM3dLSk5PYkVOcTl3a0RnelZzSV9lcDJxT1E3d1BfSV9PQkVKTFpfZkRCcUVkZndZejB3bTZXTXQ3ajgyQ0c4Q1JZazhzbmdfc3lhSnR0TVlkLTdvc19Dbjhpd0hnZmxCVUh3N1JkS193dUtrdDM3ZmFFSDZWS3Y1cGJxRWR4MzlNZ0dnUGR5QzdtcU0tbWc?oc=5",
+      "pubDate": "2026-09-24T13:47:07.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Posthaste: Tiff Macklem take note — markets have so far correctly called interest rate hikes, says analyst",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5SMUpkOTJwcU9TMnFzc2xLWl9pYUVjMzNPQWZaYUJOcEFDc2RORTJ0dXBoVFBVY3QwcmQyZWh3RUpJd0ZEMnNsZEdZamQ0N1ZaV0JuRHNVZHd1OExKYXdmcElPS0lBcVA4ZGd0WllZNUJIajJOSVpiUWFYNndWS0tRUjh3Zw?oc=5",
+      "pubDate": "2026-09-24T12:02:37.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
     {
       "title": "Oil sector questions economics of Alberta’s West Coast pipeline",
       "outlet": "The Globe and Mail",
@@ -11,7 +35,7 @@
     },
     {
       "title": "China and India offer major upside for Canada’s cultural exports, says federal analysis",
-      "outlet": "The Logic",
+      "outlet": "thelogic.co",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qUnVMd3NpWnZFM2h5elJWYUJuMnN2bUNrTVRUOG5ySVhXOG13WDJWYjB2TUFqY2ZNeXN4TGkwUUdRc1pNUUZreUljRlJQVGFUTUQtRHlSYlIzMWRsMloyMVFTVlFqT2hwa3U0c3Y5MGNGb2lHTzBaX0NkaWR1Zw?oc=5",
       "pubDate": "2026-09-24T09:45:00.000Z",
       "category": "economy",
@@ -24,6 +48,14 @@
       "pubDate": "2026-09-24T09:24:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "China’s Rongsheng Weighs Alberta-to-B.C. Pipeline Oil Supply Pact",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjIxU2g3RldDdU84S0ZjUER4dUNqaEF3V21iRnVXUFZ5WHNJa0hYcFYyek0tNlBrbDUtZklTTllPQWZLMDBuLW80NVRwS2tIUl83STJjcjVsendmcUI1SzFHSUw4NUJMeVBGZ0NxSjV4WEp5STIxdXFhdTZUQTNCSzVqMFkwQ1ZlUGdWTzRIRHRHR0VDMXdVVw?oc=5",
+      "pubDate": "2026-09-24T09:05:31.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "CARDUS Canada's falling PISA scores reinforce the need for more educational choice",
@@ -58,44 +90,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "IT’S FULL! Trans Mountain Pipeline in Canada Hits Full Capacity Two Years After Expansion",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVNfWHBfbHJ0ZUVUbmUtdVozVjl0QTdjVFdjWjV5Q014SFMwTWN6RkQzd1VmZU5UTzQtbVpvcVhPWXBmUG1XLVlfaTNEc085T05IOTV6RGdmZkVjdVY5cjN5M09nYzQ2Mkl4aUY4UlJhU0JsVlNGYU5xbUhGbnVGeXl4Ykd4eHF5WFY1V19KX3RYdjQ0VkxDM1QwNnZGdEtjclA4TzU5MHFabDNx?oc=5",
-      "pubDate": "2026-09-23T20:14:15.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Canada's population growth slows to lowest level in 80 years",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSThjZUNvbFhSOWZzRkJMRDNGNFNSMFVGR0dkbUZsVkRici1sc1c5RGU0YTF6dzltSDQ3Um1RNGxTcDFnLUtrZTgwUXVfTzdTaUM5RWUxSkVBbzI3cW5yUWZxMVZtWmNvZjlHYmpoQVQ0ZTlzemVBUXVYajUtS1V4OWM5b0s4QQ?oc=5",
-      "pubDate": "2026-09-23T18:52:46.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Canada’s population growth continues its decline, StatCan says",
       "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXNzhXLVI1ejhwMlFvWHFIWUFkc1BUa3dZTFJTU2lUakxnQzl1MzJiZFBLTTJxcEpMZkxCcktHYkZoeTg1MUhhVTZTM1lkbU5tX2FPZmUyOUFuelhWcHF0dnFNc094Q1RQOVpkSlB1QWU3OWtPUHBOd3psOA?oc=5",
       "pubDate": "2026-09-23T18:08:42.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Trump claims Canada ‘destroying itself’ by welcoming millions of people ‘unchecked’",
-      "outlet": "650 CKOM",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXdKbFZaQ0dXRGlQYVpCeDdUSEdCZ1hKRGJfSWNMVXNRZ2ZSZGJaWExZaWhnZ3hDc3E0b0ZPUDFEZHc2YWcxQ3JYT2FyY0gzc0JHVUNiWmJYcWlwUXpfeGstdVAwZ2Q4ZjdWOXJzQ0R6VkktTjlKUFZNY2l0SnNKdXhGR1hsWEVuVGhUbUNrZEVGMk9UM0M0aGoxblFqSHJIVGR5amRrallhTk1sMHJrM0dn?oc=5",
-      "pubDate": "2026-09-23T14:16:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Digging Deeper and Deducting Faster: What Canada's Productivity Mega Deduction Means for Canadian Mineral Property Development",
-      "outlet": "McMillan LLP",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcERfaWt3a3lYMjUyN1MxaVNhRVRRQXA2VzAwX0k5TXphbFc2akQtOW9KeTVNazlMVTdNMGdxQ0tJSUtBa25pZ0NUVWFLVmtPMEo3UXUySVJXVVZ6M1FCWE0wZzNPUlduV1FDbU5vc29sT3Z3aU1RVnJiZXo2MjhFejhYc1Y0cjNNMGxJZDdnMnJ1d2d0XzVZdV9nUDc3aFR3YThtU2Q5WDd0Z0luTF9idTIxNHZKc3c3cmtTeVQ3MkNEVm5FSmRZRjFTV3dTaVJ4MWFndjNNVU1UblF5ZTlmWlVVSHdIOGt4UFY1eDdHUGlfd2pfYU4yQ05jUQ?oc=5",
-      "pubDate": "2026-09-23T01:47:01.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Minimum wage rises affecting entry-level roles",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Canada’s Sliding PISA Scores Hide a Sharper Story",
-      "outlet": "C.D. Howe Institute",
+      "outlet": "cdhowe.org",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2cwT3I1NkdhelNsQ2Q1c1B1SDV3U3JFekZaX0JkN09KS25FTHRWaGFHLXMzdW9LT19odERfTzB6Uzd6X25ZRE5FWmZaTXBJcHU5Ny04bzlmRTJSbU5LX1JTcGhwNi04NF9OMVdtaUpjd1lmOTdwSWNncUU4Y1pLLUZBekhYTTQ?oc=5",
       "pubDate": "2026-09-21T10:20:17.000Z",
       "category": "social-fabric",
