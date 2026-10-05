@@ -1,14 +1,6 @@
 {
-  "updated": "2026-10-05T01:27:54.604Z",
+  "updated": "2026-10-05T08:03:58.561Z",
   "items": [
-    {
-      "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
-      "outlet": "theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHBPdjd1aFpaMGgzTm1iZGowQjRkTExpQkZQSDJZZnJlSTZnSXlSbjB4dDl5TEJiU0FtQ0ItTmRHTk4xOGpxNWxtNkk0eWpJZXRKWG5FcW5TZ3NhZnVzSFQ3LVRSdzBzSGxVaEtiUG8wUzhsRTNESTRYcmZSVzRkcTRVZmx4VUlNbV81ZXJ4LTE2UnAxUVA1TzBKS3NFbjJRVkktemdHOWVZaDhJWjd1Ml9LNUpyRUtxeWZLblhR?oc=5",
-      "pubDate": "2026-10-04T20:31:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
     {
       "title": "Data shows Alberta's population growth outpacing most of Canada",
       "outlet": "ca.news.yahoo.com",
@@ -18,12 +10,28 @@
       "categoryLabel": "Demographics"
     },
     {
+      "title": "Despite Pipeline Fight, B.C. and Alberta Agree on Push to Get Green Light for Two Big LNG Projects This Year",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGVkN3FKQUh2ckI1MWxleE1YZnh3R2tyTjZlb3ZFcVI0RXJlQW9KbGpaQW5aOEw5a185bm1tSW8yek1MT0k4dFRlcnh2OUx4UEhhcFNtUndFbFhSSWMtbzhhQzZBWVN2UmZMaFNvQ1UzTzZYZDBtYkg4RkJWQ083Nk4yOGpoS085Y2hGOHRlVzctR2UxWFdFT29yVXcyMnZ4a09yMnRtNGhJaU9FNktRekdIUTdyWmNKN3MydE5HdU92cmZ1dV9qVzRybVQwLXBrN0E?oc=5",
+      "pubDate": "2026-10-04T17:29:22.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "Globe editorial: The education system’s failing report card",
       "outlet": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxzcEZ0UC1IUldSY2d4MVEzWXo1NmtMamdOSFNrME5VVWdxeFgtVVhZMWZvUjJtLVFXUWpFcG1YWDVqM1JpeUliUmxncHNXUWRKRTc4c0poVG14RlFxd0l4cVl3aVdLNGkwUVAyeWc3Y3lKMjdVaFhRczNmQzl2NUZOUTItT0R5b3pNc0lOcmtSNkEwVEYta3BqZG9iM3h6dkxrU3pJRVcxdw?oc=5",
       "pubDate": "2026-10-04T10:45:00.000Z",
       "category": "social-fabric",
       "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-10-03T15:34:43.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
@@ -51,7 +59,7 @@
     },
     {
       "title": "The next Canada Groceries and Essentials Benefit goes out on Monday",
-      "outlet": "globalnews.ca",
+      "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGRwM09CLWxuSzN5OXJqNFRyekU3Q05TWFo3WE52eUczbjl0R21RSmRuQ2JwT3RTa2hJaTY0NmQzZ0g1TzBtZ1p4a0dmSHAzTTN6U1RMNWh6cUFhNjc1UzB2cG9Vd0QyMHBfbzJRa1AwTG5pZFdBc3BHOHBjTjdhSE01bzE0cFdrS3hhQw?oc=5",
       "pubDate": "2026-10-02T19:33:41.000Z",
       "category": "taxes",
@@ -64,6 +72,14 @@
       "pubDate": "2026-10-02T18:54:53.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "‘I can’t really afford it’: Torontonians weigh in as Canada’s fertility rate remains at record low",
+      "outlet": "NOW Toronto",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96MkdqSllORThlM1hFbnpMbnRoWVVTX2pNbWNkLURvdVFyZDRaRF8zU1QwbzF6ZHNVY21qT0FRaE1HcFF6amxNYjZsTGFVVm8ycVB3aGF1QXNQYVZJOTU2VmJ2dFUtV1NSSlpjRUtR?oc=5",
+      "pubDate": "2026-10-02T12:52:48.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "Canada Groceries and Essentials Benefit payments are coming Monday. Here’s what you need to know",
@@ -92,8 +108,8 @@
     {
       "title": "PEI minimum wage rises to $17.30, remains highest in Atlantic Canada",
       "outlet": "Canadian Federation of Independent Business",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTM2MU5IRm1DaUxsWVhQSHdOTmhJZnY1RFJNOXh6T2kxWlZER3p0OE1BSWViNDUzdHBDMFhvaUJWTWg5WmVZd1ZfdVdhMnJlRnB3akx1TXRRcGhjZm9IcUVIUGQzN1JLenVjbUNIdFJfMVlibDZrdkxYTkVaeWFIMTlNM2J5bVNzMlZlazZuLTBUeFNNX0hCZEF6LTRTT2QwNXfSAbIBQVVfeXFMTmxKN0M4SXRISFRWV08yUXpIUWRzWnhQUl9QQXBNUlA4dklEV1ZCeFZDSnFwMl9haFFVWGNLeVBVcnhtTFY5dUxVZ1A3VGdpWkVDTVdMczRNNDZTSVJmeDdHNUFfaGszZGpjcENkMzJjR2xGTjh0NXdUZWdGdGNKbTRxdEZWbEtQMWRyel9fQXBoakNvZEttUXprQmpEemxfMmVsYnpFQmFzRmUxZ2hhelM4QQ?oc=5",
-      "pubDate": "2026-10-01T09:04:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEo3QzhJdEhIVFZXTzJRekhRZHNaeFBSX1BBcE1SUDh2SURXVkJ4VkNKcXAyX2FoUVVYY0t5UFVyeG1MVjl1TFVnUDdUZ2laRUNNV0xzNE00NlNJUmZ4N0c1QV9oazNkamNwQ2QzMmNHbEZOOHQ1d1RlZ0Z0Y0ptNHF0RlZsS1AxZHJ6X19BcGhqQ29kS21RemtCakR6bF8yZWxiekVCYXNGZTFnaGF6UzhB0gGyAUFVX3lxTE5sSjdDOEl0SEhUVldPMlF6SFFkc1p4UFJfUEFwTVJQOHZJRFdWQnhWQ0pxcDJfYWhRVVhjS3lQVXJ4bUxWOXVMVWdQN1RnaVpFQ01XTHM0TTQ2U0lSZng3RzVBX2hrM2RqY3BDZDMyY0dsRk44dDV3VGVnRnRjSm00cXRGVmxLUDFkcnpfX0FwaGpDb2RLbVF6a0JqRHpsXzJlbGJ6RUJhc0ZlMWdoYXpTOEE?oc=5",
+      "pubDate": "2026-10-01T12:32:01.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -104,22 +120,6 @@
       "pubDate": "2026-10-01T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Prime Minister Carney welcomes LNG Canada Phase 2, the second-largest single private investment in Canadian history",
-      "outlet": "pm.gc.ca",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk5Ed1dWakhyV0R0SzZLRXBhZV9YR0pKX1JWTEs0MVgyWkc1elVLWmdHZ1lTVVhoTTNXRmFNRVM1VDhSNVUzQW9ySDVOLVBGRlVvYTRIWENaUFg2QXJzT1RiVEl2dkp2X2p0MHRCcGl0SklEZzYtbHFmZW9wLTdraE1qQ0RxS1ZVd3A2RWUwMF9sS3ZmMTFFR1N2NkdtZkFsTmJnSjNRWU40OG5XcVpfdTExbmFnd0tORVE?oc=5",
-      "pubDate": "2026-09-29T18:00:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Deloitte Canada cuts GDP growth forecast by 20% as tariffs grip economy amid Trump's trade war",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51SzBxaVpRUmFxcVFkeUNRbmdoVW9TdmRWT1JTSm9rYnVFeUF6TTFzd2E1SDdONTh2Mm1vWk9jNHktYXRQaDk2WmNRZFphMmxhT2owU01OUEZfNHZWbzdvbUc2T25DY3RfWE9n?oc=5",
-      "pubDate": "2026-09-29T16:06:19.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     }
   ]
 }
