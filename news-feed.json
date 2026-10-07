@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:07:07.324Z",
+  "updated": "2026-10-07T01:56:52.523Z",
   "items": [
     {
       "title": "Fed rate hike pushes Canadian mortgage rates up",
@@ -10,6 +10,14 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Finance and Treasury Board",
+      "outlet": "Government of Nova Scotia",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPN1ZsZ1dzRU10blNvVDF5ZGdkOXRXVkNCZWpvaXRNZ2xsbGtORXBYamF0TUIzckNVMzQ1eDFVS19Tb2RxaDBDcHFoTDY4UlY3blhKdjNzdWNoZVg4T0hjU0dRdFFCcWFMSlE?oc=5",
+      "pubDate": "2026-10-06T19:03:13.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
       "title": "Garage owner concerned by approval of 3% GST",
       "outlet": "Yahoo News Canada",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aaEJzbEZfY0xXSDVXenFUQmFnRkxRMTc3LTdpY2lEWl9UYTRLcExJYjBkckR1SlRneHFOZkNNbWdCQW9pNE4tbVdacW5XTzdWc0Zua0VPTC1aeVF4dlVpMDZ1ejRHUlluUjc1N3BRLVFSM1J3cWw0cl9KZmVpNms?oc=5",
@@ -18,18 +26,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Despite Pipeline Fight, B.C. and Alberta Agree on Push to Get Green Light for Two Big LNG Projects This Year",
+      "title": "MOVING CANADA FORWARD: An Argument for the West Coast Oil Pipeline",
       "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGVkN3FKQUh2ckI1MWxleE1YZnh3R2tyTjZlb3ZFcVI0RXJlQW9KbGpaQW5aOEw5a185bm1tSW8yek1MT0k4dFRlcnh2OUx4UEhhcFNtUndFbFhSSWMtbzhhQzZBWVN2UmZMaFNvQ1UzTzZYZDBtYkg4RkJWQ083Nk4yOGpoS085Y2hGOHRlVzctR2UxWFdFT29yVXcyMnZ4a09yMnRtNGhJaU9FNktRekdIUTdyWmNKN3MydE5HdU92cmZ1dV9qVzRybVQwLXBrN0E?oc=5",
-      "pubDate": "2026-10-06T16:59:32.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Poilievre questions Carney on Chinese steel to be used for LNG Canada Phase 2",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90aEo5cmx5WExzdk5MT0l3U19pX2hpbXpJUWxELU5UOEJOX0gtSUZRWjZ6Nk4wMC1MLUdLQ0gwQXc3OWZkaUhkeWVic1ZnTm5LRU9ranJuc05Tdw?oc=5",
-      "pubDate": "2026-10-06T16:32:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUljMTBGb3NsU1EyajdGY25vUGlWOVMtX1c2MmZQTHRXanBEYkttajdwUjBYMThlREMwWmNwbUNkMEdKSFRpSDVaVTBzaG9BMGJtSHBFMWJJU0VPNnNRMkRrVlBJYnhDSURfNUlYXzNwUGNqaVFrYkN4WFphMzJXYmIzQURpVktESGNyX3lUbE9PdThUdlo0a212OA?oc=5",
+      "pubDate": "2026-10-06T16:36:43.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -42,28 +42,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canadians expect higher inflation as Bank of Canada weighs hikes",
-      "outlet": "Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQl9ISHNmYTZUdUdqS2ZwbzN0TTRyejNRWkRpcmdxalUtWjdFZms5YzBKMmw1QXJ1aHBhb0FnNFRGUi1ySW9tYXQxSUhQTXJoSWpuOWNhVi1EX0w4YmpOcDRubU4wNjY0cXEtRkNZbS1KNDR0amZtZWFpNXdsYlItcXk0MW44MzJTeDdNNkN6dzN0aTNzaW1SNWlhMGFNdFIzdkl2ODFpNGphZEZwczlBYkZB?oc=5",
-      "pubDate": "2026-10-06T15:29:03.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Lacombe rents rise as Alberta minimum wage stays at $15",
       "outlet": "CentralAlbertaOnline.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTldJRW1LR0YzYlBuQnBHM25hdDRvblgyaEU1R3Q5Tlc1aGZBUnI0R2cweThNQXlOckJlUm9aOU5EMjVTMUtKaS04d3NGVlV0QzVQSE94MHl4d1oxdmkwTUNwSGpUWVhBNVBzMy1ZdzF3VElJTzdkMGx4WjRwNnpzZy05SEkxYmVXVnBRZGtmdlFlWElQUW5MRHUzVm8?oc=5",
       "pubDate": "2026-10-06T15:08:18.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canadian exports surged ahead of new U.S. tariffs in August",
-      "outlet": "RBC",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE9GLUNZV3ZEUGRvcDFzbGp6MXI3Uksyc2RnSW52RGo4c1puemczNzVuOGE2M1ZYN18xQktpdEZzMi14a1Nqa29NNUVXSUphcEhLRzRZWVNFb1k1NDFEby1mMUY3MTNYeGoyM19GWTcyQlQ3RTNtZDNlSUc0NFNZeVdaNFFQXzhzeUhnNzQwZWl3MlJkSVJSNE5oa3V5dmNKdUFNQ3hBeGtlRjRqSnlVcXVXa0lJUDMxUFJ0ZFhac0c?oc=5",
-      "pubDate": "2026-10-06T15:03:44.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
@@ -82,20 +66,20 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Canada's trade surplus widens to more than 4-year high in August, as front-loading ramps up",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tVTdiclJ3WG5SQy1SM0wtcDVMak02eFIyMzRLWnU0UUFYdE5fWVhxUGl3a29iVHhreHdrN0kwVjU0bm8ydW0weDNIVE5hUTBOUVA2NkZGV01fUzBLZXBVTkMwTG9sRWtjb1NMWHA5Uk8?oc=5",
-      "pubDate": "2026-10-06T14:33:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Carney Signals Possible Controlled Increase in Canada’s Population Growth",
       "outlet": "ImmigCanada",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUJGeS1tU3I1ZGxrLVMtLXNVd2d4aGFWLU0wMG5nSjAtZGxJOU5NSnVXS2doVmRNQVFacVN5bWtZMDcwdkIyYzhOX2dMaWRhaVprUlc3YUlSRGk3a3FGYW5tUDZHTjZEOEpVcldfT2ZfWVk0bktlUVZaWFYxS2lHYmNvc1ZMcXhlWlhrOFN4bG9DOWtBNVJlYmphZGExdw?oc=5",
       "pubDate": "2026-10-06T13:16:51.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-10-06T12:51:34.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "CRA pre-filled returns: your Oct. 31 to-do",
@@ -114,12 +98,28 @@
       "categoryLabel": "Social Fabric"
     },
     {
+      "title": "WA governor ‘disappointed’ Canada is fast-tracking new oil pipeline to B.C.",
+      "outlet": "Washington State Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPREdrQ0hkbW1aV2VjWUVVTDk1U29TLURpNUtiWXFuSnVNN0owRnB5Tl9sT0ZLWHJiZlBUc05xX3hYZXNZdFZCc1BTbGJTNi1CaEtfdV9HS1J4OF9hdVlvZmRCOW1VUzhzLVN6Z01VRUpCT0xidnRqRDBwSGdvRHBNZnBHV1FvdzA0NGd0U3dwZFNUNzA5MU45NDBTTUJNSXJLQUNnRUdOV3JnZWJyMEtJLVdpVVJmSXBKWklhMQ?oc=5",
+      "pubDate": "2026-10-02T23:37:43.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
       "title": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnZpZUtVNS1NWV9KY19PeTZHZ21HendOQ3E5SVRvSmw1TEVCNHU3TTNYZ1p0dVU2NFRNeEg2MGdVRDVVY3ZWWjRyOHU5bTF5dkctN0ZKODN2eVRYN1VVN1gyU2JCN3F3NDJpZGlieTVCbi1FbHRNT3JJSi04Vm1kaUJqN1ZhMjZyYmxHY2RB?oc=5",
       "pubDate": "2026-10-02T20:59:45.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "The next Canada Groceries and Essentials Benefit goes out on Monday",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGRwM09CLWxuSzN5OXJqNFRyekU3Q05TWFo3WE52eUczbjl0R21RSmRuQ2JwT3RTa2hJaTY0NmQzZ0g1TzBtZ1p4a0dmSHAzTTN6U1RMNWh6cUFhNjc1UzB2cG9Vd0QyMHBfbzJRa1AwTG5pZFdBc3BHOHBjTjdhSE01bzE0cFdrS3hhQw?oc=5",
+      "pubDate": "2026-10-02T19:33:41.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     }
   ]
 }
