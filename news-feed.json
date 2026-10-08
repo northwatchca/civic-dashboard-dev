@@ -1,27 +1,59 @@
 {
-  "updated": "2026-10-08T08:15:17.623Z",
+  "updated": "2026-10-08T16:00:23.747Z",
   "items": [
     {
-      "title": "America’s Global Trade Deficit Grew in August While Canadian Imports Surged",
-      "outlet": "WWD",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXhfRVpuT3FmcVFoWldfMEhjMVQ0SjB6Ny1rYlZqSzZ2Q09WMWRaZ2pfdjczQjRBODN2U0M3YUpjVFdUeVBVcVB2Q0g4cTQ1TmQtUVNtaEZnd0o5eXc5MVRrMjMwajF1S1VYVEdETXd2VTFBSHZEYnpzWkZfMV9wbDNiTGFTNG13ZFJFeVM5cWNkemMxSUZqRzJEVkFyaW9a?oc=5",
-      "pubDate": "2026-10-08T03:54:10.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Reframing Canada’s Digital Economy for a New Economic Reality",
+      "outlet": "Policy Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVc3WVotOFhlbUM4RlhTZERQOWpfazJsMkpFR1l6WURsNDlsejJPQUhONC1hNExuSXM5V0hpamMwNjlhVmMzOFF1ZGczUTdYWXZTLUZ1SkE2Sm9UY1F3MWFUSFNzOTJhWjd0NGhhNTVJUU54U1BONHFDd1Nna0VHTjQwQkFxQUVET2QtYVFqNEFBek5Jenc?oc=5",
+      "pubDate": "2026-10-08T14:01:42.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada Job Dip in August Reflects Slower Population Growth",
+      "outlet": "ImmigCanada",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sekd0TEJPRHVGOXBVc21tOVlWNFpJTTZ6aV9DUmVaRHVIV3BVNzViaXgtVTRnZFM2YjJMNTNEbDJmb3pUMzVEZUFxYjRLc09tNUE3cDJaQmI0X094bWc?oc=5",
+      "pubDate": "2026-10-08T13:49:58.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Alberta leads provinces in population growth, StatCan says",
+      "outlet": "play 103.7",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHN6VUI2TFVGNVEwamVseHJkRHI5MzJYdEJTV1Fuc0dVdEp3WTVsQW12Mm0wTDZPUFVjWmxCLXdBV25aOVNTUFk1TmdwVlV4M3ZnU09MTDVVdlhSRHMzTkZ6YTBJNG1iSDd3LXBkTENJVi0zb21QMmFXaEdQS2p0YVItSnlVWlhqM3pXOUtPZ3l2Y0stTzFoUQ?oc=5",
+      "pubDate": "2026-10-08T13:12:24.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Statement: New climate pollution data highlights danger of Pacific Link oil pipeline",
+      "outlet": "Environmental Defence",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ2R2aG9ERlNQRHBYTU01OXpaRWtuV3FOVDdlaUxXOVNsYURNLTQtWGN3Um5nSFpxYnR1MFJrUVQ5VXQwdGZWX0wyU2diRWRKbDhqWjJ4QXEzcjQwUWkxSEFJR0F2djEzWk1NY1VVT2pkNk5QaWlqT2xjcV9wVkpDZ3ctMDZLbDN2TnJaVktSclR3M0k1S1FFSHhVZzczaklqQ0dZRDNreGUzSFZHSy1Td2dXOUhrajVhTFlVTVhtWlVDSUZ5WWc?oc=5",
+      "pubDate": "2026-10-08T12:50:58.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-10-07T22:35:13.000Z",
+      "pubDate": "2026-10-08T12:14:44.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "South Bow Targets 2027 Decision on Canada-US Oil Pipeline Revival",
+      "title": "MOVING CANADA FORWARD: An Argument for the West Coast Oil Pipeline",
       "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEk0QjNOU3dqSFdxQ2NCNEV1NHdJeUFMcENhQWRzTmQ1enFnNkNILVVueDBpOGhsa1lzMWtsMmwxNFVYUzIwa2wtVlpDNXZVZVJ0dGQwVzBpbDFYVVR0aDhBYkNteVNXbm8tUGptTC1NWmd0LVZicE1sSmNvR1B3OElVZnRiN01EVU1PSFVkOFJBakVHNWVZSFF1Zw?oc=5",
-      "pubDate": "2026-10-07T22:27:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUljMTBGb3NsU1EyajdGY25vUGlWOVMtX1c2MmZQTHRXanBEYkttajdwUjBYMThlREMwWmNwbUNkMEdKSFRpSDVaVTBzaG9BMGJtSHBFMWJJU0VPNnNRMkRrVlBJYnhDSURfNUlYXzNwUGNqaVFrYkN4WFphMzJXYmIzQURpVktESGNyX3lUbE9PdThUdlo0a212OA?oc=5",
+      "pubDate": "2026-10-08T08:19:50.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Water, toxic waste and opportunity: Indigenous leaders react to Carney's pipeline plan",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTdRREs5SGt6aEowYUNtYlBWMXVpaEFBZHdza3NnRUtYaFZwdTlqbEFyaWpONWowcVlRQzJYRi1oUmIzei1PSHFEdnVqUWI2U0JpTDR4MTdJQlR5OElTVXZjQ0ZXei1IQjlpb0wzcGYwZllURXYwNVpXNThnUlZVZjVfRmgxT2tqU04xT2phNGVLNjFGeWpjRlZVZGZJUHNjcWNVREdR?oc=5",
+      "pubDate": "2026-10-08T08:00:00.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -34,60 +66,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "LNG Canada Phase 2 should be just one phase in a set of many |",
-      "outlet": "Resource Works",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUZ4YWdhNHUtX1htdjlTWFFpSkw5YU82N1BrbmprOTIydFV4Mlo5WFo2aEdSNnpONEdYcEVzMUQ2TWhrMVpTdnEtUzFuY3J5eGd2elA3UUVJS3NNbFJsa2RjMVpIV24wZkRqZmNaM1BuSFN1ZEZXeFhNZzF0OVAyRlN1WDZDMTRCVXo0S1ZNV1M?oc=5",
-      "pubDate": "2026-10-07T19:55:04.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "GIC rates are rising. That could be a reason not to lock in for five years",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVBIekxUWjU1RVFEWWRseFFBTnBlNzJhMVFJUURDLTRpUW85RjV0VlRiLUFtVWx4SVFmZmduVHkzUF8ydVZGc0tQYmlBbktJVWRWeHRPOFBySG1UaVFhb1JtS0lJMVZIMmFOT21OWHJ6US14UTRNOXh6VEV5WFVFc2ZQZEJzTGx1bWVpSE9UUTlvZjhkdEtaSzhfaVF3UjFCdXBrNHlRNXZqWFAwYTBMemZkQlZNZnZaZlR0N0c2Z2ZCamEwcGxuZ1hrcHpXOVdN?oc=5",
-      "pubDate": "2026-10-07T19:13:22.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "A New Energy: Steering Canada's next oil and gas boom",
-      "outlet": "RBC Thought Leadership -",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjMwenpNMHgwdEhoR29yVUNXTDVWMGFYMVVPcXExaXpudDI3dklhVjZoeVhHZ1BTNDZBck04R2VtQ3ZjMlBJT1BuTFQ2Z1ptOUtyMTVERWthbDNJSnBWbm9KYzRFbzNpaWZHa29JMUNSYnJ2QnJNQVRnUzNtRG4tMkdwcWRRT1RvV05HOEhkOUJ2YlE0VFRZWVFpOVZVakVFUmE4?oc=5",
-      "pubDate": "2026-10-07T15:23:20.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Is the Canada Groceries and Essentials Benefit the Biggest CRA Tax Credit Change for Canadian Families in 2026?",
       "outlet": "kalkine.ca",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMDNURUR4a0RzRkdQdTlPUTdMRWtxY0pvZ0pBbm5WRUhOTmJjVnFoWldYYUFka0VELUhEdXlmNHFxcGU4ZjUzSU4xeHQ1NjRkVlEya1laREZkS1ZZVHh4QkszekJaZnVfbzFCbDJVU01CVlFEcFFOTFQwMWxsT3FFWENfeEVpZmpJMzgxN1h3aGZwQ2JYSEtiYlpPMHYtT01WeDV1RWFCbDhqdVpCVVQyN0xSamM5UDl0SFgtNnlSeWF2dnlXR2hRWkw4YWxHWFBEMk5wVXJZc3JsX1JLQXZqY0VaQ2xIZw?oc=5",
       "pubDate": "2026-10-07T13:35:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Minimum wage rises, but so do deductions",
-      "outlet": "Winnipeg Sun",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1dXbjVhY0JIa2l3X0FCTTNYRURuS3d3SDdLVVdEVjFpY0RDaS1DWVQxTVd2cGlzVm55a3M5VE5uekRKYm92a3UzOExRS19nTGRzM1RmN1VXcVl5SUd5Z1RQemZCeWlvaTNqY0pWN0hReDJnbm9hUU0wRV8zOXphaDRRdlZ1NkNUdXNMaTBOQWsxanJreV9RZGtQMzhnMTBidDVESnhUa0szSVQ3R3FSSl9NRWIxcVhzVjhMZHJUNUNRRGZ1UmRnQ3lkUmwwbWlHT3c?oc=5",
-      "pubDate": "2026-10-07T12:39:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada’s trade surplus widens substantially in August",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX1B3UHAtUnZLS1pFbVpuTFVhckQwdGVDaEtfYk5PaXBHa0M3bm9pb01ZSUdveHRBRlRFM3JXTFU4VWo5UTJBcDNVbE8taS1pOHU4ZTBLenhyV3p0YzlWNmU2dVUzeGNGOV9tLU8tOEdVdGd2MEhoUXFEZjROY3MyWlA0QkFReF9VWHVuM1JpNUxOenc0bE9kXy1TcTFOQm94MHRLeTM4RFg3RHJQbkxoSzRXLXZjNFVVbWY1X252OTdmenB1YnN3YTRzX18tUQ?oc=5",
-      "pubDate": "2026-10-06T14:32:47.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Carney Signals Possible Controlled Increase in Canada’s Population Growth",
-      "outlet": "ImmigCanada",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUJGeS1tU3I1ZGxrLVMtLXNVd2d4aGFWLU0wMG5nSjAtZGxJOU5NSnVXS2doVmRNQVFacVN5bWtZMDcwdkIyYzhOX2dMaWRhaVprUlc3YUlSRGk3a3FGYW5tUDZHTjZEOEpVcldfT2ZfWVk0bktlUVZaWFYxS2lHYmNvc1ZMcXhlWlhrOFN4bG9DOWtBNVJlYmphZGExdw?oc=5",
-      "pubDate": "2026-10-06T13:16:51.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     },
     {
       "title": "1 million Canadians could get a pre-filled CRA tax return in 2027 — Here's the Oct. 31 step to take",
@@ -114,10 +98,26 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Globe editorial: The education system’s failing report card",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxzcEZ0UC1IUldSY2d4MVEzWXo1NmtMamdOSFNrME5VVWdxeFgtVVhZMWZvUjJtLVFXUWpFcG1YWDVqM1JpeUliUmxncHNXUWRKRTc4c0poVG14RlFxd0l4cVl3aVdLNGkwUVAyeWc3Y3lKMjdVaFhRczNmQzl2NUZOUTItT0R5b3pNc0lOcmtSNkEwVEYta3BqZG9iM3h6dkxrU3pJRVcxdw?oc=5",
+      "pubDate": "2026-10-04T10:45:00.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
+    },
+    {
       "title": "Which 5 provinces are increasing minimum wage rates today?",
       "outlet": "Canadian HR Reporter",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFI2NE5NMEoxcDJZbVBJQnZWdXFRZGZzSnFrcjkxSVdNRGFNX0hsNE4zajNwNWkxYWFpT3Q0ODJvMGxlMUtCMk94Z0poc0pYQ2FiZzBsQlF5N1hOZHpQSVpNRktTSlR0NThIVkljbHJPMVJnRTNTR2Q0Vk0yNmFPYWlybFM0VW9jcWNlM2FhYnhSZ2djWFdVeUlFLUhQWG1BdVhERUJSekR2U0RrUnlldw?oc=5",
       "pubDate": "2026-10-01T14:27:44.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "PEI minimum wage rises to $17.30, remains highest in Atlantic Canada",
+      "outlet": "Canadian Federation of Independent Business",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTM2MU5IRm1DaUxsWVhQSHdOTmhJZnY1RFJNOXh6T2kxWlZER3p0OE1BSWViNDUzdHBDMFhvaUJWTWg5WmVZd1ZfdVdhMnJlRnB3akx1TXRRcGhjZm9IcUVIUGQzN1JLenVjbUNIdFJfMVlibDZrdkxYTkVaeWFIMTlNM2J5bVNzMlZlazZuLTBUeFNNX0hCZEF6LTRTT2QwNXfSAbIBQVVfeXFMTmxKN0M4SXRISFRWV08yUXpIUWRzWnhQUl9QQXBNUlA4dklEV1ZCeFZDSnFwMl9haFFVWGNLeVBVcnhtTFY5dUxVZ1A3VGdpWkVDTVdMczRNNDZTSVJmeDdHNUFfaGszZGpjcENkMzJjR2xGTjh0NXdUZWdGdGNKbTRxdEZWbEtQMWRyel9fQXBoakNvZEttUXprQmpEemxfMmVsYnpFQmFzRmUxZ2hhelM4QQ?oc=5",
+      "pubDate": "2026-10-01T09:04:20.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     }
