@@ -1,11 +1,51 @@
 {
-  "updated": "2026-10-09T08:16:53.590Z",
+  "updated": "2026-10-09T15:42:34.540Z",
   "items": [
     {
-      "title": "Why Canada must put public dollars behind big infrastructure",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4djRTb3hMS1FPeXJ3N0M1cGU4UlFLa3VWSnkwaElDY2MtTlBTMno2elUzZXFUdjJxWjRPaFM3SC1HWUVWVzhzMVNhZkJkbXJSRGlSaWNnT0k0blUzMGc?oc=5",
-      "pubDate": "2026-10-09T07:00:20.000Z",
+      "title": "Canadian industry data to point to a modest GDP rebound in August",
+      "outlet": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDVVN0NPR0ZfRkxTZkZ6bEJwY0t6OFh3a3pCazI2TFVFa19jWVFEcDBXZ2p1U18tcmNvZ0FXS0tqaEwxNGgwcVBUSDl2ZklxelhJNzkyVWJ1ZHB3NU1OTmE4M0MxWHdEdjY0SHZMMGJvbk5PVzVLS3F4Y05Wc2Rza09YUFBZWEJoRWNaRkJzWnB5bmxTNU5yQmZsaU04cGtmc2k5a2JEUU1rT3h0cTJVSXN5NjAtWG8?oc=5",
+      "pubDate": "2026-10-09T15:04:14.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "The Real Winners From A New Canadian Oil Pipeline Are Private Investors",
+      "outlet": "DeSmog",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUkyYk13alRseEFSTVc4d1czbF9WRk9BcThtNWhxckdnS1lpVUI0X3poV2JBZHVNelVuQXZvN3UyVXVhQmw4R3U3Z1c1ODIxcXhGTGJyb0pELUhuUjF6R09odGhOeGhHTUt1OTVXblpZbUpPZk1yYmhYWkRkczR5a0lOWWNVbDZNSUxsOTRxRl9XUDVZcVJuV3VCWlp0a0J0QzBFeTYtRXBTUQ?oc=5",
+      "pubDate": "2026-10-09T14:44:44.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada loses 68,000 jobs, pushing unemployment rate higher",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjdTRW9UUGJ6Q3QtVkhkZ2RsaXJjaUpxdXhRT2xZRVVhTk5YcWpDUUtteXltRE1Gd3BUZlZwQk9RbGV0R010Y3RaT2RCbGsxd1dHejdLLUgwdnZFekVCSWs3YVhsMHExbTN3WEs3YTB6ZDVHVW5FREhSOVpDalJHTEw4Z2JrRGJSY0xpRld2VQ?oc=5",
+      "pubDate": "2026-10-09T13:30:24.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "outlet": "TorontoToday.ca",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZjWW9sWjNMXzRRdjhrZ2RvRUxJdGN4UXBkUzh1UkNmOGp0ckQzZjlQQm0xYWxPUVBoUFpOOFBXel95aFYwQjVtY0VGLUV6SVR5bTJRMV81TEJuanhub1h1TVdhMkVoRjhtVS1HS0VKV0FBUk5rckFUMk1PbDU3SFBEQmhFZlBLQnZlYmFndHlsV2c5Wm1GanBmdzNkYXItRnJiQlRmbnlZSEY4WjN2My1GbkpQWUQxVEJkd1I4ck8?oc=5",
+      "pubDate": "2026-10-09T13:02:48.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "outlet": "Investment Executive",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFNsZGwzdlNrNlFIN0t6cjMyQ2JVdjQtM1h0Z2pWVjJjRlAwXzBLNlltVmZuU0NhU2hxMWxlRnZ2Y3RFLVJyMW5HTS1RdXZfTThfSzliS0Njck4xWk5jTDNPdWtpcjJNSE1jZTA2YlN0VXB3d0Z0UXdxbVVrWjRxSUFPWjlvTGJ3UzU5dGdQOVVMSGE5bkdZWGZLRFB3MHlSY05sRk56bk8tZw?oc=5",
+      "pubDate": "2026-10-09T12:39:16.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "South Bow Targets 2027 Decision on Canada-US Oil Pipeline Revival",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEk0QjNOU3dqSFdxQ2NCNEV1NHdJeUFMcENhQWRzTmQ1enFnNkNILVVueDBpOGhsa1lzMWtsMmwxNFVYUzIwa2wtVlpDNXZVZVJ0dGQwVzBpbDFYVVR0aDhBYkNteVNXbm8tUGptTC1NWmd0LVZicE1sSmNvR1B3OElVZnRiN01EVU1PSFVkOFJBakVHNWVZSFF1Zw?oc=5",
+      "pubDate": "2026-10-09T09:10:41.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -16,14 +56,6 @@
       "pubDate": "2026-10-09T00:35:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Today's Economic Indicators: Focus on Canada's Unemployment Rate and U.S. Consumer Sentiment",
-      "outlet": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wRDh6VmlXSnA4VWgyUHpCQ2JSd2FOOUdCMGVxaUl1TmNYTXVQNkJXN1JPN3ZFaVlPQ0lzUHItQ0l2UXA1U2N6UkFIdjNMSGZ1bmJtR25oelZuaGR3SDNTMktDZVI3MDJJbnJraTVwOHlOY0tMTkE?oc=5",
-      "pubDate": "2026-10-08T22:25:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Water, toxic waste and opportunity: Indigenous leaders react to Carney's pipeline plan",
@@ -50,28 +82,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Canada Unemployment Rate September 2026: A Jobs Preview",
-      "outlet": "Admirals",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2pDbTdXYzhLME1wUVgwalBraTJlbGpsU2RiSkJLRjYtSmxWY2VNOTVMdlN2S3djSmNzckJTbmZDT0dHNDBUN3ZLMXJiaG8yMTRFd3hGMnJjNzdZSXJwUURXUnl6UEdRUnFNSHlLa1ZmZEtmd3NoV1pJTTkyWm9sUkpQblZZbE9tcndhaU9KNzBCY0pZWWhxb2JtZHB3bjc1V01kX0VIQmdmSFJLd3FTQkdPMEJvRDVVNEk1RjdrZFc?oc=5",
-      "pubDate": "2026-10-08T14:56:24.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada Job Dip in August Reflects Slower Population Growth",
       "outlet": "ImmigCanada",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sekd0TEJPRHVGOXBVc21tOVlWNFpJTTZ6aV9DUmVaRHVIV3BVNzViaXgtVTRnZFM2YjJMNTNEbDJmb3pUMzVEZUFxYjRLc09tNUE3cDJaQmI0X094bWc?oc=5",
       "pubDate": "2026-10-08T13:49:58.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-10-08T12:33:23.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
@@ -90,12 +106,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada’s trade surplus widens substantially in August",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX1B3UHAtUnZLS1pFbVpuTFVhckQwdGVDaEtfYk5PaXBHa0M3bm9pb01ZSUdveHRBRlRFM3JXTFU4VWo5UTJBcDNVbE8taS1pOHU4ZTBLenhyV3p0YzlWNmU2dVUzeGNGOV9tLU8tOEdVdGd2MEhoUXFEZjROY3MyWlA0QkFReF9VWHVuM1JpNUxOenc0bE9kXy1TcTFOQm94MHRLeTM4RFg3RHJQbkxoSzRXLXZjNFVVbWY1X252OTdmenB1YnN3YTRzX18tUQ?oc=5",
-      "pubDate": "2026-10-06T14:32:47.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Fed rate hike pushes Canadian mortgage rates up",
+      "outlet": "Money.ca",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2xnX2hCZnRQM3BGYzZzeWpMUkdBMnFMZWM0ZkJpYi1YVlZoQUtvRF9HMWJWdUcwN2s4ampteVJJbHdybG5ITk1lMmxjcFpUdklLUzU5REdlaGpZRVBSMnY4ekRmRlR0WkxLa3R1ZU91amg3Sjd4YVNaVmxwMEJfS0xVa1Z1UzhnUHY2YTJzYTRFb0NBN0E?oc=5",
+      "pubDate": "2026-10-06T20:06:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "1 million Canadians could get a pre-filled CRA tax return in 2027 — Here's the Oct. 31 step to take",
@@ -104,22 +120,6 @@
       "pubDate": "2026-10-06T11:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "New tax on millionaires to fund health care in B.C., promises NDP Leader Eby",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3RkT2hXTXQ0SFAwU3BlRUthV0stV2JjYlFPX3pyWFloLUNuQ1B2RFRac2o2VkhZcFp6dzdoS2oyWEU3R3N0dlYyRlpTU1pRb2l1eUJDa0thTGU3SGQwMU5yX2dlY3RvTGRVSVBKYWZRamtiVl9fc1B3M3k3SWkwZGxmQk5QYXl4ZUdYZExJWVBUVkNf?oc=5",
-      "pubDate": "2026-10-04T22:07:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Globe editorial: The education system’s failing report card",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxzcEZ0UC1IUldSY2d4MVEzWXo1NmtMamdOSFNrME5VVWdxeFgtVVhZMWZvUjJtLVFXUWpFcG1YWDVqM1JpeUliUmxncHNXUWRKRTc4c0poVG14RlFxd0l4cVl3aVdLNGkwUVAyeWc3Y3lKMjdVaFhRczNmQzl2NUZOUTItT0R5b3pNc0lOcmtSNkEwVEYta3BqZG9iM3h6dkxrU3pJRVcxdw?oc=5",
-      "pubDate": "2026-10-04T10:45:00.000Z",
-      "category": "social-fabric",
-      "categoryLabel": "Social Fabric"
     }
   ]
 }
