@@ -1,27 +1,11 @@
 {
-  "updated": "2026-10-10T13:11:42.807Z",
+  "updated": "2026-10-10T18:09:03.716Z",
   "items": [
     {
       "title": "pspp is shaking up canada’s immigration debate for good",
       "outlet": "Winnipeg Sun",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR0RtVUtwNzZzT09kTmdCaG8zTE5tT1k1aGJhTzJjMmpmbXZsTEJ0NU5VaEtteWlvaXkwQV9LVldJaVgzZ2xva0xGN3kwd19Gc1V4ZEVaRXpWWW15QmhHRHpkV0N0cFdGUlk2TkF5STNqR0ZUN0hneFE1cFFTU3RjTm5HQmU0Y001X2hOdlNfUWduQlZTZ2FUNmpfNWxhQUx1LWU1UHQ5cDE3T2hZbUpjV1BZWG5GVTNFWjFBSldHV0dRMko1RVVKT2gycEJSeFR0bE4xcXpPa0R4dzNIbWtVLUNERnRFU2s?oc=5",
       "pubDate": "2026-10-10T11:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Sask. unemployment rate second lowest in Canada, report shows",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGNrRW4wNXBHSGxGaW43OUdBV3E2dXlsYVo4cmJkVnhzZmlDMlY1TC1QVU9uX2YwT05SeUdheWd2eXQ2VFY1UW9BYldoQ0RENTU0UFo0LWpsWEM4ZjRTY1hpWks0bk5TQkFueUM1REdZU1Y2OEU1VnJBX1duOFRKZG9KWmVSTWR2a19pTmVBclZTWmJaeUpUNHpYNEI0Y19DejZXNWxLNjhJSUQwMjJr?oc=5",
-      "pubDate": "2026-10-10T00:33:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Changing lifestyles may be behind Canada’s near historic low fertility rate",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDJDT1BCelBCalNlOGxwbmFKQmNRVHVlQXpwdXNuOUlmVFYwX19PWGpreE8xaHJTTmhSUW1MMzZ5VnQtb1JZeWFZV0paMkVRNFVWSlpGTXh5MTVySlVRVmF5X09Fd2hSM3FtdGN1MXFMeXFHQi1mYTYwV1MtU0xaVFVvQVVTRzNNMWxNTDloWVIxZlk?oc=5",
-      "pubDate": "2026-10-09T23:12:55.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     },
@@ -34,10 +18,26 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
+      "title": "Changing lifestyles may be behind Canada’s near historic low fertility rate",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDJDT1BCelBCalNlOGxwbmFKQmNRVHVlQXpwdXNuOUlmVFYwX19PWGpreE8xaHJTTmhSUW1MMzZ5VnQtb1JZeWFZV0paMkVRNFVWSlpGTXh5MTVySlVRVmF5X09Fd2hSM3FtdGN1MXFMeXFHQi1mYTYwV1MtU0xaVFVvQVVTRzNNMWxNTDloWVIxZlk?oc=5",
+      "pubDate": "2026-10-09T21:15:29.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
       "title": "Weak jobs report eases pressure on fixed mortgage rates",
       "outlet": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkJOTTJVTlR1UGlFQmtKbEpUSVdhS1VySmZqMGxBQVR5OGZZeWl5WkhEVlhQNGJQNGF4aTdnZ1FUeERldDN0TXZsOEFwVkR4LVVSUXhXdTFXWmxQMlNrTTVYa1A5MkQ3MThuenc1NVBHSVRlWUhjSnItdXhoOVdvZkQ0c2YzNU5ZcHNDR19HdTJUbnd4SzJFTG9iX0Y3RXhMTGN1N3lSV3JBaHg4NFBSWVY3Y1dFc0RkZXc?oc=5",
       "pubDate": "2026-10-09T20:32:09.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Weak jobs report eases pressure on fixed mortgage rates",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1BWRXV4ZGZDVXk0Rnp6MmVOYlZBTEpJYU1uY2t5M3RCYWlWMkt5VmNOUWUyWXZ4R3kxUUVKM0Uwa001andpWFlyRWt2T054QXBzNXI3RUIzamNNNW1mQXJ2NmppNFRFd0ZPeHU3QVZYUENNM1JyUlNnWXZNM29fNDJqQWlIZW8?oc=5",
+      "pubDate": "2026-10-09T20:29:20.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
@@ -56,14 +56,6 @@
       "pubDate": "2026-10-09T17:35:59.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "‘Scaling the expenditure wall’: Can Canada build its next oil pipeline for less than $66 billion?",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclMtcXBkZDl0ZjJHRjhRTFVQMGRXOG0yX2NlWGN4NkoxaFFQamczaHlJYTk5dll5VTVmNDZLaC0ybmFQdFg0dHVvYTcwa3ZULWhsY0ItWHNFVUc4cHhaNmVPNGlWSkRnUC1sRTNNc1AtUldnN2VPYml1elpCbmRhdjVKTllkR1ZPN0pEYTdaNlJvNkJ0d1dORnd1MHVLUGxXQkV0UFRtbjhYN01wSlZwYmJCeTFtRHZYN2lOaU1YampoU2M?oc=5",
-      "pubDate": "2026-10-09T17:23:16.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Canada loses 68,000 jobs, pushing unemployment rate higher",
@@ -90,12 +82,20 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnZpZUtVNS1NWV9KY19PeTZHZ21HendOQ3E5SVRvSmw1TEVCNHU3TTNYZ1p0dVU2NFRNeEg2MGdVRDVVY3ZWWjRyOHU5bTF5dkctN0ZKODN2eVRYN1VVN1gyU2JCN3F3NDJpZGlieTVCbi1FbHRNT3JJSi04Vm1kaUJqN1ZhMjZyYmxHY2RB?oc=5",
-      "pubDate": "2026-10-08T20:55:25.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "outlet": "National Newswatch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGpRRGU0UV9zSjNsOTRtS1VBcFI5NWhYVlVLOGs0bzBSNEE4b0ZILUMwY1Z1WU1Vb01famxPSHRlY3ctTThUd0thQ0hiMXRuS2NYX19pV0VFRTZQS3pWaGFkREQ2UlFrS0VJcGc1WVJFQkZoZE5zX1NvQVJYaXlDbl9xYU03Y1hmRnJmVEo1cjFNMkxnMGtuZ0xWRS1uOThlRVNmUUUxY1RkQQ?oc=5",
+      "pubDate": "2026-10-09T13:08:52.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Cold Lake First Nations seeking judicial review of Pacific Link pipeline designation",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3ozMlBKN3pqdGFlRjZON2ZOdnRWSFBZNm1qRkhIcThCYXNsTXFLakEzdm5ycThJX3JZSUZOZXdINjYzc0g1WmJkTE40UHBEaW1wM2ZLWG5SZ0V2b0ViYWxNVm0wY3ZPYWg0Y3pjQU83cEpzVUp5NkMxaWcwcFJFeWNBbEg4a0lLeEZMbDRSNlZnekRFb25hdlRDNE9IZ1E?oc=5",
+      "pubDate": "2026-10-08T21:35:04.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
