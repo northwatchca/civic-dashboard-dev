@@ -1,21 +1,37 @@
 {
-  "updated": "2026-10-15T00:13:32.233Z",
+  "updated": "2026-10-15T05:26:57.367Z",
   "items": [
     {
-      "title": "BC NDP election costings would see deficit fall to $12B in two years",
+      "title": "Trans Mountain CEO Says US Trade Rift Adds Urgency to Canada’s Oil Pipeline Plan",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3dENXlTMzc5Vm05MGt5MmVoT1ZFSEpwQ2lMSlc4d1FyZko5UV93WUpHTnRONE9hbVdNd3FCZWlsYWlLcEZUSERzWTg5dTllSkJHY0Zvc2FNZjRvT2dadnMyWGFBaTNUOFU1SmE3THhqbHk5cVdMaWJTdWo1a2pzWnc2YlhHbE9aclE0dllnTGhfWHhzZ0hjUXhKbDZGUkN3alQ0WEFwR01OcUJMblE?oc=5",
+      "pubDate": "2026-10-15T02:50:12.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "U.S. sets tax total for Canadian softwood lumber exports at almost 35 per cent",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTJEZHVKN3htMHROT0QwUkZ0UGtVNXVOT0VsTnYwd3Bhc0xaRFFuME9UMGx1dmFxM20wNlp6UEtIS05pZ1Q3X283SDRINkpISF81LXA0UTJzY1hDaElLMldMSkpVOVJ2TU9WUWxVZndOeFQ0WVB6azNUQllDZXVfVllFeVF2dXNjenhqSTI4SDVEQkFZNlpaYTVsd2hzTGlHLW5QVEh1ZE9sSzIwdU9nREszQlVkcWtxTTg5MFFUdXhBRXMzWjZfbw?oc=5",
+      "pubDate": "2026-10-15T01:49:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada's economy 'won't grow as fast' in the future due to less immigration, Bank of Canada says",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHE2bzgyaU1vRjZ3THBuZzJta2xRa1FNUnpsUVN5cWIyUVlFbUNCSF91Q2wwZHNndTk4dlNtay1LZEpFSGZ6RjhQRUtnVVZxTTlIUWJfNm5XWEh4RWxudWdaSTlqYVVKNVJibGhVU0ZOb3hoaUVBZGJWQlg4SDFZaDhnbjhwSEo5Z05FVWRkUy1qWlBtUTZ3ZThMSG9KaGhiTEVaaVA5QWZubGN3NnF2dHZ0RE1Ic2pQTUVKX28xcG5UNEcyREVZVThWQVZfMUFabnc?oc=5",
+      "pubDate": "2026-10-15T00:28:10.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "B.C. NDP election costings would see deficit fall to $12B in two years",
       "outlet": "CTV News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDAwMjdoN3QyX3NabUpHakY0NmJVOHV1TXlmSm5WNGZ5VWdPcGVUSV9DT0U5enFlcVdVV0djTWE4Q3ZNMmpMRDJHQU1IZTVBMlZlMW5sTHZOSFhHVkRXRzNxVTAtYm93a3N0QlU4dUhmdHN3TmpTNW5ocE1VRGRBOXJna3pyUXl3VFhmRjVPN0dMRm1ESVV6eHB6MWRiUTdydnNMN1RSNGhYM2ozM3c?oc=5",
       "pubDate": "2026-10-14T22:40:40.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Tenaris expands Canadian manufacturing with new pipe steel grade",
-      "outlet": "SooToday.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTNrN0lIOC1FMFRrVThDcXhJNjlCeWM2aUtXdm5YX25uMWxYMWdCdnMwdzk2Z2V1SElqX2lLamVjeEJTbm9fVjNVWmRnWmpiTEhUM3ZNMWg5bTNucHAzZmg5RWV6Zmd2aFpwaWJtWEhZQklQQnd0V3QwOUY2bk5wbkFQR1ZiTzlob1hZcmFVRjNFdS1CYXhWZVNkNll4a2I5d01DaTB0RG9sb2ZST3c?oc=5",
-      "pubDate": "2026-10-14T21:04:21.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "The Bank of Canada hasn’t moved on rates, so why has your fixed mortgage rate jumped?",
@@ -42,14 +58,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
-      "pubDate": "2026-10-14T17:04:24.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "B.C. home sales fall 9% in September amid interest rate speculation",
       "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVlPb09QU3ByZ3NBV2Y3S3RJcEI4ZWU3amhNVTU0djhrYVlNSGZkRV9wMm5SVC1SelpOanZKUWpRSTdGQ2JGeFdDYTJ6OEx6XzJIVHVCRnZSeHJlRGZiclVJYkpTSHgtT1B0bzQ1WEhyOEV4cm1GWVVhTzNveDBOcmlWVmlmbGdNWGNMSVdybmpjZVRLOUNKbDBZdmZGT19ldkdJLXdXNU14UF94TF9TeEVHa3ZvSFlnbTA0dWROWlhaUkE?oc=5",
@@ -66,14 +74,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
-      "pubDate": "2026-10-14T12:24:30.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Canada sees record surge in U.S. exports ahead of new tariffs in August",
       "outlet": "constructconnect.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOajA3ck4tVmFKeWxkQ2VVaEIwbU1oS29jb2Q2cXZiTXdKT1NxZ0c0Q21OdUFrQnBjSmJPb2pYX29RblMtTmRSb2xuYTQ2MXRNSVdYbGJCZzhNSzhRbm16NFBsQW1FOVExRUZzT0txWEIzaVNvNFl4SXRLU19iOVNsSEhDZjZxVmpLaXBUOXNjdTBDOWhXZnlWcUcyRGJEYVlmU29uMEtMUUxHZzJRaExFbDIwMEdKS2VQelVWaG1jVG5qaExfWW9FWkZVYzA?oc=5",
@@ -82,20 +82,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-10-14T03:42:02.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "FAQ: CRA bargaining",
       "outlet": "Public Service Alliance of Canada",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZ0Z0YXd1NUJmVDJTb0JDNnRDdjdic3V2LUExbVdPbVdmNkdUWF9MYmU2dFpBRnVJQ3haV3l6R2ZCWG5oV1l4U0hQQW16endF?oc=5",
       "pubDate": "2026-10-13T21:11:26.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Coastal GasLink investment deal by TC Energy gives 5 First Nations economic interest",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSG5rREd4eGdkS0E4UTJRUU16UllqeGZuNHRPY0FJY2gyUkNJY0ZEV3ZmMkJtQ0d2RTc1UUF2ZWowWjNDRS12TGpleEVuNjQ5QUpZZ19vNkNTeVhacGt1Q1VNVDhWaC1ESi12eEx6R0s0dUE2RURfM1JZMXRqelkxY3k2RktCUk9TdUFUdzFxeTNOOG9nWHVvaXZQVENWMFkyTmloQWhQSEltYXcxc2U0?oc=5",
+      "pubDate": "2026-10-13T16:54:33.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Changing lifestyles may be behind Canada’s near historic low fertility rate",
@@ -114,12 +114,12 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Map 1 Unemployment rate by province and territory, September 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zTmtWWDE1U0NBY2NXNTRWeXFFRmZET3Fza0phQzBmeUdJa1ZvVkhMRUZTQkJxMGNsSEI4NVZPby1lUGdoRVprSHRkSTZWN3EySUVBM1VLVWNBV1FZRGJlVU5ELTFKM2JLb045MmM2QnN0M3U0ajlmNjBB?oc=5",
-      "pubDate": "2026-10-09T13:10:53.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
+      "title": "Canadian industry data to point to a modest GDP rebound in August",
+      "outlet": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDVVN0NPR0ZfRkxTZkZ6bEJwY0t6OFh3a3pCazI2TFVFa19jWVFEcDBXZ2p1U18tcmNvZ0FXS0tqaEwxNGgwcVBUSDl2ZklxelhJNzkyVWJ1ZHB3NU1OTmE4M0MxWHdEdjY0SHZMMGJvbk5PVzVLS3F4Y05Wc2Rza09YUFBZWEJoRWNaRkJzWnB5bmxTNU5yQmZsaU04cGtmc2k5a2JEUU1rT3h0cTJVSXN5NjAtWG8?oc=5",
+      "pubDate": "2026-10-09T15:04:14.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     }
   ]
 }
