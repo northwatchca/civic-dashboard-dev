@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T21:19:07.898Z",
+  "updated": "2026-10-17T23:41:12.507Z",
   "items": [
+    {
+      "title": "Ontario to import U.S. electricity this winter, months after Ford threatened to cut power exports",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlJCdWJfcWRRMWNLcHVVdlJScDk0c2pQUFVSN20xeDVqQW1zdFZJakpHOURyYXhmNnF1RnhfS3BqbXZ6SG9yNG5HTFU5U0dHNEktZE9wYmdxQkVnVTJEWTcxeXI4UkdjRFNHQWpYZW9tWlBURDVXNEVoUVBGaE1mbnlaWHdzMVlpR21YcHVTZlo0TWhJdWwyUldRM0lTWmFNWlVj?oc=5",
+      "pubDate": "2026-10-17T21:05:10.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
+      "pubDate": "2026-10-17T19:33:04.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Bank of Canada’s Macklem expects higher inflation outlook as oil prices remain elevated",
       "outlet": "The Globe and Mail",
@@ -8,14 +24,6 @@
       "pubDate": "2026-10-17T14:42:23.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "THE OTHER SIDE OF THE PIPELINE: It Goes Both Ways - Canada Needs U.S. Oil and Gas Too",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXNzV0dtelFESGpwckF2cGp4R0RQZHh6eVQ4aWVLMlpTQjBGRnVCZlhqSDVWSTg4WGZ0SzhmMHBjZHk4NUVISU01SWV6eEZ1NklQdkFxekYzTFd0ZFQ5SmxIOWFWT292aHpja2pVZEJ6OXJPT3dHTnktS3RXcWNtY0Y1SEpwZ1ZxNFktaERCckVNUlkwRTZkNQ?oc=5",
-      "pubDate": "2026-10-17T07:39:30.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
@@ -90,14 +98,6 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada sees record surge in U.S. exports ahead of new tariffs in August",
-      "outlet": "constructconnect.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOajA3ck4tVmFKeWxkQ2VVaEIwbU1oS29jb2Q2cXZiTXdKT1NxZ0c0Q21OdUFrQnBjSmJPb2pYX29RblMtTmRSb2xuYTQ2MXRNSVdYbGJCZzhNSzhRbm16NFBsQW1FOVExRUZzT0txWEIzaVNvNFl4SXRLU19iOVNsSEhDZjZxVmpLaXBUOXNjdTBDOWhXZnlWcUcyRGJEYVlmU29uMEtMUUxHZzJRaExFbDIwMEdKS2VQelVWaG1jVG5qaExfWW9FWkZVYzA?oc=5",
-      "pubDate": "2026-10-14T10:34:25.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "Cold Lake First Nation challenges the Pacific Link Pipeline, Canada’s first national interest project",
       "outlet": "MLT Aikins",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3gwN0o4QnNPeGlnYmZvdjdfNmJ4QVowVUUyNGhubnB2WXhDVG54b2R3WkdnU2dXZkZJaXRtU3ZhcDBSd2JwXzRQdm45TTctdEJtT1JHMzJaeFRZRHF1ZzNQRmNTWVNnVWNZclIwS28xaEhwamd3a0EyVEdCbmtTeUR4RXNMNjRHUEVUd01KOHRRU2lyeWdKXzhhSQ?oc=5",
@@ -114,10 +114,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Saskatchewan unemployment rate second-lowest in Canada, but NDP points to full-time job losses",
-      "outlet": "DiscoverHumboldt",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkd4bVN0aU9VckNhd3Zkd0k1eEdVa2hiUVFSMTNJNXBOLXRnQVlHVzlrbnNHVTFDMTBvdnh2OG9wbTdRaXRGY3JYVFFTNnA4RDR1WUxhbXl5RTIyai1MU1lhYWdyOEtmVWFtZWZ4REM2RlpiT0U2VkFqbkZBV0hEd0tBcmU0LXg5TWxLTGdKajFmRmt5WFQ1TWt2dDI5RGx1ZlM4SFBucndTSlFaWEIxTTR1MzNFaE9yMG1OZFJEeVpMVkw2TUNWLV8tazk?oc=5",
-      "pubDate": "2026-10-13T12:57:16.000Z",
+      "title": "The Daily — Labour Force Survey, September 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91VHlzSVNFc1dFRm1hTTVaaG1RRmRjdW1IYVgxS3ZCcW1iZTZ1aWF4amt2Z2tzSkdCYktPc1QwblZablp4Rmw1bUgyNGhWSnhFLWlYVnBHaDIzckptUVZxTjRTMHMyc0pHbkVONGJ0S0VKajVyLVlOSTNSbjg?oc=5",
+      "pubDate": "2026-10-09T07:00:00.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     }
