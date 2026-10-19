@@ -1,51 +1,75 @@
 {
-  "updated": "2026-10-19T11:46:45.988Z",
+  "updated": "2026-10-19T18:07:02.242Z",
   "items": [
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-10-19T16:10:15.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Mortgage Rates Are Rising: The Bank of Canada Hasn’t Moved",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFNqalZMSkNvdUJZVmdiNVg5MDljYjhUd3k4QjNSamF4N1I5UUkxR3VnSk5rQmNtSUwzZVUtT1VvcmVtQi1NQUgzaG44dVB4WHRVYTAxY3dGN2dfcTdRckhXSVM2YjFoT0ltNUwxOW5qU3diUmtPODNEeGhjcWItSWhZNkV0dmw1NzRIeFdqX1JzRzU3WVV4cGJVNm8tNlJoX2czSFkwcU0tTllWZDBYdi1TTDk1VFA4c19sVnNHb3l5eDZ5SUM2Z0dFa3hzcG55?oc=5",
+      "pubDate": "2026-10-19T16:05:55.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Health Canada recalls Flintstones, Aleve and Claritin sold in Ontario",
+      "outlet": "Inside Halton",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbk1oVUNqVjgyZXBEeHNWZkRucGJLa3NGS2syRzFxZ3IyNzNCSGtRdHpCSkFjeGxGWExvRFlEQXZwOVI0MlNBLVphUTZ2UWVncDlmUE04dnpieVZuUHVOQ0xBcFV3WmFyS184X29yWV90YWJnMmZGRVM0bGU2WDhfRWhFWm5LeUs4MTlvc0xfZXFTalJuZTVTTXRWQzlqZUpRODI1M1BPT25XXy1MQ1h0MXE2TjU?oc=5",
+      "pubDate": "2026-10-19T14:09:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "CFIB sees Canadian GDP growth slowing in Q4",
+      "outlet": "Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZi11czBvTFlxZWtJMzVJek9ndjVfVzVBVEx0emVNMDdoMlphUFpPempyQk8tVDVINXNoYzVoUzhkMGZBeGk1TGtBanBVTzBHVmJrZHkwZ1Vkb2wtQkhCUGhSelJfVEtWZFVBYlRwM01mU2ZaVEhIRm1OcHgtdlFLN2tLbDdwRHQ1eXlCclAzVFJwVlYtR3lxTkJJc3B0VklqdGpQMURn?oc=5",
+      "pubDate": "2026-10-19T13:09:55.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "B.C. home sales fall nine per cent in September amid interest rate speculation",
       "outlet": "constructconnect.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMV83cnFFa01YSUpwTHo3M0JiUjhCWS1FaXk5NXRBTWRHR3hydkk5UnVUclBFRTgtNDFTR0R5THBrWW80NjMzQWtIcjNWZHdHRmh6SjlaRUdtTVRlay00OVdCektRclhFT1NibGt4OFBTRWxUbDZSY3BoUGxaT1pIWFV5ek4xRXRfU29FSC1RUFotckVBOXh0YWJ4eFlEam5qNkEzNDBuUXp0SlVfU0pZajV6TU1FLVcxTl9RUlY3N2FSbE5IXzBBdlpYM1lXNmI5MmhrRll3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVhKVlFTR3JQdVloUktneTVMY1RsX2RlcXQ3TGJRMVZGNFRGUlBiRlM3SVRFSHFKbjRjTGxySjNZZ2tPTnRRMkt4M3VSVFZjLTlTb0pHX3RyZTFNQXEzVVRQSXdSMnI0Zmh1Q1pUSHRoSDRYMWxrMXA4TFhqeEFQYTUzb0F5VmR5SjVkWnFJV3VyajhMR0Jacm1Mb3VpQ0RBUXRfcEQwaFZxRk00cGtCSWx4NjZYUDdzVGpUSmloZW9abUYwQldvSGNITS1USlo0aVJIUQ?oc=5",
       "pubDate": "2026-10-19T11:33:26.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Foreign investors exit Canadian federal debt at record pace in August",
-      "outlet": "Wealth Professional",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnBpZV85OU9Sd2FHVURUQ1dTS05EM2JKYjZrMno3WFNWaG5mYzVzTTdQSTF6Nms0MF9iTVU5MjJ3ckhhOHlOeC10NzlIcEswTE1RaUVmNEVjRmJscWg4bWlRWVVqYWpCcHRGRlU3Y3VxNVY5UkdmLVdOWVlQY1lYSXJLOHJKSDNWdHF1WjJrYmlETUJPYXpYQ0cwUGMzV19LSndKU0JIbE53dkpqMUllU1pXT3Q2OEQydW5Jc3hpSU1TY2tPZ0hMVA?oc=5",
-      "pubDate": "2026-10-19T10:44:17.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada’s economic growth strategy should start in the field",
-      "outlet": "The Hill Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFROYUlFTHhlbURBWnhVWFBZNENPQmZ5bWJPbjRsWHA4UXVhV1Vkc3dkTU84YzdiTFRhTnVtY2NtTUMwWVhsNVVKdTFfWVVlYlJxbDFURmc3X2xaMkN0WlZ0OER0TTZCNUF5R0hBNEpkVHIyX2lZYmczNUYybGRJYWVTa2JybldRUFRPSFNBTGprSVJFQkdiYXNYLTZNX284dmI0YmJR?oc=5",
-      "pubDate": "2026-10-19T09:50:06.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Tecnicas Reunidas scores LNG Canada pipeline gig",
-      "outlet": "LNG Prime",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbzRJNlYzZjRQR0JWRkNhNW9RQlRLTVhubVhkalRZVEF4WDdWd0N6TE1aYlJJTUhhdkcwQlRGVm1KdUJRd2YtZHRwYUZ1V0d2RnRqbFV3amJTbi11bjlPbHJZUnhCdjRZUmZydWM1cGhWMjdnUEpGRHpLYXdmRHlZNktvd1V5VTZwckM1d2x5UQ?oc=5",
-      "pubDate": "2026-10-19T08:36:51.000Z",
+      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
+      "pubDate": "2026-10-19T11:03:25.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
     {
-      "title": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0YxenJXel85OG05dEd4RTNObmpiX2I4ZnFmN3pEQ29qclBINEFFNFd6TFhmWm4yOU5XdTRKNFNZdnR6SHlRbWJPaE1qcF9nRmh0dkFNajFWZ1NtRkNnekx3SWkyLU1pb2tsMUtkVXZFbC1UZzRDOTVzbkxMdUhRTlpMOFhXenNjUzVLcVJRN3hvdDNHMmM4YUVXMF9DUjRHdHc?oc=5",
-      "pubDate": "2026-10-19T01:42:00.000Z",
+      "title": "Foreign investors exit Canadian federal debt at record pace in August",
+      "outlet": "Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnBpZV85OU9Sd2FHVURUQ1dTS05EM2JKYjZrMno3WFNWaG5mYzVzTTdQSTF6Nms0MF9iTVU5MjJ3ckhhOHlOeC10NzlIcEswTE1RaUVmNEVjRmJscWg4bWlRWVVqYWpCcHRGRlU3Y3VxNVY5UkdmLVdOWVlQY1lYSXJLOHJKSDNWdHF1WjJrYmlETUJPYXpYQ0cwUGMzV19LSndKU0JIbE53dkpqMUllU1pXT3Q2OEQydW5Jc3hpSU1TY2tPZ0hMVA?oc=5",
+      "pubDate": "2026-10-19T10:45:30.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-10-18T19:48:38.000Z",
+      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
+      "pubDate": "2026-10-19T06:08:18.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada’s productivity gap is buried in paperwork",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUJuU24tcDJkSUVDZXF0YV9rV3VjRWNCaEU0RHRic3Q0dl9TcG1SVGh6d2ZVeUZvZldoalIyR3JNNDl4WUxSTmVqd1NyVGF6bDZ1Nm9MOV82N1p1cXFIN3REU1JQTzMzRDFveDJNX2duWU9wc1EyNkwwb2lLXy1IZm9iZ0VFbEMxZjR2cQ?oc=5",
+      "pubDate": "2026-10-19T04:07:19.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -54,14 +78,6 @@
       "outlet": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
       "pubDate": "2026-10-18T10:54:34.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-10-17T20:08:41.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -77,17 +93,9 @@
       "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhR09fMkktdVRVTUtuVl9RZ09Qc2duMmdRN2NKa1l1MkpERHdCZnkycnBvWXE1VmljQkJkbGtscjAwckFDVEhhUnhHLTJxcU1zek5QVXpZMUc2ZE9yQ2RmOHgyTzRnNk8wVVFHVlh0ajM1RndmLW5RMlNxaw?oc=5",
-      "pubDate": "2026-10-16T19:12:23.000Z",
+      "pubDate": "2026-10-16T08:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Ontario Welcomes $479 Million Advanced Manufacturing Investment in London",
-      "outlet": "ontario.ca",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUtCd05fRFpSbF9KOXVmbWlRQnA1WFp5bHBackFIaks5Z0w3cUVGTTh4WE1jcEFjTEdXOHVRZEJVQ2Z0QVhoTjd0Zkxwb2lhaTAtRzA5NDNBZVZTc0ctRW5SN3dXeUNqcjRIdGtRc3VWWFRwT0hpRW5aaFdfYmJxNC1sU2NqeENSY2lDeG1xdFI4N3NHVnVnRUYyeU1CMDgxdUxjU2F3dTlWNzRhSUtXNVRWUl9QUQ?oc=5",
-      "pubDate": "2026-10-16T13:07:59.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada Capital Gains Tax Calculator 2026",
@@ -112,14 +120,6 @@
       "pubDate": "2026-10-13T21:11:26.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Canada loses 68,000 jobs, pushing unemployment rate higher",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjdTRW9UUGJ6Q3QtVkhkZ2RsaXJjaUpxdXhRT2xZRVVhTk5YcWpDUUtteXltRE1Gd3BUZlZwQk9RbGV0R010Y3RaT2RCbGsxd1dHejdLLUgwdnZFekVCSWs3YVhsMHExbTN3WEs3YTB6ZDVHVW5FREhSOVpDalJHTEw4Z2JrRGJSY0xpRld2VQ?oc=5",
-      "pubDate": "2026-10-09T07:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
