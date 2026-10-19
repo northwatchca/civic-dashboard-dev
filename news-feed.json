@@ -1,11 +1,27 @@
 {
-  "updated": "2026-10-19T00:40:37.195Z",
+  "updated": "2026-10-19T05:33:58.849Z",
   "items": [
     {
-      "title": "CP NewsAlert: B.C. Conservatives platform promises $2.6 B in growth, $10.8B deficit",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORFU1bzlWUjhnZkVOS3Z3UC1JcnIxazJ0S0daVHRTX0RiQkZjcDhWdlduMmMwanZlelZLMTFPdGVXaHJ3ZnVxc0tJTDZsZ1BRbmxZMC02MGVIQkI5YmUwQW9aMFhmZEVsYzBXNDNYV2VTTllsZnhOS1lzQVhJRVZJRUlLbENZakM4OHlGMUhWa0VIUUhRNFRCRkstajJGenJ6blduMXVrd04tYUpOaG9id0dsQVR3eWdCbW1iV19paGh1MEJudVBLdktmV3lOcTJxTHdWTGtOUF9kLUplZkJCazR2MzRseUUxQk5QdHJQN3VoUWJGWk5wVDNlR3lSeDFQcmZyQ0JhOG4xcURwZGc?oc=5",
-      "pubDate": "2026-10-19T00:10:05.000Z",
+      "title": "Canada’s productivity gap is buried in paperwork",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUJuU24tcDJkSUVDZXF0YV9rV3VjRWNCaEU0RHRic3Q0dl9TcG1SVGh6d2ZVeUZvZldoalIyR3JNNDl4WUxSTmVqd1NyVGF6bDZ1Nm9MOV82N1p1cXFIN3REU1JQTzMzRDFveDJNX2duWU9wc1EyNkwwb2lLXy1IZm9iZ0VFbEMxZjR2cQ?oc=5",
+      "pubDate": "2026-10-19T04:07:19.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0YxenJXel85OG05dEd4RTNObmpiX2I4ZnFmN3pEQ29qclBINEFFNFd6TFhmWm4yOU5XdTRKNFNZdnR6SHlRbWJPaE1qcF9nRmh0dkFNajFWZ1NtRkNnekx3SWkyLU1pb2tsMUtkVXZFbC1UZzRDOTVzbkxMdUhRTlpMOFhXenNjUzVLcVJRN3hvdDNHMmM4YUVXMF9DUjRHdHc?oc=5",
+      "pubDate": "2026-10-19T01:42:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "B.C. Conservatives platform promises $2.6B in growth, $10.8B deficit",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmlpTWVmay1rekN5OHF5NENmNU5ndVFjVE1uWjFTNmJScFJkQzhiRUFpa1llN0RPQWxaX1BEdW8xUHA4UVNxUUhNME5wYXhseUtyYnJxQ3h6bW8zWnFCUUNvXzlTTWs4dm5LVENudkljYU5uZFgtdDM3bW8wQ0lYLWVIWmJncVR1aXlGTnBkaG5IdUVpemVUdFVJcVpLZm9QTkpoUXZ3?oc=5",
+      "pubDate": "2026-10-19T00:29:00.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
@@ -18,26 +34,18 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
-      "pubDate": "2026-10-18T10:54:34.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-10-17T19:25:40.000Z",
+      "pubDate": "2026-10-18T19:48:38.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-10-17T09:49:26.000Z",
+      "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+      "pubDate": "2026-10-18T10:54:34.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -48,6 +56,14 @@
       "pubDate": "2026-10-17T06:53:49.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
+      "pubDate": "2026-10-17T00:14:37.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canada’s immigration levels could soon be increased. Here’s why",
@@ -80,22 +96,6 @@
       "pubDate": "2026-10-15T23:19:06.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Why business leaders are ‘cautiously optimistic’ about the upcoming federal budget",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGc3QndfQTFRQTZyWUhNQVhWMkRkVFhqWFJZOTJzV3JueXRlMllDZXRxVURkcjNJME9YbE40T1YzLVRkSEZvN3F3OUZKcTg3T1FaaUFCN0I3Q2Y1aEw5cmZCb3JfWmtycjF5VnBhZGhtQ2tpZm9LWEFGZjRBLXZVZktzWlBBeDg3Nl9aTlo3YnRpRTF0LWdnaDRVQV8zeTN1UWtmSkx3SkFzdzlHRzIxN2hlRl9abGZNZlgzUVVHekV6dFY0WVNyXzk0Z1A4VUp1dmFDV3pR?oc=5",
-      "pubDate": "2026-10-15T19:23:27.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada’s GDP to grow at a slower pace through late 2026 amid trade uncertainty and high fuel costs",
-      "outlet": "Canadian Federation of Independent Business | CFIB",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0d4bzZUXzZIRWt5SG9NNHBadGhnMWc1NXAzTFpPUVo5b1E2M003VVlsaEhZSklTSGNwdFBDcHZxZEtlRDF2S3FsQ0xZOXBkNnhjUUxFUTRSYW42d0h0VkpUbS1ZcmtKdmt3ZWFsdXk4YUliaHRFZndaTnBQZFFncnVnSEFIdjhYV0lXZ3JMaEktMURlQ1liZEVVay1kTGZ1ZjA5aVVJalh6QkVwSF9QWVFEQ0tleDJ2QkEzYXQ5TkpSeTZGeXB0N0M3c9IB2wFBVV95cUxQaFA5Ujl0NldIdnpkYmNnZzEwZzZEOHA0ZlRza1hmVnl5Mk11SzlaM0tRS3JDV2dqRWNndnBIczg0WndrdHdtUUVPRFU5ZmloeVBzYVBuU1JaVW1LcXJHM3NaYjFwbUVUSUdwMW5hSER6bzMydnJYdHdsTGZUeTk3VFVUakJ2RDRjYjc2QVZPXzFLVXFrRjlacWpfUmNBQ3ZMRTdfd194MXRrQU5OQ25QdndESERwdk5WSjFYSUI0Y041dHVtVllhV0x3YzJybkNLNjl2ejJQNU9TQk0?oc=5",
-      "pubDate": "2026-10-15T11:07:53.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
