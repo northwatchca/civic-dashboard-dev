@@ -1,21 +1,13 @@
 {
-  "updated": "2026-10-20T01:25:36.615Z",
+  "updated": "2026-10-20T06:58:16.739Z",
   "items": [
     {
-      "title": "Did a West Coast pipeline do enough for Canada to win back Alberta?",
+      "title": "B.C. Conservatives' economic projections questioned as costed platform released",
       "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSnRxUlVUbFhkYU5DYzByZFF5U3dQeWpWdERNTmdFZnpnMW1fQTJvU0hnY0hCcTlqY1FVeWc2S1lMMklYbnNVWUp4WGY1NmI5X2FDSjlmeGJnUQ?oc=5",
-      "pubDate": "2026-10-19T23:19:22.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Brazilian Exports to Canada Hit Record as Gold Sales Rise and Beef Surges 828%",
-      "outlet": "DatamarNews",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDI5MkIyM0pFeXlwaHRPdm9RYUxoN1E0RENvOGhFV0lvMjVQUkFVcXFmc0dfVjhWZGF2Q05sNTV3YVhyS2RxY1BOMVJKNkNPSHFwRl8zRjZULS1pYml0VEtJU2J4T0FLMVBlX280ajgzMUlRbDdSeVAtaTdfTXEyamNLV29nQlE?oc=5",
-      "pubDate": "2026-10-19T21:04:47.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenpXeXlhX1E2VURReWpQV3VIeGlfWGN2NGRjWWxZX0l2VEVIZjYxa0t0WEdJN1EtQl9jY0ZDaVMzekMzbVZjSk0tWW5VU05FekhVSHU0aG9XSHJOMFFYaHBEcjdDb2RhQ1BRU2lZV1kwVUx5RXpwbnk1a2tHZ0x3VFpLdlYxdVJJN2ZQSjJ0TnJEMGgz?oc=5",
+      "pubDate": "2026-10-19T22:26:48.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
@@ -34,28 +26,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnZpZUtVNS1NWV9KY19PeTZHZ21HendOQ3E5SVRvSmw1TEVCNHU3TTNYZ1p0dVU2NFRNeEg2MGdVRDVVY3ZWWjRyOHU5bTF5dkctN0ZKODN2eVRYN1VVN1gyU2JCN3F3NDJpZGlieTVCbi1FbHRNT3JJSi04Vm1kaUJqN1ZhMjZyYmxHY2RB?oc=5",
+      "pubDate": "2026-10-19T16:01:27.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
       "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
       "pubDate": "2026-10-19T15:49:30.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Mortgage Rates Are Rising: The Bank of Canada Hasn’t Moved",
-      "outlet": "The Motley Fool Canada",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzJvWWo1bHR6dDh0dUpGaC1LZzRWUlE3QU1PTUI1MHFTelhWYXhpY3A0LUs0ZlFneW91V0VVR3dpbXdOX3pnSl9VMzJ2VmFIRzlTWFVDQk5FWG1fTWhpMlFFWlo2VlJPZVcxMVFyWGRfRlNoLTJ0UnhmOTVBbjhOb3lDVVotSnp6ckFuM0o3eUZhUQ?oc=5",
-      "pubDate": "2026-10-19T15:45:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Health Canada recalls Flintstones, Aleve and Claritin sold in Ontario",
-      "outlet": "Inside Halton",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbk1oVUNqVjgyZXBEeHNWZkRucGJLa3NGS2syRzFxZ3IyNzNCSGtRdHpCSkFjeGxGWExvRFlEQXZwOVI0MlNBLVphUTZ2UWVncDlmUE04dnpieVZuUHVOQ0xBcFV3WmFyS184X29yWV90YWJnMmZGRVM0bGU2WDhfRWhFWm5LeUs4MTlvc0xfZXFTalJuZTVTTXRWQzlqZUpRODI1M1BPT25XXy1MQ1h0MXE2TjU?oc=5",
-      "pubDate": "2026-10-19T14:09:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "CFIB sees Canadian GDP growth slowing in Q4",
@@ -74,12 +58,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Foreign investors exit Canadian federal debt at record pace in August",
-      "outlet": "Wealth Professional",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnBpZV85OU9Sd2FHVURUQ1dTS05EM2JKYjZrMno3WFNWaG5mYzVzTTdQSTF6Nms0MF9iTVU5MjJ3ckhhOHlOeC10NzlIcEswTE1RaUVmNEVjRmJscWg4bWlRWVVqYWpCcHRGRlU3Y3VxNVY5UkdmLVdOWVlQY1lYSXJLOHJKSDNWdHF1WjJrYmlETUJPYXpYQ0cwUGMzV19LSndKU0JIbE53dkpqMUllU1pXT3Q2OEQydW5Jc3hpSU1TY2tPZ0hMVA?oc=5",
-      "pubDate": "2026-10-19T10:45:30.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
+      "outlet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+      "pubDate": "2026-10-18T10:54:34.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "Canada’s immigration levels could soon be increased. Here’s why",
@@ -90,18 +74,26 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhR09fMkktdVRVTUtuVl9RZ09Qc2duMmdRN2NKa1l1MkpERHdCZnkycnBvWXE1VmljQkJkbGtscjAwckFDVEhhUnhHLTJxcU1zek5QVXpZMUc2ZE9yQ2RmOHgyTzRnNk8wVVFHVlh0ajM1RndmLW5RMlNxaw?oc=5",
-      "pubDate": "2026-10-16T08:00:00.000Z",
+      "title": "Montreal police arrest suspect in killing of CRA employee during virtual meeting",
+      "outlet": "Canadian HR Reporter",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1NxWVZ2U2FzaUZ5MVpjR29sOW14Mk1JV09qMks3am14SVF5aTRLMG1XcUZkMnNNdzlhbW14b1dtelpIYW1UOVJaS3V6amZUYnpWZFpaVHpjWmR1ejRNd3VXd2VQZi1ZM0R5M3hmVVh3Ni03d2Z1M21NVFVNM01Pc2ctWTRiaUFZdUloUy16anlvaURoaTMzb1hieUpZNzduaHV0NGdqWUF6TzVNSEpZRmlaQ0JhNXJnSkk3V3o5eUdXZFBmQ3h3bTVHSFhUQQ?oc=5",
+      "pubDate": "2026-10-16T15:56:45.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada Capital Gains Tax Calculator 2026",
-      "outlet": "nesto.ca",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PM1J4aW91bTdDUHI0MkNWeDQ0MnNrTE9oWFZ6cFNSTGlUV0Ezd2liUkNDd2g2TjJTOFRzMHB1UG9xODgzREt5dXhhRHlZdTRGSmxUdllJS3hXMEY0Z0V1VFZOa0hUSk1TZTlNU05GdDFhZU9RWTV0UnlWQjg0QQ?oc=5",
-      "pubDate": "2026-10-15T23:19:06.000Z",
+      "title": "Ontario Welcomes $479 Million Advanced Manufacturing Investment in London",
+      "outlet": "ontario.ca",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUtCd05fRFpSbF9KOXVmbWlRQnA1WFp5bHBackFIaks5Z0w3cUVGTTh4WE1jcEFjTEdXOHVRZEJVQ2Z0QVhoTjd0Zkxwb2lhaTAtRzA5NDNBZVZTc0ctRW5SN3dXeUNqcjRIdGtRc3VWWFRwT0hpRW5aaFdfYmJxNC1sU2NqeENSY2lDeG1xdFI4N3NHVnVnRUYyeU1CMDgxdUxjU2F3dTlWNzRhSUtXNVRWUl9QUQ?oc=5",
+      "pubDate": "2026-10-16T13:07:59.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhR09fMkktdVRVTUtuVl9RZ09Qc2duMmdRN2NKa1l1MkpERHdCZnkycnBvWXE1VmljQkJkbGtscjAwckFDVEhhUnhHLTJxcU1zek5QVXpZMUc2ZE9yQ2RmOHgyTzRnNk8wVVFHVlh0ajM1RndmLW5RMlNxaw?oc=5",
+      "pubDate": "2026-10-16T08:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -120,6 +112,14 @@
       "pubDate": "2026-10-13T21:11:26.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Ontario Raising Minimum Wage to Protect Workers and Support a Competitive Economy",
+      "outlet": "ontario.ca",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXZWLS1YWGhSZk1MZjhDSEF1SVhqWnNINVV4UnQ3NUFmamN2SnJzeEVzYkgwdjhsdjBZdDNqbTdnLXBDeTFSdHBJc29iWmtFSGw1ZW40X3BqS1VBODY0alBNYU82VnVwMnp1RDNqNVZwX1FiVndRQWlMMFhIYloxNTRYOVBOTE5VYTQtTnNOS092SnNiNVFiLXdvdlNIQk1yZWdPYWIwczJZdHNxUEZzZXZjdjBIYTZ5X1pfVmdCOWQ3Zw?oc=5",
+      "pubDate": "2026-10-01T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
