@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T06:45:03.613Z",
+  "updated": "2026-10-24T11:46:20.239Z",
   "items": [
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-10-23T23:45:38.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
+      "pubDate": "2026-10-23T23:40:13.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "COMMENTARY: A Pipeline from Alberta to Ontario Will Make Canada Stronger – Doug Ford",
       "outlet": "EnergyNow",
@@ -18,26 +34,10 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-10-23T20:32:54.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
       "pubDate": "2026-10-23T12:28:37.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-10-23T12:23:15.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
     },
@@ -90,7 +90,7 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Canada’s federal budget date revealed as trade war continues to bite",
+      "title": "Canada’s federal budget date revealed as trade war continues to bite - National",
       "outlet": "Global News",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xMDZXelBpVGRlTFp1c1VuRnJrcEltX1JfSDFnb3JrclN3UDVIY3pWbXhtT1JYUjgya2xNWEdBUkc4UnBqdHlHLXJsR3NlS3FCbWZSMjE5LXNLT0w3ZlY5cHdiN05xY3lnc2NNZ1hTcXpGeWtJb2F5Yg?oc=5",
       "pubDate": "2026-10-20T18:55:54.000Z",
@@ -114,12 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Changing lifestyles may be behind Canada’s near historic low fertility rate",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDJDT1BCelBCalNlOGxwbmFKQmNRVHVlQXpwdXNuOUlmVFYwX19PWGpreE8xaHJTTmhSUW1MMzZ5VnQtb1JZeWFZV0paMkVRNFVWSlpGTXh5MTVySlVRVmF5X09Fd2hSM3FtdGN1MXFMeXFHQi1mYTYwV1MtU0xaVFVvQVVTRzNNMWxNTDloWVIxZlk?oc=5",
-      "pubDate": "2026-10-10T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "outlet": "constructconnect.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0Z0eW1fY2k3MXhlbG1Oa1hlalVUWTJwYjhjM0pDZE9qYTVLaHlJcGRRbDZRU1lkRTQySWF6bHVoTXZwelhMVlI1YS13cjlkZnJQR19DM3lYdGprbWhtM29TZXFaaU5xM1Z0WUdUY1RZYUJMcGdmckNMUXpPdW4wSGRBVjB6RXcwZ01OcFNBaFlqdFBnRlhObktvdnIxdTBsY0FFeFlNeEpORURyVFdfWFNKdjVIM3N2RGoyXzh2SENvLU14ZEU2MU1vc1ZfSVU?oc=5",
+      "pubDate": "2026-10-15T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
