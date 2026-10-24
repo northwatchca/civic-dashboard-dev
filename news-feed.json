@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T22:48:40.841Z",
+  "updated": "2026-10-24T01:17:57.061Z",
   "items": [
     {
       "title": "Conservatives accuse government of 'cooking the books' over immigration data presentation",
@@ -18,20 +18,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "U.S. to drop some tariffs on Canadian exports, says Maine senator",
-      "outlet": "CHEK News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXA3em5EbVhydHdxSi1mWTZQSTJhSXFwTHhOOFVvRnBBNm5QTndwb3dXRFc3MG5uYXAwUmhmZnB2TnY1RURYT3J5dE9VUndHZ1BYQS1WeTR4X05ZdEdPZDFvNkd2U2VORlJxVnotSzl6Njk2V0s2M3ZJMF82VUxpRGdvZ2UycnpLdDZlN3ktZWlOUkZHWE53?oc=5",
-      "pubDate": "2026-10-23T20:06:11.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
       "title": "B.C. billionaire's real estate firms allege 'pattern of misconduct' by CRA in tax row",
       "outlet": "Castanet",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM1JwOUxsRzkzNlQyQlBkSkt5TkpCbDhGekR3MEVEOWpHdE03LWVjcDRSelM4cXZ6SHJsNHFfdGNfY2luZFlxSUZVUTd5cWsyQ0p2VE5tVHJzUWpMRWwxcVRKVGd2WFpUUXRVMWFaZEpaWG5UX1dpdHZ2UUVPYTNjTnpIMWZzdmQ5NGJCTUZ6VTBxS2ZkUUpGY0NmdExZcWg0R0tnc2kzUU9hdksyLTRmeGhMSkd1cnd5cTgxaHE4VQ?oc=5",
       "pubDate": "2026-10-23T19:46:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "U.S. to drop some tariffs on Canadian exports, says Maine senator",
+      "outlet": "980 CJME",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZCN3ltRVdnZm1iSGY2N3ZuM1o3dHdXTzZLV1VYSG5DRlRIcDJyWTVKdjROMlNkRXJobUc3S2xKMDZncXc3VE1Id2tnWnFpVUxUWEdUNm05N0FOdENUVUJNU3VtT2xoUnhOb1NnV25DcVB3Zl9lbm1OYmZpeE9yeU5IYzBtLWl0TUhJdXNUWHJ5NGcxcHhxTEJxSFI?oc=5",
+      "pubDate": "2026-10-23T19:30:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Despite Pipeline Fight, B.C. and Alberta Agree on Push to Get Green Light for Two Big LNG Projects This Year",
@@ -66,14 +66,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Bank of Canada's big interest rate decision: What experts are saying",
-      "outlet": "Inside Halton",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTJFRVA4RWplR09QV0J1Y0lUX2dEN0dZMVpnNlo0ampJR2JXeHpETzlBRlpyQlV2Z2NiVnFvU2dXdjQ4WE1NbEgtMGNHbXlVMk94T3BQeHUzZ1Y0NFJHS1hSWjlkUWhoX1JfWEhoaWdyUkloR3VnVGJubTcwWm5JdV9ZNHg4X2N1THNpdDJrVW9nUVc1ZndfQnBzQzRlNC1LMEhvMkxCNlNMY3h0eE5GRXRjTGxwZkh6N0NJT1d3?oc=5",
-      "pubDate": "2026-10-23T09:45:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "LNG Canada Consortium Takes FID on Phase 2 Expansion",
       "outlet": "East Daley",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWczNjJISGdETmNTMUFiLTM3MHpNa2lvLTdZSjEwOUJXdUxycnJSY0o3NkRzYjhTLVlmSUFBcVlHa08zQ3hhVUNtX3ZxUGc2bWE5c1RreGg4UVpaRGZSU09aVEU0VmpvM0VBdzgyRndfVWJwNXN1Q1FmSzY4TkFsTGxlUldCcTI5N1BXUzB3?oc=5",
@@ -104,6 +96,14 @@
       "pubDate": "2026-10-20T21:21:30.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Budget watchdog trims economic forecast for 2026 and 2027 amid new U.S. tariffs",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON28tVWdfRUM2c19OWWVKLVRiMHRsUk1zTDRnbzB4aTlrOHE0emR5S0pwQnJkY0hiNmN0S1ppSzg1STlWNF9Kdks5OVVSV0JpRWdkUzAtdU1oc1NLczMyMkliMEVMeUNnNG9mLTFqU2pLTG1YaFpTVFdtSlBNTkpIMg?oc=5",
+      "pubDate": "2026-10-20T16:30:17.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Economic and Fiscal Outlook – October 2026",
