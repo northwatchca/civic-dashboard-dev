@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:59:37.380Z",
+  "updated": "2026-10-25T13:05:14.007Z",
   "items": [
     {
       "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
@@ -16,6 +16,14 @@
       "pubDate": "2026-10-25T03:55:35.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance – VARCOE",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
+      "pubDate": "2026-10-25T03:51:46.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "‘Something to worry about’: Parliamentary budget officer concerned about Carney government’s debt levels ahead of budget",
@@ -38,14 +46,6 @@
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
       "pubDate": "2026-10-24T08:05:35.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "EDGE OF SOMETHING REALLY BIG: Canadian Pipeline Industry Seen on ‘Edge of Something Really Big’ as More Projects Advance - VARCOE",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTliWXRBVFQ2M3RXRzBxQzZfOENwUnBsS25PU3RpbFBMRERPNHl6elVrNlRDa2l1TjlmS0dhMEw2dHo4cnYzVWZGbFp3R3FTd3ljclE2dW9vUldSams2cjZhdDlRMnQ3RU1NUkZyNTdVbDZ1T1JYcE5pZHY2R29tVDNCTGtFYVdwTkQwS240VVF1eGlRTFQtLXJoUmpObHBtZWRFWGktRXpPdWtDSk50dG81bFllRko2dkE?oc=5",
-      "pubDate": "2026-10-24T06:53:56.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
@@ -114,12 +114,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Changing lifestyles may be behind Canada’s near historic low fertility rate",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDJDT1BCelBCalNlOGxwbmFKQmNRVHVlQXpwdXNuOUlmVFYwX19PWGpreE8xaHJTTmhSUW1MMzZ5VnQtb1JZeWFZV0paMkVRNFVWSlpGTXh5MTVySlVRVmF5X09Fd2hSM3FtdGN1MXFMeXFHQi1mYTYwV1MtU0xaVFVvQVVTRzNNMWxNTDloWVIxZlk?oc=5",
-      "pubDate": "2026-10-10T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "outlet": "constructconnect.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0Z0eW1fY2k3MXhlbG1Oa1hlalVUWTJwYjhjM0pDZE9qYTVLaHlJcGRRbDZRU1lkRTQySWF6bHVoTXZwelhMVlI1YS13cjlkZnJQR19DM3lYdGprbWhtM29TZXFaaU5xM1Z0WUdUY1RZYUJMcGdmckNMUXpPdW4wSGRBVjB6RXcwZ01OcFNBaFlqdFBnRlhObktvdnIxdTBsY0FFeFlNeEpORURyVFdfWFNKdjVIM3N2RGoyXzh2SENvLU14ZEU2MU1vc1ZfSVU?oc=5",
+      "pubDate": "2026-10-15T07:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
