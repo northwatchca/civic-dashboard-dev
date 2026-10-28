@@ -1,53 +1,85 @@
 {
-  "updated": "2026-10-28T13:42:30.580Z",
+  "updated": "2026-10-28T19:13:27.683Z",
   "items": [
     {
-      "title": "How Much Can Europe Help Canada Diversify Its Trade?",
-      "outlet": "TD Economics",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSWNoeHhmM0p5c1V5UFgzLXpnMmdER3c2X2lCcl9PdFFCWVhiVEM3Z2x5alpBYUxsOGV5SWlNalpuX1RINWpaY0JtZkY1YTE1THA3bzVB?oc=5",
-      "pubDate": "2026-10-28T13:04:06.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Capital Gains Tax in Canada 2026: What Investors Must Verify Before Selling",
+      "outlet": "kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG9JN2ZQYUdMR3NsRXV1MGlIdWpRd05pZ2JIN3BJYTItdnB6dzNvWGFJRF9lNVFEekNZTjFpaEZsenp1dkNGWC1XdTQ3eDlMb2NEclJLYkVLWnNVUDg5THRsLXF3VlREdkprUjhGNTJ6SngxNzBKdXpYNXpUcUl4OE5mTGVKSFlKS296dDFHNndzQXlGVmVuQWJfdm5zRlo3T1U3dGo4LUF4aG1HZ3IzRk1GdUQ5c3c?oc=5",
+      "pubDate": "2026-10-28T18:10:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
-      "title": "Bank of Canada interest rate announcement nears as economists expect a hike",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbXFMcVAxc3lyenREUlJONFNkTENqMS12RVpFMl8za1dqNHNQYzNaRFp5U2JaXzhhQ2xRVFVtUUtMWlVDM3QyNFZlWkZBaWhuU0dDOTFoZUs0Q0YxZ2RZSS1hUGVWM1dEOFRZMVpxMHJkUWZVM0JnZ3phSVlGQ3l0aWF2d2RqQQ?oc=5",
-      "pubDate": "2026-10-28T12:28:35.000Z",
+      "title": "Cold Lake First Nations wants seat at the table for major industrial developments",
+      "outlet": "LakelandToday.ca",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa2xzMWVzNVVJcTBzYXVENmtoa3JMQTdIWTFpeFlhMlVBb01HVlpSMXdfNnFVdWhNWFhEUG1uUHQwT2dDcnVzcjRnR0VQdUg5TjBhSVNIVjFfQWpPZnlCNVpTVGh5cDlTRmZiTTZ1WDBrYUQ1dV9LMFZEREprMlVidHRoQzBtSXhEbWEyV3lWRGd5YnVoWC1LZ05FMmlGOXVmWGhVRXdseVo3RU9kVHVzaWVLOFpBd19jOXhfM05KWnNtZzktRnl4RTN6XzBGN0U?oc=5",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Experts: Bank of Canada increases interest rate",
+      "outlet": "McGill University",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDlwUWVUei04ZklSak5NVkI4OEJpYzBxbXFIQ1JJaTM4S1JHZzk0a1laa25FOXRLRDY5SjE0Yy1xZUtnWXNmdUdPUWxJNXZ0Y19rNzFMNXJ4bWxtLVFCd3VxRDNrTUJRQjRjS2QxZ3V6a3g3WDhaMnVBR24teUZBdmF5ZnVGZFNDRzJ1WTJDcTNoZ2diOEN2c29obw?oc=5",
+      "pubDate": "2026-10-28T16:51:44.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "LNG Canada: Kyushu Books 12 Cargoes",
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-10-28T15:51:02.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Bank of Canada Raises Interest Rate to 2.5 Per Cent – October 28, 2026",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRC1WeGRlTGRZVmtrQTNWRW93enRob1dPSmI5SENFTk1DalQ2Ry1mNW1rUW9nY3ZoZTZaN004aXIxWHBka2plUWlTZ1pjSGk1U2FMQ1JvdnNSN09iTXp4U18weEJHSXhyWVFVMUlOazhEblBjUnJ4RkFUSVBOUE5GWlltRGs5M0VQSEpteVlmWWxJMUNZdnFtOVA3RHVfdExyU1UtdENoa09PaTZrZmhEYlVCcGluTHNGUXdWQVJoWlRyTnVvZkNYZUdKQkdKUTFocmRwejk4SmhRaVZ2QmlWNHVQWmI1RjdE?oc=5",
+      "pubDate": "2026-10-28T15:18:05.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "The Bank of Canada raised its interest rate on October 28",
+      "outlet": "TD Stories",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcW1qVGhfcjBhOFF0Rlo4TDBtVVBRc2VGRzdYakdSSi0tUWtUN244WVRESjFsemJmRUZLWktoZ3F0TVFXdEpBZWsxOXVJSUVBWGlHd1h2eHZIWFR0a3J4dndGWTlDbWZNbFAtcjRQY3o4cE9vcDBMdTM4RTBiaHhyYWsxTk8?oc=5",
+      "pubDate": "2026-10-28T14:49:09.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Continental Shift: How Canada can unlock a $150-billion export opportunity in the EU",
+      "outlet": "RBC Thought Leadership -",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUp4b25LakJEMUJqOTFwVmZJS0FGS29uTnc4NjIxMl9LaHZNRzFqT0dYWU95MERTMmVEWS1GbnFzeF9ZM0RTZmNEMExTWVZrNi1xMGRXSm5ENndmX2tCbFR3RnhmUXB2dkQ1T3dfSFNFSFk4dDVmZ1hreUxPLTJ3dThCVzBZNVFEd00wTXhFaW5vQThEWkxiTDVkSlExTUQta2sxb1A3R3NKc3lOQU9reHNwUVMxOHRFQlFYeDRDOHJnQ2JOX1Y2d2Y5bzBZQ3A5bGxjSEVoNGhpcHdNUHZBUkFmS3hJRWZKRkdkb1VoT1E?oc=5",
+      "pubDate": "2026-10-28T14:00:04.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Earning Side Income in Canada? Here’s What the CRA Expects",
+      "outlet": "The Motley Fool Canada",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSl9Ua0VuWDB6YVo1aGlWTml6YkVTdW5jOXlKU0tiYVhPOTJwSXBHUXQ5ejNGXzRyOW45ZU96dGFkT3BqbDV6cFA0X29xT3czTDd4V1BlWTAtSGFNU2x4cDZxVXZXbUxpWUphSzdTeGhFMnBJQlpjR3hoSjVMbTh0WE93bGJxYXVzMDFOUTk1TnFMZw?oc=5",
+      "pubDate": "2026-10-28T14:00:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-10-28T13:39:30.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Kyushu Electric signs basic agreement for 12 LNG Canada Phase 2 cargoes a year over 15 years",
       "outlet": "Oil & Gas Middle East",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kV0hQaTdwZEhTV1dlNTd3My1aOXhHSjdldTd3aGxzY21BeVlucVZpSW11SW9aZlU0VEwyVjc5N0FYYnpiZTV1Ml9FSGlFTUhKelNkOU9LSGNaSWZWT2pPMUVEd3dBMHVSWHNiX1I1Slpjc1lIRHluLTVOeXg?oc=5",
       "pubDate": "2026-10-28T10:40:38.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
-    },
-    {
-      "title": "Bank of Canada expected to hike key rate for 1st time since 2023",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV3BSR0RoU3ltekVkVGl5M2kwbnIwOTVJaVR0YjMxak03LVlTQXZKWGhWV1JvLUNKOXg0RFpnb3pKakVndnhFSmpuZ2J6SGF6dXc3aFhORVJqZTVyc05CaVBPRFRkb2pwMlRCV1lhNEpLNWwydHdFRWc3YjRzTG4yZ3NYYUgwTlJ3ODJVNXJ1Z1BQZFRzclhIVGhqV29STUFJellCeGFHRVBaWThQZEdTVEV2X3lkTHYzYmdYS2RNZms?oc=5",
-      "pubDate": "2026-10-28T09:31:02.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Japan’s Kyushu Electric inks LNG Canada deal",
-      "outlet": "LNG Prime",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczJrNXFBRWQ0cTJ1Zm05clFEdVU2Nnl5b21Ma2taSkY5OFFKeDIzZ3ZEWTZ4dVRZSV9WZk1mc1A1d2pSNFJqU0RSdDJGeWdIdUN1alFZM3piMDRmWUwtM0w3ZkpzOXd4WFFsNWJEc0hueU1pT29vNEdSd3A0LU9NY283UWlpX0ZK?oc=5",
-      "pubDate": "2026-10-28T07:31:54.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "When It Comes to the G7, Canada is Already on the Outside Looking In",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZhaHd2aHRWMlNpeHFnY3B6MG1EekE4ZHdaemJhai1jd0s4dVNfZjF3ZGhmLU5taUVrcnpMV29DcFdaeXFKTHc2ckZyNWE0MGF0THpob01JNUplX1haMlNqNmQxejBNU1ZIX0xpNmNfQ3k4aUdfVk1jaWxxRFpGNUQtNVA2dTNvSnphbEoyTkx4SlJQZEZSOEkwQzlDQQ?oc=5",
-      "pubDate": "2026-10-28T03:43:05.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
@@ -58,30 +90,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-10-28T02:56:35.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "That CRA email about errors on your tax return could be a trap — here's what scammers don't want you to know",
-      "outlet": "Inside Halton",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZng4TnJaTkpJOG1IMjFCVjFMWFJSdG5WN0haVDAtX0RtZVFyQ2g2NUZIeGRBVDV6SEd0WEUxcWswMVdxbUNFOHJpUExEZkNSWVpxWnZxaHJ6V0JMdkY2Qzc3UTlIMDFxSTVOdVBzZ3pCcV8xeHRNVHY3M3NSZkdsR1BOQWpnQ3BNbUlxWUFuZkM0c2VIVndkaGtyamFTelVQZk9WRDhobnh5VjFyMFVHUjlVRlE?oc=5",
-      "pubDate": "2026-10-27T10:30:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "That CRA email about errors on your tax return could be a trap — here's what scammers don't want you to know",
-      "outlet": "St. Catharines Standard",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGdhdlkzT3lvdENLTEJKZjhuOEE0X1FQUk1Vd0Y0QkNNem1lVlRrU2lyRER1ZjY2V0wtWHdxU3Q0bE1KZk9kUVZ5LVVpVFZ3RU1YQkhQTHZPNW1pV1RTZ1RDWnBSYTBSRmpiNmNpMlhtMElDXzV3RVZtYXdfTE1FWXdYYnBxazdmZElDdDlCUVBJRVdFTTBZdnZYYnpSSFpYaW9LNDYzQmRINGR5RWxtdXA2Rm9TOFNrVUFPVDdB?oc=5",
-      "pubDate": "2026-10-27T10:30:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Older workers, non-permanent residents take greater share of Canada's retail workforce",
       "outlet": "Canadian HR Reporter",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSm10M2lwMk1OOHVLOV82R1RKczR5NFhSX1VubVdyN25iWlJaSUJxUzhiUjZPRjg2QmxycmtKYVpFSV8ySFlCNzVPajFpRkJGR21EQmtXS1JhbjVZOFBkbjNZVTcydTRiVm9EWFhVNVVKU1MydExvMkRYcUU0cmpLb09ISmdESVZmVW9LNVpjSWNINldWRHJRQlNzZGhJUlFqNFpkUnJXYnoyMlRGTE4tcGZrckRSenl4MU5pYWZUNmtOODBzVy1hTGhRUHVOcnNHRGJQanM0NA?oc=5",
@@ -90,18 +98,18 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Canadian federal Budget 2026: Looking for disciplined execution",
-      "outlet": "RBC",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWWs2dHZtbC1CSDV1ZGllamo4UlNfSU1NVEhxa3hvcnRKazFhV1owck1TeHNMWjhCVmYxY2FrN0hNVG54RlVaUjFXZEh4WU5aWWQ2WDJqdmpTVEhxSnY0UVlIcHY1TEkwRk1KWlNWU3RRNl9SNjRYM3k2VzlPYjZ6Q1lOYlpELWlDVEk2alBhUkFRbEREZGNqVVlWQlBfTGJfVWcxdWhEYlN1NUJQTzZXNGJDa2owcUFYOFpQaDRlWWdhclgxTDg3UXJHVU1UdmhzNFEyNUFFc2Y3M2NUOW84SW5kRVhKZXVtLU5KdUdyOUNhejg?oc=5",
-      "pubDate": "2026-10-26T15:07:30.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Conservatives accuse government of 'cooking the books' over immigration data presentation",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkE3bHloenFsZ2k2RF9SX0xmaC10VEdHZVJTWlFUREFpYXpSdHB2aFVkcV9lNElQZ012VEFfa3JGU25VZzlqdWNkSjRpaVQ0a1pmOTlRZzhEVFZMQzc2S0RrQXI1bHNVczVvNGxUZG9MeHJJbHo1MDNjSC1PR3RNZkVHNDBkQjNmaTNB?oc=5",
+      "pubDate": "2026-10-23T20:41:50.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
-      "title": "B.C. billionaire Terry Hui's firms allege 'pattern of misconduct' by CRA in tax dispute",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWZ5aGd5M1Y3TDZGWlRpV3pvNGhueWJWNG54Z0o5b2M0Ty1ueHVMOEFCWEQ5aFZTNVg4R3JzY2QwN2tydlBOZjRMOVVTSlVkY0tGN21MVy1OM09OajVOZnhsYllnZjFjcFU4eGRWOXJfQW5kNkFjM2FKYTNqVG5uYjkxQnBIaGxIcFZF?oc=5",
-      "pubDate": "2026-10-21T23:58:00.000Z",
+      "title": "FAQ: CRA bargaining",
+      "outlet": "Public Service Alliance of Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZ0Z0YXd1NUJmVDJTb0JDNnRDdjdic3V2LUExbVdPbVdmNkdUWF9MYmU2dFpBRnVJQ3haV3l6R2ZCWG5oV1l4U0hQQW16endF?oc=5",
+      "pubDate": "2026-10-21T07:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -110,14 +118,6 @@
       "outlet": "Canada.ca",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmU3T2toc0gxdDkwdnByMHIwOFJSNG5UMUNVUVhSMVNnU3BnMVMwa0hHa0xsNUc4SEJXVm5ncklqbVZ1MlRaV2dhUG9OdHFOYTZSWWF5REFGSDFZUzBBYXh3UDN3MnVjVExMdzNJOFRoSF9jNTcybHFHVDIwa2RIbVltc3pjMlp3UFhQWGNhTXExaVgzSG5pcFNjMEFlZmVxMGZKb1U4VVBnbXdjNjFjS256VWl1Rm1yUE5CcDF6WGNnZ1VDNnpBOGhXNE5VRmt1dTRTaGE2NGdvVlJ4ZEJ1M2UtUHI?oc=5",
       "pubDate": "2026-10-20T07:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canada’s immigration levels could soon be increased. Here’s why",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2d4RkllV2dFSWZBZ2xRV19XLWpRcHhpOTkxLXdmWC1MbWF4WldxWmc3Wmd5ZHRKTmprM0xLSU9RQ2FTRm1KaFlKaW5XUEtFMmhqUWhDSTBUWUM0Yk5YVEs5bmlCaWRuell2M3h6a0EtNzlqSGtqY0d1dFpFQ1JiVVRUMUotMGY4UFFZNFhhQ01STG5STV8xMHpoSjdGaXlQamo5dGVscEc3NGdnYkhGYUJISFJiR3otaTAtSHdRR3hWZw?oc=5",
-      "pubDate": "2026-10-16T07:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
