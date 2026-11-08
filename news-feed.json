@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-08T00:59:11.817Z",
+  "updated": "2026-11-08T07:01:07.574Z",
   "items": [
-    {
-      "title": "Ottawa’s federal budget bets, one of Canada’s largest tech takeovers and Florida’s property tax vote vs. snowbirds: Must-read business and investing stories",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjBWVjZweFpndDdGQ2ZEMGxha0FPazRyS0Fkb3dDRTNXY0pJZTlKS3hmTm9pY1ViV2tsV2lIZS05TTB5d3lVVVJmcUMwUEpzYk4xbGVMalpzRE5Jc19GdmZicHprSzNsTlFVWTI3eGtJTHVDd0NVaFRGZzhqX1lmTm5HNndOczBiY2pwOW1MMEhTR21sSXNicHJRX2x1TVg4QmFtc2pUY2ZwX2xvbEE4dmc4QkFncnUzX3hfOQ?oc=5",
-      "pubDate": "2026-11-07T14:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
     {
       "title": "Budgets and Baselines",
       "outlet": "Debating Canadian Defence",
@@ -34,10 +26,18 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Canadian veterans lose federal contract to subsidiary of U.S. company",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGVkWVd2SE5JMjJ4Q1RTMW5EQlY2eW9UanJyMV9WTDcxSklTSkp6S3JwYnJpQzNEVE02UTBYRUU0dUs1amJPeDUtZHd5aERlaGI3V1gxS0dROGVuM0tVdmVFZGVoOGRHZl9ZdnBPcW4weXVBTmR4cTNnNjR3OVJPS3ZCUDdfZzVoVkdzdGRFVEUtR0NsejNyZzhNSkZueVM3eVNUcTNHR1ZEcDBHa2gxMVptR0FHX3NXZ0RfcndFR0dCZGQ3dHZVNld3?oc=5",
+      "title": "‘The house is in order,’ says Finance Minister as Canada’s deficit reaches $62.3B. What Budget 2026 means for you",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDQwRm9DaUhkbHkwYXRySE5VNWFUZm5HQ0l6MThDZjRUTXhWNHN3MDUtTjBTdWhqdmFYOUtfWkdybUxCVktDV0wtNmJBY1RXaWNNNXNBVFlKaVNlbmE3QkN3T3hralFKWU9HV0UxWmo5dVZ4QkNFNlREN19PdTJua1hzRzVXTEJ1SXc?oc=5",
       "pubDate": "2026-11-07T10:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "These are all the key tax changes and credits impacting you from the budget",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldnhhZG9ua2dSa19ZRXg1WXVncFZMeUFCdXprQkJPQ3hqNU41aHVQbW5DOGpJZnhzOS1laUlWNDhKVUJvaWZzT3owaGp0OEFLNEdUaUpLQ1lGN19hNVhyaEU5WFlsN2xMcDZVZA?oc=5",
+      "pubDate": "2026-11-06T20:50:24.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -50,10 +50,10 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Canadian economy lost 4,700 jobs in October as unemployment rate ticked up to 6.7%",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFRxRU1sQUVERVhGODNxUXUzSEhUX2QxajYxcW5XOE0yMmdwNXVMZVJwWFJnaWI3N2hoeEZ5dmxYRXlkbmpKRFdHRURaeG5TbnVTNTVfX1IwWmhpMG9oRVVyLU1GUVY1VE9iWUdXNkg0VXVORDBkQVJodmhSYm9vLWN6TUJ0QQ?oc=5",
-      "pubDate": "2026-11-06T16:31:06.000Z",
+      "title": "Economists concerned after labour market sheds jobs for third month in a row",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXBaTUF4bmducjB1T2hlSU83LUQ0WE5yWlNtYXpOUDJ6MXNJS3VYT1ZYVF9JR1Y4YjNpRHU1d0hod052UnBCRGVKa2lNbTZXRURfb2dYNEFnakkxX2ZtNi1HbU1BQkZtdXZUTy1fVHUyU2JPUUNNUkstWF90SWdIcXI4UFlxa2JGMWtjZTVfMk56THZ3akl1Yjd4Z2dDLUNIYmswc1VXempwRHFJN191QW8ybEk2b3ZJUVJubXlXRm1ZNHB3UnhuQ0lzNU1PZkQy?oc=5",
+      "pubDate": "2026-11-06T19:14:05.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
@@ -66,20 +66,20 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
+      "title": "Unemployment rate rose to 6.7 per cent in October, StatCan says",
+      "outlet": "Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODBuYTRuM19TS3RsSXFNOVA1aThNZmVaZE1Fc2pRdVRoXzE3cUxpdGFtODNFZ1BUQk5KVmhNMFpuamVNYXpETDN4elA3UnI4TW0tN0ZjM3ppQTJ3M1NxdEc0Slk2STVLRGpXSzFVM3BjMjlMTVRBYy1wZUw4eEtmeHhJOHA4OTBaV2YzeU9JT2NjN2tSZzAzMXpaNzRwTGlfZ1E?oc=5",
+      "pubDate": "2026-11-06T15:38:33.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
       "title": "Canada: 2027–2029 Immigration Levels Plan Maintains Overall Targets and Adds Permanent Residence Spaces",
       "outlet": "Fragomen",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlBBaXJ6QktrY3BkMnUtR2NMNUFzUkg4Z3kyOVU4ZGUySjVaSnhCak5Ralh5VlEtVTRCY05SSm5ncm03azhIb0FHWnJ2aHZCb1ZrenBrLVNsMEZzTDd6c2pKby1nRjV4NWlJYzg2MzNIazN2SWVHdnJtWVNWN2F2eEdvaWlVOWtBSjdzdlp5Y0FaSEhqSFpDNzIxTEV1ZzN6MjFiOGJVR0hlMm8ycnk1eExMNHVTci1vZXFJOXJRdXVEZU04RTFGQUFpNURNbWlhZTIwajY2UQ?oc=5",
       "pubDate": "2026-11-06T15:26:11.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canada's unemployment rate reaches six-month high",
-      "outlet": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWc5WEFVcUVwczRmd2ZFcGdGNy1TYzJOczFOdnZSaElscnotOGNxMFh3RFpyNVNkb1NNeFc0VHlyOFpwNy1kNHprRFpmZUc4aFB3dWpneTZ5bk1rZTdBUWhuODNUT3p0MnZuMk5vRWlOeXhxUWpZZ0R0VkFKNm53UVJZMXpndHVDdVEzcjkxYWNTNDJBMGhnT0UxVV9ZN0VTcVhOcXRkbVpvbmZ3?oc=5",
-      "pubDate": "2026-11-06T14:34:21.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada’s unemployment rate climbs to 6.7% as hiring stalls in October",
