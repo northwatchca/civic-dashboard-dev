@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-08T07:01:07.574Z",
+  "updated": "2026-11-08T14:40:54.193Z",
   "items": [
     {
-      "title": "Budgets and Baselines",
-      "outlet": "Debating Canadian Defence",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TZEJuVllycVBVejgzTG5pN2NaZzltR2NBbENGSmhLNWk2WFJFSGNlQnFmTF9wdURJbTZ2SzNfa1hFQUh4dVdOX2J6bTBGZzNzWEpZcjVvcTFIaExaR3NnbWFEdnYzUTVrUTNmag?oc=5",
-      "pubDate": "2026-11-07T13:59:38.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Up to 5.5 million Canadians could get easier access to benefits and tax credits",
+      "outlet": "insauga.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHB2TzJUMWNXdEhxOE1GRE1GZmtON3R3c2Eydlo0cGV3Q2ptTU1XUFQ2WE8zdDR6N01qS0huRTVnQ3VtMFFObUZyQ0x2SlZSTklPMUVHZTlhVFZ0OXo1Z3ctXzFoRFJBUmh2V2doUVZmQnh2NlZlLUFUMEpHb09mQTFCUEtWTGlVYTZNbmVTWnhtdV83andpOTZwT2ZYSDlMdnIweTdWQQ?oc=5",
+      "pubDate": "2026-11-08T11:35:43.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "‘Deficits are lower, that’s a fact’: Finance minister defends budget",
+      "outlet": "CP24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGh2UXcwcm5BOEpwcXFrcDRuUklUb0lRWmwwZ2U2aEdRenNhX0JqaThXNUxGNXFBT3ZUaEdGZUpxUm9OZFNVbW1vNGVFTVdSeDVJaVFsT3hHdDRMUU0zc1BiYktqdmVLemphdGxZdkxFaFE1Zm1ROEJDZ2FyZ1BnN2xteHBISUd0dWJIUW81ZzhyUS1NekdWZFJiU1lNczVFZk5KY2djc2E?oc=5",
+      "pubDate": "2026-11-08T10:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Is the Liberals' plan for Canada to accept 580,000 new permanent residents in 2027 sustainable?",
+      "outlet": "Winnipeg Sun",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb05OdnFLODBkWkJ6TGtjbTZCZzVTRVN6VWhMUWpZVnJEaG1TQVRWcklXaGRFaDJVWDFvTlNVXzlwOUlLaFZEYnNGdS02SW1jRzVWeURtYVRCb0pBQlBoQ0dreGRaZnE1TkV6bXB3WUpfOFV2M3JHOEJQYmk2UG43YXU3ZHlJWnc5UjR5RXJ6LXJSRmUzaHl0dVRXNDBieEtNUEFWOTQ1bjZvdUpzVXJnRzlvd1FpRTlfbmhvcVQ0MkdwUXdGaEpKZnczMm9WSkJDSXZwT21LRFFaaXpYcWIzT2RHMHR4cEE2TGwxRg?oc=5",
+      "pubDate": "2026-11-08T09:04:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
       "outlet": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-11-07T13:19:11.000Z",
+      "pubDate": "2026-11-07T14:05:32.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
     {
-      "title": "Comment: What LNG taught me about building in Canada",
-      "outlet": "Times Colonist",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3ZGNTIxSmw3Y0IzUTZockkySFJQRnRSMjVGejBjbGVVLUZqT1FxMDNSQzFMcHJvb19ZYjMyVTdXbWYwVTdQeDZJRHJKQzE1Ui1GSVdjY2NTOGF6T0F3bm5tbFJuZ0RCVno2U1F1aDFqdjdnOTRBT2RickNJNzVoSnNCWF9NMkh5RWVkbVNYWWMwYmhzQkpPVjliMGQxQzA?oc=5",
-      "pubDate": "2026-11-07T12:45:00.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "‘The house is in order,’ says Finance Minister as Canada’s deficit reaches $62.3B. What Budget 2026 means for you",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDQwRm9DaUhkbHkwYXRySE5VNWFUZm5HQ0l6MThDZjRUTXhWNHN3MDUtTjBTdWhqdmFYOUtfWkdybUxCVktDV0wtNmJBY1RXaWNNNXNBVFlKaVNlbmE3QkN3T3hralFKWU9HV0UxWmo5dVZ4QkNFNlREN19PdTJua1hzRzVXTEJ1SXc?oc=5",
-      "pubDate": "2026-11-07T10:00:00.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Will Canada’s $36B gamble fix its productivity problem? | About That",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wMWRKdHVJeklpM0htODhfaTcxelZQS0xtUkdyaGxlbUhxN2R1XzREV05WZk5YbG90b1Blc0RqWi1ScTlOM2tiSTBodzV2WGxIUTRSeXR3NnIxZw?oc=5",
+      "pubDate": "2026-11-07T01:03:05.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "These are all the key tax changes and credits impacting you from the budget",
@@ -66,20 +74,12 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "Unemployment rate rose to 6.7 per cent in October, StatCan says",
-      "outlet": "Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODBuYTRuM19TS3RsSXFNOVA1aThNZmVaZE1Fc2pRdVRoXzE3cUxpdGFtODNFZ1BUQk5KVmhNMFpuamVNYXpETDN4elA3UnI4TW0tN0ZjM3ppQTJ3M1NxdEc0Slk2STVLRGpXSzFVM3BjMjlMTVRBYy1wZUw4eEtmeHhJOHA4OTBaV2YzeU9JT2NjN2tSZzAzMXpaNzRwTGlfZ1E?oc=5",
-      "pubDate": "2026-11-06T15:38:33.000Z",
+      "title": "Map 1 Unemployment rate by province and territory, October 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83YXFYaGJpYVIzd3FvZFRXYjRHRl80akIwVTJKYkl0UGNfeTZEU3ZBY2N5ODdYQVhsdmUxOEdlZDBoSEpleUw0NXhYVWU3N1NrVjEzOTk5d21LU29LVFJ6VjVHV1hrazFLM0V1ZWNrMFd5bTlCWmF4TUdR?oc=5",
+      "pubDate": "2026-11-06T15:32:33.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada: 2027–2029 Immigration Levels Plan Maintains Overall Targets and Adds Permanent Residence Spaces",
-      "outlet": "Fragomen",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlBBaXJ6QktrY3BkMnUtR2NMNUFzUkg4Z3kyOVU4ZGUySjVaSnhCak5Ralh5VlEtVTRCY05SSm5ncm03azhIb0FHWnJ2aHZCb1ZrenBrLVNsMEZzTDd6c2pKby1nRjV4NWlJYzg2MzNIazN2SWVHdnJtWVNWN2F2eEdvaWlVOWtBSjdzdlp5Y0FaSEhqSFpDNzIxTEV1ZzN6MjFiOGJVR0hlMm8ycnk1eExMNHVTci1vZXFJOXJRdXVEZU04RTFGQUFpNURNbWlhZTIwajY2UQ?oc=5",
-      "pubDate": "2026-11-06T15:26:11.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
     },
     {
       "title": "Canada’s unemployment rate climbs to 6.7% as hiring stalls in October",
@@ -114,12 +114,12 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "From groceries to tax credits, how much is in the federal budget for your wallet?",
+      "title": "Carney's 2nd budget earmarks billions for affordability and Canadian sovereignty",
       "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVR0RC1EbFRVRVlpTmRRSDZuQjV6YTRfdVlUZXRITmhwVjlxMHAwRzk4azJwdXA2OUpINW9QRG90Mk1yVkQ2bWFNTHJ2SGw4TzY0MmtrWVZ2RkVFRi14aGVLc1RJc0twUnYxYmkxbFhWRlp0QzhpUy14YUlpeFhJT21LRGp0U2l0LXc?oc=5",
-      "pubDate": "2026-11-05T21:04:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTlpTkxaeG1GZjlVaVF3aVEtZ3prVm40NTNHN0taREwyaVkwZDVJUG5haC1NZjJzOFBKQW5MbFdCYzVCZU1KY0pMOEZPek91LXRaY2J0MTRIX01Za2h5VV9UX1BJWWlKSFRHS2dzSFVJTlZEM094aDJSWjhHcUVQaTVzMTYyaTBhOVlWLVFsd3hhbUlRcUQzNXVn?oc=5",
+      "pubDate": "2026-11-05T21:03:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
