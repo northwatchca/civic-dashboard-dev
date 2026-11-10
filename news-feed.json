@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-09T22:49:20.852Z",
+  "updated": "2026-11-10T04:27:07.536Z",
   "items": [
+    {
+      "title": "How will U.S. midterms and a new federal budget impact Canada's provinces?",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9temZBVDd3RTBueEtvN0NxVlUxbmFGQTRCN0RlRUl2MTMzYjIzRFd1b2ROaW1CZy1QcS12eUgweENqMVJ3WXRCcjNGRFpLN2Q5VWFpbXh5azA1UQ?oc=5",
+      "pubDate": "2026-11-10T00:55:48.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
     {
       "title": "Abbotsford employment rate reaches 3-year low",
       "outlet": "Abbotsford News",
@@ -18,14 +26,6 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Will the federal budget help the TSX?: Larry Berman",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXRvQ2JETGN4TTB2b1J1WG5XbUswNFJYWlNKcUFjV2c4WkJVdFFLeTRGMzVQa3pISkUzZW1xRE01TXZhQV9WWHBwT2JvWXBQVGtMZ25sMGVIRVVSc2dUR29panZLQWlNWENPb1B6ekFzU2pCUjFwMnlSaGRUTjRKWmg0bEpYYnpCTUQxV0FSNzhqY2Z4QTMzSS1aLWIwb211XzBKaVZneVF6RzA?oc=5",
-      "pubDate": "2026-11-09T17:46:02.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Canada’s Federal Budget 2026: By the Power of Budget 2026! | Mintz - Tax Viewpoints",
       "outlet": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXVBMTZxbjlkUXNIQ2hGRHRFYnlwWTROZVlGSHk5ZG42TTRxbjk3ancyUEhNajFzNzJrZDljUm0ybVpxaHVZZlBvTTNOZXRzY1ZVRzREdG84Nkp2UHhBdXpIQmsyaVFQRmcwSUVGQjc0LS1NYzZfTU95OFRJNlZQU2NFSTE?oc=5",
@@ -40,6 +40,14 @@
       "pubDate": "2026-11-09T17:03:38.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Stop Pipeline Infrastructure On Wet’suwet’en Land",
+      "outlet": "Amnesty International Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUp4TVRPSHhwbjd4M2VOVWJXR3QyckpfaVE2V1MtcS1hblhpRGRobjZ5WU40OVk0QjM4eDUwbE1udklYQmJSeVhpSW9VcUtkNXJaWEVfWFI0ZUkyOTA1WV83VXk1cUNNRG9xbGpPZGI1QnJWN0NwTmZQdG9abWwtcFBoMFQzRkR3?oc=5",
+      "pubDate": "2026-11-09T17:02:50.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "TC Energy Approves $2.1 Billion in New Pipeline Expansions Across U.S. and Canada",
@@ -66,14 +74,6 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "LNG Canada doubles capacity as Asia looks beyond the Gulf",
-      "outlet": "Daily Sun",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWZ2aWZVR21JdFdEZXZYQ21seE1rNklibTNkRVI4RkluUEU3bzRyckJVY2VaeUNxeTVfYjhMVWlvZVFlTzVyUmloaFpRQTJDbHV2LTZiZHBVNjBfTlMwWGdMaF84OUVLRWVzOXlJNXNScWJRemZiendNcDNYR2twS3JleHJOMnp2QWhXYmEyc0toNXlxUjVxcXlYQjg?oc=5",
-      "pubDate": "2026-11-09T15:02:32.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "2026 Federal Budget: Highlights Affecting Financial Services",
       "outlet": "Fasken",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ1cFpnTUdJdS13c05KVTZvTEpubW9vVFM3bWxHNTVIMkhWclFXRnZVWXNZcnBDTlcwWFF4Wjk5TUJkYWRQcUlYUjMxVkQxSWR6a3Zpc2ZGd1hOc2U4Qm9UeTNNelFhcG9MYnowUEd1a0hJNk5ORmVnQTdIRG8wdjF1MXQ2SjByWjdqUTN3VFVzSEwxc0luNUh0WWRIQy1CU2lqazBB?oc=5",
@@ -90,18 +90,10 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "These moms fought to change Canada's 'discriminatory' EI Act — and officially won",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOW9iMFJNTjZzekVKVzRDR2RkbFVldWtCZ01SdWtaMDNrb3kyelRZd0V3b2ZMMklmNjBTeklmTk9WajUxSjVzLUZkaEhGYnhkbnBOdTNNN1J0TnRvT0J2dy05cjhfZ0phVXhtZ0Rjb000OUVSTGxxQU11ZW85anpHRVpSMWs3NFhRQ282U1pCN3htclNSMi1Ham0zcFh4YlRw?oc=5",
-      "pubDate": "2026-11-09T09:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canadian veterans lose federal contract to subsidiary of U.S. company",
-      "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGVkWVd2SE5JMjJ4Q1RTMW5EQlY2eW9UanJyMV9WTDcxSklTSkp6S3JwYnJpQzNEVE02UTBYRUU0dUs1amJPeDUtZHd5aERlaGI3V1gxS0dROGVuM0tVdmVFZGVoOGRHZl9ZdnBPcW4weXVBTmR4cTNnNjR3OVJPS3ZCUDdfZzVoVkdzdGRFVEUtR0NsejNyZzhNSkZueVM3eVNUcTNHR1ZEcDBHa2gxMVptR0FHX3NXZ0RfcndFR0dCZGQ3dHZVNld3?oc=5",
-      "pubDate": "2026-11-07T13:51:57.000Z",
+      "title": "New $15-million capital gains tax exemption proposed in Canada’s federal budget",
+      "outlet": "insauga.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VtWE81amxwT3hXbmdka3BsNkdickF0Y2NEd2FXWExZYlRTWnpGWFM1MTBCN24wY0paZkVwZlRkblhRRE1LUWdJSjZQc0o0Q3JoVFJiZU43enpfVXVlclNxRS10ODdxejlydEZIaWg1NEdoRjM5cFFFZ1N6bHBGcm1hdE8xRUtuWEh0MmN6Zmg5aVBQWUFRMkI0d2hheHR2RkRseA?oc=5",
+      "pubDate": "2026-11-08T19:06:20.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -112,6 +104,14 @@
       "pubDate": "2026-11-06T20:50:24.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Economists concerned after labour market sheds jobs for third month in a row",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXBaTUF4bmducjB1T2hlSU83LUQ0WE5yWlNtYXpOUDJ6MXNJS3VYT1ZYVF9JR1Y4YjNpRHU1d0hod052UnBCRGVKa2lNbTZXRURfb2dYNEFnakkxX2ZtNi1HbU1BQkZtdXZUTy1fVHUyU2JPUUNNUkstWF90SWdIcXI4UFlxa2JGMWtjZTVfMk56THZ3akl1Yjd4Z2dDLUNIYmswc1VXempwRHFJN191QW8ybEk2b3ZJUVJubXlXRm1ZNHB3UnhuQ0lzNU1PZkQy?oc=5",
+      "pubDate": "2026-11-06T19:14:05.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Canada’s unemployment rate climbs to 6.7% as hiring stalls in October",
