@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-10T13:10:27.878Z",
+  "updated": "2026-11-10T20:40:15.405Z",
   "items": [
+    {
+      "title": "Massage therapists welcome GST break, await CRA green light",
+      "outlet": "620 CKRM",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzh5aXlBdG1LaXBGMmxtZl95RnA1X1ZXRUQ4bmNfOUtDRXFoZ0lzLXR3THJ5SHcxTUo3VFNsUE9obFJqdUQ5RS0tYkMxX0pyOTNheDdxUkRBQjFFclJhMmNSUENOWnJQcUVLRlNGamhobG9CLURjSEJWd1ZSRUtqbkVmbUh6bC1XWUMzZ1YzRlNBM3MwQ01sdS1R?oc=5",
+      "pubDate": "2026-11-10T19:05:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Bank of Canada moving carefully, but further hikes might be needed: meeting summary",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTZBUmMzVUxBb2FmVENNa283TlRmSlNvd2RaVlpaQWlVZXB4TGRtRnJoUFdtdDFIVlVOQ0N4dF9sYXBEbHpYNlAwSlRzNE1Cc2hFVDRxWjdHZ3NnbkM5LUN1NW9wUllsYkItb2tlbFVnbUNxZDlxWU1LWk1pcVpsaGlobWMzVlJCY0t6ZDdJcjY4cUEyUU9wYmxyY1plLTdPb0RaR1dCS1drbzhRLUhJbndlYWhpTzFnUWw1ZDBDWi1GSWxBY3RGQkUyUU5aNU4xYW9uTW5kVQ?oc=5",
+      "pubDate": "2026-11-10T18:44:52.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Trans-Canada Highway upgrades overlooked in federal budget, say municipal groups",
+      "outlet": "Sudbury News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTJoX3RQU0t0SWo4ejRjTFdWakpxSnpkSk56LVlySGRHMlBqZ04wdUxXTnJHbG9Wa3B5eHFSM21VNS0yV21qZTNfazdmTWJseEh1c2d3OURHNDRXRTFaS2FQZEMzUzI3TFl4eUpfbnBoM1ZabG50bnJLQ0RBY25iQkh5ZWNsNUNrZ1p0LXFOc2RWS1VURmxsSFI2VTVkd2pQYVJMUUVUYzlIcDNuSktTQ0cwVGhPSHZ1N2Jsc1hiMmFKSWNjcFZjYw?oc=5",
+      "pubDate": "2026-11-10T18:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Insight: Why AI investment won’t add to near-term GDP growth in Canada",
+      "outlet": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd21DNTdiZGpVZUNDa3pGZUdEOVdILXYxRF9MQ2lncVhXNEpYeWxzb0RmR0NSMXJNT0FrYkM1OUd6MHBMcFNvZnpGMUNKMWxMemhjMEcwUm1wN1J1MmY5ODZBZUNZQWd6eGY4X2xXOVVzWEZjTnhXMC01bzg4dlJ0V21jYW1Pa3dwSDU0ZW5Za1pJLVV0MnAyaVQyb3RxalZPNndQWDdHY285aXFwc0dHeVhBMXVCVklQM0YtOWFfN3I4bHFVTUhXaERrS2ZvYWEzVXRIWDhIVlhFMzBZNjlEdQ?oc=5",
+      "pubDate": "2026-11-10T15:55:42.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "LNG Canada Maintenance Puts Western Canadian Natural Gas Demand in Focus",
+      "outlet": "Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmdMTVR3ZFFZYmJSMFdHSFhiRTg0ZU95em1oR1g2dm1IaEppemsyR1NBdnlRbUJ0bjJ1dmZ2QWNsWnVrSHVsVWRwUmtUcE92R1NaMlo2cTVhUTR6dE1Xam9PaDZSSzRrQVd1U2xtUHhfLXFjbnVtNHJEbkVyWEpDYXRhYnJaQ3d0a0pnNUNBTWxLbkVfWklqUjg0dy1TM3Bvbk5LVThIakx2QQ?oc=5",
+      "pubDate": "2026-11-10T14:56:06.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Canadians Back Expanding the Country's Energy Exports",
       "outlet": "Ipsos",
@@ -10,25 +50,25 @@
       "categoryLabel": "Economy & Productivity"
     },
     {
-      "title": "“A shortage of ambition”: What social sector leaders are saying about Federal Budget 2026",
-      "outlet": "Future of Good",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXhMTVNINzZYbERXS3lDSGxRZUJ2MzJhLUNiYm5wcVZRN2Jtcno5UWZpNDJIR0J3amtzNW96NTdpUWRBZXNNVTM3aTNEMFFVMXRJVURUeFdjYnRGTE5wVUtaa2J1dmFvQVRVS3dDNmRRZU5YenVaeEdQRVQyQWxPeFh2eW8xSFQ1NDhsUUxWM0t1OEdPcFZfR1ZNRldHY2hyVGpodlpJZzIwcm5wSWxLXw?oc=5",
-      "pubDate": "2026-11-10T12:18:39.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Carney ‘trying to hide’ immigration levels: Michelle Rempel-Garner",
+      "outlet": "Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ19rSGxndmd3eEhJc2dlMHRNdmtXOGdweFp0Y2xzZ1FzNV9aU2hSaklfN2RyVndveEJOQ2J6d1JEZHNBM19GVkp1ZkJ4MkdzbmkwZVZXU2MtdmpTS1o2VjFIeVdtUWVmVklQSFllNVdiaFVjU0tIVTZmRnQ5aE9Da2Y5MU4?oc=5",
+      "pubDate": "2026-11-10T12:42:43.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
     },
     {
-      "title": "We still give the federal budget a ‘D’",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOVZDSWdlelpxbU52MmVXNWx3Y3pzUEZuNlgtMWJfUl9lWUpobURtQTN0Zk9BY1NSOXBNMV94RmhnanJWdVpDeXhyVEctbFNBVWVoZ3JrbHpvWkRJa3VLbjdtT1BhT191X005OXRfV3M5N29OTmlEU2VJZw?oc=5",
-      "pubDate": "2026-11-10T11:00:00.000Z",
+      "title": "How will U.S. midterms and a new federal budget impact Canada's provinces?",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9temZBVDd3RTBueEtvN0NxVlUxbmFGQTRCN0RlRUl2MTMzYjIzRFd1b2ROaW1CZy1QcS12eUgweENqMVJ3WXRCcjNGRFpLN2Q5VWFpbXh5azA1UQ?oc=5",
+      "pubDate": "2026-11-10T11:47:48.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canadian exports to China surge ahead of Carney visit",
       "outlet": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTBmTWs5bFM1cE5lZW5OOTJWVE9ZMlp2X2hYNjJRaFFNTDFGeW1WTk1oUXo0NkVfTHZYbWNaOWV4b2R2ZTdZeURnanhrcUNkRU9Kem5yRExEcmllYkQzSXdhZFJETnlhZFU5eUtBbnEwOVQ0Q2hFMHhLY2t5OTR6STVOeXJMbjdwbDBBQ0JaSGlxVThIOHBpckhyLWZnUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkYtQ1FpU0MxNVU0TVQxZkFxVU4wU05HZ3dwN0tfazN4U0dsa1ZwQlh1M1Y3NEhDVGttTFJ5eGRGWW9HZnh5ZnNMMUpRWHFfWXZia0M4UnBfTkJoT3BQdWRJc3ZVbmpfOS01bkFGODlrbE04U3YxVDdnR0JDWW9zLXZLSlVHRTVlNWkza2g1TVM2b05QRDlVX29B?oc=5",
       "pubDate": "2026-11-10T10:00:00.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
@@ -42,36 +82,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "How will U.S. midterms and a new federal budget impact Canada's provinces?",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9temZBVDd3RTBueEtvN0NxVlUxbmFGQTRCN0RlRUl2MTMzYjIzRFd1b2ROaW1CZy1QcS12eUgweENqMVJ3WXRCcjNGRFpLN2Q5VWFpbXh5azA1UQ?oc=5",
-      "pubDate": "2026-11-10T00:25:48.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "Carney says new immigration levels plan is ’sustainable’ as it draws ire of Conservatives",
       "outlet": "Radio-Canada",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3ZRYXlfem95WEdnTWlOYzh2X3AwYm9XMTY0QWhhQnA3RFZiel8xTTFjUllzWW9ua1FDTG9HRG9LYW1BdUpXbEFYeHNsVVlwMGRhSUhtYU95akNEODJsQTVmRVFaWGdlMmFFRWpSdEtTNEFVWDVTSnFKc09UMHh2SHpnRVlVU1VGVG91NUhpWVhZSjhKM1V2dmFzS2U1bWM0TF9UUExyTEFCb3AwMzRaRDBvVGhGWU9kelVLMmVJQ1UxdjRBdVo2T1diVHozTlhY?oc=5",
       "pubDate": "2026-11-09T17:57:42.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Canada wants to rebuild its manufacturing sector, but it’s losing the immigrant workers it needs",
-      "outlet": "The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXNzVW9mZkhZMlIwUUN0OHVqcG94SFVxeDFhMDhuQ2xoY3k2d01pdU83cms0TVZRS2o3bFFPR0dmQURKbjZ6NkR1Y0lhYlM4cEdNUUotLW0yQm5JYnJTd2lFMHZhLVU5cUxzcjliQ29qYXVnN3VCbDNncWxSejhBSmYwdGs4ZVVhNWp6RjNGcU5QZWJkaGxZYUVmWjZQMkhzV0lNa1hEQ2ZNcTdLdGZMNE5hWHdNTGpKNy1QV3BKM0czb0ZtT0xBaQ?oc=5",
-      "pubDate": "2026-11-09T17:03:38.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Stop Pipeline Infrastructure On Wet’suwet’en Land",
-      "outlet": "Amnesty International Canada",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUp4TVRPSHhwbjd4M2VOVWJXR3QyckpfaVE2V1MtcS1hblhpRGRobjZ5WU40OVk0QjM4eDUwbE1udklYQmJSeVhpSW9VcUtkNXJaWEVfWFI0ZUkyOTA1WV83VXk1cUNNRG9xbGpPZGI1QnJWN0NwTmZQdG9abWwtcFBoMFQzRkR3?oc=5",
-      "pubDate": "2026-11-09T17:02:50.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "LNG Canada Phase Two Draws Closer",
@@ -82,22 +98,6 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "New $15-million capital gains tax exemption proposed in Canada’s federal budget",
-      "outlet": "insauga.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VtWE81amxwT3hXbmdka3BsNkdickF0Y2NEd2FXWExZYlRTWnpGWFM1MTBCN24wY0paZkVwZlRkblhRRE1LUWdJSjZQc0o0Q3JoVFJiZU43enpfVXVlclNxRS10ODdxejlydEZIaWg1NEdoRjM5cFFFZ1N6bHBGcm1hdE8xRUtuWEh0MmN6Zmg5aVBQWUFRMkI0d2hheHR2RkRseA?oc=5",
-      "pubDate": "2026-11-08T19:06:20.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "These are all the key tax changes and credits impacting you from the budget",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldnhhZG9ua2dSa19ZRXg1WXVncFZMeUFCdXprQkJPQ3hqNU41aHVQbW5DOGpJZnhzOS1laUlWNDhKVUJvaWZzT3owaGp0OEFLNEdUaUpLQ1lGN19hNVhyaEU5WFlsN2xMcDZVZA?oc=5",
-      "pubDate": "2026-11-06T20:50:24.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "Economists concerned after labour market sheds jobs for third month in a row",
       "outlet": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXBaTUF4bmducjB1T2hlSU83LUQ0WE5yWlNtYXpOUDJ6MXNJS3VYT1ZYVF9JR1Y4YjNpRHU1d0hod052UnBCRGVKa2lNbTZXRURfb2dYNEFnakkxX2ZtNi1HbU1BQkZtdXZUTy1fVHUyU2JPUUNNUkstWF90SWdIcXI4UFlxa2JGMWtjZTVfMk56THZ3akl1Yjd4Z2dDLUNIYmswc1VXempwRHFJN191QW8ybEk2b3ZJUVJubXlXRm1ZNHB3UnhuQ0lzNU1PZkQy?oc=5",
@@ -106,18 +106,18 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
+      "title": "Selected Tax Measures in the 2026 Federal Budget - Canada",
+      "outlet": "Fasken",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHlhbURaVEtEeW1neEVjdEJFMk9xMzlDMjExcFhGOHVOTTU5TzNSWENNY1pvR1FBTmdtRFpUcHRka3VpWHVBTkpNOFhoV0F3TTVxeEhfWHQ4aEIzWWRmUUZRYkoxTXZyNVRIU3N5bWZwVzBXbTdnQmtGYl9PaEpSbU42bzF2T2hDdnRLWms5Z3IyY2FKbHM3akNqQjdvamJj?oc=5",
+      "pubDate": "2026-11-06T17:57:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
       "title": "Map 1 Unemployment rate by province and territory, October 2026",
       "outlet": "Statistique Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83YXFYaGJpYVIzd3FvZFRXYjRHRl80akIwVTJKYkl0UGNfeTZEU3ZBY2N5ODdYQVhsdmUxOEdlZDBoSEpleUw0NXhYVWU3N1NrVjEzOTk5d21LU29LVFJ6VjVHV1hrazFLM0V1ZWNrMFd5bTlCWmF4TUdR?oc=5",
       "pubDate": "2026-11-06T15:32:33.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada’s unemployment rate climbs to 6.7% as hiring stalls in October",
-      "outlet": "Canadian HR Reporter",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSzk5aWFrOVJ0enpMNDUtWXVrSkU2VnpYNEE3QkpIM2JSSnlONEhQZEVCeXJpbzFfbjBUTkw3aXV1eG1DN3ZSaDJUMVBXdmpEb1UzVVdTUlRxZ1BMcGtlZjR0ZVRWRnpyZnpSSVNfZmRfWE9zSU1uOXI4OWc5cEN5ODZNTnpjX1VoanZta0ozSkdfVk9qam5aWFBNRWY2WmJBZlhzR2dGVE1hUFNZSGZVYTdvWWl1TUNmdk9PMmROTHpkb2hOTlVhTVlpTm5kME9vZzM0?oc=5",
-      "pubDate": "2026-11-06T13:58:37.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     }
