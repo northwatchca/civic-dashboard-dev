@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-11T00:57:54.478Z",
+  "updated": "2026-11-11T07:31:29.421Z",
   "items": [
+    {
+      "title": "Mixed reaction in Yukon to the latest federal budget",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMnBCdXVVSmtBQi1kOXZndmdDNFQ3QV9tSkwxalZEemk4cVJTYlNNVEsweXh0d245WGhpQnBLWnRTcllTQ2RNYWRtTUNKQ1VGREprcER6dlgzVHJHNGM2NWU4akloTE0zLThTLUFpLVpFQXgtdGxNVmJZc2NrLU0?oc=5",
+      "pubDate": "2026-11-11T01:09:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
     {
       "title": "Calls to cut PST, GST on restaurant meals as costs climb",
       "outlet": "CTV News",
@@ -8,6 +16,22 @@
       "pubDate": "2026-11-10T23:39:58.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Pembina Pipeline, Trans Mountain, large banks put staff on secondment with the Major Projects Office",
+      "outlet": "The Trillium",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVBOVXk4cFNZTFpQT05ITGJLT3c5X21kRnh1YVY1a0Vxdzk2akxMTVlMeUI1RFlKZ1hVZEVJQnc0bjRIZ3M0SDNCeDBwRU90NThtLXlPOWw0WEZ6cG9SWWdpbWVMWWx4R0RuYmZTbDZ5bzBGQmxGTkFGTVRUOWNvVUZoWHZJanhyN2JJRkJNTTJ5TW0yRnRhakY0QVgySXhKMjFVeC1QeVRMT0pCZkxDZ28zWFN4X2hvejc0aTEyNmhmbEZsenpsVmJVb01GRC1lRVg0T0M2cG9iMms4WFlwUzB3?oc=5",
+      "pubDate": "2026-11-10T23:08:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "The 2026 Canadian Federal Budget: A Guide to Grants and Funding Opportunities for Businesses",
+      "outlet": "Royal Bank",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTdpZ194WFVia0pLN2plM1F5eEJXZkhKLVIzSVUtTUVMcU1rTkRuRjZiXzNITFJhb29BLXhuNDNPS2VHajduVXBaT0tmdm5nUkZWNFdkaWYzeWwyR2s2MkVlUThJLTdjeHlraGdYQkZEek5SZkRqR0JNdEFuREJaaW5rc3RxN2M5ODZndnRTdmNHTGFnUng0ZFlJelkyWFVnRjVScll3eHd2ZXlBbWxkWnBXVnJmN1ZKNWRnRHB6bGNydjM3RzQwXzF4OXhVNGdZV0VicDJsclBHQlpra3FBTGVVb3pIdFdXcUFQbV9hUmdmdmdmSWpITGZKSERKc3FkSFB3MmZBWEFPeUNfRGtjRjQzQ09lN1dxSzdvcA?oc=5",
+      "pubDate": "2026-11-10T22:44:16.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Federal Budget 2026: The new Canada Growth Incentive | Canada | Global law firm",
@@ -18,36 +42,12 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "The 2026 Canadian Federal Budget: A Guide to Grants and Funding Opportunities for Businesses",
-      "outlet": "Royal Bank",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTdpZ194WFVia0pLN2plM1F5eEJXZkhKLVIzSVUtTUVMcU1rTkRuRjZiXzNITFJhb29BLXhuNDNPS2VHajduVXBaT0tmdm5nUkZWNFdkaWYzeWwyR2s2MkVlUThJLTdjeHlraGdYQkZEek5SZkRqR0JNdEFuREJaaW5rc3RxN2M5ODZndnRTdmNHTGFnUng0ZFlJelkyWFVnRjVScll3eHd2ZXlBbWxkWnBXVnJmN1ZKNWRnRHB6bGNydjM3RzQwXzF4OXhVNGdZV0VicDJsclBHQlpra3FBTGVVb3pIdFdXcUFQbV9hUmdmdmdmSWpITGZKSERKc3FkSFB3MmZBWEFPeUNfRGtjRjQzQ09lN1dxSzdvcA?oc=5",
-      "pubDate": "2026-11-10T22:15:43.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
       "title": "New Immigration Levels Plan adds upside to population growth outlook",
       "outlet": "RBC",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMXpmalFlYlRGTGREX0JlWTJ5akRvNXgxNTV4U2xINHZQSDJ0SWlEQjJaYlJScTIwVGNiTWR5cmxxR1VFVFdnZjBlVW9KRkNsYkNVREpHWDdrbV9iZ1loSlhmbG0xamtrT3A0WWUtQVUzMWVydE9zZDFDT0JLclJkUV9zU01fdkg5R1lJN2wtVDAxUWl1U1VUb3BlUzBtYkJtQUxMeEt4TWplN3FDaXkwS0tMd3MwRWxJTFhSdWJuTEhhUlhyOVVHQUdrcUc1WElyVEhHYzNCVGxHNTZSSFJ6Zw?oc=5",
       "pubDate": "2026-11-10T21:00:26.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Massage therapists welcome GST break, await CRA green light",
-      "outlet": "620 CKRM",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzh5aXlBdG1LaXBGMmxtZl95RnA1X1ZXRUQ4bmNfOUtDRXFoZ0lzLXR3THJ5SHcxTUo3VFNsUE9obFJqdUQ5RS0tYkMxX0pyOTNheDdxUkRBQjFFclJhMmNSUENOWnJQcUVLRlNGamhobG9CLURjSEJWd1ZSRUtqbkVmbUh6bC1XWUMzZ1YzRlNBM3MwQ01sdS1R?oc=5",
-      "pubDate": "2026-11-10T19:05:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Further interest rate hikes might be needed: Bank of Canada",
-      "outlet": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTZBUmMzVUxBb2FmVENNa283TlRmSlNvd2RaVlpaQWlVZXB4TGRtRnJoUFdtdDFIVlVOQ0N4dF9sYXBEbHpYNlAwSlRzNE1Cc2hFVDRxWjdHZ3NnbkM5LUN1NW9wUllsYkItb2tlbFVnbUNxZDlxWU1LWk1pcVpsaGlobWMzVlJCY0t6ZDdJcjY4cUEyUU9wYmxyY1plLTdPb0RaR1dCS1drbzhRLUhJbndlYWhpTzFnUWw1ZDBDWi1GSWxBY3RGQkUyUU5aNU4xYW9uTW5kVQ?oc=5",
-      "pubDate": "2026-11-10T18:44:52.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Ottawa won't appeal federal court ruling that EI law discriminates workers laid off after maternity leave",
@@ -64,14 +64,6 @@
       "pubDate": "2026-11-10T16:45:26.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "LNG Canada Maintenance Puts Western Canadian Natural Gas Demand in Focus",
-      "outlet": "Natural Gas Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmdMTVR3ZFFZYmJSMFdHSFhiRTg0ZU95em1oR1g2dm1IaEppemsyR1NBdnlRbUJ0bjJ1dmZ2QWNsWnVrSHVsVWRwUmtUcE92R1NaMlo2cTVhUTR6dE1Xam9PaDZSSzRrQVd1U2xtUHhfLXFjbnVtNHJEbkVyWEpDYXRhYnJaQ3d0a0pnNUNBTWxLbkVfWklqUjg0dy1TM3Bvbk5LVThIakx2QQ?oc=5",
-      "pubDate": "2026-11-10T14:56:06.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Canadians Back Expanding the Country's Energy Exports",
@@ -114,12 +106,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Selected Tax Measures in the 2026 Federal Budget - Canada",
-      "outlet": "Fasken",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHlhbURaVEtEeW1neEVjdEJFMk9xMzlDMjExcFhGOHVOTTU5TzNSWENNY1pvR1FBTmdtRFpUcHRka3VpWHVBTkpNOFhoV0F3TTVxeEhfWHQ4aEIzWWRmUUZRYkoxTXZyNVRIU3N5bWZwVzBXbTdnQmtGYl9PaEpSbU42bzF2T2hDdnRLWms5Z3IyY2FKbHM3akNqQjdvamJj?oc=5",
-      "pubDate": "2026-11-06T17:57:00.000Z",
+      "title": "New $15-million capital gains tax exemption proposed in Canada’s federal budget",
+      "outlet": "insauga.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VtWE81amxwT3hXbmdka3BsNkdickF0Y2NEd2FXWExZYlRTWnpGWFM1MTBCN24wY0paZkVwZlRkblhRRE1LUWdJSjZQc0o0Q3JoVFJiZU43enpfVXVlclNxRS10ODdxejlydEZIaWg1NEdoRjM5cFFFZ1N6bHBGcm1hdE8xRUtuWEh0MmN6Zmg5aVBQWUFRMkI0d2hheHR2RkRseA?oc=5",
+      "pubDate": "2026-11-08T19:06:20.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Economists concerned after labour market sheds jobs for third month in a row",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXBaTUF4bmducjB1T2hlSU83LUQ0WE5yWlNtYXpOUDJ6MXNJS3VYT1ZYVF9JR1Y4YjNpRHU1d0hod052UnBCRGVKa2lNbTZXRURfb2dYNEFnakkxX2ZtNi1HbU1BQkZtdXZUTy1fVHUyU2JPUUNNUkstWF90SWdIcXI4UFlxa2JGMWtjZTVfMk56THZ3akl1Yjd4Z2dDLUNIYmswc1VXempwRHFJN191QW8ybEk2b3ZJUVJubXlXRm1ZNHB3UnhuQ0lzNU1PZkQy?oc=5",
+      "pubDate": "2026-11-06T19:14:05.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     }
   ]
 }
