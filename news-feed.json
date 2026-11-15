@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-14T21:02:51.634Z",
+  "updated": "2026-11-15T01:28:05.045Z",
   "items": [
+    {
+      "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUFRfYjhJdkpmNkpUQ0MtRUxfOHlCOTFXMTFoWWZ5VzBJRUpNWUp5TUlvQXpvbGpXNEFmMndRVTZtbHdqck45dE9Uc0pmcTBSWE5wZWx1cnY5SnJSUkJCU1hibldYVWYyZlBtdE5oYnZoNlk4MU4xOUNUSl8?oc=5",
+      "pubDate": "2026-11-14T22:36:37.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada's doctors say federal budget offers Band-Aids, not long-term solutions",
+      "outlet": "WestCentralOnline",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE92dHM4N3lHR3FFbzJxYnN1Vko2RjkyVzk4NUE4TG1PbTZMQUVhUUNKSGwtVFdNMUxOSXQ0NTQ0V3cxM1MyaWRkelNTQzNjdmZQNXNWSFpzcGtkRGdJWE9ScUNyc2NPS0xPQmhLOEJSVGtDaHNUajdOSTk3VERfYkFDZGJEREViSklDc0p1S0thcGtkdjMtVFNxTG1BV3VOTEFBNHVmaDBYZWl4LU5ZZUNBcGNQTnlDZFE?oc=5",
+      "pubDate": "2026-11-14T22:02:49.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "LNG Canada Phase Two Draws Closer",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
+      "pubDate": "2026-11-14T13:30:37.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
     {
       "title": "Canada commits $200 million to expand B.C. LNG project and boost exports to Asia",
       "outlet": "Philippine Canadian Inquirer",
@@ -18,28 +42,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUFRfYjhJdkpmNkpUQ0MtRUxfOHlCOTFXMTFoWWZ5VzBJRUpNWUp5TUlvQXpvbGpXNEFmMndRVTZtbHdqck45dE9Uc0pmcTBSWE5wZWx1cnY5SnJSUkJCU1hibldYVWYyZlBtdE5oYnZoNlk4MU4xOUNUSl8?oc=5",
-      "pubDate": "2026-11-14T09:00:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Canada’s plan for productivity plan is missing something — a healthy workforce",
       "outlet": "iPolitics",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVd5RkxjSzBwZkZ0b3lUZk1xV1BIcTlNcjQ4X1pYS216TGZTeDQ3emtHclZLamdhLUw4ZFAyOGNIZ0ZnUHhWdFA1QS1kWG1WYVdCRWktSjMxeWhWRmZJV1NJS1ItYzc2MVkwbmlaNGxGUFp1dFpGMHNSQnVjVG9GUzJVblZFVmU3YVY3dmxvUnE5NlphU3pjVi13SEVfTTk0LXZyR205UDU1N3p5RWQwLThB?oc=5",
       "pubDate": "2026-11-14T02:15:14.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-11-13T22:39:15.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
     },
     {
       "title": "Secretary of State Sarai highlights the Productivity Mega Deduction in Budget 2026",
@@ -66,20 +74,20 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Pipeline Promises, Climate Risks",
-      "outlet": "Pembina Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jVmVZaldFdGQ0QVN6NzNfMjVsNTlfeFVfUGV1VHVJV2JHTG9JbWZFbEtnSW5fSEIyWU5ldGQ1cWE0QjdQU2R3TE9PSFozcWN3eEJpT2JTaGdVS3hXRWFBWmxGTzh2RlBXeWZv?oc=5",
-      "pubDate": "2026-11-12T17:36:40.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Federal Budget 2026: The new Canada Growth Incentive",
       "outlet": "Norton Rose Fulbright",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk90QkRlUG43U0pUVElwYUloSXZrd3NwVWNCU1RnMFZTMWhTNlRwekNxMlFlcW9XM0FJV1FseG51TzdYaUxqRXlncm9Pa1B5LU83MS1DTHBpVW5ta1paVWVHQnBrd0FDXzlLeWE3cUVPRDlSeUt4dERIbHlUZndqWlBySjN0UVAzcTQxMWtxdnJmY3RyRk5ESW1UZnRHLUxKTjNGZ21PZzZsdHBXYUVXMGJIalM1RmxKeEtaMVN3dw?oc=5",
       "pubDate": "2026-11-12T15:11:29.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada’s unemployment rate climbs to 6.7%, youth rate hits 13.7%",
+      "outlet": "Outsource Accelerator",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOWUI0N2tkdXNFQXJXRDRlLTM0ZlZsc2Q3dW5wWTlOZnFsbVlpbkkxMHlmY0lHV2xuMkNpa0hLNmpCYVlPblRFQVptU0lTWEIteEhvMFBveUNnMkwyQ1UtSWxuajZJc2otWTlNWVhFbEk3N1cwWEFkRzJjcw?oc=5",
+      "pubDate": "2026-11-11T19:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
     },
     {
       "title": "Ottawa to create CRA-run income-verification system for mortgage applicants",
@@ -90,28 +98,20 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "The 2026 Canadian Federal Budget: A Guide to Grants and Funding Opportunities for Businesses",
-      "outlet": "Royal Bank",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTdpZ194WFVia0pLN2plM1F5eEJXZkhKLVIzSVUtTUVMcU1rTkRuRjZiXzNITFJhb29BLXhuNDNPS2VHajduVXBaT0tmdm5nUkZWNFdkaWYzeWwyR2s2MkVlUThJLTdjeHlraGdYQkZEek5SZkRqR0JNdEFuREJaaW5rc3RxN2M5ODZndnRTdmNHTGFnUng0ZFlJelkyWFVnRjVScll3eHd2ZXlBbWxkWnBXVnJmN1ZKNWRnRHB6bGNydjM3RzQwXzF4OXhVNGdZV0VicDJsclBHQlpra3FBTGVVb3pIdFdXcUFQbV9hUmdmdmdmSWpITGZKSERKc3FkSFB3MmZBWEFPeUNfRGtjRjQzQ09lN1dxSzdvcA?oc=5",
-      "pubDate": "2026-11-10T22:44:16.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Federal Government announces its 2027–2029 Immigration Levels Plan",
-      "outlet": "MLT Aikins",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTVHU2c5M19uMThwV2VUSHV6aDNSRHFrb3NnanFWdGxkQzJTajNteTlQVld5akdYNll6cmZwdmw1TzU3UHVWMHFlT1ZwOExhWVhLVFFncWVtTHdWV0NwVW1DN2h5RjMzMHQ0cXBBaTZrZTJWSzR6c05nWTBqbzdsdVkwYUxWaFl4Y0NEZ1ZIMFVGUzNEWmEw?oc=5",
-      "pubDate": "2026-11-10T21:24:10.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "New Immigration Levels Plan adds upside to population growth outlook",
       "outlet": "RBC",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMXpmalFlYlRGTGREX0JlWTJ5akRvNXgxNTV4U2xINHZQSDJ0SWlEQjJaYlJScTIwVGNiTWR5cmxxR1VFVFdnZjBlVW9KRkNsYkNVREpHWDdrbV9iZ1loSlhmbG0xamtrT3A0WWUtQVUzMWVydE9zZDFDT0JLclJkUV9zU01fdkg5R1lJN2wtVDAxUWl1U1VUb3BlUzBtYkJtQUxMeEt4TWplN3FDaXkwS0tMd3MwRWxJTFhSdWJuTEhhUlhyOVVHQUdrcUc1WElyVEhHYzNCVGxHNTZSSFJ6Zw?oc=5",
       "pubDate": "2026-11-10T21:00:26.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "LNG Canada Maintenance Puts Western Canadian Natural Gas Demand in Focus",
+      "outlet": "Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmdMTVR3ZFFZYmJSMFdHSFhiRTg0ZU95em1oR1g2dm1IaEppemsyR1NBdnlRbUJ0bjJ1dmZ2QWNsWnVrSHVsVWRwUmtUcE92R1NaMlo2cTVhUTR6dE1Xam9PaDZSSzRrQVd1U2xtUHhfLXFjbnVtNHJEbkVyWEpDYXRhYnJaQ3d0a0pnNUNBTWxLbkVfWklqUjg0dy1TM3Bvbk5LVThIakx2QQ?oc=5",
+      "pubDate": "2026-11-10T14:56:06.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
     },
     {
       "title": "‘Gig income is business income’",
