@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-16T07:31:33.140Z",
+  "updated": "2026-11-16T17:45:27.011Z",
   "items": [
     {
-      "title": "Canada Jobless Rate Rises to 6.7% as Youth Unemployment Climbs",
-      "outlet": "ImmigCanada Immigration Consulting Services",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NdTk4bkFBbUtGeTNBMGpic1VMeDVCaVl3N2M4YnF3WmpMSkM4X216VURzcW5pdzQ0Zy12WGY3YnRfZVRIUklZZ0dubWdYQXV3RExlNExVenc3WUFPdHJj?oc=5",
-      "pubDate": "2026-11-16T05:18:08.000Z",
+      "title": "Cloverdale Paint Inc. Expands Made In Canada Matters Initiative",
+      "outlet": "Canadian Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS05xNTNNd0FnTHpyZVlSVzBWQzhoYTJnaUlsMjFYbTlSWWk2Tm1HU0NhRUE5Z3F1MDNWclpxMXdXT204eW5leHk3UndmZFFaYVIxRm1zaUFmcVE1eWtwUWJQaU9jUFhnWG11cnRtT3NwbkZQMkNrbmNOa0lfSDl6aTBRdTV5Y3VUaTJHZk9yYTd2UjNXeHFmNUtJYklwYlN1XzRJRmpmRHlUUGszTmw1RmpzWnNNb3lLeUtsZURZcw?oc=5",
+      "pubDate": "2026-11-16T17:22:36.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada housing starts can absorb Budget 2026 growth, gap persists",
+      "outlet": "Mortgage Professional America",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMWFsQUhVbDBqbWx2Q0ZhUnhGUU5vUzNTblNnMVNCU21YSGtoYmJJazh1MnpabXNsb0V3YUV2dFVrYWNkaDRjMlRObHlyaVYxRHYybzQ5OW9kbEl2bGttcmhYQWNSckFlRXY1MFRmTU1EUFphZVdPVmNPeHYzRGlaOUtCWC1RRzZ2THZRRjhpUEZzejlFTnh5eFEzN2VDTXpRcFhyYzFlOUVFb1lQenJPSldWbmJJN3NMbzZQOVZXT29KcFdFdXdSdWtlMA?oc=5",
+      "pubDate": "2026-11-16T16:17:57.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Minimum wage falls short of living wage across Canada: report",
+      "outlet": "Canadian HR Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmJubFRvLTd6SUVuVFBJYl92SmVZY01mbG9YcXZEQWs4QV9CZWs0NEV5YzFBTzBrcnBsSlVIV2gxVWJFLW9QaVVQbUVkWXhVb3RWczUxd3c5dEdRTzBYdjlDQWgwQjNsMXBBbnM5VmhSRktpdlZmTWpPVU40cm55QXJBRm9KS0tLQ1BJR1ZjQjJJTlR1ZHRZbWFTYTB4WEM1WkdaV01aa211VXNvTlVYNXBFYlI?oc=5",
+      "pubDate": "2026-11-16T14:46:43.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada player unveils plan for new west-east gas pipeline",
+      "outlet": "Upstream Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb09qUGs3VHAtakxCWTFqUjlTdW8xeGFEbk8zR3dVZzFQYUdzaFNWMzFEZ1ROMEhjeGFDdV9WTWc3UzBseGM1U2J4NTdNRmRlWUI3M1AwN1NEci1aN3A4VGtEV1A3Q2liUy1SQWFQdVkxME5qRnVXbEVhZGozUkRJaGNjWENlNmp1Y0dhdjN2dTNDNm5UNXZmSnNhVVZLS29WQ0tmdGxLS2dWNXBOQzdTZlpYZXd6V00?oc=5",
+      "pubDate": "2026-11-16T13:37:15.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlQktXYW44bGZtcjlMZURfSXROclpGUE1wb2NJS2J5SEQwd19MRHFQdkctX3ZDcHIxaFpZTThWWUEwRldFU3VQeVVMakFiYjZ4Q3Rud09CTE5Xa3MyRGVyeGRXTEdOQlRFZVhSRUV6dHhJTGo0N0E?oc=5",
+      "pubDate": "2026-11-16T11:13:41.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "‘Attractive return potential’: CPP Investments joins US$3.1B LNG Canada deal. Here’s what it means for your pension",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTN5RWJ5ZUk3cWdLNk1ybnNRdkdKbFJsREYxSmRiaFlVdzZiQjlHSnVfVnRPSVhMRG9pTUdkZXN6TUotVEI3RzJuckI5MWZxTEtYaU83cVJ0M0VGTlV1WmliNXpRbzJQQ1JMdFdJU0tMNjkzTXhIVnA3ZXR0MlpIcS1KYVFpQkFydlhGbUxfUS04bkVfUEFJ?oc=5",
+      "pubDate": "2026-11-16T11:00:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Canada’s exports to China up almost 40% since last year",
+      "outlet": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamp5dXFpUXlabXpnaVNiNHBYMldjaUkwOFNRUnZ6dThUNzh0OFhNRFRkTzAtUUNXcVBmNXR3am1QdXhCYlpwQWpzWVUxd3BVS3NOcl9hc1hUQlNNVDgxYnRzTlpmdHdwUWVrVVR3RUk2SzNGbWlRU1QwaUktQ3hBcWtjdzZHWG1vdnRPdnV3RmxNNnA4dTdzalpfajNkOXpVNG1xdDgwLUlfR3RKTUdlTmpCQkhZWEZJeWJ6SnZR?oc=5",
+      "pubDate": "2026-11-16T10:56:07.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "When the CRA serves a requirement for information on your firm: What an accountant must do in the first thirty days",
@@ -18,34 +66,10 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Canada could turn to Chinese automakers if U.S. trade talks fail, Carney says",
-      "outlet": "Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2cxMmNfT09xTHUtQWxuU0g3NjFueF8wbmY2TkJuNnlkN0ZEUGxoM3hyOUtKRm0wTFNjOUdvY05LZ1dTaG4yajNpY1lYWFNHbVhiTmNYdUd6OGpzVlBHdnRtYklPM0FRcFllS2ZvdlR3Uy1yeDdWVGFEVUVyM1UwMS03YTM3aWM2YTNFcnl3?oc=5",
-      "pubDate": "2026-11-16T03:16:00.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Canadians shrug off federal budget as trust in U.S. remains shaken: Ipsos poll",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMy1zWVZDYTNUOHpKaVViYzdZUVhIc0Q2cEpCeUhkSFBDaGhfU21ZdFVvTnd1b2xNc1FYQ2g2Y1VWRHF5ZmNfR1B2eXQyaWNRUWtwbTRLOFNhaml4a2duZGJtajlBOTdnS3FVaTR5ZDhLeDZqNDJtYlllNzlYSmgxZUowUF8xMDdJdlpiZnFGd2dScHZvY3R2dnMyMzFfQVMyeS1SVHhzY2oyanlDNXBHU2VQb3k?oc=5",
-      "pubDate": "2026-11-15T22:15:34.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada Employment and Household Finances: What a 6.5% Unemployment Rate MeansCategory: Personal Finance",
-      "outlet": "kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcDJQcmxkU01ZNngyNVRvalA1OE94SXFyVGlxQmpyTmktb21fNnZ5THdqdlZPUmdWUUstTTZjTGN0aThIX1BIeUNScmxpbll5YnNfTXk0NENub181YnVDcV90bmFQeGx2NXJLWlZJcExhbTRJQ1ZNbE1hM0YyQU4tVDFyZXE5bUt2MlN2N21obW9RR0prMlZoTlI4eXdON0lQQlFLUTUwTHhWQ3k0b1RsZzBRUFlEY2lWQng4TG41Z1hGeDRnTTVDOEZLcnpIXzYyLWNpX0dIMGNHWnlDS3c?oc=5",
-      "pubDate": "2026-11-15T15:27:00.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada CRA Online Account: What Canadians Should Check Before Year-EndCategory: Personal Finance",
-      "outlet": "kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWU2b2NtZ0huZ2FxRzRmbE8wYmR2TnNTamJ4Qlh0aTJ6TXEyTlNITWxFbVR1c3JoZEVka1dQS3VXNjAwYWFHM0ZhWHo5NlN3a2drOUFSckRlbm1mM0x6b0huNUZwM0t4bEp3NlBaZ3Z1WTR6RjlZelVxejNabmtUY1pDS3V4LTUxMy1oV2cydHdPZldXSks5emV5SWhYX0ExbDJ0b3F5SjhuQjJRcVVGd0NrcU5oVGtuOGkyc2lFVjBVa1pPdmc4Mk1GZEJPaWw2TUprVnRRVQ?oc=5",
-      "pubDate": "2026-11-15T15:27:00.000Z",
+      "title": "Will I owe tax for selling stuff online?",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa2l2UF8xTWVnRnFaS3hIc1RtN1pHN1Y5WDdXMVJQaFJ2QnBLdFNiTUxRWHNHMkQ1bzdlWERJMXhoejlDUXYta0lTVDIwc1ZfZDdrSkZGeGlJWm9nNVVaS2RyYWdJR0lRenFTSmJKOWVoZG90c3g5Z1NxZW9Sa1BDd01NeVZzWGJweGlrUThZR2FodU9xR3pZVGtDc09pRGRZWUZlZThaUHhlYWlYdmpnOGZDa2VaN2I1UnppYjd3N0IwQzBPSm9ZbXNPNEdLcUFMeDhpZGxmQUtfeEJsd0VpQ182WV9ndk5NdmZQZVFfdGNpQjF4b1pSOW4xR2lCYU1UamxFSGtEanlJV2Nvd0N2emYxYw?oc=5",
+      "pubDate": "2026-11-16T02:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
     },
@@ -58,36 +82,12 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "CPP Investments joins US$3.1B LNG Canada deal with Blackstone and Mitsubishi — what it means for your pension",
-      "outlet": "Money.ca",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uVGI2S053d01ZaDVXb00zeXp5RjVJZXJqMWhRZTNhVzBQa293c0gzTnM5X2lhdnhuaGRFTmw4T0Rlb3ZGN2lONkpGTFdlQmVJMUx4X3ZwdUppMUtFM0VpZHpaSExZT0dUOW43VGdkMl9OdDNWRGc?oc=5",
-      "pubDate": "2026-11-15T12:05:12.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
       "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUFRfYjhJdkpmNkpUQ0MtRUxfOHlCOTFXMTFoWWZ5VzBJRUpNWUp5TUlvQXpvbGpXNEFmMndRVTZtbHdqck45dE9Uc0pmcTBSWE5wZWx1cnY5SnJSUkJCU1hibldYVWYyZlBtdE5oYnZoNlk4MU4xOUNUSl8?oc=5",
       "pubDate": "2026-11-14T22:36:37.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada’s plan for productivity plan is missing something — a healthy workforce",
-      "outlet": "iPolitics",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVd5RkxjSzBwZkZ0b3lUZk1xV1BIcTlNcjQ4X1pYS216TGZTeDQ3emtHclZLamdhLUw4ZFAyOGNIZ0ZnUHhWdFA1QS1kWG1WYVdCRWktSjMxeWhWRmZJV1NJS1ItYzc2MVkwbmlaNGxGUFp1dFpGMHNSQnVjVG9GUzJVblZFVmU3YVY3dmxvUnE5NlphU3pjVi13SEVfTTk0LXZyR205UDU1N3p5RWQwLThB?oc=5",
-      "pubDate": "2026-11-14T02:15:14.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Secretary of State Sarai highlights the Productivity Mega Deduction in Budget 2026",
-      "outlet": "Canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTdCT1NNRWlyMVFyVl9zX1NBMlpsb3p6ckgxMjhiMVBjNWdaVFFfcVp0a0IycjczdnMxNTlQdXluNU9jS2NuaDNud1BsWXR4dGFsTzZYanRHTnBJVThUTnJQRVgwZThYV3lYZWpDUVhZQU5yVE1OanNmVFViekttdlRxNnYzRVZGYm9uejZENVM1VGllenJNNWk3WEpoX2lncTJra1FYWDNOWFdpcnFpQ2RUOE5HOHFibXBWanNsQWs3SUZZdXFEVExXUnk5ZFU5cmlfYVp6cw?oc=5",
-      "pubDate": "2026-11-13T17:12:09.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Canada: 2027–2029 Immigration Levels Plan Maintains Overall Targets and Adds Permanent Residence Spaces",
@@ -98,20 +98,12 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "Pipeline Promises, Climate Risks",
-      "outlet": "Pembina Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jVmVZaldFdGQ0QVN6NzNfMjVsNTlfeFVfUGV1VHVJV2JHTG9JbWZFbEtnSW5fSEIyWU5ldGQ1cWE0QjdQU2R3TE9PSFozcWN3eEJpT2JTaGdVS3hXRWFBWmxGTzh2RlBXeWZv?oc=5",
-      "pubDate": "2026-11-12T17:36:40.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "New Immigration Levels Plan adds upside to population growth outlook",
-      "outlet": "RBC",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMXpmalFlYlRGTGREX0JlWTJ5akRvNXgxNTV4U2xINHZQSDJ0SWlEQjJaYlJScTIwVGNiTWR5cmxxR1VFVFdnZjBlVW9KRkNsYkNVREpHWDdrbV9iZ1loSlhmbG0xamtrT3A0WWUtQVUzMWVydE9zZDFDT0JLclJkUV9zU01fdkg5R1lJN2wtVDAxUWl1U1VUb3BlUzBtYkJtQUxMeEt4TWplN3FDaXkwS0tMd3MwRWxJTFhSdWJuTEhhUlhyOVVHQUdrcUc1WElyVEhHYzNCVGxHNTZSSFJ6Zw?oc=5",
-      "pubDate": "2026-11-10T21:00:26.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
+      "title": "Federal Budget 2026: The new Canada Growth Incentive",
+      "outlet": "Norton Rose Fulbright",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk90QkRlUG43U0pUVElwYUloSXZrd3NwVWNCU1RnMFZTMWhTNlRwekNxMlFlcW9XM0FJV1FseG51TzdYaUxqRXlncm9Pa1B5LU83MS1DTHBpVW5ta1paVWVHQnBrd0FDXzlLeWE3cUVPRDlSeUt4dERIbHlUZndqWlBySjN0UVAzcTQxMWtxdnJmY3RyRk5ESW1UZnRHLUxKTjNGZ21PZzZsdHBXYUVXMGJIalM1RmxKeEtaMVN3dw?oc=5",
+      "pubDate": "2026-11-12T15:11:29.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "‘Gig income is business income’",
@@ -120,6 +112,14 @@
       "pubDate": "2026-11-10T08:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
+    },
+    {
+      "title": "2026 Canadian Federal Budget",
+      "outlet": "KPMG International",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oYTA3aklBN1JoMXp1V3I1MklfMkZYcWFKRzdHeTdUZkdxQld5dnhGTGpaN1hRTGVfaTlack9ycUVDeUctWDZwenJ6SEZCTEM4N1QydzdlVGlaTTI1ak1SWnZJNWRLSGxDdXFFS3VjTlRtWjNGMHVz?oc=5",
+      "pubDate": "2026-11-06T08:00:00.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
