@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-20T00:07:26.276Z",
+  "updated": "2026-11-20T07:57:38.513Z",
   "items": [
+    {
+      "title": "Decision to stop work on banning thermal coal exports was political: ECCC officials",
+      "outlet": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUZYSlR6SkVHUEUzeW5CS0VMNXdfdHc1Y01rQVlWZHpKdEdWbWdRNnBzNXQ4THRlRzZjcUhBYWJYbUkxSTI4RWs4Ymw1WVNaaEUzY3NHczQwUS1iNU9HcjEyX2taVlVaNHBQVXdzLWpxRjNlaHVub3FVblhTSEZINzd5WGV6X3MtYmtBT1ppWFhlMHRoQnBZd25qZVc1YW54U3lkQW12R1hwSGdMUWpSSzNyRW9IbGowcHNBLWZFdTRlTFcx?oc=5",
+      "pubDate": "2026-11-20T01:23:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
     {
       "title": "Diverging Canadian, U.S. interest rate paths weigh on loonie as it trades at 69 cents",
       "outlet": "Yahoo! Finance Canada",
@@ -8,22 +16,6 @@
       "pubDate": "2026-11-19T21:49:25.000Z",
       "category": "debt-fiscal",
       "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Canada Job Vacancies Rise In Hospitality, Transport And Manufacturing As Health Care Demand Falls",
-      "outlet": "Immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVhFWk03MkdoX3haZGQ5dVRJaGJTeUVaRUVPOHd1N3RfSEZaV0ZFVHdwVWVTZXY5TE5sVXBDY1JMOWxocE5LNVI0cTZsUWQzcmJfZXp6ZGl5Y1FPSGFrc0JHR2RaTmZPVlFqblMwcVEzWWZGdGRDZ0dWTTZJdkh0VDRZN1lBcUVVUVVDaEx3eFdkU0ZTVWUxZVY3SUI3Sm9vU0J0Y0I4UUtoSTY4ZE5VdWZ4SGdTV250Uk9NeQ?oc=5",
-      "pubDate": "2026-11-19T20:30:29.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "SUMMIT72 report shows that Natural Products Canada portfolio companies added to Canada’s GDP",
-      "outlet": "Canadian Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQTZzQTQ1YmlmcVVtcU9qRVJlR1prR21GaGdzcE1DUDMzaV8xb0JuTjhyZElER0Z2ZHFNR2NPaE8yYUU5MkpvdXVFdDBSalIwb1NiazZyNUtGZ0lDWHZYUnhVeHVoeXVHVjNQR056c1lUWF95ZjVWMDZtS2NKNUJkZ0JhOHZCNGh1RWhuTVB2YjRuSFlOT1NZZ3FUYmgybUIzbW5tUU5OV2lsWTZQMzlROGFBZFdGc09obzBvY09LXzZDNWNzZ1NaRVgwMHdKaXdqaWZxNW9uVzJQTHhGUWdwcVBFTFRDQQ?oc=5",
-      "pubDate": "2026-11-19T18:09:31.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Diverging Canadian, U.S. interest rate paths weigh on loonie as it trades at 69 cents",
@@ -40,6 +32,14 @@
       "pubDate": "2026-11-19T17:17:19.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "‘Show us the math’: PBO flags transparency concerns after the budget drops deficit for 2025-26 by $27.5-billion",
+      "outlet": "The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd1BNTHhJS19WWTI1VTdrWXBoSWJkcGdaY2RLeS15SmVaUl92d2xIUTBpZThzcjFyWDNJSzdiVFFFZ24xanBoNGRGb1M3TXFnYWY1a0xhbXNNUEdNc20yYWxNVkxOdFdRaGVNc1UtM2pNZFR5eWk0bmZCSWlLb2t6a1pSY2JFUGpCUFMwTWRzRHlIcWV4SE5fa2Q4SVM0WEVsLTk1bkdFVVU3YXBkOHVPUkVwOFVrUF9oQ2VOWjVCcGVMM1RMZm5wQkktT3I2akZGX3JEdjNLc1ZrQ1JRaXpGNk84Q2prSG8?oc=5",
+      "pubDate": "2026-11-19T17:09:51.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Canada’s New Tax Rules Are Reshaping Investor Planning: What CRA-Focused Savers Should Know Now",
@@ -66,30 +66,6 @@
       "categoryLabel": "Demographics"
     },
     {
-      "title": "LNG Canada Phase Two Draws Closer",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cW5qRkpPTWZIdzFadDNkT3QzMkI5WVczalBWaEdPMGVwaFMxNHZCazZNTi1ZQllkeVhlUXNydXZfRjlneTdrZTdPVVc5QW81Z3B4RjdLLUpKWWdQaWFHTWp1UzVvNGFXRnN5TkFHTUs?oc=5",
-      "pubDate": "2026-11-19T12:21:05.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Iris Gorfinkel: Ontario patients are reaching for credit cards instead of health cards as federal health funding falls short",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNX0NvQVJyM0pIZXlKbjZxZk80TU1qeDNVYjhrMjN2NXVDdzVKY1ZwMFZPVVdhdjItVGNCQlhXSVdYVS1KMEdPWHRWX3QtbXhEQ0ppajZwazQ4TXhvT3NqcnlWRk5NclJlWVY0V2lmRF9aWWRKbEpXY1BIVUVBU0VjQ1ZMbE9aMWhwM2ZYbGxmaXNaUjNDTTNDSTEtNHdvYkZPa0prNjE1T3A2OFl5WGRHRTZ4Rk4xQWlVMmVRRE9lckxva2xoN2lfcHliRVgzQkJ1eXBQRkQ0cXNHUXJsbl85dm90QU14bjdMTUdxNER5bXNoMG45MGsxMFQ4WW1jUmhSOG85NVV2YTlyc3dlcEY5ellaTHJZakdw?oc=5",
-      "pubDate": "2026-11-19T10:00:55.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Mark McQueen: Mark Carney should require ‘permanent residents’ to be more permanent",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZm83YTl3RHcwdEI2aUNhdDZEdnVzLWVGQjFPa1EyOWRaX0liRHctR2tza1dmcFl0QkFGOThVdmgtdGVDTXpfaDRScTIwaG0yQ1lCYlRiOXRwNmtPSVhSTGVHTHRqenpUSkpVbHJXU0pTY0diZXMxV0tqZzZRUW10Mk9Sd2NjX2xVd3hraW5vYjJlX25uNGRLUXZCVm1jVGxBalJORXg0SFNUM0tPTjRJUlJMOUFndXQxWW1Ra2gzWDJ4TW5oZkVFV04wa19fakhIYTZoUlpGMVk5dThjMk51N2dKbUEyMklBSUFNUkFnM2p6QQ?oc=5",
-      "pubDate": "2026-11-19T09:41:15.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
       "outlet": "CBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGRzdXJJSnJqSk5pdnpfRW1wWnJJNTVqZ0JmNkdRRGZOaGRqUjVzU3NKT3lxMHVsczg1c19Ca244VTk0c0RLUVA5ZGcyaG51d0UxOHRCRHN1WklNQ0ctX2xzSER1dGtSSWE2RmVHOUFfSTBLaVM3aWpYN0NwQXF4dGhxYUJ2bjg?oc=5",
@@ -106,18 +82,42 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "Will I owe tax for selling stuff online?",
-      "outlet": "Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa2l2UF8xTWVnRnFaS3hIc1RtN1pHN1Y5WDdXMVJQaFJ2QnBLdFNiTUxRWHNHMkQ1bzdlWERJMXhoejlDUXYta0lTVDIwc1ZfZDdrSkZGeGlJWm9nNVVaS2RyYWdJR0lRenFTSmJKOWVoZG90c3g5Z1NxZW9Sa1BDd01NeVZzWGJweGlrUThZR2FodU9xR3pZVGtDc09pRGRZWUZlZThaUHhlYWlYdmpnOGZDa2VaN2I1UnppYjd3N0IwQzBPSm9ZbXNPNEdLcUFMeDhpZGxmQUtfeEJsd0VpQ182WV9ndk5NdmZQZVFfdGNpQjF4b1pSOW4xR2lCYU1UamxFSGtEanlJV2Nvd0N2emYxYw?oc=5",
-      "pubDate": "2026-11-17T08:02:39.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
+      "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture",
+      "outlet": "Prime Minister of Canada",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
+      "pubDate": "2026-11-17T05:05:00.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Explainer: Understanding what’s in Canada’s Immigration Levels Plan",
       "outlet": "CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3BESDNUSkJQYkV6R0JiTEl0WEpjSUlubm05Rk9zUnpBYXFfdjFVT0J1LWRBc055OVRpUEREZjdTTzVXZXltZWEyMEVrMDJlSnNCQzhwY1NMMFJFQVUtc1AxV3Jvc1VmY0Jycml3b282TGNmVENOdHdiSUhHdVhVZWlXcUpocjBwSkRzWHVUbDcwdFowSGhPTGo5ZGtjd1JxSU8xUHlyZw?oc=5",
       "pubDate": "2026-11-16T21:20:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada player unveils plan for new west-east gas pipeline",
+      "outlet": "Upstream Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb09qUGs3VHAtakxCWTFqUjlTdW8xeGFEbk8zR3dVZzFQYUdzaFNWMzFEZ1ROMEhjeGFDdV9WTWc3UzBseGM1U2J4NTdNRmRlWUI3M1AwN1NEci1aN3A4VGtEV1A3Q2liUy1SQWFQdVkxME5qRnVXbEVhZGozUkRJaGNjWENlNmp1Y0dhdjN2dTNDNm5UNXZmSnNhVVZLS29WQ0tmdGxLS2dWNXBOQzdTZlpYZXd6V00?oc=5",
+      "pubDate": "2026-11-16T13:37:15.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Will I owe tax for selling stuff online?",
+      "outlet": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa2l2UF8xTWVnRnFaS3hIc1RtN1pHN1Y5WDdXMVJQaFJ2QnBLdFNiTUxRWHNHMkQ1bzdlWERJMXhoejlDUXYta0lTVDIwc1ZfZDdrSkZGeGlJWm9nNVVaS2RyYWdJR0lRenFTSmJKOWVoZG90c3g5Z1NxZW9Sa1BDd01NeVZzWGJweGlrUThZR2FodU9xR3pZVGtDc09pRGRZWUZlZThaUHhlYWlYdmpnOGZDa2VaN2I1UnppYjd3N0IwQzBPSm9ZbXNPNEdLcUFMeDhpZGxmQUtfeEJsd0VpQ182WV9ndk5NdmZQZVFfdGNpQjF4b1pSOW4xR2lCYU1UamxFSGtEanlJV2Nvd0N2emYxYw?oc=5",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Building a stronger Canada through a well-managed, predictable immigration system",
+      "outlet": "Canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3RnNnpKMjFIdWx5cUg3TVZkeklNWTJJcE9vNkRNYThCdVJOMDBiU1hnNTYxVnJuM3JfNURWR3JET2dSQXFFQlk1Y0VMTzVqMXVTSUxmQm5iTmtmcVE1aDRySkEzUnhHSzBiTmdNWVVVTl9PLThqQUQ1MlpoeGFWM3VrUzhvUVBEOXlTMWwtYXFtMmRDMTdxbk5jSmNEei0xSkM1dTlpOHlWblBMQThQYzlnQkRnR1l3VmpqRElPU015MFZDN2MzZlBBcWh5ZjdqY0E3Z3UxUXVGUW5PUEpac2xUam9PZ0lCUnFMXw?oc=5",
+      "pubDate": "2026-11-05T08:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     }
