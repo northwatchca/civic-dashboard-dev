@@ -1,109 +1,61 @@
 {
-  "updated": "2026-11-24T06:39:24.182Z",
+  "updated": "2026-11-24T18:32:00.978Z",
   "items": [
     {
-      "title": "Ex-CRA employee gets conditional sentence",
-      "outlet": "Advisor.ca",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanJSX1czandERVdHNExlNll2OWVFaUowOTdDejl2cHh3aHRQMXVnVU1ZNFA3ZS1HcEc4SHVOQjdjbkdwdWhzbk1rMWRMNElIY0xFVDVfVHF1RG1ZMHYxbC1FUktRaUVXNEF5TVdFRGNQZTdkUGJDWGZSNUlrQmZOZUpnOFI1dmtFSTdYamFXMTkySmtJ?oc=5",
-      "pubDate": "2026-11-23T22:21:26.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Notices leave 23 Winnipeg CRA jobs in limbo",
-      "outlet": "Winnipeg Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX19YVXdDTVVLZkxpNjVtMy1la1ZxWlVhWGJ5SXlkaTlwWlNKeDNpcnY2YVI5UjdRNUR4QmdKemlEM3h6V1otbU04c1RjeWJqcXN2d1VLc3pRMENSeWRIbHdtcC05OEVxWFdoejVXMEpZM0paMEMyYW13X3c2aVI2ak9jSm1rMXoyOU5nN0VVVlNSaEFhSW9ndHQtc2FLX0dxSGdn?oc=5",
-      "pubDate": "2026-11-23T21:59:18.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "2026 Federal Budget highlights",
-      "outlet": "CPA Canada",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGxoSlRtOG9PeExfRzFJTElScVl4RUdMXzhaSzF5LV9JMXV2eUNKaDYtN1RxRmVnZVJOU0VQOENTbGJFdXllMkIzTUxKRy1ONFVwNWJkTzl4emQySVgyaWtVeENQQ3AwWmxlVkJNcVhRb2R3VVE2R1FMLTZWYU1SY01jR0w0MnpNbWZObDEySXVLS2ptVTF6SmxtY1VHM2VHV2R4aC1UbTdyYUxUMnc?oc=5",
-      "pubDate": "2026-11-23T21:37:53.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "2026 Federal Budget highlights",
-      "outlet": "CPA Canada",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGxoSlRtOG9PeExfRzFJTElScVl4RUdMXzhaSzF5LV9JMXV2eUNKaDYtN1RxRmVnZVJOU0VQOENTbGJFdXllMkIzTUxKRy1ONFVwNWJkTzl4emQySVgyaWtVeENQQ3AwWmxlVkJNcVhRb2R3VVE2R1FMLTZWYU1SY01jR0w0MnpNbWZObDEySXVLS2ptVTF6SmxtY1VHM2VHV2R4aC1UbTdyYUxUMnc?oc=5",
-      "pubDate": "2026-11-23T21:37:53.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Ford and Smith double down on oil pipeline to Ontario",
-      "outlet": "Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUwxMmJqdVFtU0liTmhuNVVBYjQ1b2pJdVVVVGpnNEJpWUVDQmM1elVlc0JrMXBVUEVvbTlXSFdsbGk4MmxXbmlKVW1xdEZWdjh0eW1kYVd3Wkh3NkdHNS1TM0h1Sm45UG82YkJEV3d0aERYMTFnQV90aWxLTTZPeEZhWGVXTW94RGI1UDJkNE1PRG40OERN?oc=5",
-      "pubDate": "2026-11-23T20:14:06.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Bennett Jones On Tax Disputes: October 2026",
-      "outlet": "Legal 500",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjV0UWp6NkE2WE1wdGZYblJrMnBEVHVyZl96UlpxWGd0SUpnWEJVei1sWGdZSDc5OFlzTjJsd09aMGFxbGhFQVQ3elJ6eTFwRlJxaEM4MHUwVThuampfQ01FUE1QWUx5blhKaC05NDNZSjNuQldaZFVTU2xLUHJfODZLOTE5NjZyNVJ5bUNCcENtcmJ3X0E?oc=5",
-      "pubDate": "2026-11-23T19:22:35.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Exports an essential pillar of Canada’s defence strength",
-      "outlet": "The Hill Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWW5iQkpXelVnbVlIZHFQaUpRcmZxalBNaUhaVnFPVVQ0MHFFc0NQVHoweGg4bWU2a2tmSkhkWHlVakkyQkFhWTkxSFZFQktuZ2d6eU1qN1k4SGxwWDNjbklZd1psM3VFQ0o2YmJ0U2ZkTWhodk82V0cxQTY3ZjJiSU44SzVOZmJONy1BZGJ5RWg5LXI5WkhBUnlBSE5NSWFkeUE?oc=5",
-      "pubDate": "2026-11-23T18:07:50.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "Marketing Canada's Pacific Link pipeline project with an advertised, but not incorporated name: all hype or for real?",
-      "outlet": "The Hill Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdnNUc1RPbkFVdmtsbFNmeUxXQ0J3Sl8yeWpsMkExQ3c3eVV6dzZIcERRWHl3THRKYlRTT3FBZkhBeU5WNndyN2xDYUVtT0tHdm13NXU3TE5waFNJOTVxaW9qWVN2RUVhbUctVy1yMW5kUTZXNHE1akx5TkwzQy1FUW43a1VudWxEMXdQU1FCZWNqR055YlNqa3JwUHdhUVk4MHJSNlhOUkcyNWhOMlA4VVJyQnlLS19yNWJHWVJEZkNMRDZjdnpBUEgtLXo1Q05yYkhlY2RPQ18wRjVaWmllSUVUdFJiRTIwZHpEVWN6VQ?oc=5",
-      "pubDate": "2026-11-23T17:58:13.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "DEME awarded marine works for PRGT pipeline in Canada",
-      "outlet": "Ocean Energy Resources",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkg2dXNTRGx5bmhSRkZ1U25yS3MxMVFJTGRMdGI2ckNYWWV2QUlNb0JrTFZwUEZXSGgwRldjLTFXVlNyUmFCdG56ekE0SXI3NTRQU0lXTVF3Nks3UEJTN2xERllkVG1VSEIwUjRfSUJ1WDNTckRvM2hLODBsSTg2UXk0SVZ6eWJlQm5TXzFUekF4ZkQ3NUN1QmFnRWVCZjFE?oc=5",
-      "pubDate": "2026-11-23T17:45:26.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Conservatives want MPs to vote on government's plan for permanent residents",
-      "outlet": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVpCTDNZQ2FIck04OFBoTmpLdmxHekstekdxWFFBemROdmxGQ0lqSldFTmtQU2xHUm1GVGV3X1NQNnVnYklrTGlpWHdVQk9aZ0gxTmtacEtLV2lRU0J3VkE5Tk5DN1RJVDNoLXVhYXFMaHFtcUo3aV9aci1UQjRJNmZIZ1BmMFBySUpUSXUxVklKanU3MmRidjByZnI4LVVrOWphMFZhbW9ERnFkMzRrMS13eGdaWHp2aWFV?oc=5",
-      "pubDate": "2026-11-23T15:54:00.000Z",
+      "title": "Minister says one-time plan for permanent residents in Canada capped at 200,000 entries",
+      "outlet": "insauga.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTM1eVZscEdmcTlQRW5BMlRFLV9TQ2htRDRYTklMcEdOODBLTV9iNGpydmh5aVlhWDlSWG1GOUpDNUExVTJCcF9YdGk1dTVJcnJhd2pYelZUV0JuOXR4ZWlWYVBMNGxRNnJaeHlObndwS0pVZ24xdEphUVhnTEdfeDdrYW9UQ2VkVGQ5cUV3cEtfYUhSb0hxT2ZISTNEZXdqaHcwUVV1MWhhakhqU0xWXw?oc=5",
+      "pubDate": "2026-11-24T18:18:59.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     },
     {
-      "title": "This Great Freeze job market could have long-term effects for many workers",
-      "outlet": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV014WWJuZnRpVDQ4VFVpSklLdEtSSHdldDBCUVBYUzh5a1NONi1KSlBwX1BLMl9JcnNxM3k0emcwQkdxaTNUTG1pWGItbnVxY0ZSbjFuMEw0S2dkUmsxX0o1UW9qaFhVdzhTbFNuY0lpbmdZa20xYXcwRE9rTWFMMXUtbG9YMHJXX2pscWstekJtSnJLallzdWZyVllMa0lIZS1pRk9sdnBvRTlrRWc3V0VJYjljamQyeW42Ty1mNXluVW5iRU11RUUzdw?oc=5",
-      "pubDate": "2026-11-23T14:00:00.000Z",
+      "title": "Canada’s Immigration Levels Plan Sets a New Direction for 2027–2029",
+      "outlet": "kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjdrc25YenRWMnJ6ZWNzWGU1aU1OSC0wLUJwZUpGQzJJOGEteFdhTEtuR2hUQ0M4OVRWbDNlNWktM0VkLWpYbm9KN1ZqTFdHeXJsLTNBVld6VDdpcDljSmxYLWJuakJvYmk1M0o3S1NmdHZSb1lvV1czMGdzOTNZcC1ESEJMeG5kSUU4ZndyQkt1YzlNLUNtZzQ2bGZ3LXE2alB4bDN3?oc=5",
+      "pubDate": "2026-11-24T17:17:00.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada First-Time Home Buyers GST/HST Rebate: New-Home Tax Relief After Launch",
+      "outlet": "kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDZJMFlHZkRUNHM3MUZrcFUwR0ZZVUwzY3NvaWE5WkN0dW9adk5OcjFMOVYzZ24wNWxaV0Eyd1FnTWItMFhpeUlIUUlQM3Y3NEpNeWNRd1V2anlFdGFVU3JQN0s0RjJwMUVlZjhzLTl1R2stYjVXTkNFSHVKRDVsMGxhMjVkbWdINXQtdzdna0dyYXY3SV9UWE5fNnJjN0g5LXJmd3dSUDFIams1ZE5DZ2dOVGpVZkt4SEE?oc=5",
+      "pubDate": "2026-11-24T17:13:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Women's Legal Group Releases Report on Employment Insurance Discrimination - Headline Politics",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQlBiemUySE16X2ZMcF9rNTdCLXVnRVJwcHZ4UXBfVVNOd1NOclVfWEgzRTVzbDFfOXZiMDVYTGxaOGVDRGoxSnZOT2Q1TzZIdFlkLVZBSkl2SXE5ZFZ1VDZhT2NhZFhRT3NKbi1MQ3VmQlZiNlpxQU82S1VSbXUwdGFueEoyTEN6YVlOUmtqeTRJdVBDV1FpS0lzbjEzeEdFQjNZb2dBR3NGbGVFaG5Ob3JYRUJKbzFwUm1qR1FGSlNMQXMwN0Z6OWpLdTExT1JtSkVLeTJySEhvVG9UMnNhbTZPdFlRa05zM19aZEs3Nkk?oc=5",
+      "pubDate": "2026-11-24T14:13:27.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada could have had a $67-billion surplus instead of its $62-billion deficit. Here’s how",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3hPdjI0Rk9DWmU0SGNiS1FPUEEtcnpsY0gtRm05c01mYUU3RDBQTFZDbFdiQTVEazhEUGU4bFluajdUY0hYSjVmN1FzazdxakJRcW9TcEpvU2Jvek5CbG9obWo3LTJvUl91VkQ3X3RTZHg4MUxBNmtYZ2dZaWNlWldPeWs0YVBuX21CNF9nYXJIRWxuSWlDbDdmZjNDVFFPN3lOS0VDOXQ0TXNPWlVBVnBpVDQ0NDJEOURQLQ?oc=5",
-      "pubDate": "2026-11-23T08:00:12.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Ottawa targets mortgage fraud with proposed CRA income checks",
+      "outlet": "Business in Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGQ1MFBNNFpGd3I5bFlESEt3U002STNNNDFPREVDcnNGb3A2UU80MW9nczlFd0tLQzl1YzU4R0NqRGtBSUdkdEtPN0hOX21vQTBuakdnNzAyRmgwOEZFd053dzdxdEJfanRIaXFFMXRYd25oRjAzNVB1Z3hyMTZQUUk2STlKNF9acGRzRHZwZ3dFRW9URFJiYVRhN1NoaUpKbVhJMHQ5M2ttZ0hRY3NLYnhxb0ktV00?oc=5",
+      "pubDate": "2026-11-24T13:00:00.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
     },
     {
-      "title": "Federal Budget 2026: The new Canada Growth Incentive | Canada | Global law firm",
-      "outlet": "Norton Rose Fulbright",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0JQeXRhTk9RN2NpTFJGWlB0aEw1YTNzWWVsWEc3R1czdmY5dEJmc3p4QUZTQzlIbUlPdG1HVE1JSVdidnFUS1NyZENXb1VqQlVVR0NqZzRPSHhrT19ZWG1vaWtaaFZWSGJfT3lWcFozRmVYMWpqMjJETXZ6UXpjcUx5dHdBeWxZendod3BVbnFmeVdjNUNKaG9BYXBsX201M2l5X2lISk5mNEdVc1VVRXdMUE9rOFlfVUExT3M1WjY?oc=5",
-      "pubDate": "2026-11-21T13:32:18.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
+      "title": "Is Canada underinvesting in food manufacturing?",
+      "outlet": "MNP.ca",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOXgtcGlEWU1WZDZTUFZTSnIwUzVBblpGRXVjT3Q4LWo5WTdzNnJBT2hpUXdfTzliblZoSjlPNVpzYWlfeDV1b1N1Si11bV9JMm50Zl9KMzdWWVVuNnUyeVVYVmFoNzV0eW54YWY4NzhRbERUMmdvbzFWMHhtM0FRNjVLN1hDblFtRmJkUg?oc=5",
+      "pubDate": "2026-11-24T09:45:26.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
+      "outlet": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
+      "pubDate": "2026-11-23T15:34:19.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Minimum wage in Canada isn't enough. Here's why",
@@ -114,12 +66,60 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada Could Admit Up To 662,000 Permanent Residents In 2027, Economists Warn",
-      "outlet": "Immigration.ca",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS19vNGF6dEx6XzVpVHNjejBQTmpxWl83MGwzNklGWXI1MU9BbnNVZ281Q0lpZFVpaXJIWWVNc2RBVnhTLWJseFBxV2UtSzBYaWgtU2tJeDk4dF9TVjI3WmNBcy00dUVoVVJaZ1NLdks2dTdobDJ1d21jbXdtWTNza3hGZ1hRVnZ3RHdfTEVtNVdYQ29xeXFHd1FndDA0Qm5X?oc=5",
-      "pubDate": "2026-11-20T16:41:41.000Z",
+      "title": "Waivers and extensions are different: BC Supreme Court sends film tax credit waiver application back to the CRA in Spell Love Road Productions",
+      "outlet": "Dentons",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDl6VnkydkhnZ0JxNjlHc1p4LUFOVmRBb0UzcnFCWHdSaXBXWW5fMWdzUDRXUGxDTkZfQlNBVGJuUUxJUUE5UVlHS0hMM3V0VUtreGpMZzA4TTdvWVhvbE5mU093TzBwZnRqUk5wN0xLdlhnUmU0a2VMX212b1VfYmE0cUlhMDVJUjVYTnBZMVYxRy1fTTZrRkhIUkI?oc=5",
+      "pubDate": "2026-11-20T18:08:18.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "First look at Canada’s economy in Q4 with manufacturing and wholesales",
+      "outlet": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnpYV2FjTzJ5aVRYbFliZXU4OW9MSFlZYkVLbmw5d0prakZwT19iTTg4Y25pbERBdDdaQzJ1SmtaeFZvTEdFSEU4SzM5N0Yyb2JHamZxWmtwc2VvY2FyOUlmQlVGa2J4aDZKamVFRTlzZEstN04tMlV0OXYwUE9ST2VncFpfYnM1RnhaWmVLZzRUMGdEVUZDZ2FnSHJJY2ZURnJCY0hwalpFV3RmbXg3ejgyMUdMcVRZMEZNbA?oc=5",
+      "pubDate": "2026-11-20T14:17:07.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Building a stronger Canada through a well-managed, predictable immigration system",
+      "outlet": "Canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3RnNnpKMjFIdWx5cUg3TVZkeklNWTJJcE9vNkRNYThCdVJOMDBiU1hnNTYxVnJuM3JfNURWR3JET2dSQXFFQlk1Y0VMTzVqMXVTSUxmQm5iTmtmcVE1aDRySkEzUnhHSzBiTmdNWVVVTl9PLThqQUQ1MlpoeGFWM3VrUzhvUVBEOXlTMWwtYXFtMmRDMTdxbk5jSmNEei0xSkM1dTlpOHlWblBMQThQYzlnQkRnR1l3VmpqRElPU015MFZDN2MzZlBBcWh5ZjdqY0E3Z3UxUXVGUW5PUEpac2xUam9PZ0lCUnFMXw?oc=5",
+      "pubDate": "2026-11-20T08:00:00.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
+    },
+    {
+      "title": "The Daily — Labour Force Survey, October 2026",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15WWdhY3A1Q24yY0JIbFZWYV9HRWM0cHZWNE1Hd2NoaUJDT25qTnRHUUZIM0dqT2hFLVZ5dkxPd0JNQ0czUEpiRmNwNFMtcDAyQmxHRlEyNmFYZTRXS0pVelJFcE8tZlVxcjVGQ1lSMHRkSXdKZVJCSnc4M08?oc=5",
+      "pubDate": "2026-11-06T08:00:00.000Z",
+      "category": "labour-inequality",
+      "categoryLabel": "Labour & Inequality"
+    },
+    {
+      "title": "Canada’s Sliding PISA Scores Hide a Sharper Story",
+      "outlet": "C.D. Howe Institute",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2cwT3I1NkdhelNsQ2Q1c1B1SDV3U3JFekZaX0JkN09KS25FTHRWaGFHLXMzdW9LT19odERfTzB6Uzd6X25ZRE5FWmZaTXBJcHU5Ny04bzlmRTJSbU5LX1JTcGhwNi04NF9OMVdtaUpjd1lmOTdwSWNncUU4Y1pLLUZBekhYTTQ?oc=5",
+      "pubDate": "2026-09-21T10:20:17.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Canadian teens score well on OECD tests, but sharp drops in reading, math raise concerns",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHl3ZWpPR2VkMjRWYkdNMW9nWXBGYXJObWhEMW8tS1hzVVBBdnZZYnc2NWtiZFdTbnRGY3Z5OUtMZ1dpTE43MzgtQ19RSFU1Y29velhQSTgtRlAtTWFab3Zpc1hfWnM1SC1yYXYzbDhfT0FVMzNFM05CWDBoaWY0LTVR?oc=5",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
+    },
+    {
+      "title": "Canada’s PISA scores hit record lows. Don’t let rankings drive reform",
+      "outlet": "Policy Options",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldG5QcEJFaXl6cWNZT1dkdDlTaE5CcjU2SVkxemh2a1Vib1JMRkNQZjVRMVVycmtfYzlEZEZ2SEZQcjRpTFRySXZlQVFWM2FuWUxZNkQ5YnB0VkM1NU9TRWlGb0xJZkprM1E?oc=5",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "category": "social-fabric",
+      "categoryLabel": "Social Fabric"
     }
   ]
 }
