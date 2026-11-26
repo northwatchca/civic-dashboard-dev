@@ -1,34 +1,66 @@
 {
-  "updated": "2026-11-26T13:26:25.884Z",
+  "updated": "2026-11-26T22:44:02.848Z",
   "items": [
     {
-      "title": "Pets Canada renews call to remove GST from pet food amid rising costs",
-      "outlet": "Kingston Whig-Standard",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2VkMnY1VmdydUZCNEI1U1lpbHR3dWFrTkdwcXI3REVybE9qMXBTRV80RHlPbXZORk42cWhZT1ZzbHBoWkVqcFl1T19xZndpSmhwZGNIZWpjNU5uRTRtUkRHTVJnX0NrYkJSSWJxYVFDTzVtMjJXRkstSzFMam9QaTJveEd3RWs?oc=5",
-      "pubDate": "2026-11-26T12:01:40.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "With a manufacturing sector struggling, Buy Canada is the right answer",
-      "outlet": "National Newswatch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXIxUnFlQWdoMUVwU3pqdXB1bFlROWFZclhSbHk1ZmlfOC05S0NIcTVsWXdLY0RGSGJlNEo2S0FDSWJQNlV3RjFHUmt3UzhwMHIwd0E4LUpwZjJ1aHFVTTdkSkxETlV6SmVveW5sdHZfQjM5N2tiV1F5TTBVc21Td194Ukl5MHN6cnhUY0hvWldXRkpYUUlhZXI3cXZrczcwRWZxNThOWjhROWJocjRYaEZEWThGaFE?oc=5",
-      "pubDate": "2026-11-26T11:26:15.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "VINCI to build tank for LNG Canada",
-      "outlet": "Hydrocarbon Engineering",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDZzbFNPS3o4aDlNU1JpTng0bXBod1BUODZuRFRrTk9kUTFCTV9Md1RhZkVYTGxBNUFKYlZDM05Xd1paYTBQU3hBN2FCRm5LbGlvalkweURzWkx6R0lNSWtJcHpFNTFOYkNKdFY5SS1ZbWVGWkp3amJjRThRdVdJQzc5eFVpVGp2NGVtSTVPYUFXbDh5bTZPQmd6LXJ3U1B4?oc=5",
-      "pubDate": "2026-11-26T09:09:20.000Z",
+      "title": "Federal loan program backs $168-million First Nations pipeline deal",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlRxUHF4YW9PZzZUU1FTOU14N2VXakxONWVRTThIdEtrM0NOdFQ3QndueWR2RXV3bXlFT2tvVDg1VkROOVpTd1lVMHhMNWxodXJJZFM2cmlTODVjU0VwUlZYSnJXU2dMcjQtb1dQOXNwdTdPZ1l2N0t5Mmc2WkFpaVVJRUZRUQ?oc=5",
+      "pubDate": "2026-11-26T21:55:27.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
     },
     {
+      "title": "$168M loan guarantee provided for First Nations’ investment in LNG pipeline",
+      "outlet": "CKPG Today",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkhrM2lEd2dlR0xYbXBTX3k5WTduZGNYMm4zaXM0aTBDbXdJWW43bV9Wci13MW9GM0ltb1d1ak1HcS05QnVFUXE4YTZkUXQ5VXZXejZIY3dPaXUxMWtWTm15S09EQ1VEV2pQX0ZqYVhUNjE2N3VFTkZuanA3b3g1eTRPRHBoVzZNS3JFcmg1RHFrRjgzTjEza3JrdjJKeXk4a1Y5U1dSaGhwdw?oc=5",
+      "pubDate": "2026-11-26T21:45:11.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline",
+      "outlet": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU05EQU1TT09wOXR1cUgzTXpTLU9LdFJJT0VFREdTX3NsQnVlemc2N3hsNHFqUjZOVjhveHh4WHVTcHFWNVF6UzlzSVRvR085OU1femVBb2hXcGI3UVFFZk9IbVV3RDZNdklfcmNWTmpfT1RIR0dxd1BVb1RsNFluaWh5NA?oc=5",
+      "pubDate": "2026-11-26T21:30:00.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Union ends mediation with Canada Revenue Agency",
+      "outlet": "Ottawa Citizen",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGN4MXUzUEJkc3RUd0k3bnl6WEZmZGhYWGQ4VDctYm5UczVhZGtHemhWS1NmN3cxczFjNWZDMFdXVmM5aGk0b2xjMkVnX0otcVdxb0N1c3diNDUwbDJMLWxacXRQNU1NR0tLTWxrcGdqZGg5UnRDMDJxWHlxa2pHQktLaldIbVlBS2dLaFd6bzNNcW0xRUpmLVpFNmg3bGtxdVhSUXlFUQ?oc=5",
+      "pubDate": "2026-11-26T19:59:15.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "Canadian dollar edges lower as investors await key GDP data",
+      "outlet": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3Z4S0RVSHV3VEhpTmM4ZkY4MVNtNWNRVm5SbnItMzJHdWhaS0g3cUFPckZabkNhZTEtV3BIaFJqS0tlZmc3R0JHOWFvS0pHdEpaSEh6Y09Mc0VZeldNamZPd2FJZ28tcjRLbEhxVjUxTENfLXJJTEJESC14RTlndXpBWDNsOTBfLUs4RjB2b3RDYmwzWGVCV3ZlcnFsby1PM1ctdEVSTXJxMUhfbThj?oc=5",
+      "pubDate": "2026-11-26T17:57:23.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "How services exports drive Canada’s trade growth",
+      "outlet": "Export Development Canada (EDC)",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUQtZmlWUThPNElxXzhsSU1fa3BTTHJCUEtMendPU29tMGVkMmZDQWg2TG1XRlpaU1ZyNW9fR3lqdjhPOEFuY2tLS2dmVmVGQTYtOGNyQTRaSkpXNnAyV3JKV0p5bWswNWRCekVOeUN0cV9YTW1ZZDRwd25zc1F1dnBvdw?oc=5",
+      "pubDate": "2026-11-26T14:42:49.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Conservative Leader Pierre Poilievre Criticizes Immigration Levels",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVBmMXdLdDNwZDRmSFgtZWxpcjBNWXp0blIyTlBMSl9QSm50NXhPSFd2c0h1LW1EUWdINWtWbTZaV0RuOGNqUUkxS2lQb3RNY3hBSjU4Q0Q0WmpRcElVc2luWHE2dWZXeGc2MzBQSjhsWVM0RVhIcTBXWUtHRnBkVUJka3pja2g5bS1IVmlzZGVraHE1TUQ5V3FiUDQtcVdZTFJhZUpQZHRKX2VsVXBJVlF4TkEteG9ua2M4WGd3MlBMTjUwd04yMVExUVpvOXI0ZjdLbHZrazdHd3BxbTE0ZEhmZVh3RUE?oc=5",
+      "pubDate": "2026-11-26T11:30:33.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
       "title": "PSAC ends mediation talks with Canada Revenue Agency, agency says",
-      "outlet": "Howl.Link",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE04NDdOa1VGVW9rWk9FM3FuMlctZDJKZ0pZTUVzM0NFd25ZV0tuSWNES2Vxa1VvNjlSMzFN?oc=5",
+      "outlet": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0ZYYm5oRjFRYnpDLXRZNjdyOF8wanRBUzJTRVhDeGJBdk5GRUZfZDNMNUJaSTEzN0l0VzNhaE9OdDZNS3A3Sjd4YXl2STNLYXJQT2k0MnFWQWpZTS1HUmRENjNSNXRPbUMwU292NERaRzJkTjdNb01oQVRWVmlVM0ljQUhpMjJrMktUdGI5MWhOOGo1dUdPdm9RTTdXZ20xc2I0V3Fn?oc=5",
       "pubDate": "2026-11-26T09:00:00.000Z",
       "category": "taxes",
       "categoryLabel": "Taxes"
@@ -42,52 +74,12 @@
       "categoryLabel": "Debt & Fiscal"
     },
     {
-      "title": "A deeper look at Canada’s falling fertility rate and its long-term impact",
-      "outlet": "CHCH",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWldJRlFaQm5LVW5ONGg3N0NMeHJCR1VKRVEtbjByRGVJUVlUT2RNUzFGc2w4NndybEowc2xia0tyZjJEVlZucVotb1drMDhNR29nc2J4azBUWGlFOEhSZm9WTUx0azJxNFdXcXlydGJOX2o0c0ptZ1kxNUJIUzhLeldsRzFyRnlTM2lZV29PY3ZIeVpRek9PS0xDRVhEa1lsR1FRdi1XMA?oc=5",
-      "pubDate": "2026-11-26T00:59:51.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Conservatives Comment on Federal Immigration Levels Plan",
-      "outlet": "CPAC",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ091SFNpdlFYdjFYN09MTVI4czZBenVmQ2kzOHNrdjJqRWJQay0tRi1hdzBRajJKeHI1Sl9Sb0dqbFczUDZVS3dpaEFXTm56N0FfU2ZzVEcwV1drV0M2OUdydnIzNWNzU0o4TjVDbTBkT3czTVlsdDY3LWlGbTE0T1FweUJIbUVnUGR4TWtIUlFheUN6YkM2aUhoM1NyZnRhdmhSZkNCMndhQ2dOd0FGRkt1cGZva3A1cWpMWHlHdTc2dmpMQU16dlhPbw?oc=5",
-      "pubDate": "2026-11-25T23:30:14.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
       "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
       "outlet": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
       "pubDate": "2026-11-25T22:54:46.000Z",
       "category": "economy",
       "categoryLabel": "Economy & Productivity"
-    },
-    {
-      "title": "LNG Canada Nears Crucial Phase 2 Decision as First Expansion Year Builds Momentum",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXy1MRlJ2MUdNa1FZVFhJaVV6dmdoTDg4eG1xeWMwM1o2cWN0WG9BaUVNYnJzV2hHUDZLV1dSMGxNUzFZa1RyVEZSd0QtSTRpQVRNZENNdXE1SF9pTWxTU2g5VmIwUXJUX3F0OVAtcGpkeG85c2d6bllKODdVY2Z5dXR6anJteWt4aUREVFdtTHRTcnR4eGdaeDBfVmpvS2JkRFpPejZtMGI4bkNGbUNYTw?oc=5",
-      "pubDate": "2026-11-25T22:48:21.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "outlet": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpjS0o1TTNHSnd4TE5jbjc3RmM2V293c1ZWRWZCTUp1NV9pQk43TFAwYTB5UTU1T2ZPUVUxLXNlZS1wU1Z6M1czVC1lOHNwalYwR1V6QTlfSWlpTG50WUlHWXNuNWc2V2J1X3pCbFc2LVJ4OXA1TjZnLUlzXzIxSlFVQUFKS3FnazJQLXZ0Z253Y2hVSVFGdV9hOXRBU0E?oc=5",
-      "pubDate": "2026-11-25T22:26:32.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Bank of Canada expected to hike interest rate next month, economists say",
-      "outlet": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmV4SkZEbWRaTmtlLXlsZEptNGFBUVhnN2RoOWF0NXRjWVBzMkpVRVlDM0JUeDFabEZuSW44Z0hqcUZWMWNYQmJXTWVWdEM2dUotTGdZbEFqMGRSSzlCYXRGM210S1E3YnlRa1cyM2l3YllZcWU2MURmVlJoMG94WkNIektMTnJNYmNEVkh3?oc=5",
-      "pubDate": "2026-11-25T20:08:39.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
     },
     {
       "title": "Pets Canada Renews Calls for Removal of GST on Pet Food - Headline Politics",
@@ -98,14 +90,6 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "Living wage in N.B. nearly $9 more than minimum wage: report",
-      "outlet": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MN1FnZmM4bS1PVUdJcV9NWEdpWTlJVzg2ZzB5QzdXdWhfSnM5R2Fic2xfZEQ2cjFjVWpJc1FLcG03eWVRQ19HemZsN1o0YVhsNWhXMXZBNFJBQWsycEg3OWpIRkVSSmo2VHQxY3ZtVEU1U1hjZWRLWnBSUQ?oc=5",
-      "pubDate": "2026-11-24T21:25:08.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
       "title": "Women's Legal Group Releases Report on Employment Insurance Discrimination - Headline Politics",
       "outlet": "CPAC",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQlBiemUySE16X2ZMcF9rNTdCLXVnRVJwcHZ4UXBfVVNOd1NOclVfWEgzRTVzbDFfOXZiMDVYTGxaOGVDRGoxSnZOT2Q1TzZIdFlkLVZBSkl2SXE5ZFZ1VDZhT2NhZFhRT3NKbi1MQ3VmQlZiNlpxQU82S1VSbXUwdGFueEoyTEN6YVlOUmtqeTRJdVBDV1FpS0lzbjEzeEdFQjNZb2dBR3NGbGVFaG5Ob3JYRUJKbzFwUm1qR1FGSlNMQXMwN0Z6OWpLdTExT1JtSkVLeTJySEhvVG9UMnNhbTZPdFlRa05zM19aZEs3Nkk?oc=5",
@@ -114,12 +98,28 @@
       "categoryLabel": "Labour & Inequality"
     },
     {
-      "title": "Canada’s LNG Exports to Hit New Levels – Resource Works",
-      "outlet": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBmMHByOUlmc2ZzQXJPT3gtV0lxUU9hN3ozV050ZUQ5U1ZiakhKYWt6bk9nLWsxajRleEdERmd0cHppSHhzeDRuWmpiSDNzLUo5TkFRalpZV0Q0MVJkZlJrb2lzYUtQVkVYTlVJd0xTcUp0U0oyZ0MzX2FGd2hqdzRObnpPUnlJQWc?oc=5",
-      "pubDate": "2026-11-23T15:34:19.000Z",
-      "category": "economy",
-      "categoryLabel": "Economy & Productivity"
+      "title": "Changes in the regional distribution of new immigrants within Canadian provinces, 2001/2002 to 2024/2025",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXY1lETV9GZjJuOXJUWlE0aTBvNG5wWl9SZGwwQnJjUlFLT1hOR2JwWlp3QV80OEh2TnJnbUZIMm40WGtnODk3U1pGd1hVREtkRDY3LTgtX0NaZHhQN0UySUlRUmRVdUFaQl9IcWNzcTdwRlFlNDRR?oc=5",
+      "pubDate": "2026-11-24T13:34:56.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "2026 Federal Budget highlights",
+      "outlet": "CPA Canada",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGxoSlRtOG9PeExfRzFJTElScVl4RUdMXzhaSzF5LV9JMXV2eUNKaDYtN1RxRmVnZVJOU0VQOENTbGJFdXllMkIzTUxKRy1ONFVwNWJkTzl4emQySVgyaWtVeENQQ3AwWmxlVkJNcVhRb2R3VVE2R1FMLTZWYU1SY01jR0w0MnpNbWZObDEySXVLS2ptVTF6SmxtY1VHM2VHV2R4aC1UbTdyYUxUMnc?oc=5",
+      "pubDate": "2026-11-23T21:37:53.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
+    },
+    {
+      "title": "Canada could have had a $67-billion surplus instead of its $62-billion deficit. Here’s how",
+      "outlet": "The Hub | More Signal. Less Noise.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3hPdjI0Rk9DWmU0SGNiS1FPUEEtcnpsY0gtRm05c01mYUU3RDBQTFZDbFdiQTVEazhEUGU4bFluajdUY0hYSjVmN1FzazdxakJRcW9TcEpvU2Jvek5CbG9obWo3LTJvUl91VkQ3X3RTZHg4MUxBNmtYZ2dZaWNlWldPeWs0YVBuX21CNF9nYXJIRWxuSWlDbDdmZjNDVFFPN3lOS0VDOXQ0TXNPWlVBVnBpVDQ0NDJEOURQLQ?oc=5",
+      "pubDate": "2026-11-23T08:00:12.000Z",
+      "category": "debt-fiscal",
+      "categoryLabel": "Debt & Fiscal"
     }
   ]
 }
