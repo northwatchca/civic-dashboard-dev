@@ -1,27 +1,59 @@
 {
-  "updated": "2026-11-25T21:11:35.580Z",
+  "updated": "2026-11-26T03:52:45.892Z",
   "items": [
+    {
+      "title": "Pets Canada calls for removal of GST on pet food",
+      "outlet": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3Q4d1ZYTkJnTU9GVTlNTldLcWlwbVBqeUEyNnpGVVBJY0FtNWwwdDlDWXBvdDF3cXM5V0tQRmdZMG1Ya2J4bU9lM2t5YnVDQldRU1lDajI4MmZxNXBKdUFpSWh0VWI1NEZlTzZ5cmxUSVNXX1JoQ05FaUl4UEd0R3JjZjNTbGhVSXRfcEZBOA?oc=5",
+      "pubDate": "2026-11-26T01:42:52.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
+    {
+      "title": "A deeper look at Canada’s falling fertility rate and its long-term impact",
+      "outlet": "CHCH",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWldJRlFaQm5LVW5ONGg3N0NMeHJCR1VKRVEtbjByRGVJUVlUT2RNUzFGc2w4NndybEowc2xia0tyZjJEVlZucVotb1drMDhNR29nc2J4azBUWGlFOEhSZm9WTUx0azJxNFdXcXlydGJOX2o0c0ptZ1kxNUJIUzhLeldsRzFyRnlTM2lZV29PY3ZIeVpRek9PS0xDRVhEa1lsR1FRdi1XMA?oc=5",
+      "pubDate": "2026-11-26T00:59:51.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Canada needs more than one energy future: the progressive case for natural gas",
+      "outlet": "iPolitics",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXZLSjBFSmJodnU4ZjJmSGJlT0xjakVhcHZ5U2NhUjl6WE9OSndHUFJFc2tkYnlIRWpGcGpnRGRVS0NLTkxHTTVBdXB4SlhyR3dfd3hOQjk0anZEMWQ1YU51NW5XMDFUTkhNNDduMG5PRVJOUTBHelBlMU52VXZoNm1KdVRaWFRqYjRrOWs0R2ZjSGV2MzVUbVNwc3dTaTFBVHo0ZXotd3NPcmZ4MTNlTFA1Y2Q?oc=5",
+      "pubDate": "2026-11-26T00:56:48.000Z",
+      "category": "resources",
+      "categoryLabel": "Resources"
+    },
+    {
+      "title": "Conservatives Comment on Federal Immigration Levels Plan",
+      "outlet": "CPAC",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ091SFNpdlFYdjFYN09MTVI4czZBenVmQ2kzOHNrdjJqRWJQay0tRi1hdzBRajJKeHI1Sl9Sb0dqbFczUDZVS3dpaEFXTm56N0FfU2ZzVEcwV1drV0M2OUdydnIzNWNzU0o4TjVDbTBkT3czTVlsdDY3LWlGbTE0T1FweUJIbUVnUGR4TWtIUlFheUN6YkM2aUhoM1NyZnRhdmhSZkNCMndhQ2dOd0FGRkt1cGZva3A1cWpMWHlHdTc2dmpMQU16dlhPbw?oc=5",
+      "pubDate": "2026-11-25T23:30:14.000Z",
+      "category": "demographics",
+      "categoryLabel": "Demographics"
+    },
+    {
+      "title": "Newfoundland and Labrador Leads Canada in Boosting Exports to Countries Other Than U.S.",
+      "outlet": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE9iNzhwX1hpbENuckhoMTVPSXExUngweTNQNjM4YlZTUjBJQmFUWTZKSzdPSmZtSTNmZUJtWWpveW53bkFsbHlOMVNMS01KamdIUnJUTHpOZ3VOMzQwQnZTVUxxRExDREVHSlFER203RWR5YlhUdFNNbFFlSGRoTFFudVNqLURKMUxTTjAwWURPMy1aNWFhZGd4ZkhtU0Z4eE13c0NqdW1qd2FNb0JkYmlPS2hmSkdE?oc=5",
+      "pubDate": "2026-11-25T22:54:46.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "CRA refused to consider an objection that was late by 12 days due to accountant’s mistake",
+      "outlet": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0JLdkVNM1VMN21JTnNzZV9Iek1nenVNY2tEMmY2bC1XZ2twLWpnR1BsYWxLNTdJb0NQNGtFeDgya1BINmdyaG0ycWd1SlI3VjFYaUc5TjRqNWowelQtR1lNa0dxcUxZTW5OS3Nhcnp6b0o4RXM2T1M3WnJic3JqQlk0UE14Q2xVSU1XOXUxLW1ReHZDM0hQRDM5X281WGhzR1BvOU41NA?oc=5",
+      "pubDate": "2026-11-25T22:28:12.000Z",
+      "category": "taxes",
+      "categoryLabel": "Taxes"
+    },
     {
       "title": "Conservative motion to block Ottawa's plan to add more permanent residents defeated",
       "outlet": "CTV News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGtYOFczWVpHYm9fVFRLdnd6TWRlNFl0U1BpdmtUOHRncVJGZnlrTmpwUHczRWtUdkxKT25IUklCbjljcWFoVU05UnBLdkRTNkxBUVBqNFR6aFNoYVRHRER6aVd4cU0wUkpCc3pGanB4eThzSUlXNGpvY1RWRDJTZjZTdUNLQTZtRElJeDVhR2tGOTlYbHhWbm54M3dtai11RjdLenNKb19DS1B0VFNneEVVUkJKcDgxeFE5OTNn?oc=5",
       "pubDate": "2026-11-25T20:57:50.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Toronto cops warn of phone scam involving fake CRA agents and Shanghai police officers",
-      "outlet": "Inside Halton",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVdBUnluVnhQa0EtT2lqV3FiNW50SlpxS2JJSTVOTkpmZmZ3cTBOLXFDRnpfN3ppamNFa2x6OFYtc1cycTl5ZXF2YnRXd2t1WlR5Rml1OU9Hd2VKNkduTGhQV203S2d2R200bEExVmg1bUFjTl96VzVWLTVuWk5WcDJ0Z2txUkw3clNSWHhkdWNLZVdFVnVFeDFwMC1tZDJISUNDOXlGb2NPRWZMM00yeGNST0RmSFhQNE9ZakhzTnhsanUtUUNv?oc=5",
-      "pubDate": "2026-11-25T20:28:00.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
-      "title": "Immigration no longer an option for workforce planning: HR panel",
-      "outlet": "Canadian HR Reporter",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaVNJZFZlQkt4aDQtNDFtZTFpaEU3LWc0OWtUVEtEdTFsSTl6S0xJU1FLZlc0enl3YXlMUV9YNHJiRXJYZDdhSEhuZ2xmSkhMREVaeW52NUV4R0IwX0NGLTNWS1kxY0E4akcyT2dhTkZMRktfRUc2bWc0NWpQZTR6MEtRVHFTMU1UVlB4MFhRSjVUNlJ4OEE2UU04b3htbXFwWTNlakZJQmxPYVdXOF9MNGRCcEpuN3BhajZoZWJGUTdOd0djajFZZkZZQWIyYmc?oc=5",
-      "pubDate": "2026-11-25T20:19:22.000Z",
       "category": "demographics",
       "categoryLabel": "Demographics"
     },
@@ -50,20 +82,28 @@
       "categoryLabel": "Taxes"
     },
     {
-      "title": "CRA refused to consider an objection that was late by 12 days due to accountant’s mistake",
-      "outlet": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0JLdkVNM1VMN21JTnNzZV9Iek1nenVNY2tEMmY2bC1XZ2twLWpnR1BsYWxLNTdJb0NQNGtFeDgya1BINmdyaG0ycWd1SlI3VjFYaUc5TjRqNWowelQtR1lNa0dxcUxZTW5OS3Nhcnp6b0o4RXM2T1M3WnJic3JqQlk0UE14Q2xVSU1XOXUxLW1ReHZDM0hQRDM5X281WGhzR1BvOU41NA?oc=5",
-      "pubDate": "2026-11-25T17:24:08.000Z",
-      "category": "taxes",
-      "categoryLabel": "Taxes"
-    },
-    {
       "title": "VINCI to build tank for LNG Canada",
       "outlet": "LNG Industry",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDh1SGVESFVoVHJQRTRVYU9iOExrYlg4TXV1anBzX0NLYkxNbDJaSVZEWnZnN3U0RXVQQWhoekhOc1B0X0dHQ0JoY0xZU0ROTnQ3WkU0YkkwQlVHUEI4ZUtlR0R6Q0I5RkRjdEdEaFo4MGdWY2VqZW5NMUpHM2xiOVZNMzhiRW9jVjFUZXh3?oc=5",
       "pubDate": "2026-11-25T16:38:55.000Z",
       "category": "resources",
       "categoryLabel": "Resources"
+    },
+    {
+      "title": "Chart of the Week: Canada’s power exports bounce back (No. 5)",
+      "outlet": "University of Calgary",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYUxZbjc5Q3l2cVM0ZVAzc2oyc0UtSFFSSWJtbkJzeEdGYWxyX3hnbUtTZ0MzUzA0bGhMYmZCdWx0ZnNfMTBUMW92VnRSQkZoVkFTSTFfLTJzbmFKM3lackszSW5GajEtbjBzdE1UeE1lR1REb1p0bGQzaHpuZGs?oc=5",
+      "pubDate": "2026-11-25T15:58:04.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
+    },
+    {
+      "title": "Mapping Canada’s economy one square kilometre at a time",
+      "outlet": "Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1FUYXkwQjBLN2wzNDJzRVBldC05SWVlRnF3Q09DdW9IOFFNMXJiU1VmYkQyWGdJVFNvakV3Y1pDenBrdmZHYkkzVlhWbUxfcHFkN3A1NUVMRFhKaEZRQ2s2N2FFV1hSa3c5V1FiZlp3V0RmYTJUbXBVOXRxZmRiY1p3?oc=5",
+      "pubDate": "2026-11-25T13:30:31.000Z",
+      "category": "economy",
+      "categoryLabel": "Economy & Productivity"
     },
     {
       "title": "Twelve B.C. First Nations set to acquire stake in Coastal GasLink pipeline – Globe and Mail",
@@ -74,50 +114,10 @@
       "categoryLabel": "Resources"
     },
     {
-      "title": "DEME awarded marine works for the Prince Rupert Gas Transmission (PRGT) pipeline in Canada",
-      "outlet": "World Pipelines",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUUpXRS1BSjM1SzBuS2NDS016NXVRY2JCdnRIVDVQQ2tTbWphdUlYNFpWdTdWMk5zVUotcjg1UV9Yb1RtNWNsNExNd1FYLVNMSmZYXzBWM29WRjN1MWE5bWdoTURma1BzUjAxR2FYOGE2RmxzQUVGNkFGS2dCUDZfbkdfbGJ0cGstRU40dkZEdGhWQUxGdFpLRkRDLUdadXdJcWhNcnBEREc3cDJ4UEtXLWVTei1VZ0pzNjlGU01BdTB2NGJVWTBZSnhwdEh1a1d0THRncEItTjN1eHdBZUdLSlgzTmYxUQ?oc=5",
-      "pubDate": "2026-11-25T13:11:26.000Z",
-      "category": "resources",
-      "categoryLabel": "Resources"
-    },
-    {
-      "title": "Women's Legal Group Releases Report on Employment Insurance Discrimination - Headline Politics",
-      "outlet": "CPAC",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQlBiemUySE16X2ZMcF9rNTdCLXVnRVJwcHZ4UXBfVVNOd1NOclVfWEgzRTVzbDFfOXZiMDVYTGxaOGVDRGoxSnZOT2Q1TzZIdFlkLVZBSkl2SXE5ZFZ1VDZhT2NhZFhRT3NKbi1MQ3VmQlZiNlpxQU82S1VSbXUwdGFueEoyTEN6YVlOUmtqeTRJdVBDV1FpS0lzbjEzeEdFQjNZb2dBR3NGbGVFaG5Ob3JYRUJKbzFwUm1qR1FGSlNMQXMwN0Z6OWpLdTExT1JtSkVLeTJySEhvVG9UMnNhbTZPdFlRa05zM19aZEs3Nkk?oc=5",
-      "pubDate": "2026-11-24T18:37:55.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Canada could have had a $67-billion surplus instead of its $62-billion deficit. Here’s how",
-      "outlet": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3hPdjI0Rk9DWmU0SGNiS1FPUEEtcnpsY0gtRm05c01mYUU3RDBQTFZDbFdiQTVEazhEUGU4bFluajdUY0hYSjVmN1FzazdxakJRcW9TcEpvU2Jvek5CbG9obWo3LTJvUl91VkQ3X3RTZHg4MUxBNmtYZ2dZaWNlWldPeWs0YVBuX21CNF9nYXJIRWxuSWlDbDdmZjNDVFFPN3lOS0VDOXQ0TXNPWlVBVnBpVDQ0NDJEOURQLQ?oc=5",
-      "pubDate": "2026-11-23T08:00:12.000Z",
-      "category": "debt-fiscal",
-      "categoryLabel": "Debt & Fiscal"
-    },
-    {
-      "title": "Minimum wage in Canada isn't enough. Here's why",
-      "outlet": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Qa1NNOGR4T2s2bnBBbGNVTzdlZkhWZENRbE9TM0k3eUFFMVMxVTZ1d0ktc016dWZyMW1abVIzQUtiUlJwbm1HWENOQjFRemJRU1JtQUhXZnBrdw?oc=5",
-      "pubDate": "2026-11-20T22:52:35.000Z",
-      "category": "labour-inequality",
-      "categoryLabel": "Labour & Inequality"
-    },
-    {
-      "title": "Building a stronger Canada through a well-managed, predictable immigration system",
-      "outlet": "Canada.ca",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3RnNnpKMjFIdWx5cUg3TVZkeklNWTJJcE9vNkRNYThCdVJOMDBiU1hnNTYxVnJuM3JfNURWR3JET2dSQXFFQlk1Y0VMTzVqMXVTSUxmQm5iTmtmcVE1aDRySkEzUnhHSzBiTmdNWVVVTl9PLThqQUQ1MlpoeGFWM3VrUzhvUVBEOXlTMWwtYXFtMmRDMTdxbk5jSmNEei0xSkM1dTlpOHlWblBMQThQYzlnQkRnR1l3VmpqRElPU015MFZDN2MzZlBBcWh5ZjdqY0E3Z3UxUXVGUW5PUEpac2xUam9PZ0lCUnFMXw?oc=5",
-      "pubDate": "2026-11-20T08:00:00.000Z",
-      "category": "demographics",
-      "categoryLabel": "Demographics"
-    },
-    {
-      "title": "Map 1 Unemployment rate by province and territory, October 2026",
-      "outlet": "Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83YXFYaGJpYVIzd3FvZFRXYjRHRl80akIwVTJKYkl0UGNfeTZEU3ZBY2N5ODdYQVhsdmUxOEdlZDBoSEpleUw0NXhYVWU3N1NrVjEzOTk5d21LU29LVFJ6VjVHV1hrazFLM0V1ZWNrMFd5bTlCWmF4TUdR?oc=5",
-      "pubDate": "2026-11-06T08:00:00.000Z",
+      "title": "Living wage in N.B. nearly $9 more than minimum wage: report",
+      "outlet": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MN1FnZmM4bS1PVUdJcV9NWEdpWTlJVzg2ZzB5QzdXdWhfSnM5R2Fic2xfZEQ2cjFjVWpJc1FLcG03eWVRQ19HemZsN1o0YVhsNWhXMXZBNFJBQWsycEg3OWpIRkVSSmo2VHQxY3ZtVEU1U1hjZWRLWnBSUQ?oc=5",
+      "pubDate": "2026-11-24T21:25:08.000Z",
       "category": "labour-inequality",
       "categoryLabel": "Labour & Inequality"
     }
